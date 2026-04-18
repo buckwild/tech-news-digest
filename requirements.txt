@@ -2,3 +2,5 @@ feedparser
 jinja2
 requests
 python-dateutil
+beautifulsoup4
+readability-lxml
