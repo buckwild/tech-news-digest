@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-18T04:29:53.744201+00:00",
+  "feeds": [
+    {
+      "name": "CNN",
+      "url": "http://rss.cnn.com/rss/edition_technology.rss",
+      "entries": [],
+      "error": "module 'feedparser' has no attribute '_sanitizeHTML'"
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml",
+      "entries": [],
+      "error": "module 'feedparser' has no attribute '_sanitizeHTML'"
+    },
+    {
+      "name": "Drudge Report",
+      "url": "https://drudgereport.com/rss.xml",
+      "entries": []
+    }
+  ]
+}
