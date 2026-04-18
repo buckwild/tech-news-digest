@@ -7,8 +7,8 @@ VENV_BIN="$REPO_DIR/.venv/bin"
 "$VENV_BIN/python" "$REPO_DIR/src/fetch.py"
 
 cd "$REPO_DIR"
-if ! git diff --quiet site; then
-  git add site/index.html site/feeds.json
+if ! git diff --quiet docs; then
+  git add docs/index.html docs/feeds.json
   git commit -m "chore: refresh headlines"
   git push origin main
 else
