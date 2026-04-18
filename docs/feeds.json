@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T12:00:26.737294-07:00",
-  "generated_at_display": "Apr 18, 2026 12:00 PM PT",
+  "generated_at": "2026-04-18T13:00:26.009882-07:00",
+  "generated_at_display": "Apr 18, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "SNK's Neo Geo console remake works with original cartridges and HDMI",
+          "link": "https://www.engadget.com/gaming/snks-neo-geo-console-remake-works-with-original-cartridges-and-hdmi-194509442.html?src=rss",
+          "summary": "Not everyone had the money for the original Neo Geo Advanced Entertainment System when it released in the '90s, but there's still a chance to experience it as an adult with disposable income. SNK and Plaion Replai, who is also behind the\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Not everyone had the money for the original Neo Geo Advanced Entertainment System when it released in the '90s, but there's still a chance to experience it as an adult with disposable income. SNK and Plaion Replai, who is also behind the all-black remake of theCommodore 64, announced a faithful remake of the high-end retro console, called theNeo Geo AES+."
+        },
+        {
           "title": "Apple avoids a second import ban for its redesigned smartwatches in latest court ruling",
           "link": "https://www.engadget.com/wearables/apple-avoids-a-second-import-ban-for-its-redesigned-smartwatches-in-latest-court-ruling-175600668.html?src=rss",
           "summary": "Apple has secured a major victory for its redesigned smartwatches as per the latest decision from the US International Trade Commission. The federal agency ruled against reinstating an import ban on Apple Watches, allowing the tech giant\u2026",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "So a shoe company turned into an AI company\u2026. That\u2019s it, that\u2019s the joke. In this episode, Devindra chats with Engadget\u2019s Daniel Cooper about Allbirds\u2019 sudden transformation and what it says about the AI economy. Also, they chat about the Artemis II moon mission, Meta being warned about the dangers of facial recognition (again) and how teens think social media is really shaping them."
-        },
-        {
-          "title": "Reed Hastings is leaving Netflix after 29 years",
-          "link": "https://www.engadget.com/entertainment/streaming/reed-hastings-is-leaving-netflix-after-29-years-213136444.html?src=rss",
-          "summary": "Netflix co-founder and current chairman Reed Hastings is leaving the streaming company\u2019s board in June to focus on \"his philanthropy and other pursuits,\" according to a shareholder letter released alongside Netflix's Q1 earnings. Hastings\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Netflix co-founder and current chairman Reed Hastings is leaving the streaming company\u2019s board in June to focus on \"his philanthropy and other pursuits,\" according toa shareholder letterreleased alongside Netflix's Q1 earnings. Hastings has served as chairman of Netflix's board since 2023, a role he assumedafter stepping down as co-CEOand promoting Greg Peters in his place."
         }
       ]
     },
