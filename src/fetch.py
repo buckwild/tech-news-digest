@@ -3,13 +3,14 @@
 
 import json
 import pathlib
+import re
 import textwrap
 from datetime import datetime, timezone
+from html import unescape
 
 import feedparser
 from dateutil import parser as date_parser
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-import requests
 
 BASE_DIR = pathlib.Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "site"
@@ -34,19 +35,34 @@ def fetch_feed(name: str, url: str):
                 published = date_parser.parse(entry.published)
             except Exception:
                 published = None
+        summary_raw = entry.get("summary", "")
+        summary_clean = clean_summary(summary_raw)
         entries.append(
             {
                 "title": entry.get("title", "Untitled"),
                 "link": entry.get("link", ""),
                 "summary": textwrap.shorten(
-                    feedparser._sanitizeHTML(entry.get("summary", "")),
+                    summary_clean,
                     width=240,
                     placeholder="…",
-                ),
+                )
+                if summary_clean
+                else None,
                 "published": published.isoformat() if published else None,
             }
         )
     return {"name": name, "url": url, "entries": entries}
+
+
+def clean_summary(text: str) -> str:
+    if not text:
+        return ""
+    # Strip HTML tags
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = unescape(text)
+    # Collapse whitespace
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
 
 def render(feeds, generated_at):

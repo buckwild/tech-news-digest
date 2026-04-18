@@ -1,17 +1,209 @@
 {
-  "generated_at": "2026-04-18T04:42:34.811149+00:00",
+  "generated_at": "2026-04-18T04:43:36.634996+00:00",
   "feeds": [
     {
       "name": "CNN",
       "url": "http://rss.cnn.com/rss/edition_technology.rss",
-      "entries": [],
-      "error": "module 'feedparser' has no attribute '_sanitizeHTML'"
+      "entries": [
+        {
+          "title": "How to outsmart fake news in your Facebook feed",
+          "link": "http://www.cnn.com/2016/11/18/tech/how-to-spot-fake-misleading-news-trnd/index.html?eref=rss_tech",
+          "summary": "Fake news is actually really easy to spot -- if you know how. Consider this your New Media Literacy Guide.",
+          "published": "2016-11-18T15:21:18"
+        },
+        {
+          "title": "Revealed: Winners of the 'Oscars of watches'",
+          "link": "http://www.cnn.com/2016/11/18/luxury/grand-prix-horlogerie-oscars-of-watches-2016/index.html?eref=rss_tech",
+          "summary": "It's the prize giving ceremony that everyone's on time for.",
+          "published": "2016-11-18T15:17:23"
+        },
+        {
+          "title": "Driverless 'Roborace' car makes street track debut",
+          "link": "http://www.cnn.com/2016/11/18/motorsport/roborace-marrakech-cop22-formula-e/index.html?eref=rss_tech",
+          "summary": "It is a car kitted out with technology its developers boldly predict will transform our cities and change the way we live.",
+          "published": "2016-11-18T15:21:35"
+        },
+        {
+          "title": "Flying a sports car with wings",
+          "link": "http://www.cnn.com/2016/11/18/aviation/sports-car-with-wings-icon-a5/index.html?eref=rss_tech",
+          "summary": "Piloting one of the breed of light aircraft is said to be as easy as driving a car",
+          "published": "2016-11-18T15:17:23"
+        },
+        {
+          "title": "Brightest supermoon since 1948",
+          "link": "http://www.cnn.com/2016/11/14/world/gallery/supermoon-november-2016/index.html?eref=rss_tech",
+          "summary": "See photos of November's supermoon -- the brightest in nearly 70 years.",
+          "published": "2016-11-16T12:38:28"
+        },
+        {
+          "title": "This NASA astronaut voted from space",
+          "link": "http://www.cnn.com/2016/11/07/politics/nasa-astronaut-space-vote-election-2016/index.html?eref=rss_tech",
+          "summary": "From infinity and beyond, he found a way to vote.",
+          "published": "2016-11-08T13:17:52"
+        },
+        {
+          "title": "Teen girls prepare for space launch",
+          "link": "http://www.cnn.com/2016/11/15/tech/girls-design-africa-space-satellite/index.html?eref=rss_tech",
+          "summary": "Teenage girls have designed Africa's first private satellite due to launch into space in 2017. It's hoped it can monitor and find answers to South Africa's drought crisis.",
+          "published": "2016-11-17T11:07:22"
+        },
+        {
+          "title": "Going to space is a real pain in the back",
+          "link": "http://www.cnn.com/2016/10/26/health/astronaut-back-pain-spine-health-space/index.html?eref=rss_tech",
+          "summary": "A six-month stay on the International Space Station can be a pain in the back for astronauts. While they may gain up to 2 inches in height temporarily, that effect is accompanied by a weakening of the muscles supporting the spine,\u2026",
+          "published": "2016-11-08T13:11:11"
+        },
+        {
+          "title": "Russian gamers race to prevent nuclear 'war'",
+          "link": "http://www.cnn.com/2016/10/29/europe/russia-nuclear-drills/index.html?eref=rss_tech",
+          "summary": "\"Attention! Attention!\" blares the Russian voice from a loudspeaker. \"The nuclear bombs will be launched in one hour.\"",
+          "published": "2016-11-02T15:31:19"
+        },
+        {
+          "title": "What parents should know about the VR gear kids want",
+          "link": "http://www.cnn.com/2016/11/14/health/virtual-reality-gear-kids-holidays/index.html?eref=rss_tech",
+          "summary": "Thinking about treating your family to a little virtual reality this holiday? Have no idea where to start? Don't worry. From Google's inexpensive Cardboard VR viewer to Sony's new PlayStation VR, this guide will help you figure out what\u2026",
+          "published": "2016-11-17T11:12:43"
+        },
+        {
+          "title": "Japan's boom in weird wearable tech",
+          "link": "http://www.cnn.com/2016/11/09/asia/on-japan---wearable-tech/index.html?eref=rss_tech",
+          "summary": "What do Discman, Tamagotchi, and Game Boy have in common?",
+          "published": "2016-11-11T16:55:47"
+        },
+        {
+          "title": "Cell phones, screens are keeping your kid awake",
+          "link": "http://www.cnn.com/2016/10/31/health/kids-sleep-screens-tech/index.html?eref=rss_tech",
+          "summary": "These days, teachers often face classrooms filled with yawning students who stayed up late snapping selfies or playing online games.",
+          "published": "2016-11-11T16:56:07"
+        }
+      ]
     },
     {
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
-      "entries": [],
-      "error": "module 'feedparser' has no attribute '_sanitizeHTML'"
+      "entries": [
+        {
+          "title": "15 years after 'Video Games,' Lana Del Rey has an actual video game song",
+          "link": "https://www.engadget.com/gaming/15-years-after-video-games-lana-del-rey-has-an-actual-video-game-song-221925735.html?src=rss",
+          "summary": "The James Bond franchise has a long history of getting pop stars to record its theme songs (perhaps most memorably with Live and Let Die ), and it looks like that tradition will now extend to video game adaptations about the fictional spy.\u2026",
+          "published": "2026-04-17T22:19:25+00:00"
+        },
+        {
+          "title": "The PBS Artemis II documentary is streaming on YouTube",
+          "link": "https://www.engadget.com/science/the-pbs-artemis-ii-documentary-is-streaming-on-youtube-210347406.html?src=rss",
+          "summary": "The crew of NASA's Artemis II mission have safely returned to Earth , but if your Moon fever has yet to break, or you're curious to get a big picture view of how the second of a planned five Moon missions was pulled off, PBS has a new\u2026",
+          "published": "2026-04-17T21:03:47+00:00"
+        },
+        {
+          "title": "A lot of you panic-bought PCs to avoid RAMaggedon 2026",
+          "link": "https://www.engadget.com/computing/a-lot-of-you-panic-bought-pcs-to-avoid-ramaggedon-2026-200237204.html?src=rss",
+          "summary": "The specter of price hikes caused by the current AI-driven demand for memory and storage appears to have convinced a fair share of people to buy a new computer. According to data analyzed by Counterpoint Research , global PC shipments grew\u2026",
+          "published": "2026-04-17T20:02:37+00:00"
+        },
+        {
+          "title": "Sam Altman's 'human verification' company thinks its eye-scanning orbs could solve ticket scalping",
+          "link": "https://www.engadget.com/ai/sam-altmans-human-verification-company-thinks-its-eye-scanning-orbs-could-solve-ticket-scalping-171500555.html?src=rss",
+          "summary": "Sam Altman's cryptocurrency turned identity verification startup Tools for Humanity is offering a new set of perks to people who scan their eyes at one of the company's orbs. Among them, is a new tool called Concert Kit that could help\u2026",
+          "published": "2026-04-17T17:15:00+00:00"
+        },
+        {
+          "title": "Bluesky blames DDoS attack for server outages",
+          "link": "https://www.engadget.com/social-media/bluesky-blames-ddos-attack-for-server-outages-150515882.html?src=rss",
+          "summary": "Bluesky is once again having a wobble. The platform said some of its systems are down and that it\u2019s \u201cinvestigating an incident with service in one of our reginos\u201d (that\u2019s Bluesky\u2019s typo, not mine). The issue appears to have started at\u2026",
+          "published": "2026-04-17T16:47:12+00:00"
+        },
+        {
+          "title": "NASA restarts work to support Europe's uncrewed trip to Mars after years of setbacks",
+          "link": "https://www.engadget.com/science/space/nasa-restarts-work-to-support-europes-uncrewed-trip-to-mars-after-years-of-setbacks-161524488.html?src=rss",
+          "summary": "NASA has confirmed the pending launch of the European Space Agency's (ESA) Rosalind Franklin rover, which is being sent to Mars. The current plan is to launch via a SpaceX Falcon Heavy rocket from Kennedy Space Center. The timing is still\u2026",
+          "published": "2026-04-17T16:15:25+00:00"
+        },
+        {
+          "title": "Panic says the Playdate Catalog won't accept games made with generative AI",
+          "link": "https://www.engadget.com/gaming/panic-says-the-playdate-catalog-wont-accept-games-made-with-generative-ai-160615022.html?src=rss",
+          "summary": "Panic, the company behind the tiny and excellent Playdate console, is taking a stand on generative AI. The company has published an AI disclosure that says as of this month, the Playdate Catalog \u201cwill no longer accept titles that use\u2026",
+          "published": "2026-04-17T16:06:15+00:00"
+        },
+        {
+          "title": "Exit 8 is cinema for the livestreaming era",
+          "link": "https://www.engadget.com/entertainment/tv-movies/exit-8-is-cinema-for-the-livestreaming-era-151112907.html?src=rss",
+          "summary": "The rules of Exit 8 , both the cult indie game and the recent film adaptation, are simple: You're stuck in a subway station that loops around endlessly. If you notice any anomalies on your current loop, you turn around. If everything is\u2026",
+          "published": "2026-04-17T15:11:12+00:00"
+        },
+        {
+          "title": "Anthropic now has a design assistant too",
+          "link": "https://www.engadget.com/ai/anthropic-now-has-a-design-assistant-too-150000903.html?src=rss",
+          "summary": "In hindsight, I suppose it was only a matter of time after Anthropic made Claude capable of generating charts and diagrams that the company would then begin offering a more robust image editor. Now, a little more than a month after that\u2026",
+          "published": "2026-04-17T15:00:00+00:00"
+        },
+        {
+          "title": "Roblox agrees to a $12 million settlement with Nevada",
+          "link": "https://www.engadget.com/gaming/roblox-agrees-to-a-12-million-settlement-with-nevada-142842421.html?src=rss",
+          "summary": "Amidst ongoing legal trouble with several states and more than 100 pending lawsuits, this week Roblox announced a $12 million settlement with Nevada , allowing the company to avoid going to trial in this case. Following the agreement,\u2026",
+          "published": "2026-04-17T14:28:42+00:00"
+        },
+        {
+          "title": "Donut Lab's battery claims reportedly subject of whistleblower complaint",
+          "link": "https://www.engadget.com/transportation/donut-labs-battery-claims-reportedly-subject-of-whistleblower-complaint-142133269.html?src=rss",
+          "summary": "Startup Donut Lab made a splash at the start of the year with some astonishing \u2014 and suspicious \u2014 claims about its solid state batteries. Now Finnish newspaper Helsingin Sanomat reports an individual has filed a criminal whistleblower\u2026",
+          "published": "2026-04-17T14:21:34+00:00"
+        },
+        {
+          "title": "TCL's RGB-Mini LED TVs will start at $8,000",
+          "link": "https://www.engadget.com/home/home-theater/tcls-rgb-mini-led-tvs-will-start-at-8000-130000543.html?src=rss",
+          "summary": "TCL introduced its new flagship X11L SQD-Mini LED TV at CES 2026, and now a few months later, the company is ready to expand its lineup with more SQD-Mini LED models and its first RGB-Mini LED TV. All sizes of the TCL QM8L SQD-Mini LED TV\u2026",
+          "published": "2026-04-17T13:00:00+00:00"
+        },
+        {
+          "title": "Engadget Podcast: Allbirds goes from shoes to AI",
+          "link": "https://www.engadget.com/ai/engadget-podcast-allbirds-goes-from-shoes-to-ai-115922991.html?src=rss",
+          "summary": "So a shoe company turned into an AI company\u2026. That\u2019s it, that\u2019s the joke. In this episode, Devindra chats with Engadget\u2019s Daniel Cooper about Allbirds\u2019 sudden transformation and what it says about the AI economy. Also, they chat about the\u2026",
+          "published": "2026-04-17T11:59:22+00:00"
+        },
+        {
+          "title": "The Morning After: Our verdict on the DJI Osmo Pocket 4",
+          "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111515383.html?src=rss",
+          "summary": "You\u2019ve probably seen DJI\u2019s stick vlogging cameras everywhere. At trade shows and tech events I\u2019ve attended, it\u2019s often the de facto video camera used by reporters and influencers alike. The Osmo Pocket 3 was easy to use, had sharp focus,\u2026",
+          "published": "2026-04-17T11:15:15+00:00"
+        },
+        {
+          "title": "PSA: Stop using your Casely Power Pods wireless charger immediately",
+          "link": "https://www.engadget.com/general/psa-stop-using-your-casely-power-pods-wireless-charger-immediately-062120825.html?src=rss",
+          "summary": "Casely has reannounced a recall of its Power Pods 5,000mAh MagSafe E33A charger after dozens of people were injured and one even killed by the defective devices, the US Consumer Product Safety Commission (USCPSC) announced . It's\u2026",
+          "published": "2026-04-17T06:21:23+00:00"
+        },
+        {
+          "title": "Reed Hastings is leaving Netflix after 29 years",
+          "link": "https://www.engadget.com/entertainment/streaming/reed-hastings-is-leaving-netflix-after-29-years-213136444.html?src=rss",
+          "summary": "Netflix co-founder and current chairman Reed Hastings is leaving the streaming company\u2019s board in June to focus on \"his philanthropy and other pursuits,\" according to a shareholder letter released alongside Netflix's Q1 earnings. Hastings\u2026",
+          "published": "2026-04-16T21:31:36+00:00"
+        },
+        {
+          "title": "Perplexity brings its Personal Computer AI assistant to Mac",
+          "link": "https://www.engadget.com/ai/perplexity-brings-its-personal-computer-ai-assistant-to-mac-202045969.html?src=rss",
+          "summary": "Perplexity has just released Personal Computer . The software, which is available starting today for Mac, builds on the multi-model orchestration capabilities the company debuted with Perplexity Computer at the end of February . Like\u2026",
+          "published": "2026-04-16T20:20:45+00:00"
+        },
+        {
+          "title": "Call of Duty movie arrives on June 30, 2028",
+          "link": "https://www.engadget.com/entertainment/tv-movies/call-of-duty-movie-arrives-on-june-30-2028-200033481.html?src=rss",
+          "summary": "A Call of Duty movie is still happening, but don't hold your breath for it to hit screens any time soon. Today, the popular FPS' social media revealed that the movie's theatrical release date will be June 30, 2028. A film adaptation of the\u2026",
+          "published": "2026-04-16T20:00:33+00:00"
+        },
+        {
+          "title": "Blackmagic Camera for iOS now has a companion Watch app",
+          "link": "https://www.engadget.com/apps/blackmagic-camera-for-ios-now-has-a-companion-watch-app-194529980.html?src=rss",
+          "summary": "Blackmagic Camera is one of the more powerful third-party smartphone camera apps available and it's now even more useful for solo creators. Blackmagic Design just announced that the latest iOS version 3.3 now supports Apple Watch, letting\u2026",
+          "published": "2026-04-16T19:45:29+00:00"
+        },
+        {
+          "title": "Meta is giving Threads on web a redesign that finally adds direct messages",
+          "link": "https://www.engadget.com/social-media/meta-is-giving-threads-on-web-a-redesign-that-finally-adds-direct-messages-192903284.html?src=rss",
+          "summary": "Meta is starting to test a long-overdue facelift for Threads on web. The company's head of Threads Connor Hayes showed off a new look for the web version of Threads that finally adds direct messaging and makes it easier to navigate between\u2026",
+          "published": "2026-04-16T19:29:03+00:00"
+        }
+      ]
     },
     {
       "name": "Drudge Report",
