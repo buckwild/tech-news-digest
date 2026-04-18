@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:00:22.227918+00:00",
+  "generated_at": "2026-04-18T12:00:17.140342+00:00",
   "feeds": [
     {
       "name": "CNN",
@@ -32,6 +32,13 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Cyberpunk platformers, gallivanting geckos and other new indie games worth checking out",
+          "link": "https://www.engadget.com/gaming/cyberpunk-platformers-gallivanting-geckos-and-other-new-indie-games-worth-checking-out-110000924.html?src=rss",
+          "summary": "Welcome to our latest roundup of what's going on in the indie game space. Once again, there are some neat new games for you to check out this weekend. We've got a bunch of updates and announcements for upcoming titles to tell you about\u2026",
+          "published": "2026-04-18T11:00:00+00:00",
+          "excerpt": "Welcome to our latest roundup of what's going on in the indie game space. Once again, there are some neat new games for you to check out this weekend. We've got a bunch of updates and announcements for upcoming titles to tell you about too."
+        },
         {
           "title": "A lot of you panic-bought PCs to avoid RAMaggedon 2026",
           "link": "https://www.engadget.com/computing/a-lot-of-you-panic-bought-pcs-to-avoid-ramaggedon-2026-200237204.html?src=rss",
