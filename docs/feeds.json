@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T05:00:15.142134+00:00",
+  "generated_at": "2026-04-18T06:00:21.817031+00:00",
   "feeds": [
     {
       "name": "CNN",
@@ -18,6 +18,13 @@
           "summary": "A six-month stay on the International Space Station can be a pain in the back for astronauts. While they may gain up to 2 inches in height temporarily, that effect is accompanied by a weakening of the muscles supporting the spine,\u2026",
           "published": "2016-11-08T13:11:11",
           "excerpt": "Astronauts can temporarily gain 2 inches in height but suffer muscle loss and back pain"
+        },
+        {
+          "title": "What parents should know about the VR gear kids want",
+          "link": "http://www.cnn.com/2016/11/14/health/virtual-reality-gear-kids-holidays/index.html?eref=rss_tech",
+          "summary": "Thinking about treating your family to a little virtual reality this holiday? Have no idea where to start? Don't worry. From Google's inexpensive Cardboard VR viewer to Sony's new PlayStation VR, this guide will help you figure out what\u2026",
+          "published": "2016-11-17T11:12:43",
+          "excerpt": "Virtual reality headsets range from inexpensive Cardboard to pricey PlayStation"
         }
       ]
     },
@@ -45,6 +52,13 @@
           "summary": "Panic, the company behind the tiny and excellent Playdate console, is taking a stand on generative AI. The company has published an AI disclosure that says as of this month, the Playdate Catalog \u201cwill no longer accept titles that use\u2026",
           "published": "2026-04-17T16:06:15+00:00",
           "excerpt": "Panic, the company behind the tiny and excellent Playdate console, is taking a stand on generative AI. The company haspublished an AI disclosurethat says as of this month, the Playdate Catalog \u201cwill no longer accept titles that use \u2018Generative AI\u2019 for art, audio, music, text, or dialog.\u201d Panic does allow for developers to use AI assistance for coding, but also says that \u201cwe will flag any title as such and specify the extent that it was used (for example, \u201cLua debugging\u201d) so the customer can decide whether to support it or not.\u201d"
+        },
+        {
+          "title": "Anthropic now has a design assistant too",
+          "link": "https://www.engadget.com/ai/anthropic-now-has-a-design-assistant-too-150000903.html?src=rss",
+          "summary": "In hindsight, I suppose it was only a matter of time after Anthropic made Claude capable of generating charts and diagrams that the company would then begin offering a more robust image editor. Now, a little more than a month after that\u2026",
+          "published": "2026-04-17T15:00:00+00:00",
+          "excerpt": "In hindsight, I suppose it was only a matter of time after Anthropic made Claude capable ofgenerating charts and diagramsthat the company would then begin offering a more robust image editor. Now, a little more than a month after that release, Anthropic has announced Claude Design, a new research preview that allows subscribers to use Claude to generate designs, prototypes, slides and more."
         },
         {
           "title": "Donut Lab's battery claims reportedly subject of whistleblower complaint",
@@ -97,6 +111,13 @@
         {
           "title": "CBS SAILS INTO STRAIT...",
           "link": "https://www.cbsnews.com/news/strait-of-hormuz-visit-iran-war-exclusive/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Traders place $760M bet on falling oil ahead of Hormuz announcement...",
+          "link": "https://www.msn.com/en-gb/money/economy/ar-AA218sHt",
           "summary": null,
           "published": null,
           "excerpt": null
