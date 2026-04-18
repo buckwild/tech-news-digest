@@ -3,3 +3,9 @@ topics:
     keywords: ["AI", "artificial intelligence", "machine learning", "neural", "LLM"]
   - name: Privacy
     keywords: ["privacy", "surveillance", "encryption", "data protection"]
+  - name: Tech
+    keywords: ["macbook", "apple", "amazon", "microsoft", "google", "openai","anthropic"]
+  - name: Politics
+    keywords: ["democrats", "republican", "white house", "iran", "petraeus", "mattis","senate", "house of representatives"]
+  - name: Current Topics
+    keywords: ["Iran", "Hormuz"] 

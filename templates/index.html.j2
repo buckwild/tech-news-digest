@@ -103,7 +103,7 @@
 <body>
   <header>
     <h1>Tech News Digest</h1>
-    <div class="meta">Updated {{ generated_at }} UTC · <a href="feeds.json" style="color: var(--accent);">JSON feed</a></div>
+    <div class="meta">Updated {{ generated_at }} · <a href="feeds.json" style="color: var(--accent);">JSON feed</a></div>
   </header>
   <main>
     {% for feed in feeds %}
@@ -120,7 +120,9 @@
         <li>
           <a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
         
-          {% if item.published %}
+          {% if item.published_display %}
+          <div class="timestamp">{{ item.published_display }}</div>
+          {% elif item.published %}
           <div class="timestamp">{{ item.published }}</div>
           {% endif %}
           {% if item.summary %}

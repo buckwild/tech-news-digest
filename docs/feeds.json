@@ -1,30 +1,122 @@
 {
-  "generated_at": "2026-04-18T18:00:22.019699+00:00",
+  "generated_at": "2026-04-18T11:07:23.332751-07:00",
+  "generated_at_display": "Apr 18, 2026 11:07 AM PT",
   "feeds": [
     {
       "name": "CNN",
-      "url": "http://rss.cnn.com/rss/edition_technology.rss",
+      "url": "http://rss.cnn.com/rss/cnn_tech.rss",
       "entries": [
         {
-          "title": "Flying a sports car with wings",
-          "link": "http://www.cnn.com/2016/11/18/aviation/sports-car-with-wings-icon-a5/index.html?eref=rss_tech",
-          "summary": "Piloting one of the breed of light aircraft is said to be as easy as driving a car",
-          "published": "2016-11-18T15:17:23",
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+          "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update\u2026",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Updated\n          11:26 AM EDT, Sat July 20, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+          "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do\u2026",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Updated\n          10:27 AM EDT, Sat April 6, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
+          "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Published\n          3:25 AM EDT, Fri April 5, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
+          "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he\u2026",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Updated\n          10:43 AM EDT, Sat March 16, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/02/02/apple-headset-3500-scott-stein-cnet-cnntm-vpx.cnn",
+          "summary": "Apple's Vision Pro headset is the first new product in seven years. CEO Tim Cook will have to prove that a device that blends both virtual and augmented reality, a technology that overlays virtual images on live video of the real world, is\u2026",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Published\n          8:20 AM EST, Fri February 2, 2024"
+        },
+        {
+          "title": "Mark Zuckerberg apologizes to families over social media harms in contentious Senate hearing",
+          "link": "https://www.cnn.com/tech/live-news/meta-x-discord-tiktok-snap-chiefs-testimony-senate/index.html",
+          "summary": "Congress today is grilling the chief executives of several big tech companies, including Meta CEO Mark Zuckerberg, about potential harms from their products on teens.",
+          "published": null,
+          "published_display": null,
           "excerpt": null
         },
         {
-          "title": "Going to space is a real pain in the back",
-          "link": "http://www.cnn.com/2016/10/26/health/astronaut-back-pain-spine-health-space/index.html?eref=rss_tech",
-          "summary": "A six-month stay on the International Space Station can be a pain in the back for astronauts. While they may gain up to 2 inches in height temporarily, that effect is accompanied by a weakening of the muscles supporting the spine,\u2026",
-          "published": "2016-11-08T13:11:11",
-          "excerpt": "Astronauts can temporarily gain 2 inches in height but suffer muscle loss and back pain"
+          "title": "CEOs of Meta, X, Discord, TikTok and Snap testify before the Senate Judiciary Committee",
+          "link": "https://www.cnn.com/tech/live-news/meta-x-discord-tiktok-snap-chiefs-testify-senate/index.html",
+          "summary": "Congress is grilling chief executives of several big tech companies about potential harms from their products on teens.",
+          "published": null,
+          "published_display": null,
+          "excerpt": "The Senate Judiciary Committee\u2019s grilling of four social media executives produced some notable moments. Here are a few:"
         },
         {
-          "title": "What parents should know about the VR gear kids want",
-          "link": "http://www.cnn.com/2016/11/14/health/virtual-reality-gear-kids-holidays/index.html?eref=rss_tech",
-          "summary": "Thinking about treating your family to a little virtual reality this holiday? Have no idea where to start? Don't worry. From Google's inexpensive Cardboard VR viewer to Sony's new PlayStation VR, this guide will help you figure out what\u2026",
-          "published": "2016-11-17T11:12:43",
-          "excerpt": "Virtual reality headsets range from inexpensive Cardboard to pricey PlayStation"
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/01/28/gps-0128-gates-on-how-ai-can-save-millions-of-lives.cnn",
+          "summary": "Microsoft co-founder and philanthropist Bill Gates talks to Fareed about how AI can improve millions of people's lives through innovations in health care and education.",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Published\n          5:31 PM EST, Sun January 28, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/01/28/gps-0128-sam-altman-on-the-future-of-ai.cnn",
+          "summary": "Sam Altman, whose company OpenAI is behind ChatGPT, joins Fareed to talk about the safety and utility of artificial intelligence, as well as the boardroom drama that briefly saw him dismissed as CEO.",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Published\n          5:20 PM EST, Sun January 28, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/01/27/gps-gates-money.cnn",
+          "summary": "Microsoft co-founder and philanthropist Bill Gates speaks to Fareed about his plans to no longer be one of the world's richest people: \"I'm getting myself to go down the list, and I'll be proud when I fall off altogether.\"",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Updated\n          9:10 AM EST, Sun January 28, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/01/26/gps-gates-web-extra-on-work-life-balance.cnn",
+          "summary": "Talking to Fareed at Davos, Microsoft co-founder and philanthropist Bill Gates reflects on his \"monomaniacal\" work ethic when he was younger \u2014 and how he doesn't recommend it to others.",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Updated\n          9:05 AM EST, Sun January 28, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/01/24/north-carolina-ai-guidebook-schools-sa.cnn",
+          "summary": "North Carolina became the fourth state to adopt the AI guidebook for its students. CNN 10's Coy Wire explains how this artificial intelligence guidebook can be helpful for both teachers and students in the classroom.",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Published\n          1:57 PM EST, Wed January 24, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/01/11/meta-social-media-protection-orig-contd-nn.cnn",
+          "summary": "Meta announces new restrictions for teens on Facebook and Instagram. CNN's Meg Tirrell explains what these new changes are and why they're happening.",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Published\n          2:36 PM EST, Thu January 11, 2024"
+        },
+        {
+          "title": "",
+          "link": "https://www.cnn.com/videos/tech/2024/01/11/social-media-protection-orig-contd-nn.cnn",
+          "summary": "Meta announces new restrictions for teens on Facebook and Instagram. CNN's Meg Tirrell explains what these new changes are and why they're happening.",
+          "published": null,
+          "published_display": null,
+          "excerpt": "Published\n          2:19 PM EST, Thu January 11, 2024"
         }
       ]
     },
@@ -33,67 +125,76 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple avoids a second import ban for its redesigned smartwatches in latest court ruling",
+          "link": "https://www.engadget.com/wearables/apple-avoids-a-second-import-ban-for-its-redesigned-smartwatches-in-latest-court-ruling-175600668.html?src=rss",
+          "summary": "Apple has secured a major victory for its redesigned smartwatches as per the latest decision from the US International Trade Commission. The federal agency ruled against reinstating an import ban on Apple Watches, allowing the tech giant\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple has secured a major victory for itsredesigned smartwatchesas per the latest decision from the US International Trade Commission. The federal agency ruled against reinstating an import ban on Apple Watches, allowing the tech giant to continue selling its devices with a reworked blood-oxygen monitoring technology."
+        },
+        {
           "title": "Cyberpunk platformers, gallivanting geckos and other new indie games worth checking out",
           "link": "https://www.engadget.com/gaming/cyberpunk-platformers-gallivanting-geckos-and-other-new-indie-games-worth-checking-out-110000924.html?src=rss",
           "summary": "Welcome to our latest roundup of what's going on in the indie game space. Once again, there are some neat new games for you to check out this weekend. We've got a bunch of updates and announcements for upcoming titles to tell you about\u2026",
-          "published": "2026-04-18T11:00:00+00:00",
+          "published": "iso",
+          "published_display": "display",
           "excerpt": "Welcome to our latest roundup of what's going on in the indie game space. Once again, there are some neat new games for you to check out this weekend. We've got a bunch of updates and announcements for upcoming titles to tell you about too."
         },
         {
           "title": "A lot of you panic-bought PCs to avoid RAMaggedon 2026",
           "link": "https://www.engadget.com/computing/a-lot-of-you-panic-bought-pcs-to-avoid-ramaggedon-2026-200237204.html?src=rss",
           "summary": "The specter of price hikes caused by the current AI-driven demand for memory and storage appears to have convinced a fair share of people to buy a new computer. According to data analyzed by Counterpoint Research , global PC shipments grew\u2026",
-          "published": "2026-04-17T20:02:37+00:00",
+          "published": "iso",
+          "published_display": "display",
           "excerpt": "The specter ofprice hikescaused by the current AI-driven demand for memory and storage appears to have convinced a fair share of people to buy a new computer. According to dataanalyzed by Counterpoint Research, global PC shipments grew around 3.2 percent year-over-year in Q1 2026, \"driven by pre-emptive buying before memory-led price increases hit the retail level\" and Microsoft forcing some customers to upgrade byending support for Windows 10 last year."
         },
         {
           "title": "Bluesky blames DDoS attack for server outages",
           "link": "https://www.engadget.com/social-media/bluesky-blames-ddos-attack-for-server-outages-150515882.html?src=rss",
           "summary": "Bluesky is once again having a wobble. The platform said some of its systems are down and that it\u2019s \u201cinvestigating an incident with service in one of our reginos\u201d (that\u2019s Bluesky\u2019s typo, not mine). The issue appears to have started at\u2026",
-          "published": "2026-04-17T16:47:12+00:00",
+          "published": "iso",
+          "published_display": "display",
           "excerpt": "Blueskyis once again having a wobble. The platform said some of its systems are down and that it\u2019s \u201cinvestigating an incident with service in one of our reginos\u201d (that\u2019s Bluesky\u2019s typo, not mine). The issue appears to have started at 1:42AM ET and was still persisting as of 11AM when this story was originally published. Since then, the site has been experiencing intermitent interuptions, including at times toits status pagewhere users should be able to monitor outages."
         },
         {
           "title": "Panic says the Playdate Catalog won't accept games made with generative AI",
           "link": "https://www.engadget.com/gaming/panic-says-the-playdate-catalog-wont-accept-games-made-with-generative-ai-160615022.html?src=rss",
           "summary": "Panic, the company behind the tiny and excellent Playdate console, is taking a stand on generative AI. The company has published an AI disclosure that says as of this month, the Playdate Catalog \u201cwill no longer accept titles that use\u2026",
-          "published": "2026-04-17T16:06:15+00:00",
+          "published": "iso",
+          "published_display": "display",
           "excerpt": "Panic, the company behind the tiny and excellent Playdate console, is taking a stand on generative AI. The company haspublished an AI disclosurethat says as of this month, the Playdate Catalog \u201cwill no longer accept titles that use \u2018Generative AI\u2019 for art, audio, music, text, or dialog.\u201d Panic does allow for developers to use AI assistance for coding, but also says that \u201cwe will flag any title as such and specify the extent that it was used (for example, \u201cLua debugging\u201d) so the customer can decide whether to support it or not.\u201d"
         },
         {
           "title": "Anthropic now has a design assistant too",
           "link": "https://www.engadget.com/ai/anthropic-now-has-a-design-assistant-too-150000903.html?src=rss",
           "summary": "In hindsight, I suppose it was only a matter of time after Anthropic made Claude capable of generating charts and diagrams that the company would then begin offering a more robust image editor. Now, a little more than a month after that\u2026",
-          "published": "2026-04-17T15:00:00+00:00",
+          "published": "iso",
+          "published_display": "display",
           "excerpt": "In hindsight, I suppose it was only a matter of time after Anthropic made Claude capable ofgenerating charts and diagramsthat the company would then begin offering a more robust image editor. Now, a little more than a month after that release, Anthropic has announced Claude Design, a new research preview that allows subscribers to use Claude to generate designs, prototypes, slides and more."
         },
         {
           "title": "Donut Lab's battery claims reportedly subject of whistleblower complaint",
           "link": "https://www.engadget.com/transportation/donut-labs-battery-claims-reportedly-subject-of-whistleblower-complaint-142133269.html?src=rss",
           "summary": "Startup Donut Lab made a splash at the start of the year with some astonishing \u2014 and suspicious \u2014 claims about its solid state batteries. Now Finnish newspaper Helsingin Sanomat reports an individual has filed a criminal whistleblower\u2026",
-          "published": "2026-04-17T14:21:34+00:00",
+          "published": "iso",
+          "published_display": "display",
           "excerpt": "Startup Donut Lab made a splash at the start of the year with some astonishing \u2014and suspicious\u2014 claims about its solid state batteries. Now Finnish newspaperHelsingin Sanomatreports an individual has filed a criminal whistleblower complaint against the company over those claims."
         },
         {
           "title": "Engadget Podcast: Allbirds goes from shoes to AI",
           "link": "https://www.engadget.com/ai/engadget-podcast-allbirds-goes-from-shoes-to-ai-115922991.html?src=rss",
           "summary": "So a shoe company turned into an AI company\u2026. That\u2019s it, that\u2019s the joke. In this episode, Devindra chats with Engadget\u2019s Daniel Cooper about Allbirds\u2019 sudden transformation and what it says about the AI economy. Also, they chat about the\u2026",
-          "published": "2026-04-17T11:59:22+00:00",
+          "published": "iso",
+          "published_display": "display",
           "excerpt": "So a shoe company turned into an AI company\u2026. That\u2019s it, that\u2019s the joke. In this episode, Devindra chats with Engadget\u2019s Daniel Cooper about Allbirds\u2019 sudden transformation and what it says about the AI economy. Also, they chat about the Artemis II moon mission, Meta being warned about the dangers of facial recognition (again) and how teens think social media is really shaping them."
         },
         {
           "title": "Reed Hastings is leaving Netflix after 29 years",
           "link": "https://www.engadget.com/entertainment/streaming/reed-hastings-is-leaving-netflix-after-29-years-213136444.html?src=rss",
           "summary": "Netflix co-founder and current chairman Reed Hastings is leaving the streaming company\u2019s board in June to focus on \"his philanthropy and other pursuits,\" according to a shareholder letter released alongside Netflix's Q1 earnings. Hastings\u2026",
-          "published": "2026-04-16T21:31:36+00:00",
+          "published": "iso",
+          "published_display": "display",
           "excerpt": "Netflix co-founder and current chairman Reed Hastings is leaving the streaming company\u2019s board in June to focus on \"his philanthropy and other pursuits,\" according toa shareholder letterreleased alongside Netflix's Q1 earnings. Hastings has served as chairman of Netflix's board since 2023, a role he assumedafter stepping down as co-CEOand promoting Greg Peters in his place."
-        },
-        {
-          "title": "Perplexity brings its Personal Computer AI assistant to Mac",
-          "link": "https://www.engadget.com/ai/perplexity-brings-its-personal-computer-ai-assistant-to-mac-202045969.html?src=rss",
-          "summary": "Perplexity has just released Personal Computer . The software, which is available starting today for Mac, builds on the multi-model orchestration capabilities the company debuted with Perplexity Computer at the end of February . Like\u2026",
-          "published": "2026-04-16T20:20:45+00:00",
-          "excerpt": "Perplexity has just releasedPersonal Computer. The software, which is available starting today for Mac, builds on the multi-model orchestration capabilities the company debuted with Perplexity Computer at theend of February. LikeClaude Cowork(and, as of today,OpenAI Codextoo), it's a suite of computer use agents that can work with your files, apps, connectors and the web to complete complex and \"even continuous workflows.\""
         }
       ]
     },

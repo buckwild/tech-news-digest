@@ -6,6 +6,7 @@ import pathlib
 import re
 import textwrap
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from html import unescape
 
 import feedparser
@@ -22,7 +23,7 @@ TEMPLATES_DIR = BASE_DIR / "templates"
 TOPICS_FILE = BASE_DIR / "src" / "topics.yaml"
 
 FEEDS = {
-    "CNN": "http://rss.cnn.com/rss/edition_technology.rss",
+    "CNN": "http://rss.cnn.com/rss/cnn_tech.rss",
     "Engadget": "https://www.engadget.com/rss.xml",
     "Drudge Report": "https://drudgereport.com/rss.xml",
 }
@@ -30,6 +31,7 @@ FEEDS = {
 MAX_ITEMS_PER_FEED = 20
 READABILITY_TIMEOUT = 10
 TOPIC_MATCH_FIELDS = ("title", "summary")
+PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
 
 
 def fetch_feed(name: str, url: str):
@@ -45,6 +47,10 @@ def fetch_feed(name: str, url: str):
                 published = date_parser.parse(entry.published)
             except Exception:
                 published = None
+        published_iso = None
+        published_display = None
+        if published:
+            published_iso, published_display = format_pacific_datetime(published)
         summary_raw = entry.get("summary", "")
         summary_clean = clean_summary(summary_raw)
         link = entry.get("link", "")
@@ -60,7 +66,8 @@ def fetch_feed(name: str, url: str):
                 )
                 if summary_clean
                 else None,
-                "published": published.isoformat() if published else None,
+                "published": published_iso,
+                "published_display": published_display,
                 "excerpt": excerpt,
             }
         )
@@ -150,12 +157,19 @@ def render(feeds, generated_at):
         autoescape=select_autoescape(["html", "xml"]),
     )
     template = env.get_template("index.html.j2")
-    html = template.render(feeds=feeds, generated_at=generated_at)
+    html = template.render(feeds=feeds, generated_at=generated_at["display"])
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     (DATA_DIR / "index.html").write_text(html, encoding="utf-8")
     (DATA_DIR / "feeds.json").write_text(
-        json.dumps({"generated_at": generated_at, "feeds": feeds}, indent=2),
+        json.dumps(
+            {
+                "generated_at": generated_at["iso"],
+                "generated_at_display": generated_at["display"],
+                "feeds": feeds,
+            },
+            indent=2,
+        ),
         encoding="utf-8",
     )
 
@@ -178,9 +192,25 @@ def main():
                     "error": str(exc),
                 }
             )
-    generated_at = datetime.now(timezone.utc).isoformat()
+    generated_at = format_pacific_datetime(datetime.now(timezone.utc))
     render(feeds, generated_at)
-    print(f"Rendered {len(feeds)} feeds at {generated_at}")
+    print(f"Rendered {len(feeds)} feeds at {generated_at['display']}")
+
+
+
+
+def format_pacific_datetime(dt: datetime) -> dict[str, str]:
+    pacific = convert_to_pacific(dt)
+    return {
+        "iso": pacific.isoformat(),
+        "display": pacific.strftime("%b %d, %Y %I:%M %p PT"),
+    }
+
+
+def convert_to_pacific(dt: datetime) -> datetime:
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(PACIFIC_TZ)
 
 
 if __name__ == "__main__":
