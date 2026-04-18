@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T16:00:15.339543+00:00",
+  "generated_at": "2026-04-18T17:00:19.448049+00:00",
   "feeds": [
     {
       "name": "CNN",
@@ -94,13 +94,6 @@
           "summary": "Perplexity has just released Personal Computer . The software, which is available starting today for Mac, builds on the multi-model orchestration capabilities the company debuted with Perplexity Computer at the end of February . Like\u2026",
           "published": "2026-04-16T20:20:45+00:00",
           "excerpt": "Perplexity has just releasedPersonal Computer. The software, which is available starting today for Mac, builds on the multi-model orchestration capabilities the company debuted with Perplexity Computer at theend of February. LikeClaude Cowork(and, as of today,OpenAI Codextoo), it's a suite of computer use agents that can work with your files, apps, connectors and the web to complete complex and \"even continuous workflows.\""
-        },
-        {
-          "title": "Blackmagic Camera for iOS now has a companion Watch app",
-          "link": "https://www.engadget.com/apps/blackmagic-camera-for-ios-now-has-a-companion-watch-app-194529980.html?src=rss",
-          "summary": "Blackmagic Camera is one of the more powerful third-party smartphone camera apps available and it's now even more useful for solo creators. Blackmagic Design just announced that the latest iOS version 3.3 now supports Apple Watch, letting\u2026",
-          "published": "2026-04-16T19:45:29+00:00",
-          "excerpt": "Blackmagic Camera is one of the more powerful third-party smartphone camera apps available and it's now even more useful for solo creators. Blackmagic Design justannouncedthat the latest iOS version 3.3 now supports Apple Watch, letting you control the app and monitor video remotely from your wrist. It also includesATEM camera controlso you can use your iPhone as a live studio camera."
         }
       ]
     },
@@ -118,6 +111,13 @@
         {
           "title": "Attorney Outs More Devastating Claims...",
           "link": "https://www.msn.com/en-us/news/other/keystone-kash-s-attorney-outs-even-more-devastating-claims/ar-AA21acuU ",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republicans should not dismiss a Kamala comeback in 2028...",
+          "link": "https://thehill.com/opinion/campaign/5836932-harris-leads-democrats-2028/",
           "summary": null,
           "published": null,
           "excerpt": null
