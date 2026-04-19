@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T11:00:27.486123-07:00",
-  "generated_at_display": "Apr 19, 2026 11:00 AM PT",
+  "generated_at": "2026-04-19T12:00:29.750200-07:00",
+  "generated_at_display": "Apr 19, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Palantir posted a manifesto that reads like the ramblings of a comic book villain",
+          "link": "https://www.engadget.com/big-tech/palantir-posted-a-manifesto-that-reads-like-the-ramblings-of-a-comic-book-villain-181947361.html?src=rss",
+          "summary": "In case you haven't gotten around to reading Palantir CEO Alex Karp and Nicholas W. Zamiska's 2025 book, The Technological Republic, (because why would you do that to yourself?), the company best known for supplying AI-driven defense and\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Because we get asked a lot."
+        },
+        {
           "title": "The next Mac Studio and MacBook Pro releases could be postponed by several months",
           "link": "https://www.engadget.com/computing/the-next-mac-studio-and-macbook-pro-releases-could-be-postponed-by-several-months-173120187.html?src=rss",
           "summary": "Anyone looking to upgrade to the next Mac Studio or MacBook Pro might have to wait a little longer, thanks to the ongoing global memory shortage . As reported by Bloomberg 's Mark Gurman, \"at least two of the company's upcoming machines\u2026",
@@ -220,13 +228,6 @@
         {
           "title": "HORMUZ STANDSTILL",
           "link": "https://financialpost.com/pmn/business-pmn/hormuz-at-standstill-denting-us-iran-peace-deal-hopes",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "JD's shadow campaign EXPOSED...",
-          "link": "https://www.dailymail.co.uk/news/article-15743079",
           "summary": null,
           "published": null,
           "excerpt": null
