@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T12:00:29.750200-07:00",
-  "generated_at_display": "Apr 19, 2026 12:00 PM PT",
+  "generated_at": "2026-04-19T13:00:28.370232-07:00",
+  "generated_at_display": "Apr 19, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Beijing's robot half-marathon is back for its second year with far less embarassing results",
+          "link": "https://www.engadget.com/ai/beijings-robot-half-marathon-is-back-for-its-second-year-with-far-less-embarassing-results-191308396.html?src=rss",
+          "summary": "To make up for an incredibly laughable inaugural event , Beijing is running back its humanoid robot half-marathon. Fortunately, the event that pits humanoid robots made by Chinese companies against each other across 13 miles went a lot\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "To make up for an incredibly laughableinaugural event, Beijing is running back its humanoid robot half-marathon. Fortunately, the event that pits humanoid robots made by Chinese companies against each other across 13 miles went a lot smoother this year."
+        },
+        {
           "title": "Palantir posted a manifesto that reads like the ramblings of a comic book villain",
           "link": "https://www.engadget.com/big-tech/palantir-posted-a-manifesto-that-reads-like-the-ramblings-of-a-comic-book-villain-181947361.html?src=rss",
           "summary": "In case you haven't gotten around to reading Palantir CEO Alex Karp and Nicholas W. Zamiska's 2025 book, The Technological Republic, (because why would you do that to yourself?), the company best known for supplying AI-driven defense and\u2026",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "In hindsight, I suppose it was only a matter of time after Anthropic made Claude capable ofgenerating charts and diagramsthat the company would then begin offering a more robust image editor. Now, a little more than a month after that release, Anthropic has announced Claude Design, a new research preview that allows subscribers to use Claude to generate designs, prototypes, slides and more."
-        },
-        {
-          "title": "Donut Lab's battery claims reportedly subject of whistleblower complaint",
-          "link": "https://www.engadget.com/transportation/donut-labs-battery-claims-reportedly-subject-of-whistleblower-complaint-142133269.html?src=rss",
-          "summary": "Startup Donut Lab made a splash at the start of the year with some astonishing \u2014 and suspicious \u2014 claims about its solid state batteries. Now Finnish newspaper Helsingin Sanomat reports an individual has filed a criminal whistleblower\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Startup Donut Lab made a splash at the start of the year with some astonishing \u2014and suspicious\u2014 claims about its solid state batteries. Now Finnish newspaperHelsingin Sanomatreports an individual has filed a criminal whistleblower complaint against the company over those claims."
         }
       ]
     },
