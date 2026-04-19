@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T03:00:26.000144-07:00",
-  "generated_at_display": "Apr 19, 2026 03:00 AM PT",
+  "generated_at": "2026-04-19T04:00:33.272118-07:00",
+  "generated_at_display": "Apr 19, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -212,6 +212,13 @@
         {
           "title": "IRAN FIRES ON SHIPS",
           "link": "https://www.the-sun.com/news/16240317",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "JD's shadow campaign EXPOSED...",
+          "link": "https://www.dailymail.co.uk/news/article-15743079",
           "summary": null,
           "published": null,
           "excerpt": null
