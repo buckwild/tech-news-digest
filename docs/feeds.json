@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T14:00:36.439455-07:00",
-  "generated_at_display": "Apr 19, 2026 02:00 PM PT",
+  "generated_at": "2026-04-19T15:00:25.944078-07:00",
+  "generated_at_display": "Apr 19, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "The NSA is reportedly using Anthropic's new model Mythos",
+          "link": "https://www.engadget.com/ai/the-nsa-is-reportedly-using-anthropics-new-model-mythos-211502787.html?src=rss",
+          "summary": "Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according to Axios , which spoke to two sources with knowledge of the matter. Anthropic announced\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according toAxios, which spoke to two sources with knowledge of the matter. Anthropicannounced Mythos Previewat the beginning of April,describingit as a general-purpose language model that is \"strikingly capable at computer security tasks.\" But back in February, Trump ordered all government agencies tostop using Anthropic's servicesafter the companyrefused to budge on certain safeguardsfor military uses during contract talks."
+        },
         {
           "title": "Beijing's robot half-marathon is back for its second year with far less embarassing results",
           "link": "https://www.engadget.com/ai/beijings-robot-half-marathon-is-back-for-its-second-year-with-far-less-embarassing-results-191308396.html?src=rss",
