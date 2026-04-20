@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T23:00:28.384840-07:00",
-  "generated_at_display": "Apr 19, 2026 11:00 PM PT",
+  "generated_at": "2026-04-20T00:00:30.255739-07:00",
+  "generated_at_display": "Apr 20, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Blue Origin landed its recycled New Glenn booster but failed to put payload in orbit",
+          "link": "https://www.engadget.com/science/space/blue-origin-landed-its-recycled-new-glenn-booster-but-failed-to-put-payload-in-orbit-055846419.html?src=rss",
+          "summary": "Blue Origin has successfully reused its first-stage New Glenn booster for the first time after it landed in a cloud of smoke and fire on a recovery ship. It marks the second flight and reuse of Never Tell me the Odds , after the booster\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Blue Origin has successfully reused its first-stage New Glenn booster for the first time after it landed in a cloud of smoke and fire on a recovery ship. It marks the second flight and reuse ofNever Tell me the Odds, after the booster was recovered from New Glenn's previous launch inNovember last year. However, the rocket company's first commercial mission was marred by a failure to place the communications satellite payload into orbit."
+        },
+        {
           "title": "The NSA is reportedly using Anthropic's new model Mythos",
           "link": "https://www.engadget.com/ai/the-nsa-is-reportedly-using-anthropics-new-model-mythos-211502787.html?src=rss",
           "summary": "Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according to Axios , which spoke to two sources with knowledge of the matter. Anthropic announced\u2026",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Panic, the company behind the tiny and excellent Playdate console, is taking a stand on generative AI. The company haspublished an AI disclosurethat says as of this month, the Playdate Catalog \u201cwill no longer accept titles that use \u2018Generative AI\u2019 for art, audio, music, text, or dialog.\u201d Panic does allow for developers to use AI assistance for coding, but also says that \u201cwe will flag any title as such and specify the extent that it was used (for example, \u201cLua debugging\u201d) so the customer can decide whether to support it or not.\u201d"
-        },
-        {
-          "title": "Anthropic now has a design assistant too",
-          "link": "https://www.engadget.com/ai/anthropic-now-has-a-design-assistant-too-150000903.html?src=rss",
-          "summary": "In hindsight, I suppose it was only a matter of time after Anthropic made Claude capable of generating charts and diagrams that the company would then begin offering a more robust image editor. Now, a little more than a month after that\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "In hindsight, I suppose it was only a matter of time after Anthropic made Claude capable ofgenerating charts and diagramsthat the company would then begin offering a more robust image editor. Now, a little more than a month after that release, Anthropic has announced Claude Design, a new research preview that allows subscribers to use Claude to generate designs, prototypes, slides and more."
         }
       ]
     },
