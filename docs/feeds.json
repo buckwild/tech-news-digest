@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T10:00:28.108091-07:00",
-  "generated_at_display": "Apr 20, 2026 10:00 AM PT",
+  "generated_at": "2026-04-20T11:00:23.988093-07:00",
+  "generated_at_display": "Apr 20, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta is testing a WhatsApp Plus subscription that mostly focuses on cosmetic upgrades",
+          "link": "https://www.engadget.com/apps/meta-is-testing-a-whatsapp-plus-subscription-that-mostly-focuses-on-cosmetic-upgrades-175452371.html?src=rss",
+          "summary": "Meta is testing out a premium version of its messaging app, called WhatsApp Plus, that will include several paywalled features. As first spotted by WABetaInfo , Meta is currently rolling out a paid version of WhatsApp, which features\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Metais testing out a premium version of its messaging app, called WhatsApp Plus, that will include several paywalled features. As first spotted byWABetaInfo, Meta is currently rolling out a paid version of WhatsApp, which features mostly cosmetic upgrades. According to theHelp Center page, WhatsApp Plus subscribers will get access to premium stickers that can have special effects and the ability to personalize the app's themes and icons."
+        },
+        {
+          "title": "The FAA grounds Blue Origin New Glenn rocket after failure to put payload in orbit",
+          "link": "https://www.engadget.com/science/space/the-faa-grounds-blue-origin-new-glenn-rocket-after-failure-to-put-payload-in-orbit-173016117.html?src=rss",
+          "summary": "The Federal Aviation Administration (FAA) has grounded Blue Origin's New Glenn rocket following an incident during Sunday's launch from Cape Canaveral, according to reporting by Orlando Sentinel and others. The rocket looked good on the\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Federal Aviation Administration (FAA) has grounded Blue Origin's New Glenn rocket following an incident during Sunday's launch from Cape Canaveral,according to reporting byOrlando Sentineland others. The rocket looked good on the way up but was ultimately unable toput its payload into the correct orbit."
+        },
+        {
+          "title": "Ball x Pit's next update adds 11 more balls to the fray on April 27",
+          "link": "https://www.engadget.com/gaming/ball-x-pits-next-update-adds-11-more-balls-to-the-fray-on-april-27-170929983.html?src=rss",
+          "summary": "It's been a whole month since I've played some Ball x Pit after the mobile versions went live in March , but I'll surely be jumping back in again next week. The latest update will arrive on April 27, bringing a host of goodies to the\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's been a whole month since I've played someBall x Pitafter themobile versions went live in March, but I'll surely be jumping back in again next week. The latest update will arrive on April 27, bringing a host of goodies to the wonderful brick-busting roguelite, which wasone of Engadget's favorite games of 2025."
+        },
+        {
           "title": "Deezer says AI-made songs make up 44 percent of daily uploads",
           "link": "https://www.engadget.com/entertainment/music/deezer-says-ai-made-songs-make-up-44-percent-of-daily-uploads-163642921.html?src=rss",
           "summary": "AI-generated music is spreading like wildfire, according to Deezer, who reported receiving nearly 75,000 uploads of AI-made tracks a day on its platform. The alternative music streaming service based in Paris published a report revealing\u2026",
@@ -227,14 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple has secured a major victory for itsredesigned smartwatchesas per the latest decision from the US International Trade Commission. The federal agency ruled against reinstating an import ban on Apple Watches, allowing the tech giant to continue selling its devices with a reworked blood-oxygen monitoring technology."
-        },
-        {
-          "title": "Cyberpunk platformers, gallivanting geckos and other new indie games worth checking out",
-          "link": "https://www.engadget.com/gaming/cyberpunk-platformers-gallivanting-geckos-and-other-new-indie-games-worth-checking-out-110000924.html?src=rss",
-          "summary": "Welcome to our latest roundup of what's going on in the indie game space. Once again, there are some neat new games for you to check out this weekend. We've got a bunch of updates and announcements for upcoming titles to tell you about\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Welcome to our latest roundup of what's going on in the indie game space. Once again, there are some neat new games for you to check out this weekend. We've got a bunch of updates and announcements for upcoming titles to tell you about too."
         }
       ]
     },
