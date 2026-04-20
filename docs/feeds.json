@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T12:00:29.586895-07:00",
-  "generated_at_display": "Apr 20, 2026 12:00 PM PT",
+  "generated_at": "2026-04-20T13:00:35.060910-07:00",
+  "generated_at_display": "Apr 20, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Sony will require age checks in the UK and Ireland to access PlayStation communication features",
+          "link": "https://www.engadget.com/gaming/playstation/sony-will-require-age-checks-in-the-uk-and-ireland-to-access-playstation-communication-features-194916442.html?src=rss",
+          "summary": "Sony is adopting new age verification policies for PlayStation users in the UK and Ireland. The company isn't making this a blanket requirement, but steps to confirm age will be needed to access \"communication, broadcasting, and certain\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Sony is adopting new age verificationpoliciesfor PlayStation users in the UK and Ireland. The company isn't making this a blanket requirement, but steps to confirm age will be needed to access \"communication, broadcasting, and certain in-game features\" beginning in June 2026. That includes essentials for online and social gamers, such as joining a party, voice chatting, text messaging or using third-party chat programs such as Discord. Some in-game communication tools, like chats or sharing user-generated content, will also only be available after an age check is completed. Although the new requirements will not be enforced until summer, users are already beingpromptedto get the verification process squared away."
+        },
+        {
           "title": "Ubisoft will officially reveal the Assassin's Creed Black Flag remake on April 23",
           "link": "https://www.engadget.com/gaming/ubisoft-will-officially-reveal-the-assassins-creed-black-flag-remake-on-april-23-184729772.html?src=rss",
           "summary": "It's happening. Ubisoft has scheduled a livestream for April 23 at 12PM ET to discuss the long-awaited Assassin's Creed Black Flag remake. The showcase will be available to watch on the company's YouTube and Twitch pages. It's officially\u2026",
@@ -135,10 +143,10 @@
         {
           "title": "LinkedIn's new Crosscheck feature lets premium subscribers test competing AI models for free",
           "link": "https://www.engadget.com/ai/linkedins-crosscheck-feature-lets-premium-subscribers-test-ai-models-for-free-183949210.html?src=rss",
-          "summary": "You can now use LinkedIn to test out some of the latest AI models from OpenAI, Anthropic, Google and other companies without having to worry about token limits or paying for an extra subscription. The professional network is experimenting\u2026",
+          "summary": "You can now use LinkedIn to test out some of the latest AI models from OpenAI, Anthropic, Google, Microsoft and other companies without having to worry about token limits or paying for an extra subscription. The professional network is\u2026",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "You can now use LinkedIn to test out some of the latest AI models from OpenAI, Anthropic, Google and other companies without having to worry about token limits or paying for an extra subscription. The professional network is experimenting with a new feature that allows people to test AI platforms' latest offerings within LinkedIn."
+          "excerpt": "You can now use LinkedIn to test out some of the latest AI models from OpenAI, Anthropic, Google, Microsoft and other companies without having to worry about token limits or paying for an extra subscription. The professional network is experimenting with a new feature that allows people to test AI platforms' latest offerings within LinkedIn."
         },
         {
           "title": "Meta is testing a WhatsApp Plus subscription that mostly focuses on cosmetic upgrades",
@@ -251,14 +259,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Tesla is expanding itsRobotaxifootprint across Texas by introducing availability in both Dallas and Houston. As announced in apost on X, the EV maker is rolling out its Robotaxis to small sections of the Texas cities, as detailed bytwo mapsof its new service areas."
-        },
-        {
-          "title": "SNK's Neo Geo console remake works with original cartridges and HDMI",
-          "link": "https://www.engadget.com/gaming/snks-neo-geo-console-remake-works-with-original-cartridges-and-hdmi-194509442.html?src=rss",
-          "summary": "Not everyone had the money for the original Neo Geo Advanced Entertainment System when it released in the '90s, but there's still a chance to experience it as an adult with disposable income. SNK and Plaion Replai, who is also behind the\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Not everyone had the money for the original Neo Geo Advanced Entertainment System when it released in the '90s, but there's still a chance to experience it as an adult with disposable income. SNK and Plaion Replai, who is also behind the all-black remake of theCommodore 64, announced a faithful remake of the high-end retro console, called theNeo Geo AES+."
         }
       ]
     },
