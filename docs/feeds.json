@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T04:00:28.675188-07:00",
-  "generated_at_display": "Apr 20, 2026 04:00 AM PT",
+  "generated_at": "2026-04-20T05:00:27.340826-07:00",
+  "generated_at_display": "Apr 20, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -250,6 +250,13 @@
         {
           "title": "Democratic Senate, Once Unthinkable, Is Real Possibility...",
           "link": "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html?unlocked_article_code=1.cVA._89a.dMbLEGZlZlAP&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republicans hope Supreme Court 'surprise' could help save majority...",
+          "link": "https://thehill.com/homenews/senate/5837188-alito-retirement-gop-midterms/",
           "summary": null,
           "published": null,
           "excerpt": null
