@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T15:00:29.298893-07:00",
-  "generated_at_display": "Apr 20, 2026 03:00 PM PT",
+  "generated_at": "2026-04-20T16:00:26.082969-07:00",
+  "generated_at_display": "Apr 20, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon will invest up to $25 billion in Anthropic in a broad deal",
+          "link": "https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html?src=rss",
+          "summary": "Amazon and Anthropic are strengthening their ties once again, with steep financial commitments made on both sides. Today, Amazon announced that it will invest $5 billion in the AI company, along with as much as $20 billion in additional\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon and Anthropic are strengthening their ties once again, with steep financial commitments made on both sides. Today, Amazonannouncedthat it will invest $5 billion in the AI company, along with as much as $20 billion in additional payments if certain milestones are met. This news follows the initial $4 billion investment Amazon made in Anthropicin 2023and a second $4 billion roundfrom 2024."
+        },
+        {
+          "title": "Google brings Gemini in Chrome to users in Australia, Japan, Singapore and South Korea",
+          "link": "https://www.engadget.com/ai/google-brings-gemini-in-chrome-to-users-in-australia-japan-singapore-and-south-korea-220000474.html?src=rss",
+          "summary": "After debuting in the US, Gemini in Chrome is making its way to more markets. Starting today, Google is rolling out Chrome's built-in chatbot to users in countries in East Asia and the Pacific, including Australia, Indonesia, Japan, the\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "After debuting in the US, Gemini in Chrome is making its way to more markets. Starting today, Google is rolling out Chrome's built-in chatbot to users in countries in East Asia and the Pacific, including Australia, Indonesia, Japan, the Philippines, Singapore, South Korea and Vietnam. The expansion comes after Google earlier this year made Gemini in Chrome available to people inCanada, India and New Zealand."
+        },
+        {
           "title": "John Ternus will be CEO of Apple when Tim Cook steps down this fall",
           "link": "https://www.engadget.com/computing/tim-cook-will-step-down-as-204959434.html?src=rss",
           "summary": "Apple CEO Tim Cook is officially stepping down from his role on September 1, the company announced today , while current SVP of hardware engineering John Ternus will take over as the new CEO. Cook will transition to a new role as executive\u2026",
@@ -235,22 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according toAxios, which spoke to two sources with knowledge of the matter. Anthropicannounced Mythos Previewat the beginning of April,describingit as a general-purpose language model that is \"strikingly capable at computer security tasks.\" But back in February, Trump ordered all government agencies tostop using Anthropic's servicesafter the companyrefused to budge on certain safeguardsfor military uses during contract talks."
-        },
-        {
-          "title": "Beijing's robot half-marathon is back for its second year with far less embarassing results",
-          "link": "https://www.engadget.com/ai/beijings-robot-half-marathon-is-back-for-its-second-year-with-far-less-embarassing-results-191308396.html?src=rss",
-          "summary": "To make up for an incredibly laughable inaugural event , Beijing is running back its humanoid robot half-marathon. Fortunately, the event that pits humanoid robots made by Chinese companies against each other across 13 miles went a lot\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "To make up for an incredibly laughableinaugural event, Beijing is running back its humanoid robot half-marathon. Fortunately, the event that pits humanoid robots made by Chinese companies against each other across 13 miles went a lot smoother this year."
-        },
-        {
-          "title": "Palantir posted a manifesto that reads like the ramblings of a comic book villain",
-          "link": "https://www.engadget.com/big-tech/palantir-posted-a-manifesto-that-reads-like-the-ramblings-of-a-comic-book-villain-181947361.html?src=rss",
-          "summary": "In case you haven't gotten around to reading Palantir CEO Alex Karp and Nicholas W. Zamiska's 2025 book, The Technological Republic, (because why would you do that to yourself?), the company best known for supplying AI-driven defense and\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Because we get asked a lot."
         }
       ]
     },
