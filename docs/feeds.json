@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T09:00:28.149783-07:00",
-  "generated_at_display": "Apr 20, 2026 09:00 AM PT",
+  "generated_at": "2026-04-20T10:00:28.108091-07:00",
+  "generated_at_display": "Apr 20, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Deezer says AI-made songs make up 44 percent of daily uploads",
+          "link": "https://www.engadget.com/entertainment/music/deezer-says-ai-made-songs-make-up-44-percent-of-daily-uploads-163642921.html?src=rss",
+          "summary": "AI-generated music is spreading like wildfire, according to Deezer, who reported receiving nearly 75,000 uploads of AI-made tracks a day on its platform. The alternative music streaming service based in Paris published a report revealing\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "AI-generated musicis spreading like wildfire, according to Deezer, who reported receiving nearly 75,000 uploads of AI-made tracks a day on its platform. The alternative music streaming service based in Paris published areportrevealing that 44 percent of its daily uploads are AI-generated songs, accumulating to around 2 million flagged songs a month. If that figure doesn't alarm you, Deezer said that more than 13.4 million songs were detected and flagged as AI-generated across 2025."
+        },
         {
           "title": "Dyson PencilVac Fluffycones review: Almost the perfect floor cleaner for tiny apartments",
           "link": "https://www.engadget.com/home/smart-home/dyson-pencilvac-fluffycones-review-almost-the-perfect-floor-cleaner-for-tiny-apartments-154550089.html?src=rss",
