@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T11:00:23.988093-07:00",
-  "generated_at_display": "Apr 20, 2026 11:00 AM PT",
+  "generated_at": "2026-04-20T12:00:29.586895-07:00",
+  "generated_at_display": "Apr 20, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Ubisoft will officially reveal the Assassin's Creed Black Flag remake on April 23",
+          "link": "https://www.engadget.com/gaming/ubisoft-will-officially-reveal-the-assassins-creed-black-flag-remake-on-april-23-184729772.html?src=rss",
+          "summary": "It's happening. Ubisoft has scheduled a livestream for April 23 at 12PM ET to discuss the long-awaited Assassin's Creed Black Flag remake. The showcase will be available to watch on the company's YouTube and Twitch pages. It's officially\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's happening. Ubisoft has scheduled a livestream for April 23 at 12PM ET to discuss the long-awaitedAssassin's Creed Black Flagremake. The showcase will be available to watch on the company'sYouTubeandTwitchpages."
+        },
+        {
+          "title": "LinkedIn's new Crosscheck feature lets premium subscribers test competing AI models for free",
+          "link": "https://www.engadget.com/ai/linkedins-crosscheck-feature-lets-premium-subscribers-test-ai-models-for-free-183949210.html?src=rss",
+          "summary": "You can now use LinkedIn to test out some of the latest AI models from OpenAI, Anthropic, Google and other companies without having to worry about token limits or paying for an extra subscription. The professional network is experimenting\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You can now use LinkedIn to test out some of the latest AI models from OpenAI, Anthropic, Google and other companies without having to worry about token limits or paying for an extra subscription. The professional network is experimenting with a new feature that allows people to test AI platforms' latest offerings within LinkedIn."
+        },
+        {
           "title": "Meta is testing a WhatsApp Plus subscription that mostly focuses on cosmetic upgrades",
           "link": "https://www.engadget.com/apps/meta-is-testing-a-whatsapp-plus-subscription-that-mostly-focuses-on-cosmetic-upgrades-175452371.html?src=rss",
           "summary": "Meta is testing out a premium version of its messaging app, called WhatsApp Plus, that will include several paywalled features. As first spotted by WABetaInfo , Meta is currently rolling out a paid version of WhatsApp, which features\u2026",
@@ -243,14 +259,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Not everyone had the money for the original Neo Geo Advanced Entertainment System when it released in the '90s, but there's still a chance to experience it as an adult with disposable income. SNK and Plaion Replai, who is also behind the all-black remake of theCommodore 64, announced a faithful remake of the high-end retro console, called theNeo Geo AES+."
-        },
-        {
-          "title": "Apple avoids a second import ban for its redesigned smartwatches in latest court ruling",
-          "link": "https://www.engadget.com/wearables/apple-avoids-a-second-import-ban-for-its-redesigned-smartwatches-in-latest-court-ruling-175600668.html?src=rss",
-          "summary": "Apple has secured a major victory for its redesigned smartwatches as per the latest decision from the US International Trade Commission. The federal agency ruled against reinstating an import ban on Apple Watches, allowing the tech giant\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple has secured a major victory for itsredesigned smartwatchesas per the latest decision from the US International Trade Commission. The federal agency ruled against reinstating an import ban on Apple Watches, allowing the tech giant to continue selling its devices with a reworked blood-oxygen monitoring technology."
         }
       ]
     },
@@ -266,8 +274,8 @@
           "excerpt": null
         },
         {
-          "title": "HORMUZ STANDSTILL",
-          "link": "https://www.nytimes.com/2026/04/20/world/middleeast/strait-hormuz-traffic-ships-iran-us.html?unlocked_article_code=1.cVA.pK09.nVJzWeaAAbFy&smid=url-share",
+          "title": "IRAN EXECUTIONS SURGE",
+          "link": "https://abcnews.com/International/story?id=132195741",
           "summary": null,
           "published": null,
           "excerpt": null
