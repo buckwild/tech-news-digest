@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T07:00:41.171402-07:00",
-  "generated_at_display": "Apr 20, 2026 07:00 AM PT",
+  "generated_at": "2026-04-20T08:00:28.382931-07:00",
+  "generated_at_display": "Apr 20, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Mandalorian and Grogu director used Apple Vision Pro to preview the film in IMAX",
+          "link": "https://www.engadget.com/entertainment/tv-movies/the-mandalorian-and-grogu-director-used-apple-vision-pro-to-preview-the-film-in-imax-140331311.html?src=rss",
+          "summary": "Director Jon Favreau ( Iron Man , The Jungle Book ) hasn't been shy about embracing new technology for filmmaking. While producing The Mandalorian for Disney+, he was one of the first filmmakers to use ILM's massive LED screens , AKA \"The\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Director Jon Favreau (Iron Man,The Jungle Book) hasn't been shy about embracing new technology for filmmaking. While producingThe Mandalorianfor Disney+, he was one of the first filmmakers to useILM's massive LED screens, AKA \"The Volume,\" to produce more realistic lighting and backgrounds on studio sets. For the feature filmThe Mandalorian and Grogu, which hits theaters May 22, Favreau recently revealed that he had Disney build an Apple Vision Pro app to preview its full IMAX scope during filming."
+        },
+        {
           "title": "Blue Origin landed its recycled New Glenn booster but failed to put payload in orbit",
           "link": "https://www.engadget.com/science/space/blue-origin-landed-its-recycled-new-glenn-booster-but-failed-to-put-payload-in-orbit-055846419.html?src=rss",
           "summary": "Blue Origin has successfully reused its first-stage New Glenn booster for the first time after it landed in a cloud of smoke and fire on a recovery ship. It marks the second flight and reuse of Never Tell me the Odds , after the booster\u2026",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Blueskyis once again having a wobble. The platform said some of its systems are down and that it\u2019s \u201cinvestigating an incident with service in one of our reginos\u201d (that\u2019s Bluesky\u2019s typo, not mine). The issue appears to have started at 1:42AM ET and was still persisting as of 11AM when this story was originally published. Since then, the site has been experiencing intermitent interuptions, including at times toits status pagewhere users should be able to monitor outages."
-        },
-        {
-          "title": "Panic says the Playdate Catalog won't accept games made with generative AI",
-          "link": "https://www.engadget.com/gaming/panic-says-the-playdate-catalog-wont-accept-games-made-with-generative-ai-160615022.html?src=rss",
-          "summary": "Panic, the company behind the tiny and excellent Playdate console, is taking a stand on generative AI. The company has published an AI disclosure that says as of this month, the Playdate Catalog \u201cwill no longer accept titles that use\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Panic, the company behind the tiny and excellent Playdate console, is taking a stand on generative AI. The company haspublished an AI disclosurethat says as of this month, the Playdate Catalog \u201cwill no longer accept titles that use \u2018Generative AI\u2019 for art, audio, music, text, or dialog.\u201d Panic does allow for developers to use AI assistance for coding, but also says that \u201cwe will flag any title as such and specify the extent that it was used (for example, \u201cLua debugging\u201d) so the customer can decide whether to support it or not.\u201d"
         }
       ]
     },
@@ -235,7 +235,21 @@
         },
         {
           "title": "HORMUZ STANDSTILL",
-          "link": "https://apnews.com/live/iran-war-israel-trump-04-20-2026",
+          "link": "https://www.nytimes.com/2026/04/20/world/middleeast/strait-hormuz-traffic-ships-iran-us.html?unlocked_article_code=1.cVA.pK09.nVJzWeaAAbFy&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Hollywood's Superrich Supervillain...",
+          "link": "https://www.nytimes.com/2026/04/20/opinion/warner-bros-paramount-skydance-david-ellison.html?unlocked_article_code=1.cVA.XRKQ.L28UrTAGH8Oc&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "FBI Director sues ATLANTIC claiming false reporting about drinking, absences...",
+          "link": "https://www.straitstimes.com/world/fbi-director-kash-patel-sues-the-atlantic-claiming-false-reporting-about-drinking-absences",
           "summary": null,
           "published": null,
           "excerpt": null
