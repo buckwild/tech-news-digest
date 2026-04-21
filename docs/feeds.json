@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T09:00:28.726524-07:00",
-  "generated_at_display": "Apr 21, 2026 09:00 AM PT",
+  "generated_at": "2026-04-21T10:00:30.650380-07:00",
+  "generated_at_display": "Apr 21, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google now lets you have full conversations with Gemini for Home",
+          "link": "https://www.engadget.com/home/smart-home/google-now-lets-you-have-full-conversations-with-gemini-for-home-160000511.html?src=rss",
+          "summary": "Google announced today that it is upgrading the Gemini for Home service with a \"continued conversations\" feature. Continued conversation allows a user to have a natural discussion with the Gemini platform without prefacing every follow-up\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google announced today that it is upgrading the Gemini for Home service with a \"continued conversations\" feature. Continued conversation allows a user to have a natural discussion with the Gemini platform without prefacing every follow-up request with the \"Hey Google\" prompt. The microphone will remain active on a smart device for a few seconds after the Gemini AI assistant provides its reply. During that window, the lights on the hardware will pulse or glow, indicating that you can keep chatting normally with the chatbot without needing a wake word. Gemini should retain the context as the conversation progresses, which should allow it to provide the desired information faster without the need for a user to repeat key details."
+        },
+        {
           "title": "Samsung brings SmartThings integration to IKEA's Matter devices",
           "link": "https://www.engadget.com/home/smart-home/samsung-brings-smartthings-integration-to-ikeas-matter-devices-151819629.html?src=rss",
           "summary": "Samsung is expanding the SmartThings connectivity platform to include many IKEA products . The company promises \"seamless integration\" with the furniture giant's Matter-over-Thread devices , which include stuff like smart lights , air\u2026",
@@ -235,30 +243,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Metais testing out a premium version of its messaging app, called WhatsApp Plus, that will include several paywalled features. As first spotted byWABetaInfo, Meta is currently rolling out a paid version of WhatsApp, which features mostly cosmetic upgrades. According to theHelp Center page, WhatsApp Plus subscribers will get access to premium stickers that can have special effects and the ability to personalize the app's themes and icons."
-        },
-        {
-          "title": "The FAA grounds Blue Origin New Glenn rocket after failure to put payload in orbit",
-          "link": "https://www.engadget.com/science/space/the-faa-grounds-blue-origin-new-glenn-rocket-after-failure-to-put-payload-in-orbit-173016117.html?src=rss",
-          "summary": "The Federal Aviation Administration (FAA) has grounded Blue Origin's New Glenn rocket following an incident during Sunday's launch from Cape Canaveral, according to reporting by Orlando Sentinel and others. The rocket looked good on the\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Federal Aviation Administration (FAA) has grounded Blue Origin's New Glenn rocket following an incident during Sunday's launch from Cape Canaveral,according to reporting byOrlando Sentineland others. The rocket looked good on the way up but was ultimately unable toput its payload into the correct orbit."
-        },
-        {
-          "title": "Ball x Pit's next update adds 11 more balls to the fray on April 27",
-          "link": "https://www.engadget.com/gaming/ball-x-pits-next-update-adds-11-more-balls-to-the-fray-on-april-27-170929983.html?src=rss",
-          "summary": "It's been a whole month since I've played some Ball x Pit after the mobile versions went live in March , but I'll surely be jumping back in again next week. The latest update will arrive on April 27, bringing a host of goodies to the\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's been a whole month since I've played someBall x Pitafter themobile versions went live in March, but I'll surely be jumping back in again next week. The latest update will arrive on April 27, bringing a host of goodies to the wonderful brick-busting roguelite, which wasone of Engadget's favorite games of 2025."
-        },
-        {
-          "title": "Deezer says AI-made songs make up 44 percent of daily uploads",
-          "link": "https://www.engadget.com/entertainment/music/deezer-says-ai-made-songs-make-up-44-percent-of-daily-uploads-163642921.html?src=rss",
-          "summary": "AI-generated music is spreading like wildfire, according to Deezer, who reported receiving nearly 75,000 uploads of AI-made tracks a day on its platform. The alternative music streaming service based in Paris published a report revealing\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "AI-generated musicis spreading like wildfire, according to Deezer, who reported receiving nearly 75,000 uploads of AI-made tracks a day on its platform. The alternative music streaming service based in Paris published areportrevealing that 44 percent of its daily uploads are AI-generated songs, accumulating to around 2 million flagged songs a month. If that figure doesn't alarm you, Deezer said that more than 13.4 million songs were detected and flagged as AI-generated across 2025."
         }
       ]
     },
@@ -275,7 +259,7 @@
         },
         {
           "title": "SCAMMERS IN STRAIT",
-          "link": "https://www.msn.com/en-in/news/world/scammers-cast-phishing-nets-wide-in-hormuz-with-promises-of-safe-passage-for-ships/ar-AA21o03V",
+          "link": "https://www.yahoo.com/news/articles/scam-messages-offering-ships-safe-061030773.html",
           "summary": null,
           "published": null,
           "excerpt": null
