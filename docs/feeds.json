@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T03:00:33.240260-07:00",
-  "generated_at_display": "Apr 21, 2026 03:00 AM PT",
+  "generated_at": "2026-04-21T04:00:30.127979-07:00",
+  "generated_at_display": "Apr 21, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -251,22 +251,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "USA BAILOUT FOR ABU DHABI?",
-          "link": "https://www.wsj.com/world/middle-east/u-a-e-asks-u-s-for-a-wartime-financial-lifeline-3f9ea3a0",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "IRAN EXECUTIONS SURGE",
-          "link": "https://abcnews.com/International/story?id=132195741",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Hollywood's Superrich Supervillain...",
-          "link": "https://www.nytimes.com/2026/04/20/opinion/warner-bros-paramount-skydance-david-ellison.html?unlocked_article_code=1.cVA.XRKQ.L28UrTAGH8Oc&smid=url-share",
+          "title": "IRAN WARNS OF 'NEW CARDS' ON BATTLEFIELD",
+          "link": "https://www.the-sun.com/news/16250661/iran-negotiator-ready-reveal-cards-war-ceasefire/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -281,6 +267,13 @@
         {
           "title": "The President is Coming to White House Correspondents' Dinner...What Could Go Wrong?",
           "link": "https://www.nytimes.com/2026/04/20/business/media/white-house-correspondents-dinner-trump.html?unlocked_article_code=1.cVA.xAnL.jKI_dhEtmWvp&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "FCC Chair to Attend Amid Growing Outrage From Journalists...",
+          "link": "https://www.mediaite.com/media/news/trump-fcc-chair-brendan-carr-to-attend-whcd-amid-growing-outrage-from-journalists-at-attacks-on-free-speech/",
           "summary": null,
           "published": null,
           "excerpt": null
