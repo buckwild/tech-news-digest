@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T04:00:30.127979-07:00",
-  "generated_at_display": "Apr 21, 2026 04:00 AM PT",
+  "generated_at": "2026-04-21T05:00:28.601679-07:00",
+  "generated_at_display": "Apr 21, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon allegedly pressured companies to raise product prices with other retailers",
+          "link": "https://www.engadget.com/big-tech/amazon-allegedly-pressured-companies-to-raise-product-prices-with-other-retailers-115302642.html?src=rss",
+          "summary": "Rob Bonta, the Attorney General of California, has released an unredacted copy of a legal document that the state filed in relation to its lawsuit against Amazon, containing details of the company\u2019s alleged price fixing scheme. In it, the\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Rob Bonta, the Attorney General of California, hasreleasedan unredacted copy of a legal document that the state filed in relation to its lawsuit against Amazon,containingdetails of the company\u2019s alleged price fixing scheme. In it, the state of California accuses the e-commerce company of reaching out to brands and asking them to \u201cfix\u201d the retail prices of their products on competitors\u2019 websites. Due to Amazon\u2019s \u201coverwhelming bargaining leverage\u201d and out of fear of punishment, the brands agree to raise their products\u2019 prices on other retailers like Walmart and Target or to remove them altogether, the filing reads."
+        },
+        {
+          "title": "The Morning After: The next CEO of Apple will be hardware exec John Ternus",
+          "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111546149.html?src=rss",
+          "summary": "Apple\u2019s current SVP of hardware engineering John Ternus will take over as the new CEO when Tim Cook steps down this September . Cook said in a statement: \u201cIt has been the greatest privilege of my life to be the CEO of Apple and to have\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple\u2019s current SVP of hardware engineering John Ternus will take over as the new CEOwhen Tim Cook steps down this September. Cook said in a statement: \u201cIt has been the greatest privilege of my life to be the CEO of Apple and to have been trusted to lead such an extraordinary company.\u201d"
+        },
+        {
+          "title": "Yelp's AI chatbot can now make your dinner reservation",
+          "link": "https://www.engadget.com/apps/yelps-ai-chatbot-can-now-make-your-dinner-reservation-110000661.html?src=rss",
+          "summary": "Every business seems to think that its customers want more AI. Yelp is the latest to add more artificial intelligence tools. The review site has upgraded its Yelp Assistant, an agentic AI chatbot, to work across all of Yelp's categories.\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Every business seems to think that its customers want more AI. Yelp is the latest to add more artificial intelligence tools. The review site has upgraded its Yelp Assistant, an agentic AI chatbot, to work across all of Yelp's categories. Yelp Assistant was initiallylaunchedin 2024 with a limited scope and thenexpandedin 2025."
+        },
+        {
           "title": "Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for",
           "link": "https://www.engadget.com/audio/headphones/sennheiser-launches-hd-480-pro-the-closed-back-headphones-fans-have-been-waiting-for-080000727.html?src=rss",
           "summary": "Sennheiser has introduced a new high-end headphone set for audio professionals. The HD 480 Pro is essentially a closed-back reimagining of the company's popular HD 490 Pro headset. Both headphones are designed for audio professionals,\u2026",
@@ -227,22 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Bandai Namco and A24 have announced that theElden Ringmoviewill hit theaters on March 3, 2028. Filming is set to begin in the next several weeks. The movie was first revealedover a year ago, so this is a welcome update."
-        },
-        {
-          "title": "Apple could be fined up to $38 billion by Indian antitrust regulator",
-          "link": "https://www.engadget.com/big-tech/apple-could-be-fined-up-to-38-billion-by-indian-antitrust-regulator-150821172.html?src=rss",
-          "summary": "Apple's refusal to provide financial data to an Indian regulatory agency as part of an antitrust case will culminate in a final hearing on May 21, as first reported by Reuters . According to the Competition Commission of India (CCI), Apple\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple's refusal to provide financial data to an Indian regulatory agency as part of an antitrust case will culminate in a final hearing on May 21, as first reported byReuters. According to the Competition Commission of India (CCI), Apple still hasn't submitted information about its financials and its views on an antitrust investigation that started in October 2024."
-        },
-        {
-          "title": "The Mandalorian and Grogu director used Apple Vision Pro to preview the film in IMAX",
-          "link": "https://www.engadget.com/entertainment/tv-movies/the-mandalorian-and-grogu-director-used-apple-vision-pro-to-preview-the-film-in-imax-140331311.html?src=rss",
-          "summary": "Director Jon Favreau ( Iron Man , The Jungle Book ) hasn't been shy about embracing new technology for filmmaking. While producing The Mandalorian for Disney+, he was one of the first filmmakers to use ILM's massive LED screens , AKA \"The\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Director Jon Favreau (Iron Man,The Jungle Book) hasn't been shy about embracing new technology for filmmaking. While producingThe Mandalorianfor Disney+, he was one of the first filmmakers to useILM's massive LED screens, AKA \"The Volume,\" to produce more realistic lighting and backgrounds on studio sets. For the feature filmThe Mandalorian and Grogu, which hits theaters May 22, Favreau recently revealed that he had Disney build an Apple Vision Pro app to preview its full IMAX scope during filming."
         }
       ]
     },
@@ -265,14 +273,14 @@
           "excerpt": null
         },
         {
-          "title": "The President is Coming to White House Correspondents' Dinner...What Could Go Wrong?",
-          "link": "https://www.nytimes.com/2026/04/20/business/media/white-house-correspondents-dinner-trump.html?unlocked_article_code=1.cVA.xAnL.jKI_dhEtmWvp&smid=url-share",
+          "title": "Scammer Used AI-Generated MAGA Girl to Grift 'Super Dumb' Men...",
+          "link": "https://archive.ph/OhN3S",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "FCC Chair to Attend Amid Growing Outrage From Journalists...",
+          "title": "FCC Chair to Attend WHCD Amid Growing Outrage From Journalists...",
           "link": "https://www.mediaite.com/media/news/trump-fcc-chair-brendan-carr-to-attend-whcd-amid-growing-outrage-from-journalists-at-attacks-on-free-speech/",
           "summary": null,
           "published": null,
