@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T23:00:31.093168-07:00",
-  "generated_at_display": "Apr 20, 2026 11:00 PM PT",
+  "generated_at": "2026-04-21T00:00:26.798867-07:00",
+  "generated_at_display": "Apr 21, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -243,14 +243,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Blue Origin has successfully reused its first-stage New Glenn booster for the first time after it landed in a cloud of smoke and fire on a recovery ship. It marks the second flight and reuse ofNever Tell me the Odds, after the booster was recovered from New Glenn's previous launch inNovember last year. However, the rocket company's first commercial mission was marred by a failure to place the communications satellite payload into orbit."
-        },
-        {
-          "title": "The NSA is reportedly using Anthropic's new model Mythos",
-          "link": "https://www.engadget.com/ai/the-nsa-is-reportedly-using-anthropics-new-model-mythos-211502787.html?src=rss",
-          "summary": "Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according to Axios , which spoke to two sources with knowledge of the matter. Anthropic announced\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according toAxios, which spoke to two sources with knowledge of the matter. Anthropicannounced Mythos Previewat the beginning of April,describingit as a general-purpose language model that is \"strikingly capable at computer security tasks.\" But back in February, Trump ordered all government agencies tostop using Anthropic's servicesafter the companyrefused to budge on certain safeguardsfor military uses during contract talks."
         }
       ]
     },
