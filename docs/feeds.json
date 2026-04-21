@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T12:00:27.370977-07:00",
-  "generated_at_display": "Apr 21, 2026 12:00 PM PT",
+  "generated_at": "2026-04-21T13:00:31.967058-07:00",
+  "generated_at_display": "Apr 21, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,46 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "AI company deletes the 3 million OKCupid photos it used for facial recognition training",
+          "link": "https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss",
+          "summary": "When online platforms violate their own privacy policies to sell your photos, have no fear: They just might have to pay an undisclosed settlement fee 12 years later. (Who says justice is dead?) According to Reuters , AI company Clarifai\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "When online platforms violate their own privacy policies to sell your photos, have no fear: They just might have to pay an undisclosed settlement fee 12 years later. (Who says justice is dead?) According toReuters, AI company Clarifai says it hasdeleted3 million profile photos taken from dating site OkCupid in 2014. It follows a settlement reached last monthbetween the FTC and Match Group, OkCupid's owner."
+        },
+        {
+          "title": "Meta has misled users about scam ads on Facebook and Instagram, lawsuit says",
+          "link": "https://www.engadget.com/social-media/meta-has-misled-users-about-scam-ads-on-facebook-and-instagram-lawsuit-says-193220235.html?src=rss",
+          "summary": "Meta is facing a new lawsuit over its advertising practices. The nonprofit group Consumer Federation of America (CFA) has filed a proposed class-action suit against Meta for \"failing to protect users\" from scam ads on Facebook and\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Meta is facing a new lawsuit over its advertising practices. The nonprofit group Consumer Federation of America (CFA)has fileda proposed class-action suit against Meta for \"failing to protect users\" from scam ads on Facebook and Instagram."
+        },
+        {
+          "title": "New York Attorney General sues two prediction markets on illegal gambling allegations",
+          "link": "https://www.engadget.com/big-tech/new-york-attorney-general-sues-two-prediction-markets-on-illegal-gambling-allegations-192012225.html?src=rss",
+          "summary": "New York is the latest state to take a stand against prediction markets. Attorney General Letitia James has sued Coinbase Financial Markets and Gemini Titan on charges that both are illegally running unlicensed gambling operations. The\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "New York is the latest state to take a stand against prediction markets. Attorney General Letitia James hassuedCoinbase Financial Markets and Gemini Titan on charges that both are illegally running unlicensed gambling operations. The suit also claims that these prediction markets violate state laws that prevent betting on games involving New York college sports teams."
+        },
+        {
+          "title": "Florida AG opens criminal investigation into OpenAI and ChatGPT",
+          "link": "https://www.engadget.com/ai/florida-ag-opens-criminal-investigation-into-openai-and-chatgpt-190200227.html?src=rss",
+          "summary": "Florida Attorney General James Ulthmeier has announced that the state's Office of Statewide Prosecution has opened a criminal investigation into OpenAI and ChatGPT. The investigation was opened because the suspect in a mass shooting at\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Florida Attorney General James Ulthmeierhas announcedthat the state's Office of Statewide Prosecution has opened a criminal investigation into OpenAI and ChatGPT. The investigation was opened because the suspect ina mass shooting at Florida State Universityin 2025reportedly used ChatGPTin the lead up to the shooting."
+        },
+        {
+          "title": "ChatGPT Images 2.0 is better at rendering non-Latin text",
+          "link": "https://www.engadget.com/ai/chatgpt-images-20-is-better-at-rendering-non-latin-text-190000153.html?src=rss",
+          "summary": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designs directly from its chatbot , it's now releasing ChatGPT Images 2.0 . OpenAI describes the new system as a \u201cstep change\u201d for image generation\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designsdirectly from its chatbot, it's now releasing ChatGPT Images 2.0. OpenAI describes the new system as a \u201cstep change\u201d for image generation models, particularly when it comes to the tool\u2019s ability to follow instructions in detail, render dense text and place and relate objects in a scene. For the first time, OpenAI has also built an image model with reasoning capabilities, giving the system the ability to do things like search the web and verify its outputs. According to the company, those capabilities should translate to a tool that's more reliable when accuracy, consistency and visual cohesion are essential."
+        },
+        {
           "title": "Netflix's Devil May Cry animated adaptation returns for a second season on May 12",
           "link": "https://www.engadget.com/entertainment/tv-movies/netflixs-devil-may-cry-animated-adaptation-returns-for-a-second-season-on-may-12-184003226.html?src=rss",
           "summary": "Netflix's hit animated adaptation of the video game series Devil May Cry is returning for a second season on May 12. The streamer has released a full trailer alongside this announcement, after dropping a short teaser several months back .\u2026",
@@ -195,30 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Rob Bonta, the Attorney General of California, hasreleasedan unredacted copy of a legal document that the state filed in relation to its lawsuit against Amazon,containingdetails of the company\u2019s alleged price fixing scheme. In it, the state of California accuses the e-commerce company of reaching out to brands and asking them to \u201cfix\u201d the retail prices of their products on competitors\u2019 websites. Due to Amazon\u2019s \u201coverwhelming bargaining leverage\u201d and out of fear of punishment, the brands agree to raise their products\u2019 prices on other retailers like Walmart and Target or to remove them altogether, the filing reads."
-        },
-        {
-          "title": "The Morning After: The next CEO of Apple will be hardware exec John Ternus",
-          "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111546149.html?src=rss",
-          "summary": "Apple\u2019s current SVP of hardware engineering John Ternus will take over as the new CEO when Tim Cook steps down this September . Cook said in a statement: \u201cIt has been the greatest privilege of my life to be the CEO of Apple and to have\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple\u2019s current SVP of hardware engineering John Ternus will take over as the new CEOwhen Tim Cook steps down this September. Cook said in a statement: \u201cIt has been the greatest privilege of my life to be the CEO of Apple and to have been trusted to lead such an extraordinary company.\u201d"
-        },
-        {
-          "title": "Yelp's AI chatbot can now make your dinner reservation",
-          "link": "https://www.engadget.com/apps/yelps-ai-chatbot-can-now-make-your-dinner-reservation-110000661.html?src=rss",
-          "summary": "Every business seems to think that its customers want more AI. Yelp is the latest to add more artificial intelligence tools. The review site has upgraded its Yelp Assistant, an agentic AI chatbot, to work across all of Yelp's categories.\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Every business seems to think that its customers want more AI. Yelp is the latest to add more artificial intelligence tools. The review site has upgraded its Yelp Assistant, an agentic AI chatbot, to work across all of Yelp's categories. Yelp Assistant was initiallylaunchedin 2024 with a limited scope and thenexpandedin 2025."
-        },
-        {
-          "title": "Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for",
-          "link": "https://www.engadget.com/audio/headphones/sennheiser-launches-hd-480-pro-the-closed-back-headphones-fans-have-been-waiting-for-080000727.html?src=rss",
-          "summary": "Sennheiser has introduced a new high-end headphone set for audio professionals. The HD 480 Pro is essentially a closed-back reimagining of the company's popular HD 490 Pro headset. Both headphones are designed for audio professionals,\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Sennheiser has introduced a new high-end headphone set for audio professionals. The HD 480 Pro is essentially a closed-back reimagining of the company's popular HD 490 Pro headset. Both headphones are designed for audio professionals, aiming to fit both a studio or a live performance setting. The company is positioning this product as a versatile option that can handle recording, monitoring, producing or mixing."
         }
       ]
     },
