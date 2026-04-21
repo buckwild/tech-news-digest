@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T15:00:32.908023-07:00",
-  "generated_at_display": "Apr 21, 2026 03:00 PM PT",
+  "generated_at": "2026-04-21T16:00:27.074786-07:00",
+  "generated_at_display": "Apr 21, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos",
+          "link": "https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss",
+          "summary": "Anthropic's buzzy announcement about using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozilla shared some details that support use of the company's special Claude Mythos Preview model as a\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic's buzzyannouncementabout using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozillasharedsome details that support use of the company's special Claude Mythos Preview model as a way to protect critical services. Using Mythos helped Mozilla's team find and patch 271 vulnerabilities in the latest release of the Firefox browser. \"So far we\u2019ve found no category or complexity of vulnerability that humans can find that this model can\u2019t,\" the foundation said."
+        },
+        {
           "title": "AI company deletes the 3 million OKCupid photos it used for facial recognition training",
           "link": "https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss",
           "summary": "When online platforms violate their own privacy policies to sell your photos, have no fear: They just might have to pay an undisclosed settlement fee 12 years later. (Who says justice is dead?) According to Reuters , AI company Clarifai\u2026",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Nintendo has padded out the Switch 2 release slate for this summer by revealing thatSplatoon Raidersis coming to the console on July 23. This is the first spinoff in the series and while it's a \"single-player-focused Splatoon game,\" there is a multiplayer element. Nintendo announcedSplatoon Raiders(the title of which is a soft pun on Tomb Raider) last June."
-        },
-        {
-          "title": "Chipolo and Secrid team up for a new trackable wallet",
-          "link": "https://www.engadget.com/general/chipolo-and-secrid-team-up-for-a-new-trackable-wallet-130035324.html?src=rss",
-          "summary": "Chipolo has built a name for itself as the independent tracking company which happily integrates its products with both Apple and Google\u2019s item-finding networks . Today, it\u2019s announcing a partnership with wallet maker Secrid that, if you\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Chipolo has built a name for itself as the independenttracking companywhich happily integrates its products with bothApple and Google\u2019s item-finding networks. Today, it\u2019s announcing a partnership with wallet maker Secrid that, if you haven\u2019t guessed already, sees the pair launch a compatible miniwallet. The Chipolo x Secrid Miniwallet Trackable is tailor-made to suit Chipolo\u2019s Card tracker and accentuate all of its positives."
         }
       ]
     },
