@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T06:00:21.415300-07:00",
-  "generated_at_display": "Apr 21, 2026 06:00 AM PT",
+  "generated_at": "2026-04-21T07:00:34.217149-07:00",
+  "generated_at_display": "Apr 21, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Chipolo and Secrid team up for a new trackable wallet",
+          "link": "https://www.engadget.com/general/chipolo-and-secrid-team-up-for-a-new-trackable-wallet-130035324.html?src=rss",
+          "summary": "Chipolo has built a name for itself as the independent tracking company which happily integrates its products with both Apple and Google\u2019s item-finding networks . Today, it\u2019s announcing a partnership with wallet maker Secrid that, if you\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Chipolo has built a name for itself as the independenttracking companywhich happily integrates its products with bothApple and Google\u2019s item-finding networks. Today, it\u2019s announcing a partnership with wallet maker Secrid that, if you haven\u2019t guessed already, sees the pair launch a compatible miniwallet. The Chipolo x Secrid Miniwallet Trackable is tailor-made to suit Chipolo\u2019s Card tracker and accentuate all of its positives."
+        },
+        {
           "title": "John Ternus will be CEO of Apple when Tim Cook steps down this fall",
           "link": "https://www.engadget.com/computing/tim-cook-will-step-down-as-204959434.html?src=rss",
           "summary": "Apple CEO Tim Cook is officially stepping down from his role on September 1, the company announced today , while current SVP of hardware engineering John Ternus will take over as the new CEO. Cook will transition to a new role as executive\u2026",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "To the Apple community:For the past 15 years I\u2019ve started just about every morning the same way. I open my email and I read notes I received the day before from Apple\u2019s users all over the world."
+          "excerpt": "Apple CEO Tim Cook is officially stepping down from his role on September 1, thecompany announced today, while current SVP of hardware engineering John Ternus will take over as the new CEO. Cook will transition to a new role as executive chairman of Apple\u2019s Board of Directors. The company says the move was \u201capproved unanimously\u201d by Apple\u2019s Board, and that Cook will work on transitioning his duties over the summer."
         },
         {
           "title": "Amazon allegedly pressured companies to raise product prices with other retailers",
@@ -243,14 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The big deal with Dyson\u2019snew vacuumis how small it is. While \u201cpencil\u201d is certainly an ambitious noun to compare a floor vacuum to, the slender body of thePencilVac Fluffycones($600) brings to mind mops and brooms rather than hulking cyclone-suction tech and connected cleaning. As we described it last year, it\u2019s the company's most stick-like stick vacuum yet. Dyson has been repurposing its engine tech into smaller form factors for years, such as its hair dryers. However, this is the first time it\u2019s been utilized for floor cleaning."
-        },
-        {
-          "title": "The Elden Ring movie hits theaters on March 3, 2028",
-          "link": "https://www.engadget.com/entertainment/tv-movies/the-elden-ring-movie-hits-theaters-on-march-3-2028-154411670.html?src=rss",
-          "summary": "Bandai Namco and A24 have announced that the Elden Ring movie will hit theaters on March 3, 2028 . Filming is set to begin in the next several weeks. The movie was first revealed over a year ago , so this is a welcome update. We also got a\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Bandai Namco and A24 have announced that theElden Ringmoviewill hit theaters on March 3, 2028. Filming is set to begin in the next several weeks. The movie was first revealedover a year ago, so this is a welcome update."
         }
       ]
     },
@@ -268,13 +268,6 @@
         {
           "title": "SCAMMERS IN THE STRAIT",
           "link": "https://www.msn.com/en-in/news/world/scammers-cast-phishing-nets-wide-in-hormuz-with-promises-of-safe-passage-for-ships/ar-AA21o03V",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "KASH MONEY:  FBI Director sues ATLANTIC claiming false reporting about drinking, absences...",
-          "link": "https://www.theguardian.com/us-news/2026/apr/20/kash-patel-lawsuit-the-atlantic",
           "summary": null,
           "published": null,
           "excerpt": null
