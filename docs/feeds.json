@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T10:00:30.650380-07:00",
-  "generated_at_display": "Apr 21, 2026 10:00 AM PT",
+  "generated_at": "2026-04-21T11:00:26.606163-07:00",
+  "generated_at_display": "Apr 21, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Silo's season 3 trailer takes us back to how it all began",
+          "link": "https://www.engadget.com/entertainment/tv-movies/silos-season-3-trailer-takes-us-back-to-how-it-all-began-171033410.html?src=rss",
+          "summary": "The relatively long wait for the third season of Silo is nearly over. Apple TV just announced the dystopian sci-fi hit returns on July 3 , with episodes airing each Friday until September 4. We have long championed this show , calling it\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The relatively long wait for the third season ofSilois nearly over. Apple TV just announced the dystopian sci-fi hitreturns on July 3, with episodes airing each Friday until September 4. We havelong championed this show, calling it \"another gem\" for the platform."
+        },
+        {
           "title": "Google now lets you have full conversations with Gemini for Home",
           "link": "https://www.engadget.com/home/smart-home/google-now-lets-you-have-full-conversations-with-gemini-for-home-160000511.html?src=rss",
           "summary": "Google announced today that it is upgrading the Gemini for Home service with a \"continued conversations\" feature. Continued conversation allows a user to have a natural discussion with the Gemini platform without prefacing every follow-up\u2026",
@@ -219,30 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Sony is adopting new age verificationpoliciesfor PlayStation users in the UK and Ireland. The company isn't making this a blanket requirement, but steps to confirm age will be needed to access \"communication, broadcasting, and certain in-game features\" beginning in June 2026. That includes essentials for online and social gamers, such as joining a party, voice chatting, text messaging or using third-party chat programs such as Discord. Some in-game communication tools, like chats or sharing user-generated content, will also only be available after an age check is completed. Although the new requirements will not be enforced until summer, users are already beingpromptedto get the verification process squared away."
-        },
-        {
-          "title": "Ubisoft will officially reveal the Assassin's Creed Black Flag remake on April 23",
-          "link": "https://www.engadget.com/gaming/ubisoft-will-officially-reveal-the-assassins-creed-black-flag-remake-on-april-23-184729772.html?src=rss",
-          "summary": "It's happening. Ubisoft has scheduled a livestream for April 23 at 12PM ET to discuss the long-awaited Assassin's Creed Black Flag remake. The showcase will be available to watch on the company's YouTube and Twitch pages. It's officially\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's happening. Ubisoft has scheduled a livestream for April 23 at 12PM ET to discuss the long-awaitedAssassin's Creed Black Flagremake. The showcase will be available to watch on the company'sYouTubeandTwitchpages."
-        },
-        {
-          "title": "LinkedIn's new Crosscheck feature lets premium subscribers test competing AI models for free",
-          "link": "https://www.engadget.com/ai/linkedins-crosscheck-feature-lets-premium-subscribers-test-ai-models-for-free-183949210.html?src=rss",
-          "summary": "You can now use LinkedIn to test out some of the latest AI models from OpenAI, Anthropic, Google, Microsoft and other companies without having to worry about token limits or paying for an extra subscription. The professional network is\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You can now use LinkedIn to test out some of the latest AI models from OpenAI, Anthropic, Google, Microsoft and other companies without having to worry about token limits or paying for an extra subscription. The professional network isexperimentingwith a new feature that allows people to test AI platforms' latest offerings within LinkedIn."
-        },
-        {
-          "title": "Meta is testing a WhatsApp Plus subscription that mostly focuses on cosmetic upgrades",
-          "link": "https://www.engadget.com/apps/meta-is-testing-a-whatsapp-plus-subscription-that-mostly-focuses-on-cosmetic-upgrades-175452371.html?src=rss",
-          "summary": "Meta is testing out a premium version of its messaging app, called WhatsApp Plus, that will include several paywalled features. As first spotted by WABetaInfo , Meta is currently rolling out a paid version of WhatsApp, which features\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Metais testing out a premium version of its messaging app, called WhatsApp Plus, that will include several paywalled features. As first spotted byWABetaInfo, Meta is currently rolling out a paid version of WhatsApp, which features mostly cosmetic upgrades. According to theHelp Center page, WhatsApp Plus subscribers will get access to premium stickers that can have special effects and the ability to personalize the app's themes and icons."
         }
       ]
     },
