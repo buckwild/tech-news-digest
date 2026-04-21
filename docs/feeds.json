@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T08:00:32.884523-07:00",
-  "generated_at_display": "Apr 21, 2026 08:00 AM PT",
+  "generated_at": "2026-04-21T09:00:28.726524-07:00",
+  "generated_at_display": "Apr 21, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Samsung brings SmartThings integration to IKEA's Matter devices",
+          "link": "https://www.engadget.com/home/smart-home/samsung-brings-smartthings-integration-to-ikeas-matter-devices-151819629.html?src=rss",
+          "summary": "Samsung is expanding the SmartThings connectivity platform to include many IKEA products . The company promises \"seamless integration\" with the furniture giant's Matter-over-Thread devices , which include stuff like smart lights , air\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Samsung is expanding the SmartThings connectivity platform toinclude many IKEA products. The company promises \"seamless integration\" with the furniture giant'sMatter-over-Thread devices, which include stuff likesmart lights, air quality sensors, remote controls and smart plugs."
+        },
         {
           "title": "Splatoon Raiders lands on Nintendo Switch 2 on July 23",
           "link": "https://www.engadget.com/gaming/nintendo/splatoon-raiders-lands-on-nintendo-switch-2-on-july-23-140447901.html?src=rss",
@@ -259,29 +267,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "UPDATE: PRESIDENT CONSIDERS BAILING OUT FAMILY BUSINESS PARTNER...",
-          "link": "https://www.yahoo.com/news/articles/trump-considers-bailing-uae-invests-163604459.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "IRAN WARNS OF 'NEW CARDS' ON BATTLEFIELD",
+          "title": "IRAN WARNS 'NEW CARDS' ON BATTLEFIELD",
           "link": "https://www.the-sun.com/news/16250661/iran-negotiator-ready-reveal-cards-war-ceasefire/",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "SCAMMERS IN THE STRAIT",
+          "title": "SCAMMERS IN STRAIT",
           "link": "https://www.msn.com/en-in/news/world/scammers-cast-phishing-nets-wide-in-hormuz-with-promises-of-safe-passage-for-ships/ar-AA21o03V",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "CLAIM: Trump tried to use nuclear codes but was stopped by military chief...",
-          "link": "https://www.themirror.com/news/us-news/trump-tried-use-nuclear-codes-1800145",
           "summary": null,
           "published": null,
           "excerpt": null
