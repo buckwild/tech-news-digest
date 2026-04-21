@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T07:00:34.217149-07:00",
-  "generated_at_display": "Apr 21, 2026 07:00 AM PT",
+  "generated_at": "2026-04-21T08:00:32.884523-07:00",
+  "generated_at_display": "Apr 21, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Splatoon Raiders lands on Nintendo Switch 2 on July 23",
+          "link": "https://www.engadget.com/gaming/nintendo/splatoon-raiders-lands-on-nintendo-switch-2-on-july-23-140447901.html?src=rss",
+          "summary": "Nintendo has padded out the Switch 2 release slate for this summer by revealing that Splatoon Raiders is coming to the console on July 23. This is the first spinoff in the series and while it's a \"single-player-focused Splatoon game,\"\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Nintendo has padded out the Switch 2 release slate for this summer by revealing thatSplatoon Raidersis coming to the console on July 23. This is the first spinoff in the series and while it's a \"single-player-focused Splatoon game,\" there is a multiplayer element. Nintendo announcedSplatoon Raiders(the title of which is a soft pun on Tomb Raider) last June."
+        },
+        {
           "title": "Chipolo and Secrid team up for a new trackable wallet",
           "link": "https://www.engadget.com/general/chipolo-and-secrid-team-up-for-a-new-trackable-wallet-130035324.html?src=rss",
           "summary": "Chipolo has built a name for itself as the independent tracking company which happily integrates its products with both Apple and Google\u2019s item-finding networks . Today, it\u2019s announcing a partnership with wallet maker Secrid that, if you\u2026",
@@ -243,14 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "AI-generated musicis spreading like wildfire, according to Deezer, who reported receiving nearly 75,000 uploads of AI-made tracks a day on its platform. The alternative music streaming service based in Paris published areportrevealing that 44 percent of its daily uploads are AI-generated songs, accumulating to around 2 million flagged songs a month. If that figure doesn't alarm you, Deezer said that more than 13.4 million songs were detected and flagged as AI-generated across 2025."
-        },
-        {
-          "title": "Dyson PencilVac Fluffycones review: Almost the perfect floor cleaner for tiny apartments",
-          "link": "https://www.engadget.com/home/smart-home/dyson-pencilvac-fluffycones-review-almost-the-perfect-floor-cleaner-for-tiny-apartments-154550089.html?src=rss",
-          "summary": "The big deal with Dyson\u2019s new vacuum is how small it is. While \u201cpencil\u201d is certainly an ambitious noun to compare a floor vacuum to, the slender body of the PencilVac Fluffycones ($600) brings to mind mops and brooms rather than hulking\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The big deal with Dyson\u2019snew vacuumis how small it is. While \u201cpencil\u201d is certainly an ambitious noun to compare a floor vacuum to, the slender body of thePencilVac Fluffycones($600) brings to mind mops and brooms rather than hulking cyclone-suction tech and connected cleaning. As we described it last year, it\u2019s the company's most stick-like stick vacuum yet. Dyson has been repurposing its engine tech into smaller form factors for years, such as its hair dryers. However, this is the first time it\u2019s been utilized for floor cleaning."
         }
       ]
     },
@@ -258,6 +258,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "UPDATE: PRESIDENT CONSIDERS BAILING OUT FAMILY BUSINESS PARTNER...",
+          "link": "https://www.yahoo.com/news/articles/trump-considers-bailing-uae-invests-163604459.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "IRAN WARNS OF 'NEW CARDS' ON BATTLEFIELD",
           "link": "https://www.the-sun.com/news/16250661/iran-negotiator-ready-reveal-cards-war-ceasefire/",
@@ -268,6 +275,13 @@
         {
           "title": "SCAMMERS IN THE STRAIT",
           "link": "https://www.msn.com/en-in/news/world/scammers-cast-phishing-nets-wide-in-hormuz-with-promises-of-safe-passage-for-ships/ar-AA21o03V",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "CLAIM: Trump tried to use nuclear codes but was stopped by military chief...",
+          "link": "https://www.themirror.com/news/us-news/trump-tried-use-nuclear-codes-1800145",
           "summary": null,
           "published": null,
           "excerpt": null
