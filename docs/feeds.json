@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T01:00:29.263617-07:00",
-  "generated_at_display": "Apr 21, 2026 01:00 AM PT",
+  "generated_at": "2026-04-21T02:00:27.516367-07:00",
+  "generated_at_display": "Apr 21, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for",
+          "link": "https://www.engadget.com/audio/headphones/sennheiser-launches-hd-480-pro-the-closed-back-headphones-fans-have-been-waiting-for-080000727.html?src=rss",
+          "summary": "Sennheiser has introduced a new high-end headphone set for audio professionals. The HD 480 Pro is essentially a closed-back reimagining of the company's popular HD 490 Pro headset. Both headphones are designed for audio professionals,\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Sennheiser has introduced a new high-end headphone set for audio professionals. The HD 480 Pro is essentially a closed-back reimagining of the company's popular HD 490 Pro headset. Both headphones are designed for audio professionals, aiming to fit both a studio or a live performance setting. The company is positioning this product as a versatile option that can handle recording, monitoring, producing or mixing."
+        },
+        {
           "title": "Amazon will invest up to $25 billion in Anthropic in a broad deal",
           "link": "https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html?src=rss",
           "summary": "Amazon and Anthropic are strengthening their ties once again, with steep financial commitments made on both sides. Today, Amazon announced that it will invest $5 billion in the AI company, along with as much as $20 billion in additional\u2026",
@@ -235,14 +243,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Director Jon Favreau (Iron Man,The Jungle Book) hasn't been shy about embracing new technology for filmmaking. While producingThe Mandalorianfor Disney+, he was one of the first filmmakers to useILM's massive LED screens, AKA \"The Volume,\" to produce more realistic lighting and backgrounds on studio sets. For the feature filmThe Mandalorian and Grogu, which hits theaters May 22, Favreau recently revealed that he had Disney build an Apple Vision Pro app to preview its full IMAX scope during filming."
-        },
-        {
-          "title": "Blue Origin landed its recycled New Glenn booster but failed to put payload in orbit",
-          "link": "https://www.engadget.com/science/space/blue-origin-landed-its-recycled-new-glenn-booster-but-failed-to-put-payload-in-orbit-055846419.html?src=rss",
-          "summary": "Blue Origin has successfully reused its first-stage New Glenn booster for the first time after it landed in a cloud of smoke and fire on a recovery ship. It marks the second flight and reuse of Never Tell me the Odds , after the booster\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Blue Origin has successfully reused its first-stage New Glenn booster for the first time after it landed in a cloud of smoke and fire on a recovery ship. It marks the second flight and reuse ofNever Tell me the Odds, after the booster was recovered from New Glenn's previous launch inNovember last year. However, the rocket company's first commercial mission was marred by a failure to place the communications satellite payload into orbit."
         }
       ]
     },
