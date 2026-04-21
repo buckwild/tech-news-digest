@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T13:00:31.967058-07:00",
-  "generated_at_display": "Apr 21, 2026 01:00 PM PT",
+  "generated_at": "2026-04-21T14:00:26.754001-07:00",
+  "generated_at_display": "Apr 21, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -162,7 +162,7 @@
           "summary": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designs directly from its chatbot , it's now releasing ChatGPT Images 2.0 . OpenAI describes the new system as a \u201cstep change\u201d for image generation\u2026",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designsdirectly from its chatbot, it's now releasing ChatGPT Images 2.0. OpenAI describes the new system as a \u201cstep change\u201d for image generation models, particularly when it comes to the tool\u2019s ability to follow instructions in detail, render dense text and place and relate objects in a scene. For the first time, OpenAI has also built an image model with reasoning capabilities, giving the system the ability to do things like search the web and verify its outputs. According to the company, those capabilities should translate to a tool that's more reliable when accuracy, consistency and visual cohesion are essential."
+          "excerpt": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designsdirectly from its chatbot, it's now releasingChatGPT Images 2.0. OpenAI describes the new system as a \u201cstep change\u201d for image generation models, particularly when it comes to the tool\u2019s ability to follow instructions in detail, render dense text and place and relate objects in a scene. For the first time, OpenAI has also built an image model with reasoning capabilities, giving the system the ability to do things like search the web and verify its outputs. According to the company, those capabilities should translate to a tool that's more reliable when accuracy, consistency and visual cohesion are essential."
         },
         {
           "title": "Netflix's Devil May Cry animated adaptation returns for a second season on May 12",
@@ -227,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple CEO Tim Cook is officially stepping down from his role on September 1, thecompany announced today, while current SVP of hardware engineering John Ternus will take over as the new CEO. Cook will transition to a new role as executive chairman of Apple\u2019s Board of Directors. The company says the move was \u201capproved unanimously\u201d by Apple\u2019s Board, and that Cook will work on transitioning his duties over the summer."
-        },
-        {
-          "title": "Amazon allegedly pressured companies to raise product prices with other retailers",
-          "link": "https://www.engadget.com/big-tech/amazon-allegedly-pressured-companies-to-raise-product-prices-with-other-retailers-115302642.html?src=rss",
-          "summary": "Rob Bonta, the Attorney General of California, has released an unredacted copy of a legal document that the state filed in relation to its lawsuit against Amazon, containing details of the company\u2019s alleged price fixing scheme. In it, the\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Rob Bonta, the Attorney General of California, hasreleasedan unredacted copy of a legal document that the state filed in relation to its lawsuit against Amazon,containingdetails of the company\u2019s alleged price fixing scheme. In it, the state of California accuses the e-commerce company of reaching out to brands and asking them to \u201cfix\u201d the retail prices of their products on competitors\u2019 websites. Due to Amazon\u2019s \u201coverwhelming bargaining leverage\u201d and out of fear of punishment, the brands agree to raise their products\u2019 prices on other retailers like Walmart and Target or to remove them altogether, the filing reads."
         }
       ]
     },
@@ -244,7 +236,7 @@
       "entries": [
         {
           "title": "IRAN WARNS 'NEW CARDS' ON BATTLEFIELD",
-          "link": "https://www.the-sun.com/news/16250661/iran-negotiator-ready-reveal-cards-war-ceasefire/",
+          "link": "https://www.the-sun.com/news/16250661",
           "summary": null,
           "published": null,
           "excerpt": null
