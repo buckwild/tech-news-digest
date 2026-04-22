@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T15:00:29.430469-07:00",
-  "generated_at_display": "Apr 22, 2026 03:00 PM PT",
+  "generated_at": "2026-04-22T16:00:35.252651-07:00",
+  "generated_at_display": "Apr 22, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Kalshi suspended three political candidates from its platform for insider trading",
+          "link": "https://www.engadget.com/big-tech/kalshi-suspended-three-political-candidates-from-its-platform-for-insider-trading-222433937.html?src=rss",
+          "summary": "Prediction market Kalshi has taken action against three political candidates, alleging that each was engaged with insider trading of information about their campaigns. The company implemented new rules last month aimed at preventing\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Prediction market Kalshi has taken actionagainstthree political candidates, alleging that each was engaged with insider trading of information about their campaigns. The company implementednew ruleslast month aimed at preventing politicians and athletes from placing bets on events they can control, and it said those guardrails helped to flag this trio of cases."
+        },
+        {
           "title": "Apple rolls out iOS 26.4.2 to fix a flaw that allowed the FBI to access push notifications",
           "link": "https://www.engadget.com/cybersecurity/apple-rolls-out-ios-2642-to-fix-a-flaw-that-allowed-the-fbi-to-access-push-notifications-201153603.html?src=rss",
           "summary": "Apple's latest iOS update fixes a flaw in its notification database that made it possible for law enforcement to view deleted push notifications on a person's iPhone or iPad. The security flaw was one way law enforcement agencies like the\u2026",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Anthropic's buzzyannouncementabout using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozillasharedsome details that support use of the company's special Claude Mythos Preview model as a way to protect critical services. Using Mythos helped Mozilla's team find and patch 271 vulnerabilities in the latest release of the Firefox browser. \"So far we\u2019ve found no category or complexity of vulnerability that humans can find that this model can\u2019t,\" the foundation said."
-        },
-        {
-          "title": "AI company deletes the 3 million OKCupid photos it used for facial recognition training",
-          "link": "https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss",
-          "summary": "When online platforms violate their own privacy policies to sell your photos, have no fear: They just might have to pay an undisclosed settlement fee 12 years later. (Who says justice is dead?) According to Reuters , AI company Clarifai\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "When online platforms violate their own privacy policies to sell your photos, have no fear: They just might have to pay an undisclosed settlement fee 12 years later. (Who says justice is dead?) According toReuters, AI company Clarifai says it hasdeleted3 million profile photos taken from dating site OkCupid in 2014. It follows a settlement reached last monthbetween the FTC and Match Group, OkCupid's owner."
         }
       ]
     },
