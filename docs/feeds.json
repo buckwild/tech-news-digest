@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:00:37.305130-07:00",
-  "generated_at_display": "Apr 22, 2026 05:00 AM PT",
+  "generated_at": "2026-04-22T06:00:27.863918-07:00",
+  "generated_at_display": "Apr 22, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Anker's 'Thus' chip brings AI to its headphones and other products",
+          "link": "https://www.engadget.com/ai/ankers-thus-chip-brings-ai-to-its-headphones-and-other-products-122142552.html?src=rss",
+          "summary": "Anker has announced its own chip that can give its small, wearable products AI capabilities that run locally on device. The company is planning to debut the chip called \u201cThus\u201d on a new model of headphones, slated to be unveiled at its\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anker hasannouncedits own chip that can give its small, wearable products AI capabilities that run locally on device. The company is planning to debut the chip called \u201cThus\u201d on a new model of headphones, slated to be unveiled at its Anker Day event on May 21."
+        },
         {
           "title": "Anthropic is investigating 'unauthorized access' of its Mythos cybersecurity tool",
           "link": "https://www.engadget.com/ai/anthropic-is-investigating-unauthorized-access-of-its-mythos-cybersecurity-tool-091017168.html?src=rss",
