@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T03:00:25.232320-07:00",
-  "generated_at_display": "Apr 22, 2026 03:00 AM PT",
+  "generated_at": "2026-04-22T04:00:30.906373-07:00",
+  "generated_at_display": "Apr 22, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,50 +211,13 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The relatively long wait for the third season ofSilois nearly over. Apple TV just announced the dystopian sci-fi hitreturns on July 3, with episodes airing each Friday until September 4. We havelong championed this show, calling it \"another gem\" for the platform."
-        },
-        {
-          "title": "Google now lets you have full conversations with Gemini for Home",
-          "link": "https://www.engadget.com/home/smart-home/google-now-lets-you-have-full-conversations-with-gemini-for-home-160000511.html?src=rss",
-          "summary": "Google announced today that it is upgrading the Gemini for Home service with a \"continued conversations\" feature. Continued conversation allows a user to have a natural discussion with the Gemini platform without prefacing every follow-up\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google announced today that it is upgrading the Gemini for Home service with a \"continued conversations\" feature. Continued conversation allows a user to have a natural discussion with the Gemini platform without prefacing every follow-up request with the \"Hey Google\" prompt. The microphone will remain active on a smart device for a few seconds after the Gemini AI assistant provides its reply. During that window, the lights on the hardware will pulse or glow, indicating that you can keep chatting normally with the chatbot without needing a wake word. Gemini should retain the context as the conversation progresses, which should allow it to provide the desired information faster without the need for a user to repeat key details."
         }
       ]
     },
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": [
-        {
-          "title": "IRAN WARNS 'NEW CARDS' ON BATTLEFIELD",
-          "link": "https://www.the-sun.com/news/16250661",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "SCAMMERS IN STRAIT",
-          "link": "https://www.yahoo.com/news/articles/scam-messages-offering-ships-safe-061030773.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Scammer Used AI-Generated MAGA Girl to Grift 'Super Dumb' Men...",
-          "link": "https://archive.ph/OhN3S",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "FCC Chair to Attend WHCD Amid Growing Outrage From Journalists...",
-          "link": "https://www.mediaite.com/media/news/trump-fcc-chair-brendan-carr-to-attend-whcd-amid-growing-outrage-from-journalists-at-attacks-on-free-speech/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        }
-      ]
+      "entries": []
     }
   ]
 }
