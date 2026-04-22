@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T04:00:30.906373-07:00",
-  "generated_at_display": "Apr 22, 2026 04:00 AM PT",
+  "generated_at": "2026-04-22T05:00:37.305130-07:00",
+  "generated_at_display": "Apr 22, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -217,7 +217,22 @@
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": []
+      "entries": [
+        {
+          "title": "IRAN GUNBOATS MENACE HORMUZ",
+          "link": "https://archive.ph/LZmvt",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Crypto billionaire sues Trump-linked project alleging extortion...",
+          "link": "https://www.msn.com/en-us/money/companies/crypto-billionaire-sues-trump-linked-project-alleging-extortion/ar-AA21rpcm",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        }
+      ]
     }
   ]
 }
