@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T10:00:26.337253-07:00",
-  "generated_at_display": "Apr 22, 2026 10:00 AM PT",
+  "generated_at": "2026-04-22T11:00:24.508346-07:00",
+  "generated_at_display": "Apr 22, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -135,10 +135,10 @@
         {
           "title": "Hey Meta workers, are you getting paid for those keystrokes?",
           "link": "https://www.engadget.com/general/hey-meta-workers-are-you-getting-paid-for-those-keystrokes-131934881.html?src=rss",
-          "summary": "No longer content to subsume recognizable intellectual properties , the majority of the i ndexed internet and books ( basically all of them ), AI will apparently now begin devouring its own workforce. A report in Reuters alleged that the\u2026",
+          "summary": "No longer content to subsume recognizable intellectual properties , the majority of the indexed internet and books ( basically all of them ), AI will apparently now begin devouring its own workforce. A report in Reuters alleged that the\u2026",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "No longer content to subsumerecognizable intellectual properties, the majority of the indexed internetand books (basically all of them), AI will apparently now begin devouring its own workforce."
+          "excerpt": "No longer content to subsumerecognizable intellectual properties, the majority of theindexed internetand books (basically all of them), AI will apparently now begin devouring its own workforce."
         },
         {
           "title": "BMW's new i7 xDrive EVs will offer longer range and faster charging",
@@ -219,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designsdirectly from its chatbot, it's now releasingChatGPT Images 2.0. OpenAI describes the new system as a \u201cstep change\u201d for image generation models, particularly when it comes to the tool\u2019s ability to follow instructions in detail, render dense text and place and relate objects in a scene. For the first time, OpenAI has also built an image model with reasoning capabilities, giving the system the ability to do things like search the web and verify its outputs. According to the company, those capabilities should translate to a tool that's more reliable when accuracy, consistency and visual cohesion are essential."
-        },
-        {
-          "title": "Netflix's Devil May Cry animated adaptation returns for a second season on May 12",
-          "link": "https://www.engadget.com/entertainment/tv-movies/netflixs-devil-may-cry-animated-adaptation-returns-for-a-second-season-on-may-12-184003226.html?src=rss",
-          "summary": "Netflix's hit animated adaptation of the video game series Devil May Cry is returning for a second season on May 12. The streamer has released a full trailer alongside this announcement, after dropping a short teaser several months back .\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Netflix'shit animated adaptationof the video game seriesDevil May Cryis returning for a second seasonon May 12. The streamer has released a full trailer alongside this announcement, afterdropping a short teaser several months back."
         }
       ]
     },
@@ -235,7 +227,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "GOVT TO RESCUE SPIRIT AIRLINES... DEVELOPING...",
+          "title": "GOVT TO RESCUE SPIRIT AIRLINES... DEVELOPING...$500 million in exchange for equity stake...",
           "link": "https://www.cnbc.com/2026/04/22/spirit-airlines-rescue-trump-administration.html",
           "summary": null,
           "published": null,
@@ -244,6 +236,13 @@
         {
           "title": "IRAN GUNBOATS MENACE HORMUZ",
           "link": "https://finance.yahoo.com/sectors/energy/articles/iran-gunboats-menace-hormuz-own-105347562.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "6 MONTHS TO CLEAR STRAIT",
+          "link": "https://archive.is/FPQrs",
           "summary": null,
           "published": null,
           "excerpt": null
