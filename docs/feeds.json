@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T14:00:26.783480-07:00",
-  "generated_at_display": "Apr 22, 2026 02:00 PM PT",
+  "generated_at": "2026-04-22T15:00:29.430469-07:00",
+  "generated_at_display": "Apr 22, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -241,6 +241,13 @@
         {
           "title": "White House pushes imminent easing of controls on marijuana...",
           "link": "https://www.washingtonpost.com/politics/2026/04/22/trump-marijuana-rescheduling/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Billionaire sues crypto project alleging 'criminal extortion'...",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-billionaire-sues-trump-linked-042702499.html",
           "summary": null,
           "published": null,
           "excerpt": null
