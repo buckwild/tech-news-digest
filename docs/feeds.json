@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T02:00:38.435712-07:00",
-  "generated_at_display": "Apr 22, 2026 02:00 AM PT",
+  "generated_at": "2026-04-22T03:00:25.232320-07:00",
+  "generated_at_display": "Apr 22, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Anthropic is investigating 'unauthorized access' of its Mythos cybersecurity tool",
+          "link": "https://www.engadget.com/ai/anthropic-is-investigating-unauthorized-access-of-its-mythos-cybersecurity-tool-091017168.html?src=rss",
+          "summary": "Anthropic is investigating potential \"unauthorized access\" to its Claude Mythos model that has been touted for its ability to find cybersecurity flaws, the company told Bloomberg . A group gained access to the model through a third-party\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic is investigating potential \"unauthorized access\" to its Claude Mythos model that has beentoutedfor its ability to find cybersecurity flaws, the company toldBloomberg. A group gained access to the model through a third-party contractor portal and by using internet sleuthing tools, according to the report. However, the group is only interested in trying the models and not using them maliciously, according to a person familiar with the matter."
+        },
+        {
           "title": "SpaceX and Cursor strike partnership that might end in a $60 billion acquisition",
           "link": "https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss",
           "summary": "SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. \"SpaceXAI and @cursor_ai are now working closely together to create the world\u2019s best coding and\u2026",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google announced today that it is upgrading the Gemini for Home service with a \"continued conversations\" feature. Continued conversation allows a user to have a natural discussion with the Gemini platform without prefacing every follow-up request with the \"Hey Google\" prompt. The microphone will remain active on a smart device for a few seconds after the Gemini AI assistant provides its reply. During that window, the lights on the hardware will pulse or glow, indicating that you can keep chatting normally with the chatbot without needing a wake word. Gemini should retain the context as the conversation progresses, which should allow it to provide the desired information faster without the need for a user to repeat key details."
-        },
-        {
-          "title": "Samsung brings SmartThings integration to IKEA's Matter devices",
-          "link": "https://www.engadget.com/home/smart-home/samsung-brings-smartthings-integration-to-ikeas-matter-devices-151819629.html?src=rss",
-          "summary": "Samsung is expanding the SmartThings connectivity platform to include many IKEA products . The company promises \"seamless integration\" with the furniture giant's Matter-over-Thread devices , which include stuff like smart lights , air\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Samsung is expanding the SmartThings connectivity platform toinclude many IKEA products. The company promises \"seamless integration\" with the furniture giant'sMatter-over-Thread devices, which include stuff likesmart lights, air quality sensors, remote controls and smart plugs."
         }
       ]
     },
