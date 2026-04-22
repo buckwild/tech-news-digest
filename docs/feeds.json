@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T07:00:32.955199-07:00",
-  "generated_at_display": "Apr 22, 2026 07:00 AM PT",
+  "generated_at": "2026-04-22T08:00:38.049822-07:00",
+  "generated_at_display": "Apr 22, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Here\u2019s to the stable ones: In praise of Tim Cook",
+          "link": "https://www.engadget.com/big-tech/heres-to-the-stable-ones-in-praise-of-tim-cook-144850435.html?src=rss",
+          "summary": "Tim Cook\u2019s tenure as Apple CEO ends September 1 when he takes the role of executive chair. He will be replaced by John Ternus , a 25-year Apple veteran and head of its hardware engineering division. I get the sense Cook\u2019s professional\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tim Cook\u2019s tenure as Apple CEO ends September 1 when he takes the role of executive chair. He will be replaced byJohn Ternus, a 25-year Apple veteran and head of its hardware engineering division. I get the sense Cook\u2019s professional obituaries will focus on his steady hand, execution success and lack of intra-company drama. All of those are virtues but I suspect the media, ever in love with a narrative of its own concoction, will use them as cudgels. Consider this an attempt to balance the record ahead of Cook\u2019s damning with the faintest of praise."
+        },
+        {
           "title": "Hey Meta workers, are you getting paid for those keystrokes?",
           "link": "https://www.engadget.com/general/hey-meta-workers-are-you-getting-paid-for-those-keystrokes-131934881.html?src=rss",
           "summary": "No longer content to subsume recognizable intellectual properties , the majority of the i ndexed internet and books ( basically all of them ), AI will apparently now begin devouring its own workforce. A report in Reuters alleged that the\u2026",
@@ -235,6 +243,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "GOVT TO RESCUE SPIRIT AIRLINES... DEVELOPING...",
+          "link": "https://www.cnbc.com/2026/04/22/spirit-airlines-rescue-trump-administration.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "IRAN GUNBOATS MENACE HORMUZ",
           "link": "https://archive.ph/LZmvt",
           "summary": null,
@@ -242,7 +257,7 @@
           "excerpt": null
         },
         {
-          "title": "Crypto billionaire sues Trump-linked project alleging extortion...",
+          "title": "Billionaire sues crypto project alleging 'criminal extortion'...",
           "link": "https://www.msn.com/en-us/money/companies/crypto-billionaire-sues-trump-linked-project-alleging-extortion/ar-AA21rpcm",
           "summary": null,
           "published": null,
