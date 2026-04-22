@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T16:00:27.074786-07:00",
-  "generated_at_display": "Apr 21, 2026 04:00 PM PT",
+  "generated_at": "2026-04-21T17:00:29.814111-07:00",
+  "generated_at_display": "Apr 21, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "SpaceX and Cursor strike partnership that might end in a $60 billion acquisition",
+          "link": "https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss",
+          "summary": "SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. \"SpaceXAI and @cursor_ai are now working closely together to create the world\u2019s best coding and\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. \"SpaceXAI and\u00a0 @cursor_ai\u00a0 are now working closely together to create the world\u2019s best coding and knowledge work AI,\" SpaceX wrote ina poston X."
+        },
+        {
           "title": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos",
           "link": "https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss",
           "summary": "Anthropic's buzzy announcement about using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozilla shared some details that support use of the company's special Claude Mythos Preview model as a\u2026",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Samsung is expanding the SmartThings connectivity platform toinclude many IKEA products. The company promises \"seamless integration\" with the furniture giant'sMatter-over-Thread devices, which include stuff likesmart lights, air quality sensors, remote controls and smart plugs."
-        },
-        {
-          "title": "Splatoon Raiders lands on Nintendo Switch 2 on July 23",
-          "link": "https://www.engadget.com/gaming/nintendo/splatoon-raiders-lands-on-nintendo-switch-2-on-july-23-140447901.html?src=rss",
-          "summary": "Nintendo has padded out the Switch 2 release slate for this summer by revealing that Splatoon Raiders is coming to the console on July 23. This is the first spinoff in the series and while it's a \"single-player-focused Splatoon game,\"\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Nintendo has padded out the Switch 2 release slate for this summer by revealing thatSplatoon Raidersis coming to the console on July 23. This is the first spinoff in the series and while it's a \"single-player-focused Splatoon game,\" there is a multiplayer element. Nintendo announcedSplatoon Raiders(the title of which is a soft pun on Tomb Raider) last June."
         }
       ]
     },
