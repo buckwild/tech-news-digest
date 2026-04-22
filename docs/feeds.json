@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T06:00:27.863918-07:00",
-  "generated_at_display": "Apr 22, 2026 06:00 AM PT",
+  "generated_at": "2026-04-22T07:00:32.955199-07:00",
+  "generated_at_display": "Apr 22, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Hey Meta workers, are you getting paid for those keystrokes?",
+          "link": "https://www.engadget.com/general/hey-meta-workers-are-you-getting-paid-for-those-keystrokes-131934881.html?src=rss",
+          "summary": "No longer content to subsume recognizable intellectual properties , the majority of the i ndexed internet and books ( basically all of them ), AI will apparently now begin devouring its own workforce. A report in Reuters alleged that the\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "No longer content to subsumerecognizable intellectual properties, the majority of the indexed internetand books (basically all of them), AI will apparently now begin devouring its own workforce."
+        },
+        {
+          "title": "BMW's new i7 xDrive EVs will offer longer range and faster charging",
+          "link": "https://www.engadget.com/transportation/evs/bmws-new-i7-xdrive-evs-will-offer-longer-range-and-faster-charging-131059423.html?src=rss",
+          "summary": "BMW just announced its 7-series lineup for 2027 promising \"the most extensive model update ever undertaken\" by the Bavarian automaker. The series includes a pair of i7 EVs, a plug-in hybrid, two ICE models and a V8-powered M model \u2014 all\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "BMW just announced its 7-series lineup for 2027 promising \"the most extensive model update ever undertaken\" by the Bavarian automaker. The series includes a pair of i7 EVs, a plug-in hybrid, two ICE models and a V8-powered M model \u2014 all running on BMW's \"Neue Klasse\" technology and flaunting all-new design language."
+        },
+        {
           "title": "Anker's 'Thus' chip brings AI to its headphones and other products",
           "link": "https://www.engadget.com/ai/ankers-thus-chip-brings-ai-to-its-headphones-and-other-products-122142552.html?src=rss",
           "summary": "Anker has announced its own chip that can give its small, wearable products AI capabilities that run locally on device. The company is planning to debut the chip called \u201cThus\u201d on a new model of headphones, slated to be unveiled at its\u2026",
@@ -211,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Framework\u2019s lineup of modular, repairable laptops has seen the company grow from a niche to the mainstream. Now, the company is launching a pro version of its 13-inch laptop, but it\u2019s still held close to all of its principles. Because while this all-new version has plenty of bells and whistles,almost allof its components are still instantly compatible with the rest of the range. You can take a part from this new 13 Pro, and install it into thefirst-generation 13 launched back in 2021without much fuss."
-        },
-        {
-          "title": "Silo's season 3 trailer takes us back to how it all began",
-          "link": "https://www.engadget.com/entertainment/tv-movies/silos-season-3-trailer-takes-us-back-to-how-it-all-began-171033410.html?src=rss",
-          "summary": "The relatively long wait for the third season of Silo is nearly over. Apple TV just announced the dystopian sci-fi hit returns on July 3 , with episodes airing each Friday until September 4. We have long championed this show , calling it\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The relatively long wait for the third season ofSilois nearly over. Apple TV just announced the dystopian sci-fi hitreturns on July 3, with episodes airing each Friday until September 4. We havelong championed this show, calling it \"another gem\" for the platform."
         }
       ]
     },
