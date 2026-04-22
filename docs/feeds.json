@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T11:00:24.508346-07:00",
-  "generated_at_display": "Apr 22, 2026 11:00 AM PT",
+  "generated_at": "2026-04-22T12:00:31.072867-07:00",
+  "generated_at_display": "Apr 22, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "LG's first RGB TV starts at $5000 and is available to pre-order today",
+          "link": "https://www.engadget.com/home/home-theater/lgs-first-rgb-tv-starts-at-5000-and-is-available-to-pre-order-today-185159193.html?src=rss",
+          "summary": "LG has announced the pricing and availability of its Micro RGB evo , the company's first take on a TV display trend that kicked off in earnest at CES 2026. The LG Micro RGB evo is available to pre-order today starting at $5,000, and\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "LG has announced the pricing and availability of itsMicro RGB evo, the company's first take ona TV display trendthat kicked off in earnest at CES 2026. The LG Micro RGB evo is available to pre-order today starting at $5,000, and follows the recent release ofthe ultra-thin LG Wallpaper."
+        },
+        {
           "title": "Here\u2019s to the stable ones: In praise of Tim Cook",
           "link": "https://www.engadget.com/big-tech/heres-to-the-stable-ones-in-praise-of-tim-cook-144850435.html?src=rss",
           "summary": "Tim Cook\u2019s tenure as Apple CEO ends September 1 when he takes the role of executive chair. He will be replaced by John Ternus , a 25-year Apple veteran and head of its hardware engineering division. I get the sense Cook\u2019s professional\u2026",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Florida Attorney General James Ulthmeierhas announcedthat the state's Office of Statewide Prosecution has opened a criminal investigation into OpenAI and ChatGPT. The investigation was opened because the suspect ina mass shooting at Florida State Universityin 2025reportedly used ChatGPTin the lead up to the shooting."
-        },
-        {
-          "title": "ChatGPT Images 2.0 is better at rendering non-Latin text",
-          "link": "https://www.engadget.com/ai/chatgpt-images-20-is-better-at-rendering-non-latin-text-190000153.html?src=rss",
-          "summary": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designs directly from its chatbot , it's now releasing ChatGPT Images 2.0 . OpenAI describes the new system as a \u201cstep change\u201d for image generation\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designsdirectly from its chatbot, it's now releasingChatGPT Images 2.0. OpenAI describes the new system as a \u201cstep change\u201d for image generation models, particularly when it comes to the tool\u2019s ability to follow instructions in detail, render dense text and place and relate objects in a scene. For the first time, OpenAI has also built an image model with reasoning capabilities, giving the system the ability to do things like search the web and verify its outputs. According to the company, those capabilities should translate to a tool that's more reliable when accuracy, consistency and visual cohesion are essential."
         }
       ]
     },
