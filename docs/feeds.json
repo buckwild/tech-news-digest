@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T02:00:30.538885-07:00",
-  "generated_at_display": "Apr 23, 2026 02:00 AM PT",
+  "generated_at": "2026-04-23T03:00:31.311142-07:00",
+  "generated_at_display": "Apr 23, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Musk pledges to fix 2019-2023 Teslas that can't fully self drive",
+          "link": "https://www.engadget.com/transportation/evs/musk-pledges-to-fix-2019-2023-teslas-that-cant-fully-self-drive-095002120.html?src=rss",
+          "summary": "Tesla still doesn\u2019t have a solid pathway for how to give Hardware 3 cars Full Self-Driving (FSD) capabilities, based on what Elon Musk said during the company\u2019s latest earnings call . The automaker has known for quite a while that its\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tesla still doesn\u2019t have a solid pathway for how to give Hardware 3 cars Full Self-Driving (FSD) capabilities, based on what Elon Musk said during the company\u2019slatest earnings call. The automaker has known for quite a while that its vehicles equipped with Hardware 3 aren\u2019t capable of unsupervised FSD, even though the company built the system specificallyto give its cars the ability. Tesla used Hardware 3 on cars manufactured from 2019 until early 2023 before Hardware 4 shipped."
+        },
         {
           "title": "Kalshi suspended three political candidates from its platform for insider trading",
           "link": "https://www.engadget.com/big-tech/kalshi-suspended-three-political-candidates-from-its-platform-for-insider-trading-222433937.html?src=rss",
