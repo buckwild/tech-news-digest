@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T11:00:32.515721-07:00",
-  "generated_at_display": "Apr 23, 2026 11:00 AM PT",
+  "generated_at": "2026-04-23T12:00:24.406854-07:00",
+  "generated_at_display": "Apr 23, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Titanium Court mashes together genres and cultural references to tell a strange, funny tale",
+          "link": "https://www.engadget.com/gaming/titanium-court-mashes-together-genres-and-cultural-references-to-tell-a-strange-funny-tale-184750797.html?src=rss",
+          "summary": "I would love to tell you everything about my favorite game of the year so far. But that would be doing a great disservice to Titanium Court . I'm not even sure I could explain it all, anyway. Titanium Court is a run-based game with\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I wouldloveto tell you everything about my favorite game of the year so far. But that would be doing a great disservice toTitanium Court. I'm not even sure Icouldexplain it all, anyway."
+        },
+        {
+          "title": "Apple, Amazon join push for looser greenhouse emissions reporting",
+          "link": "https://www.engadget.com/big-tech/apple-amazon-join-push-for-looser-greenhouse-emissions-reporting-182314690.html?src=rss",
+          "summary": "The Greenhouse Gas Protocol , a widely used international environmental standard for measuring and reporting emissions, is considering changes to how certain types of the emissions are reported. Advocates for the new guidance argue that\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "TheGreenhouse Gas Protocol, a widely used international environmental standard for measuring and reporting emissions, is considering changes to how certain types of the emissions are reported. Advocates for the new guidance argue that the current rules make it too easy for businesses to overstate their commitments to environmentally friendly operations, such as being powered by renewable energy or making progress toward net-zero emissions."
+        },
+        {
+          "title": "Apple TV's upcoming For All Mankind spinoff Star City oozes Cold War-era paranoia",
+          "link": "https://www.engadget.com/entertainment/tv-movies/apple-tvs-upcoming-for-all-mankind-spinoff-star-city-oozes-cold-war-era-paranoia-180429809.html?src=rss",
+          "summary": "Apple TV just dropped a real-deal trailer for Star City , after releasing a short teaser earlier this year . It's a spinoff of For All Mankind , but this new show examines the alt-history space race from the Soviet perspective. In other\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple TV justdropped a real-deal trailerforStar City, after releasing a short teaserearlier this year. It's a spinoff ofFor All Mankind, but this new show examines the alt-history space race from the Soviet perspective."
+        },
+        {
           "title": "Ubisoft has finally dropped a trailer for that Assassin's Creed: Black Flag remake",
           "link": "https://www.engadget.com/gaming/ubisoft-has-finally-dropped-a-trailer-for-that-assassins-creed-black-flag-remake-162610745.html?src=rss",
           "summary": "Ubisoft has finally given us some real details about Assassin's Creed: Black Flag Resynced , after confirming the remake earlier this year . It's set to release on July 9 for PC, PS5 and Xbox Series X/S. There's a trailer and it looks\u2026",
@@ -187,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "LG has announced the pricing and availability of itsMicro RGB evo, the company's first take ona TV display trendthat kicked off in earnest at CES 2026. The LG Micro RGB evo is available to pre-order today starting at $5,000, and follows the recent release ofthe ultra-thin LG Wallpaper."
-        },
-        {
-          "title": "Here\u2019s to the stable ones: In praise of Tim Cook",
-          "link": "https://www.engadget.com/big-tech/heres-to-the-stable-ones-in-praise-of-tim-cook-144850435.html?src=rss",
-          "summary": "Tim Cook\u2019s tenure as Apple CEO ends September 1 when he takes the role of executive chair. He will be replaced by John Ternus , a 25-year Apple veteran and head of its hardware engineering division. I get the sense Cook\u2019s professional\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Tim Cook\u2019s tenure as Apple CEO ends September 1 when he takes the role of executive chair. He will be replaced byJohn Ternus, a 25-year Apple veteran and head of its hardware engineering division. I get the sense Cook\u2019s professional obituaries will focus on his steady hand, execution success and lack of intra-company drama. All of those are virtues but I suspect the media, ever in love with a narrative of its own concoction, will use them as cudgels. Consider this an attempt to balance the record ahead of Cook\u2019s damning with the faintest of praise."
         }
       ]
     },
