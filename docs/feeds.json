@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T16:00:35.252651-07:00",
-  "generated_at_display": "Apr 22, 2026 04:00 PM PT",
+  "generated_at": "2026-04-22T17:00:26.884604-07:00",
+  "generated_at_display": "Apr 22, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -218,6 +218,13 @@
           "excerpt": null
         },
         {
+          "title": "Bessent Backs Bailout for UAE...",
+          "link": "https://www.nytimes.com/2026/04/22/us/politics/bessent-support-emirates.html?unlocked_article_code=1.c1A.-3c_.IdxVWePvDEpx&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "IRAN GUNBOATS MENACE HORMUZ",
           "link": "https://finance.yahoo.com/sectors/energy/articles/iran-gunboats-menace-hormuz-own-105347562.html",
           "summary": null,
@@ -232,14 +239,21 @@
           "excerpt": null
         },
         {
-          "title": "FBI Said to Have Investigated NYTIMES Reporter After Article on Patel's Girlfriend...",
-          "link": "https://www.nytimes.com/2026/04/22/us/politics/fbi-times-reporter.html?unlocked_article_code=1.c1A.MOgn._H0TdXJRb1kH&smid=url-share",
+          "title": "Judge dismisses Kash Patel's defamation suit over claim he frequented nightclubs ...",
+          "link": "https://www.cnbc.com/2026/04/21/kash-patel-fbi-defamation-lawsuit-figliuzzi-dismissed.html",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "White House pushes imminent easing of controls on marijuana...",
+          "title": "Loomer Loses Lawsuit Against Bill Maher Over Trump Joke...",
+          "link": "https://www.politico.com/news/2026/04/22/judge-tosses-laura-loomer-bill-maher-defamation-suit-00887992",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "White House pushes easing of  marijuana controls...",
           "link": "https://www.washingtonpost.com/politics/2026/04/22/trump-marijuana-rescheduling/",
           "summary": null,
           "published": null,
