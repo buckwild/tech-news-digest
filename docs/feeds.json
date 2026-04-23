@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T09:00:39.748139-07:00",
-  "generated_at_display": "Apr 23, 2026 09:00 AM PT",
+  "generated_at": "2026-04-23T10:00:25.555834-07:00",
+  "generated_at_display": "Apr 23, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Ubisoft has finally dropped a trailer for that Assassin's Creed: Black Flag remake",
+          "link": "https://www.engadget.com/gaming/ubisoft-has-finally-dropped-a-trailer-for-that-assassins-creed-black-flag-remake-162610745.html?src=rss",
+          "summary": "Ubisoft has finally given us some real details about Assassin's Creed: Black Flag Resynced , after confirming the remake earlier this year . It's set to release on July 9 for PC, PS5 and Xbox Series X/S. There's a trailer and it looks\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Ubisoft has finallygiven us some real detailsaboutAssassin's Creed: Black Flag Resynced, afterconfirming the remake earlier this year. It's set to release on July 9 for PC, PS5 and Xbox Series X/S."
+        },
+        {
           "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
           "link": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html?src=rss",
           "summary": "A hairdryer was allegedly used to rig Polymarket bets on the weather at Charles de Gaulle airport in Paris, according to a report by The Telegraph . French authorities note that the official temperature readings at the airport spiked twice\u2026",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "No longer content to subsumerecognizable intellectual properties, the majority of theindexed internetand books (basically all of them), AI will apparently now begin devouring its own workforce."
-        },
-        {
-          "title": "BMW's new i7 xDrive EVs will offer longer range and faster charging",
-          "link": "https://www.engadget.com/transportation/evs/bmws-new-i7-xdrive-evs-will-offer-longer-range-and-faster-charging-131059423.html?src=rss",
-          "summary": "BMW just announced its 7-series lineup for 2027 promising \"the most extensive model update ever undertaken\" by the Bavarian automaker. The series includes a pair of i7 EVs, a plug-in hybrid, two ICE models and a V8-powered M model \u2014 all\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "BMW just announced its 7-series lineup for 2027 promising \"the most extensive model update ever undertaken\" by the Bavarian automaker. The series includes a pair of i7 EVs, a plug-in hybrid, two ICE models and a V8-powered M model \u2014 all running on BMW's \"Neue Klasse\" technology and flaunting all-new design language."
         }
       ]
     },
