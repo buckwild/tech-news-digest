@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T06:00:29.349056-07:00",
-  "generated_at_display": "Apr 23, 2026 06:00 AM PT",
+  "generated_at": "2026-04-23T07:00:37.669422-07:00",
+  "generated_at_display": "Apr 23, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,8 +211,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "6 MONTHS TO CLEAR STRAIT?",
-          "link": "https://www.msn.com/en-us/news/world/ar-AA21unSJ",
+          "title": "IRAN BANKS HORMUZ TOLLS",
+          "link": "https://www.msn.com/en-us/news/world/iran-says-1st-strait-of-hormuz-toll-revenues-banked/ar-AA21yg1U",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "STRAIT STANDOFF ESCALATES",
+          "link": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -232,22 +239,8 @@
           "excerpt": null
         },
         {
-          "title": "Judge dismisses Kash defamation suit over claim he frequented nightclubs ...",
-          "link": "https://www.cnbc.com/2026/04/21/kash-patel-fbi-defamation-lawsuit-figliuzzi-dismissed.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "Loomer Loses Lawsuit Against Bill Maher Over Trump Joke...",
           "link": "https://www.politico.com/news/2026/04/22/judge-tosses-laura-loomer-bill-maher-defamation-suit-00887992",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "White House reclassifies marijuana as less-dangerous drug in historic shift...",
-          "link": "https://apnews.com/article/medical-marijuana-rescheduling-justice-department-trump-cannabis-1d6722d3aae122b1a91f8e4b6c690268",
           "summary": null,
           "published": null,
           "excerpt": null
