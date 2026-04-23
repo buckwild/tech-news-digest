@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T05:00:27.773203-07:00",
-  "generated_at_display": "Apr 23, 2026 05:00 AM PT",
+  "generated_at": "2026-04-23T06:00:29.349056-07:00",
+  "generated_at_display": "Apr 23, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta will show parents the topics of their teens' AI conversations",
+          "link": "https://www.engadget.com/ai/meta-will-show-parents-the-topics-of-their-teens-ai-conversations-123119624.html?src=rss",
+          "summary": "With countries banning social media for kids left and right , Meta is trying different things to convince parents that its platforms are safe for teens. In its latest effort , the company will start showing parents the topics their teens\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "With countries banning social media for kidsleftandright, Meta is tryingdifferent thingsto convince parents that its platforms are safe for teens. In itslatest effort, the company will start showing parents the topics their teens have discussed with Meta AI over the previous seven days."
+        },
+        {
+          "title": "2027 BMW i7 first look: A fantastically techy car for the 1 percent",
+          "link": "https://www.engadget.com/transportation/evs/2027-bmw-i7-first-look-a-fantastically-techy-car-for-the-1-percent-123000364.html?src=rss",
+          "summary": "Big, fancy executive sedans are a dying breed, especially when it comes to EVs. With the Tesla Model S and Mercedes' EQ line on their way out, pickings are slim. Aside from the upcoming S-Class , there's the Lucid Air , Cadillac Celestiq\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Big, fancy executive sedans are a dying breed, especially when it comes to EVs. With theTesla Model SandMercedes' EQ lineon their way out, pickings are slim. Aside from theupcoming S-Class, there's theLucid Air,Cadillac Celestiqand maybe thePorsche Taycan, depending on how far you're willing to stretch the definition. But as the market leader in luxury sedans, BMW isn't giving up yet. With the arrival of the new 7-series, the company has made a car \u2014 with a complete range of gas, hybrid and fully electric options \u2014 that truly embraces modern gadgetry."
+        },
+        {
           "title": "Musk pledges to fix 2019-2023 Teslas that can't fully self drive",
           "link": "https://www.engadget.com/transportation/evs/musk-pledges-to-fix-2019-2023-teslas-that-cant-fully-self-drive-095002120.html?src=rss",
           "summary": "Tesla still doesn\u2019t have a solid pathway for how to give Hardware 3 cars Full Self-Driving (FSD) capabilities, based on what Elon Musk said during the company\u2019s latest earnings call . The automaker has known for quite a while that its\u2026",
@@ -187,30 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Anker hasannouncedits own chip that can give its small, wearable products AI capabilities that run locally on device. The company is planning to debut the chip called \u201cThus\u201d on a new model of headphones, slated to be unveiled at its Anker Day event on May 21."
-        },
-        {
-          "title": "Anthropic is investigating 'unauthorized access' of its Mythos cybersecurity tool",
-          "link": "https://www.engadget.com/ai/anthropic-is-investigating-unauthorized-access-of-its-mythos-cybersecurity-tool-091017168.html?src=rss",
-          "summary": "Anthropic is investigating potential \"unauthorized access\" to its Claude Mythos model that has been touted for its ability to find cybersecurity flaws, the company told Bloomberg . A group gained access to the model through a third-party\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic is investigating potential \"unauthorized access\" to its Claude Mythos model that has beentoutedfor its ability to find cybersecurity flaws, the company toldBloomberg. A group gained access to the model through a third-party contractor portal and by using internet sleuthing tools, according to the report. However, the group is only interested in trying the models and not using them maliciously, according to a person familiar with the matter."
-        },
-        {
-          "title": "SpaceX and Cursor strike partnership that might end in a $60 billion acquisition",
-          "link": "https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss",
-          "summary": "SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. \"SpaceXAI and @cursor_ai are now working closely together to create the world\u2019s best coding and\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. \"SpaceXAI and\u00a0 @cursor_ai\u00a0 are now working closely together to create the world\u2019s best coding and knowledge work AI,\" SpaceX wrote ina poston X."
-        },
-        {
-          "title": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos",
-          "link": "https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss",
-          "summary": "Anthropic's buzzy announcement about using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozilla shared some details that support use of the company's special Claude Mythos Preview model as a\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic's buzzyannouncementabout using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozillasharedsome details that support use of the company's special Claude Mythos Preview model as a way to protect critical services. Using Mythos helped Mozilla's team find and patch 271 vulnerabilities in the latest release of the Firefox browser. \"So far we\u2019ve found no category or complexity of vulnerability that humans can find that this model can\u2019t,\" the foundation said."
         }
       ]
     },
@@ -219,22 +211,22 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "GOVT TO RESCUE SPIRIT AIRLINES...",
-          "link": "https://www.cnbc.com/2026/04/22/spirit-airlines-rescue-trump-administration.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Bessent says 'many' allies looking for bailouts...",
-          "link": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "6 MONTHS TO CLEAR STRAIT",
+          "title": "6 MONTHS TO CLEAR STRAIT?",
           "link": "https://www.msn.com/en-us/news/world/ar-AA21unSJ",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "'I Have Half of MAGA': The Republican Challenging President From Within...",
+          "link": "https://archive.ph/zyi4X",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "House Oversight GOP 'Split' Over Pardon for Ghislaine Maxwell...",
+          "link": "https://www.mediaite.com/politics/house-oversight-committee-republicans-split-over-whether-convicted-child-sex-trafficker-ghislaine-maxwell-should-be-pardoned/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -254,8 +246,8 @@
           "excerpt": null
         },
         {
-          "title": "White House pushes easing of  marijuana controls...",
-          "link": "https://www.washingtonpost.com/politics/2026/04/22/trump-marijuana-rescheduling/",
+          "title": "White House reclassifies marijuana as less-dangerous drug in historic shift...",
+          "link": "https://apnews.com/article/medical-marijuana-rescheduling-justice-department-trump-cannabis-1d6722d3aae122b1a91f8e4b6c690268",
           "summary": null,
           "published": null,
           "excerpt": null
