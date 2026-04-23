@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T12:00:24.406854-07:00",
-  "generated_at_display": "Apr 23, 2026 12:00 PM PT",
+  "generated_at": "2026-04-23T13:00:36.847808-07:00",
+  "generated_at_display": "Apr 23, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta is downsizing by about 10 percent",
+          "link": "https://www.engadget.com/social-media/meta-is-downsizing-by-about-10-percent-192658099.html?src=rss",
+          "summary": "Meta is making another steep cut to its staff, this time to the tune of a 10 percent reduction in its workforce. About 8,000 people will be laid off and about 6,000 open jobs will also be eliminated, according to Bloomberg . In an internal\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Meta is making another steep cut to its staff, this time to the tune of a 10 percent reduction in its workforce. About 8,000 people will be laid off and about 6,000 open jobs will also be eliminated, according toBloomberg."
+        },
+        {
           "title": "Titanium Court mashes together genres and cultural references to tell a strange, funny tale",
           "link": "https://www.engadget.com/gaming/titanium-court-mashes-together-genres-and-cultural-references-to-tell-a-strange-funny-tale-184750797.html?src=rss",
           "summary": "I would love to tell you everything about my favorite game of the year so far. But that would be doing a great disservice to Titanium Court . I'm not even sure I could explain it all, anyway. Titanium Court is a run-based game with\u2026",
@@ -226,8 +234,15 @@
           "excerpt": null
         },
         {
-          "title": "STRAIT STANDOFF ESCALATES",
-          "link": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7",
+          "title": "DEPLOYS MORE MINES IN STRAIT",
+          "link": "https://www.axios.com/2026/04/23/iran-strait-hormuz-mines-trump",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Rogan Back to Slamming Iran War After Chummy White House Visit...",
+          "link": "https://www.mediaite.com/media/podcasts/joe-rogan-slams-trumps-iran-war-after-chummy-white-house-visit-how-do-you-get-out-of-this/",
           "summary": null,
           "published": null,
           "excerpt": null
