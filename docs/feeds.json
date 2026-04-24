@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T12:00:28.000353-07:00",
-  "generated_at_display": "Apr 24, 2026 12:00 PM PT",
+  "generated_at": "2026-04-24T13:00:28.585456-07:00",
+  "generated_at_display": "Apr 24, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "What you need to know as Elon Musk's lawsuit against Sam Altman begins",
+          "link": "https://www.engadget.com/ai/what-you-need-to-know-as-elon-musks-lawsuit-against-sam-altman-begins-191500726.html?src=rss",
+          "summary": "In a few short days, jury selection will begin in the long-awaited Musk v. Altman case. At the end of that process, an Oakland federal court will task nine regular people with deciding if OpenAI defrauded Elon Musk when it announced, and\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "In a few short days, jury selection will begin in the long-awaitedMusk v. Altmancase. At the end of that process, an Oakland federal court will task nine regular people with deciding if OpenAI defrauded Elon Musk when it announced, and recently completed, its reorganization to become amore traditional for-profit business. More than just being the venue where two billionaires will air their grievances against one another in public, the trial has the potential to reshape the AI industry."
+        },
         {
           "title": "Google plans to invest even more money into Anthropic",
           "link": "https://www.engadget.com/ai/google-plans-to-invest-even-more-money-into-anthropic-185000776.html?src=rss",
