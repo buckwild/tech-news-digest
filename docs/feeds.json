@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T04:00:32.912271-07:00",
-  "generated_at_display": "Apr 24, 2026 04:00 AM PT",
+  "generated_at": "2026-04-24T05:00:28.357706-07:00",
+  "generated_at_display": "Apr 24, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "The Morning After: Polymarket and a hairdryer",
+          "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-112802570.html?src=rss",
+          "summary": "Although it\u2019s one of the more inoffensive topics on Polymarket, this news typifies the Wild West of prediction markets and betting sites. A hairdryer was allegedly used to rig Polymarket bets on temperatures at Charles de Gaulle Airport in\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Although it\u2019s one of the more inoffensive topics on Polymarket, this news typifies the Wild West of prediction markets and betting sites. Ahairdryerwas allegedly used to rig Polymarket bets on temperatures at Charles de Gaulle Airport in Paris, according to a report byThe Telegraph. French authorities noted that the official temperature readings at the airport spiked twice in the past month. On both occasions, gamblers betting on those temperature fluctuations on Polymarket appear to have walked away with thousands upon thousands of dollars."
+        },
         {
           "title": "Claude can now connect to lifestyle apps like Spotify, Instacart and AllTrails",
           "link": "https://www.engadget.com/ai/claude-can-now-connect-to-lifestyle-apps-like-spotify-instacart-and-alltrails-225510552.html?src=rss",
