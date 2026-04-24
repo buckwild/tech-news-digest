@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T07:00:30.566920-07:00",
-  "generated_at_display": "Apr 24, 2026 07:00 AM PT",
+  "generated_at": "2026-04-24T08:00:35.187093-07:00",
+  "generated_at_display": "Apr 24, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -234,6 +234,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "DOJ drops 'criminal probe' of Fed Chair Powell...",
+          "link": "https://www.cnbc.com/2026/04/24/fed-powell-doj-warsh-trump.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "SOLDIER CHARGED WITH BET ON RAID",
           "link": "https://www.nbcnews.com/business/business-news/soldier-charged-over-maduro-raid-bet-rcna341710",
