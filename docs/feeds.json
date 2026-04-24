@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T14:00:30.212751-07:00",
-  "generated_at_display": "Apr 24, 2026 02:00 PM PT",
+  "generated_at": "2026-04-24T15:00:24.469971-07:00",
+  "generated_at_display": "Apr 24, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,22 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "XChat, the standalone app for messaging on X, is available on iOS now",
+          "link": "https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss",
+          "summary": "XChat, the standalone app for accessing X's messaging feature, is available to download now for iOS . X first suggested it would be stripping direct messaging from X in 2025 , but at least for now, XChat is available in the original X app,\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "XChat, the standalone app for accessing X's messaging feature, is available to download nowfor iOS. X first suggested it would bestripping direct messaging from X in 2025, but at least for now, XChat is available in the original X app, the web and this new app."
+        },
+        {
+          "title": "Maine governor vetoes bill temporarily banning large data centers in the state",
+          "link": "https://www.engadget.com/ai/maine-governor-vetoes-bill-temporarily-banning-large-data-centers-in-the-state-210407936.html?src=rss",
+          "summary": "The governor of Maine, Janet Mills, has vetoed a bill that halts the construction of large data centers in the state until the fall of 2027. While the bill passed both houses of the Maine's legislature on April 14, and Mills has suggested\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The governor of Maine, Janet Mills,has vetoed a billthat halts the construction of large data centers in the state until the fall of 2027. While the billpassed both houses of the Maine's legislatureon April 14, and Millshas suggestedshe'd support a temporary moratorium, the governor wanted a bill that would exemptan existing data center project in Jay, Maine."
+        },
         {
           "title": "The DOJ is backing xAI in its lawsuit against Colorado",
           "link": "https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss",
@@ -250,22 +266,15 @@
           "excerpt": null
         },
         {
+          "title": "REPORT:  Trump Aide Called GOP Candidates 'Fat Jewish Zionist F*cks' in Leaked Group Chat...",
+          "link": "https://www.mediaite.com/media/news/trump-aide-called-gop-candidates-fat-jewish-zionist-fcks-in-leaked-group-chat-report/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Email floats suspending Spain from NATO...",
           "link": "https://www.yahoo.com/news/articles/exclusive-pentagon-email-floats-suspending-050311406.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "New Worry for Republicans: Latino Catholics Offended by Trump...",
-          "link": "https://www.nytimes.com/2026/04/24/us/politics/trump-pope-latino-voters.html?unlocked_article_code=1.dVA.Fp1G.JMb-MuUaJbYH&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Senate  Benches 'Save America' Voting Bill...",
-          "link": "https://www.notus.org/congress/save-america-act-dead-senate-republicans-donald-trump-2026-election-mail-ballots",
           "summary": null,
           "published": null,
           "excerpt": null
