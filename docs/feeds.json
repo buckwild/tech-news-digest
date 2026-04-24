@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T11:00:30.860578-07:00",
-  "generated_at_display": "Apr 24, 2026 11:00 AM PT",
+  "generated_at": "2026-04-24T12:00:28.000353-07:00",
+  "generated_at_display": "Apr 24, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google plans to invest even more money into Anthropic",
+          "link": "https://www.engadget.com/ai/google-plans-to-invest-even-more-money-into-anthropic-185000776.html?src=rss",
+          "summary": "Google plans to invest up to $40 billion into Anthropic in what could be viewed as a circular deal with the AI startup (and frequent competitor), Bloomberg reports . The search giant has invested in Anthropic at multiple points in the\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google plans to invest up to $40 billion into Anthropic in what could be viewed as a circular deal with the AI startup (and frequent competitor),Bloombergreports. The search gianthas invested in Anthropicat multiple points in the past, but this new investment comes after an announcement that the AI startup hadsigned a joint agreement with Google and Broadcomfor \"multiple gigawatts of next-generation TPU capacity.\""
+        },
+        {
+          "title": "Singapore police arrest alleged The Legend of Aang: The Last Airbender leaker",
+          "link": "https://www.engadget.com/entertainment/streaming/singapore-police-arrest-alleged-the-legend-of-aang-the-last-airbender-leaker-183954803.html?src=rss",
+          "summary": "People aren't thrilled with Paramount these days. After all, corporate consolidation and the transformation of CBS News into state media tend to do that. But here's someone who may not have chosen the\u2026 wisest form of protest. The Straits\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "People aren't thrilled with Paramount these days. After all,corporate consolidationand thetransformationof CBS News into state media tend to do that. But here's someone who may not have chosen the\u2026 wisest form of protest.The Straits Timesreports (viaGizmodo) that Singapore police have arrested a 26-year-old man for leaking Paramount'sThe Legend of Aang: The Last Airbender."
+        },
+        {
           "title": "The MacBook Neo is a glimpse into John Ternus's Apple",
           "link": "https://www.engadget.com/computing/laptops/the-macbook-neo-is-a-glimpse-into-john-ternuss-apple-170000842.html?src=rss",
           "summary": "John Ternus was unavoidable when Apple debuted the Macbook Neo. He kicked off an intimate media event for the Neo, introducing it as a transformative machine for Apple thanks to its low $599 cost ($499 for education customers) and premium\u2026",
@@ -219,22 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A hairdryer was allegedly used to rig Polymarket bets on the weather at Charles de Gaulle airport in Paris,according to a report byThe Telegraph. French authorities note that the official temperature readings at the airport spiked twice in the past month, reaching levels much higher than expected. On both occasions, gamblers on Polymarket appear to have walked away with thousands upon thousands of dollars by betting on those temperature fluctuations."
-        },
-        {
-          "title": "Meta will show parents the topics of their teens' AI conversations",
-          "link": "https://www.engadget.com/ai/meta-will-show-parents-the-topics-of-their-teens-ai-conversations-123119624.html?src=rss",
-          "summary": "With countries banning social media for kids left and right , Meta is trying different things to convince parents that its platforms are safe for teens. In its latest effort , the company will start showing parents the topics their teens\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "With countries banning social media for kidsleftandright, Meta is tryingdifferent thingsto convince parents that its platforms are safe for teens. In itslatest effort, the company will start showing parents the topics their teens have discussed with Meta AI over the previous seven days."
-        },
-        {
-          "title": "2027 BMW i7 first look: A fantastically techy car for the 1 percent",
-          "link": "https://www.engadget.com/transportation/evs/2027-bmw-i7-first-look-a-fantastically-techy-car-for-the-1-percent-123000364.html?src=rss",
-          "summary": "Big, fancy executive sedans are a dying breed, especially when it comes to EVs. With the Tesla Model S and Mercedes' EQ line on their way out, pickings are slim. Aside from the upcoming S-Class , there's the Lucid Air , Cadillac Celestiq\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Big, fancy executive sedans are a dying breed, especially when it comes to EVs. With theTesla Model SandMercedes' EQ lineon their way out, pickings are slim. Aside from theupcoming S-Class, there's theLucid Air,Cadillac Celestiqand maybe thePorsche Taycan, depending on how far you're willing to stretch the definition. But as the market leader in luxury sedans, BMW isn't giving up yet. With the arrival of the new 7-series, the company has made a car \u2014 with a complete range of gas, hybrid and fully electric options \u2014 that truly embraces modern gadgetry."
         }
       ]
     },
