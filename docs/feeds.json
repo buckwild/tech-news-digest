@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T13:00:28.585456-07:00",
-  "generated_at_display": "Apr 24, 2026 01:00 PM PT",
+  "generated_at": "2026-04-24T14:00:30.212751-07:00",
+  "generated_at_display": "Apr 24, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The DOJ is backing xAI in its lawsuit against Colorado",
+          "link": "https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss",
+          "summary": "The Department of Justice has announced that it's intervening on the behalf of xAI in the company's recent lawsuit against the state of Colorado. xAI first filed the suit in early April in response to a recent Colorado law that requires\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Department of Justicehas announcedthat it's intervening on the behalf of xAI in the company's recent lawsuit against the state of Colorado.xAI first filed the suitin early April in response toa recent Colorado lawthat requires developers of \"high-risk\" AI systems (for example, ones used in healthcare, employment or housing) to both disclose and mitigate the risk of algorithmic discrimination in their systems. The law is set to go into effect in June, and the DOJ is now asking a Colorado District Court to declare it unconstitutional."
+        },
+        {
           "title": "What you need to know as Elon Musk's lawsuit against Sam Altman begins",
           "link": "https://www.engadget.com/ai/what-you-need-to-know-as-elon-musks-lawsuit-against-sam-altman-begins-191500726.html?src=rss",
           "summary": "In a few short days, jury selection will begin in the long-awaited Musk v. Altman case. At the end of that process, an Oakland federal court will task nine regular people with deciding if OpenAI defrauded Elon Musk when it announced, and\u2026",
@@ -227,22 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple TV justdropped a real-deal trailerforStar City, after releasing a short teaserearlier this year. It's a spinoff ofFor All Mankind, but this new show examines the alt-history space race from the Soviet perspective."
-        },
-        {
-          "title": "Ubisoft has finally dropped a trailer for that Assassin's Creed: Black Flag remake",
-          "link": "https://www.engadget.com/gaming/ubisoft-has-finally-dropped-a-trailer-for-that-assassins-creed-black-flag-remake-162610745.html?src=rss",
-          "summary": "Ubisoft has finally given us some real details about Assassin's Creed: Black Flag Resynced , after confirming the remake earlier this year . It's set to release on July 9 for PC, PS5 and Xbox Series X/S. There's a trailer and it looks\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Ubisoft has finallygiven us some real detailsaboutAssassin's Creed: Black Flag Resynced, afterconfirming the remake earlier this year. It's set to release on July 9 for PC, PS5 and Xbox Series X/S."
-        },
-        {
-          "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-          "link": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html?src=rss",
-          "summary": "A hairdryer was allegedly used to rig Polymarket bets on the weather at Charles de Gaulle airport in Paris, according to a report by The Telegraph . French authorities note that the official temperature readings at the airport spiked twice\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A hairdryer was allegedly used to rig Polymarket bets on the weather at Charles de Gaulle airport in Paris,according to a report byThe Telegraph. French authorities note that the official temperature readings at the airport spiked twice in the past month, reaching levels much higher than expected. On both occasions, gamblers on Polymarket appear to have walked away with thousands upon thousands of dollars by betting on those temperature fluctuations."
         }
       ]
     },
@@ -250,6 +242,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "POPE HITS OUT AGAIN -- OVER FIRING SQUAD EXECUTIONS...",
+          "link": "https://www.mirror.co.uk/news/us-news/trump-pope-firing-squad-executions-37067852",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Email floats suspending Spain from NATO...",
           "link": "https://www.yahoo.com/news/articles/exclusive-pentagon-email-floats-suspending-050311406.html",
