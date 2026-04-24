@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T10:00:30.866972-07:00",
-  "generated_at_display": "Apr 24, 2026 10:00 AM PT",
+  "generated_at": "2026-04-24T11:00:30.860578-07:00",
+  "generated_at_display": "Apr 24, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "The MacBook Neo is a glimpse into John Ternus's Apple",
+          "link": "https://www.engadget.com/computing/laptops/the-macbook-neo-is-a-glimpse-into-john-ternuss-apple-170000842.html?src=rss",
+          "summary": "John Ternus was unavoidable when Apple debuted the Macbook Neo. He kicked off an intimate media event for the Neo, introducing it as a transformative machine for Apple thanks to its low $599 cost ($499 for education customers) and premium\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "John Ternus was unavoidable when Apple debuted the Macbook Neo. He kicked off an intimate media event for the Neo, introducing it as a transformative machine for Apple thanks to its low $599 cost ($499 for education customers) and premium build quality. He wasinterviewed on Good Morning America, the sort of prominent media feature CEO Tim Cook typically handles. And when I asked Apple workers about the Neo at its launch event, they almost always brought up Ternus\u2019 vision of the laptop."
+        },
         {
           "title": "Engadget Podcast: Tim Cook\u2019s Apple era and what lies ahead for John Ternus",
           "link": "https://www.engadget.com/computing/engadget-podcast-tim-cooks-apple-era-and-what-lies-ahead-for-john-ternus-121853488.html?src=rss",
