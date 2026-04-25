@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T09:00:28.847554-07:00",
-  "generated_at_display": "Apr 25, 2026 09:00 AM PT",
+  "generated_at": "2026-04-25T10:00:36.521356-07:00",
+  "generated_at_display": "Apr 25, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -235,14 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Microsoft is planning to get rid of more US employees via its first voluntary buyout program,CNBCreports. The buyout program will reportedly be offered to US employees at \"the senior director level and below whose years of employment and age add up to 70 or higher,\" and could cover up to 7 percent of the company's US workforce."
-        },
-        {
-          "title": "Meta is downsizing by about 10 percent",
-          "link": "https://www.engadget.com/social-media/meta-is-downsizing-by-about-10-percent-192658099.html?src=rss",
-          "summary": "Meta is making another steep cut to its staff, this time to the tune of a 10 percent reduction in its workforce. About 8,000 people will be laid off and about 6,000 open jobs will also be eliminated, according to Bloomberg . In an internal\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Meta is making another steep cut to its staff, this time to the tune of a 10 percent reduction in its workforce. About 8,000 people will be laid off and about 6,000 open jobs will also be eliminated, according toBloomberg."
         }
       ]
     },
@@ -250,6 +242,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Bombshell Report on Iran's Damage to US Bases...'Far Worse' Than Trump Team Said...",
+          "link": "https://www.mediaite.com/media/news/nbc-news-drops-bombshell-report-on-trump-war-battle-damage-far-worse-than-trump-team-said/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "PENTAGON MULLS SPIRIT AIRLINES TAKEOVER?",
           "link": "https://www.cbsnews.com/news/white-house-mulls-using-defense-production-act-in-spirit-airlines-takeover/",
