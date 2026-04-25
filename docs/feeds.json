@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:00:38.457854-07:00",
-  "generated_at_display": "Apr 25, 2026 05:00 AM PT",
+  "generated_at": "2026-04-25T06:00:27.476899-07:00",
+  "generated_at_display": "Apr 25, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Engadget review recap: DJI Osmo Pocket 4, Recteq X-Fire Pro and Alienware 27 QD-OLED",
+          "link": "https://www.engadget.com/engadget-review-recap-dji-osmo-pocket-4-recteq-x-fire-pro-and-alienware-27-qd-oled-120000428.html?src=rss",
+          "summary": "Engadget\u2019s hottest review roundup truly has it all this week: a new pocket cam, a 2-in-1 smart grill, a pair of drones and a pricey skinny vac. And that\u2019s before we even get to the highly capable gaming display that will only set you back\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Engadget\u2019s hottestreviewroundup truly has it all this week: a new pocket cam, a 2-in-1 smart grill, a pair of drones and a pricey skinny vac. And that\u2019s before we even get to the highly capable gaming display that will only set you back $350. Read on to catch up on the reviews you might\u2019ve missed over the last two weeks as we prepare for another slate of big events next month."
+        },
+        {
           "title": "XChat, the standalone app for messaging on X, is available on iOS now",
           "link": "https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss",
           "summary": "XChat, the standalone app for accessing X's messaging feature, is available to download now for iOS . X first suggested it would be stripping direct messaging from X in 2025 , but at least for now, XChat is available in the original X app,\u2026",
@@ -235,14 +243,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "I wouldloveto tell you everything about my favorite game of the year so far. But that would be doing a great disservice toTitanium Court. I'm not even sure Icouldexplain it all, anyway."
-        },
-        {
-          "title": "Apple, Amazon join push for looser greenhouse emissions reporting",
-          "link": "https://www.engadget.com/big-tech/apple-amazon-join-push-for-looser-greenhouse-emissions-reporting-182314690.html?src=rss",
-          "summary": "The Greenhouse Gas Protocol , a widely used international environmental standard for measuring and reporting emissions, is considering changes to how certain types of the emissions are reported. Advocates for the new guidance argue that\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "TheGreenhouse Gas Protocol, a widely used international environmental standard for measuring and reporting emissions, is considering changes to how certain types of the emissions are reported. Advocates for the new guidance argue that the current rules make it too easy for businesses to overstate their commitments to environmentally friendly operations, such as being powered by renewable energy or making progress toward net-zero emissions."
         }
       ]
     },
