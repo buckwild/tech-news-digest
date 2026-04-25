@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T07:00:26.430226-07:00",
-  "generated_at_display": "Apr 25, 2026 07:00 AM PT",
+  "generated_at": "2026-04-25T08:00:28.817572-07:00",
+  "generated_at_display": "Apr 25, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Tesla is giving away one year free Supercharging with Model 3 Premium and Performance purchases",
+          "link": "https://www.engadget.com/transportation/evs/tesla-is-giving-away-one-year-free-supercharging-with-model-3-premium-and-performance-purchases-144431817.html?src=rss",
+          "summary": "Tesla completely ended its free lifetime Supercharging offer way back in 2018, but it has given customers the perk for certain promotions since then. It brought back free Supercharging for Model S and X a couple of times in 2019, for\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tesla completelyendedits free lifetime Supercharging offer way back in 2018, but it has given customers the perk for certain promotions since then. Itbrought backfree Supercharging for Model S and Xa couple of timesin 2019, for instance. The automaker\u2019s latest offer is for new purchases for aModel 3 Premium or Performancevehicle in North America. On its website, Tesla has announced that it\u2019s including one year of free supercharging with a Model 3 Premium or Performance, though the offer is \u201csubject to change or end at any time.\u201d"
+        },
         {
           "title": "Engadget review recap: DJI Osmo Pocket 4, Recteq X-Fire Pro and Alienware 27 QD-OLED",
           "link": "https://www.engadget.com/engadget-review-recap-dji-osmo-pocket-4-recteq-x-fire-pro-and-alienware-27-qd-oled-120000428.html?src=rss",
@@ -253,6 +261,13 @@
         {
           "title": "PENTAGON MULLS SPIRIT AIRLINES TAKEOVER?",
           "link": "https://www.cbsnews.com/news/white-house-mulls-using-defense-production-act-in-spirit-airlines-takeover/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Billion-Barrel Hormuz Oil Shock About to Crash Demand...",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/hormuz-billion-barrel-oil-shock-113000076.html",
           "summary": null,
           "published": null,
           "excerpt": null
