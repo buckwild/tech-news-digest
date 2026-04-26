@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T11:00:26.958839-07:00",
-  "generated_at_display": "Apr 26, 2026 11:00 AM PT",
+  "generated_at": "2026-04-26T12:00:32.415329-07:00",
+  "generated_at_display": "Apr 26, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Canadian premier wants to ban social media and AI chatbots for kids in Manitoba",
+          "link": "https://www.engadget.com/social-media/canadian-premier-wants-to-ban-social-media-and-ai-chatbots-for-kids-in-manitoba-182120933.html?src=rss",
+          "summary": "Manitoba could be the first province in Canada to establish a social media ban for kids, but the proposal's details aren't very clear yet. The province's premier, Wab Kinew, announced during a fundraiser event on Saturday and on X that\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Manitoba could be the first province in Canada to establish asocial media banfor kids, but the proposal's details aren't very clear yet. The province's premier, Wab Kinew, announced during a fundraiser event on Saturday andon Xthat Manitoba would put in place a ban for social media and AI chatbots for its youth."
+        },
         {
           "title": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police",
           "link": "https://www.engadget.com/ai/openais-sam-altman-apologizes-for-not-reporting-chatgpt-account-of-tumbler-ridge-suspect-to-police-221400813.html?src=rss",
