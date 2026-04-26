@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T18:00:29.083349-07:00",
-  "generated_at_display": "Apr 25, 2026 06:00 PM PT",
+  "generated_at": "2026-04-25T19:00:27.930451-07:00",
+  "generated_at_display": "Apr 25, 2026 07:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -234,13 +234,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "VIDEO:  CHAOS AT WHITE HOUSE CORRESPONDENTS DINNER",
-          "link": "https://x.com/osinttechnical/status/2048201155663012186",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "Bombshell Report on Iran's Damage to US Bases...'Far Worse' Than Publicly Known...",
           "link": "https://www.mediaite.com/media/news/nbc-news-drops-bombshell-report-on-trump-war-battle-damage-far-worse-than-trump-team-said/",
