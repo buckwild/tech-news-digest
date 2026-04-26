@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T16:00:28.954169-07:00",
-  "generated_at_display": "Apr 25, 2026 04:00 PM PT",
+  "generated_at": "2026-04-25T17:00:29.166034-07:00",
+  "generated_at_display": "Apr 25, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -227,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Although it\u2019s one of the more inoffensive topics on Polymarket, this news typifies the Wild West of prediction markets and betting sites. Ahairdryerwas allegedly used to rig Polymarket bets on temperatures at Charles de Gaulle Airport in Paris, according to a report byThe Telegraph. French authorities noted that the official temperature readings at the airport spiked twice in the past month. On both occasions, gamblers betting on those temperature fluctuations on Polymarket appear to have walked away with thousands upon thousands of dollars."
-        },
-        {
-          "title": "Claude can now connect to lifestyle apps like Spotify, Instacart and AllTrails",
-          "link": "https://www.engadget.com/ai/claude-can-now-connect-to-lifestyle-apps-like-spotify-instacart-and-alltrails-225510552.html?src=rss",
-          "summary": "Anthropic is expanding its directory of connected services for its Claude AI chatbot. The platform can now link up with your accounts on AllTrails, Audible, Booking.com, Instacart, Intuit Credit Karma, Intuit TurboTax, Resy, Spotify,\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic isexpandingits directory of connected services for its Claude AI chatbot. The platform can now link up with your accounts on AllTrails, Audible, Booking.com, Instacart, Intuit Credit Karma, Intuit TurboTax, Resy, Spotify, StubHub, Taskrabbit, Thumbtack, TripAdvisor, Uber, Uber Eats and Viator.\u00a0Additional services will be added in the future."
         }
       ]
     },
