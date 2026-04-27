@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T11:00:29.853228-07:00",
-  "generated_at_display": "Apr 27, 2026 11:00 AM PT",
+  "generated_at": "2026-04-27T12:00:26.803897-07:00",
+  "generated_at_display": "Apr 27, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Images of Samsung's rumored smart glasses have leaked",
+          "link": "https://www.engadget.com/ar-vr/images-of-samsungs-rumored-smart-glasses-have-leaked-184129483.html?src=rss",
+          "summary": "Images and details about Samsung's upcoming smart glasses have leaked, according to a report by Android Headlines . We knew these were coming at some point , but we now have what could be actual photos and they look pretty nifty. The\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Images and details about Samsung's upcoming smart glasses have leaked,according to a report byAndroid Headlines. We knew these werecoming at some point, but we now have what could be actual photos and they look pretty nifty. The glasses are reportedly being developed under the codename \"Jinju\" and could cost anywhere from $380 to $500."
+        },
+        {
+          "title": "Joby Aviation is demoing 10-minute air taxi flights from JFK to Manhattan for a week",
+          "link": "https://www.engadget.com/transportation/joby-aviation-is-demoing-10-minute-air-taxi-flights-from-jfk-to-manhattan-for-a-week-180247411.html?src=rss",
+          "summary": "Joby Aviation is kicking off 10 days of electric air taxi demo flights in New York City. Before you try to book one to bypass the city's awful traffic, Joby's aircrafts aren't taking customers yet. Instead, the company is trialing the air\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Joby Aviationis kicking off 10 days of electric air taxi demo flights in New York City. Before you try to book one to bypass the city's awful traffic, Joby's aircrafts aren't taking customers yet. Instead, the company is trialing the air taxis in \"real flight routes and real environments,\" as indicated in itspress release."
+        },
+        {
           "title": "Star Trek: Strange New Worlds returns for its penultimate season on July 23",
           "link": "https://www.engadget.com/entertainment/tv-movies/star-trek-strange-new-worlds-returns-for-its-penultimate-season-on-july-23-170946603.html?src=rss",
           "summary": "Star Trek: Strange New Worlds returns for its fourth season via Paramount Plus on July 23. The ten episodes air weekly until September 24. This is actually the second-to-last batch of episodes, as the show was recently renewed for a fifth\u2026",
@@ -203,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Engadget\u2019s hottestreviewroundup truly has it all this week: a new pocket cam, a 2-in-1 smart grill, a pair of drones and a pricey skinny vac. And that\u2019s before we even get to the highly capable gaming display that will only set you back $350. Read on to catch up on the reviews you might\u2019ve missed over the last two weeks as we prepare for another slate of big events next month."
-        },
-        {
-          "title": "XChat, the standalone app for messaging on X, is available on iOS now",
-          "link": "https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss",
-          "summary": "XChat, the standalone app for accessing X's messaging feature, is available to download now for iOS . X first suggested it would be stripping direct messaging from X in 2025 , but at least for now, XChat is available in the original X app,\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "XChat, the standalone app for accessing X's messaging feature, is available to download nowfor iOS. X first suggested it would bestripping direct messaging from X in 2025, but at least for now, XChat is available in the original X app, the web and this new app."
         }
       ]
     },
@@ -219,8 +227,22 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "UPDATES: Suspect to Be Arraigned in Federal Court...",
-          "link": "https://www.nytimes.com/live/2026/04/27/us/white-house-dinner-trump-shooting?unlocked_article_code=1.eFA.Q2Ze.08YpPvmWeFZV&smid=url-share",
+          "title": "False flag conspiracy theories swirl around White House Correspondents' dinner attack...",
+          "link": "https://www.nbcnews.com/tech/rcna342212",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Questions raised over security...",
+          "link": "https://www.cbsnews.com/news/white-house-correspondents-dinner-national-security-expert-id-not-checked/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "DeSantis releases new congressional map creating four more Republican seats in Florida...",
+          "link": "https://www.nbcnews.com/politics/rcna342227",
           "summary": null,
           "published": null,
           "excerpt": null
