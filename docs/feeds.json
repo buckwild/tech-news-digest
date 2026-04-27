@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T10:00:28.372931-07:00",
-  "generated_at_display": "Apr 27, 2026 10:00 AM PT",
+  "generated_at": "2026-04-27T11:00:29.853228-07:00",
+  "generated_at_display": "Apr 27, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Star Trek: Strange New Worlds returns for its penultimate season on July 23",
+          "link": "https://www.engadget.com/entertainment/tv-movies/star-trek-strange-new-worlds-returns-for-its-penultimate-season-on-july-23-170946603.html?src=rss",
+          "summary": "Star Trek: Strange New Worlds returns for its fourth season via Paramount Plus on July 23. The ten episodes air weekly until September 24. This is actually the second-to-last batch of episodes, as the show was recently renewed for a fifth\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Star Trek: Strange New Worldsreturns for its fourth seasonvia Paramount Plus on July 23. The ten episodes air weekly until September 24. This is actually the second-to-last batch of episodes, as the show was recentlyrenewed for a fifth and final season."
+        },
+        {
+          "title": "Valve Steam Controller review: A gamepad in search of a console",
+          "link": "https://www.engadget.com/gaming/valve-steam-controller-review-a-gamepad-in-search-of-a-console-170054068.html?src=rss",
+          "summary": "Don\u2019t mistake the Steam Controller for a PC controller. Even though its main function is to play PC games, Valve\u2019s new gamepad communicates with Steam, and only Steam. This is not a general controller for your PC, Android or iOS devices,\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Don\u2019t mistake the Steam Controller for a PC controller. Even though its main function is to play PC games, Valve\u2019s new gamepad communicates with Steam, and only Steam. This is not a general controller for your PC, Android or iOS devices, and it\u2019s certainly not compatible with any console on the market today, unless you count the handheld Steam Deck. In order to play a game with the Steam Controller, you have to boot it up through Steam. (More on this later)."
+        },
+        {
           "title": "A Star Wars expansion is coming to PowerWash Simulator 2",
           "link": "https://www.engadget.com/gaming/a-star-wars-expansion-is-coming-to-powerwash-simulator-2-162946670.html?src=rss",
           "summary": "There's something deeply relaxing about chucking on a solid pair of headphones, listening to some good music and cleaning muck off structures and vehicles. Not in real life, though. Heavens, no. PowerWash Simulator 2 lets you do that\u2026",
@@ -195,22 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "XChat, the standalone app for accessing X's messaging feature, is available to download nowfor iOS. X first suggested it would bestripping direct messaging from X in 2025, but at least for now, XChat is available in the original X app, the web and this new app."
-        },
-        {
-          "title": "Maine governor vetoes bill temporarily banning large data centers in the state",
-          "link": "https://www.engadget.com/ai/maine-governor-vetoes-bill-temporarily-banning-large-data-centers-in-the-state-210407936.html?src=rss",
-          "summary": "The governor of Maine, Janet Mills, has vetoed a bill that halts the construction of large data centers in the state until the fall of 2027. While the bill passed both houses of the Maine's legislature on April 14, and Mills has suggested\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The governor of Maine, Janet Mills,has vetoed a billthat halts the construction of large data centers in the state until the fall of 2027. While the billpassed both houses of the Maine's legislatureon April 14, and Millshas suggestedshe'd support a temporary moratorium, the governor wanted a bill that would exemptan existing data center project in Jay, Maine."
-        },
-        {
-          "title": "The DOJ is backing xAI in its lawsuit against Colorado",
-          "link": "https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss",
-          "summary": "The Department of Justice has announced that it's intervening on the behalf of xAI in the company's recent lawsuit against the state of Colorado. xAI first filed the suit in early April in response to a recent Colorado law that requires\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Department of Justicehas announcedthat it's intervening on the behalf of xAI in the company's recent lawsuit against the state of Colorado.xAI first filed the suitin early April in response toa recent Colorado lawthat requires developers of \"high-risk\" AI systems (for example, ones used in healthcare, employment or housing) to both disclose and mitigate the risk of algorithmic discrimination in their systems. The law is set to go into effect in June, and the DOJ is now asking a Colorado District Court to declare it unconstitutional."
         }
       ]
     },
