@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T09:00:32.255420-07:00",
-  "generated_at_display": "Apr 28, 2026 09:00 AM PT",
+  "generated_at": "2026-04-28T10:00:38.929293-07:00",
+  "generated_at_display": "Apr 28, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Snapchat is rolling out sponsored AI agents",
+          "link": "https://www.engadget.com/ai/snapchat-is-rolling-out-sponsored-ai-agents-162720124.html?src=rss",
+          "summary": "It was only a matter of time before they found a way to use AI agents as corporate shills. On Tuesday, Snapchat rolled out AI Sponsored Snaps, a \"new way for brands to show up in Chat through AI agents.\" Or, put another way, it's\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It was only a matter of time before they found a way to useAI agentsas corporate shills. On Tuesday, Snapchat rolled out AI Sponsored Snaps, a \"new way for brands to show up in Chat through AI agents.\" Or, put another way, it's conversational advertising. (Yay?)"
+        },
+        {
+          "title": "Google Translate uses AI to help you practice pronunciation",
+          "link": "https://www.engadget.com/ai/google-translate-uses-ai-to-help-you-practice-pronunciation-160000542.html?src=rss",
+          "summary": "Google is celebrating Translate\u2019s 20th birthday by launching pronunciation practice, which the company says is one of the most requested features for the product. The feature is only rolling out on Android at the moment for English,\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is celebratingTranslate\u2019s20th birthday by launching pronunciation practice, which the company says is one of the most requested features for the product. The feature is only rolling out on Android at the moment for English, Spanish and Hindi in the US and India. If it\u2019s available for you, you\u2019ll see a button at the bottom of the app that says \u201cPractice,\u201d which gives you the option to either \u201cpronounce\u201d what you\u2019ve translated or to \u201clisten\u201d to how it\u2019s actually pronounced by native speakers."
+        },
+        {
           "title": "Google and the Pentagon sign classified deal to give the Department of Defense unfettered access to its AI models",
           "link": "https://www.engadget.com/ai/google-and-the-pentagon-sign-classified-deal-to-give-the-department-of-defense-unfettered-access-to-its-ai-models-155211834.html?src=rss",
           "summary": "Google has signed a deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose.\" This is according to a report by The Information , which also notes that the full details of the contract are\u2026",
@@ -219,14 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "There's something deeply relaxing about chucking on a solid pair of headphones, listening to some good music and cleaning muck off structures and vehicles. Not in real life, though. Heavens, no.PowerWash Simulator 2lets you do that without having to deal with any actual muck \u2014 as long as you're regularly cleaning your keyboard or controller, anyway."
-        },
-        {
-          "title": "OpenAI breaks out of exclusivity agreements in its partnership with Microsoft",
-          "link": "https://www.engadget.com/big-tech/openai-breaks-out-of-exclusivity-agreements-in-its-partnership-with-microsoft-162829584.html?src=rss",
-          "summary": "OpenAI is opening up its partnership with Microsoft in the latest amendment to the major multi-year collaboration between the tech giants. The latest changes allow OpenAI to offer its latest AI models to other companies and through other\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI is opening up its partnership with Microsoft in the latest amendment to the majormulti-year collaborationbetween the tech giants. The latest changes allow OpenAI to offer its latest AI models to other companies and through other cloud providers, stripping Microsoft of its exclusivity rights."
         }
       ]
     },
@@ -234,6 +242,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "SHOCK POLL:  Talarico leads both Republicans in new poll of Texas Senate race...",
+          "link": "https://www.texastribune.org/2026/04/28/texas-us-senate-poll-talarico-cornyn-paxton-2026-midterms/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Republicans Brace for Brutal Midterms as Popularity Slips...",
           "link": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html?unlocked_article_code=1.eVA.wq5R.w8EwUbL5bit-&smid=url-share",
