@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T02:00:35.747614-07:00",
-  "generated_at_display": "Apr 28, 2026 02:00 AM PT",
+  "generated_at": "2026-04-28T03:00:28.045925-07:00",
+  "generated_at_display": "Apr 28, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Union accuses Apple of unlawful discrimination against represented workers",
+          "link": "https://www.engadget.com/big-tech/union-accuses-apple-of-unlawful-discrimination-against-represented-workers-094531505.html?src=rss",
+          "summary": "The International Association of Machinists and Aerospace Workers (IAM) union has accused Apple of unlawfully discriminating against the unionized employees of the company\u2019s Towson, Maryland retail store. IAM has filed an unfair labor\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The International Association of Machinists and Aerospace Workers (IAM) union has accused Apple of unlawfully discriminating against the unionized employees of the company\u2019s Towson, Maryland retail store. IAM has filed an unfair labor practice charge against Apple with the National Labor Relations Board (NLRB) after the company announced on April 9 that it wasshutting downthree of its US stores. One of those locations was the Towson retail outlet, which employed nearly 90 workers and became the first Apple Store in the countryto unionizeback in 2022."
+        },
         {
           "title": "YouTube is testing an AI search mode that 'feels more like a conversation'",
           "link": "https://www.engadget.com/apps/youtube-is-testing-an-ai-search-mode-that-feels-more-like-a-conversation-075057461.html?src=rss",
