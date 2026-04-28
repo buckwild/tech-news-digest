@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T11:00:33.251021-07:00",
-  "generated_at_display": "Apr 28, 2026 11:00 AM PT",
+  "generated_at": "2026-04-28T12:00:29.617042-07:00",
+  "generated_at_display": "Apr 28, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -219,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Star Trek: Strange New Worldsreturns for its fourth seasonvia Paramount Plus on July 23. The ten episodes air weekly until September 24. This is actually the second-to-last batch of episodes, as the show was recentlyrenewed for a fifth and final season."
-        },
-        {
-          "title": "Valve Steam Controller review: A gamepad in search of a console",
-          "link": "https://www.engadget.com/gaming/valve-steam-controller-review-a-gamepad-in-search-of-a-console-170054068.html?src=rss",
-          "summary": "Don\u2019t mistake the Steam Controller for a PC controller. Even though its main function is to play PC games, Valve\u2019s new gamepad communicates with Steam, and only Steam. This is not a general controller for your PC, Android or iOS devices,\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Don\u2019t mistake the Steam Controller for a PC controller. Even though its main function is to play PC games, Valve\u2019s new gamepad communicates with Steam, and only Steam. This is not a general controller for your PC, Android or iOS devices, and it\u2019s certainly not compatible with any console on the market today, unless you count the handheld Steam Deck. In order to play a game with the Steam Controller, you have to boot it up through Steam. (More on this later)."
         }
       ]
     },
