@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T10:00:38.929293-07:00",
-  "generated_at_display": "Apr 28, 2026 10:00 AM PT",
+  "generated_at": "2026-04-28T11:00:33.251021-07:00",
+  "generated_at_display": "Apr 28, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -227,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Don\u2019t mistake the Steam Controller for a PC controller. Even though its main function is to play PC games, Valve\u2019s new gamepad communicates with Steam, and only Steam. This is not a general controller for your PC, Android or iOS devices, and it\u2019s certainly not compatible with any console on the market today, unless you count the handheld Steam Deck. In order to play a game with the Steam Controller, you have to boot it up through Steam. (More on this later)."
-        },
-        {
-          "title": "A Star Wars expansion is coming to PowerWash Simulator 2",
-          "link": "https://www.engadget.com/gaming/a-star-wars-expansion-is-coming-to-powerwash-simulator-2-162946670.html?src=rss",
-          "summary": "There's something deeply relaxing about chucking on a solid pair of headphones, listening to some good music and cleaning muck off structures and vehicles. Not in real life, though. Heavens, no. PowerWash Simulator 2 lets you do that\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "There's something deeply relaxing about chucking on a solid pair of headphones, listening to some good music and cleaning muck off structures and vehicles. Not in real life, though. Heavens, no.PowerWash Simulator 2lets you do that without having to deal with any actual muck \u2014 as long as you're regularly cleaning your keyboard or controller, anyway."
         }
       ]
     },
@@ -242,13 +234,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "SHOCK POLL:  Talarico leads both Republicans in new poll of Texas Senate race...",
-          "link": "https://www.texastribune.org/2026/04/28/texas-us-senate-poll-talarico-cornyn-paxton-2026-midterms/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "Republicans Brace for Brutal Midterms as Popularity Slips...",
           "link": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html?unlocked_article_code=1.eVA.wq5R.w8EwUbL5bit-&smid=url-share",
