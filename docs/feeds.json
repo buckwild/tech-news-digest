@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T06:00:31.804821-07:00",
-  "generated_at_display": "Apr 28, 2026 06:00 AM PT",
+  "generated_at": "2026-04-28T07:00:32.639213-07:00",
+  "generated_at_display": "Apr 28, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon brings dark mode to Kindle Colorsoft and Scribe Colorsoft",
+          "link": "https://www.engadget.com/general/amazon-brings-dark-mode-to-kindle-colorsoft-and-scribe-colorsoft-130054573.html?src=rss",
+          "summary": "Amazon has today announced a software update for both the Kindle Colorsoft and Kindle Scribe Colorsoft which will bring dark mode to both e-readers. Even better, users will be able to toggle the settings for specific menus on both devices,\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon has today announced a software update for both the Kindle Colorsoft and Kindle Scribe Colorsoft which will bring dark mode to both e-readers. Even better, users will be able to toggle the settings for specific menus on both devices, so if they want their library dark and their notebook light, they can. Given the option is available on plenty of other Kindle devices, its omission here always felt like something Amazon was just getting around to addressing."
+        },
+        {
           "title": "Union accuses Apple of unlawful discrimination against represented workers",
           "link": "https://www.engadget.com/big-tech/union-accuses-apple-of-unlawful-discrimination-against-represented-workers-094531505.html?src=rss",
           "summary": "The International Association of Machinists and Aerospace Workers (IAM) union has accused Apple of unlawfully discriminating against the unionized employees of the company\u2019s Towson, Maryland retail store. IAM has filed an unfair labor\u2026",
@@ -221,6 +229,13 @@
         {
           "title": "Republicans Brace for Brutal Midterms as President's Popularity Slips...",
           "link": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html?unlocked_article_code=1.eVA.wq5R.w8EwUbL5bit-&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "The Don and Kentucky GOP uniting against Massie. He could still win...",
+          "link": "https://www.politico.com/news/2026/04/28/trump-and-kentucky-republicans-are-uniting-against-massie-he-could-still-win-00894312",
           "summary": null,
           "published": null,
           "excerpt": null
