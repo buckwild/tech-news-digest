@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T12:00:29.617042-07:00",
-  "generated_at_display": "Apr 28, 2026 12:00 PM PT",
+  "generated_at": "2026-04-28T13:00:30.087186-07:00",
+  "generated_at_display": "Apr 28, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "iOS 27 will reportedly come with new AI-powered photo editing tools",
+          "link": "https://www.engadget.com/ai/ios-27-will-reportedly-come-with-new-ai-powered-photo-editing-tools-194119562.html?src=rss",
+          "summary": "Apple reportedly plans to fix bugs and expand the capabilities of Apple Intelligence with the release of iOS 27, iPadOS 27 and macOS 27 year, and it seems like tweaks to the company's AI could go beyond a more functional version of its\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple reportedly plans tofix bugs and expand the capabilities of Apple Intelligencewith the release of iOS 27, iPadOS 27 and macOS 27 year, and it seems like tweaks to the company's AI could go beyonda more functional versionof its Siri assistant.Bloombergreportsthat this year's software updates will also include new AI-powered photo editing tools that will let users change things like the background and framing of images, too."
+        },
         {
           "title": "Snapchat is rolling out sponsored AI agents",
           "link": "https://www.engadget.com/ai/snapchat-is-rolling-out-sponsored-ai-agents-162720124.html?src=rss",
