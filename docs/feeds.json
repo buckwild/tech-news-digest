@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T00:00:24.235158-07:00",
-  "generated_at_display": "Apr 28, 2026 12:00 AM PT",
+  "generated_at": "2026-04-28T01:00:29.435022-07:00",
+  "generated_at_display": "Apr 28, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "YouTube is testing an AI search mode that 'feels more like a conversation'",
+          "link": "https://www.engadget.com/apps/youtube-is-testing-an-ai-search-mode-that-feels-more-like-a-conversation-075057461.html?src=rss",
+          "summary": "Google is determined to impose AI search onto as many of its products as possible, and the latest, er, victim is YouTube. A new feature called \"Ask YouTube\" will let you pose complex questions and receive \"comprehensive results that\u2026",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is determined to impose AI search ontoas many of its productsas possible, and the latest, er, victim is YouTube. A new feature called \"Ask YouTube\" will let you pose complex questions and receive \"comprehensive results that include video and text, then ask follow ups to dive deeper,\" Google explained on itsYouTube Labs page. The experimental feature is available starting today until June 8 for Premium US subscribers 18 and older."
+        },
+        {
           "title": "Images of Samsung's rumored smart glasses have leaked",
           "link": "https://www.engadget.com/ar-vr/images-of-samsungs-rumored-smart-glasses-have-leaked-184129483.html?src=rss",
           "summary": "Images and details about Samsung's upcoming smart glasses have leaked, according to a report by Android Headlines . We knew these were coming at some point , but we now have what could be actual photos and they look pretty nifty. The\u2026",
@@ -203,22 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Two months following the deadly shooting in Tumbler Ridge, British Columbia, OpenAI's Sam Altman hasformally apologizedfor not informing police of the alarming ChatGPT conversations seen with the suspect's account. Before the incident, OpenAI banned the account belonging to the alleged shooter, Jesse Van Rootselaar, for violating its usage policy due to potential for real-world violence."
-        },
-        {
-          "title": "Tesla is giving away one year free Supercharging with Model 3 Premium and Performance purchases",
-          "link": "https://www.engadget.com/transportation/evs/tesla-is-giving-away-one-year-free-supercharging-with-model-3-premium-and-performance-purchases-144431817.html?src=rss",
-          "summary": "Tesla completely ended its free lifetime Supercharging offer way back in 2018, but it has given customers the perk for certain promotions since then. It brought back free Supercharging for Model S and X a couple of times in 2019, for\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Tesla completelyendedits free lifetime Supercharging offer way back in 2018, but it has given customers the perk for certain promotions since then. Itbrought backfree Supercharging for Model S and Xa couple of timesin 2019, for instance. The automaker\u2019s latest offer is for new purchases for aModel 3 Premium or Performancevehicle in North America. On its website, Tesla has announced that it\u2019s including one year of free supercharging with a Model 3 Premium or Performance, though the offer is \u201csubject to change or end at any time.\u201d"
-        },
-        {
-          "title": "Engadget review recap: DJI Osmo Pocket 4, Recteq X-Fire Pro and Alienware 27 QD-OLED",
-          "link": "https://www.engadget.com/engadget-review-recap-dji-osmo-pocket-4-recteq-x-fire-pro-and-alienware-27-qd-oled-120000428.html?src=rss",
-          "summary": "Engadget\u2019s hottest review roundup truly has it all this week: a new pocket cam, a 2-in-1 smart grill, a pair of drones and a pricey skinny vac. And that\u2019s before we even get to the highly capable gaming display that will only set you back\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Engadget\u2019s hottestreviewroundup truly has it all this week: a new pocket cam, a 2-in-1 smart grill, a pair of drones and a pricey skinny vac. And that\u2019s before we even get to the highly capable gaming display that will only set you back $350. Read on to catch up on the reviews you might\u2019ve missed over the last two weeks as we prepare for another slate of big events next month."
         }
       ]
     },
