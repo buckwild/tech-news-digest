@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T12:00:27.689141-07:00",
-  "generated_at_display": "Apr 29, 2026 12:00 PM PT",
+  "generated_at": "2026-04-29T13:00:30.538685-07:00",
+  "generated_at_display": "Apr 29, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,100 +125,68 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "iOS 27 will reportedly come with new AI-powered photo editing tools",
-          "link": "https://www.engadget.com/ai/ios-27-will-reportedly-come-with-new-ai-powered-photo-editing-tools-194119562.html?src=rss",
-          "summary": "Apple reportedly plans to fix bugs and expand the capabilities of Apple Intelligence with the release of iOS 27, iPadOS 27 and macOS 27 year, and it seems like tweaks to the company's AI could go beyond a more functional version of its\u2026",
+          "title": "Gemini can now generate files, including Microsoft Word and LaTeX documents",
+          "link": "https://www.engadget.com/2160619/gemini-can-now-generate-files-including-microsoft-word-and-latex-documents/",
+          "summary": "No need to copy and paste Gemini's outputs anymore.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Apple reportedly plans tofix bugs and expand the capabilities of Apple Intelligencewith the release of iOS 27, iPadOS 27 and macOS 27 year, and it seems like tweaks to the company's AI could go beyonda more functional versionof its Siri assistant.Bloombergreportsthat this year's software updates will also include new AI-powered photo editing tools that will let users change things like the background and framing of images, too."
+          "excerpt": "Gemini can now generate files, including Microsoft Word and LaTeX documents"
         },
         {
-          "title": "Snapchat is rolling out sponsored AI agents",
-          "link": "https://www.engadget.com/ai/snapchat-is-rolling-out-sponsored-ai-agents-162720124.html?src=rss",
-          "summary": "It was only a matter of time before they found a way to use AI agents as corporate shills. On Tuesday, Snapchat rolled out AI Sponsored Snaps, a \"new way for brands to show up in Chat through AI agents.\" Or, put another way, it's\u2026",
+          "title": "Humanoid robots will work as baggage handlers at Tokyo airport",
+          "link": "https://www.engadget.com/2160602/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/",
+          "summary": "Has nobody watched Terminator?",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It was only a matter of time before they found a way to useAI agentsas corporate shills. On Tuesday, Snapchat rolled out AI Sponsored Snaps, a \"new way for brands to show up in Chat through AI agents.\" Or, put another way, it's conversational advertising. (Yay?)"
+          "excerpt": "Humanoid robots will work as baggage handlers at Tokyo airport"
         },
         {
-          "title": "Google Translate uses AI to help you practice pronunciation",
-          "link": "https://www.engadget.com/ai/google-translate-uses-ai-to-help-you-practice-pronunciation-160000542.html?src=rss",
-          "summary": "Google is celebrating Translate\u2019s 20th birthday by launching pronunciation practice, which the company says is one of the most requested features for the product. The feature is only rolling out on Android at the moment for English,\u2026",
+          "title": "Families of Tumbler Ridge shooting victims sue OpenAI",
+          "link": "https://www.engadget.com/2160596/families-of-tumbler-ridge-shooting-victims-sue-openai/",
+          "summary": "Sam Altman apologized for not notifying local authorities last week.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google is celebratingTranslate\u2019s20th birthday by launching pronunciation practice, which the company says is one of the most requested features for the product. The feature is only rolling out on Android at the moment for English, Spanish and Hindi in the US and India. If it\u2019s available for you, you\u2019ll see a button at the bottom of the app that says \u201cPractice,\u201d which gives you the option to either \u201cpronounce\u201d what you\u2019ve translated or to \u201clisten\u201d to how it\u2019s actually pronounced by native speakers."
+          "excerpt": "Just days after OpenAI CEO Sam Altmanwrote a public apologyto people of Tumbler Ridge, British Columbia in the aftermath of the town's deadly February 10 school shooting, the families of the victims of the traumatic event are suing OpenAI for negligence."
         },
         {
-          "title": "Google and the Pentagon sign classified deal to give the Department of Defense unfettered access to its AI models",
-          "link": "https://www.engadget.com/ai/google-and-the-pentagon-sign-classified-deal-to-give-the-department-of-defense-unfettered-access-to-its-ai-models-155211834.html?src=rss",
-          "summary": "Google has signed a deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose.\" This is according to a report by The Information , which also notes that the full details of the contract are\u2026",
+          "title": "The Google TV platform will soon display YouTube Shorts videos directly on the home page",
+          "link": "https://www.engadget.com/2160469/the-google-tv-platform-will-soon-display-youtube-shorts-videos/",
+          "summary": "There are also new generative AI tools, because they must be stuffed into everything.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google has signed a deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose.\" This is according to areport byThe Information, which also notes that the full details of the contract are classified."
+          "excerpt": "The Google TV platform will soon display YouTube Shorts videos directly on the home page"
         },
         {
-          "title": "The FTC says Americans lost at least $2.1 billion to social media scams in 2025",
-          "link": "https://www.engadget.com/social-media/the-ftc-says-americans-lost-at-least-21-billion-to-social-media-scams-in-2025-152846798.html?src=rss",
-          "summary": "Americans lost at least $2.1 billion in 2025 to scams that originated on social media, according to the Federal Trade Commission . That figure marks an eightfold increase since 2020. The FTC said Americans reported losing $1.1 billion last\u2026",
+          "title": "Google Photos Wardrobe will scan your pictures to compile a digital version of your closet",
+          "link": "https://www.engadget.com/2160407/google-photos-wardrobe-scan-pictures-clothes-build-digital-closet/",
+          "summary": "At least now you can figure out what to wear without physically going to your closet?",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Americans lost at least $2.1 billion in 2025 to scams that originated on social media, according to theFederal Trade Commission. That figure marks an eightfold increase since 2020."
+          "excerpt": "Google Photos Wardrobe will scan your pictures to compile a digital version of your closet"
         },
         {
-          "title": "Ted Lasso\u2019s fourth season starts August 5",
-          "link": "https://www.engadget.com/entertainment/streaming/ted-lassos-fourth-season-starts-august-5-150337209.html?src=rss",
-          "summary": "It turns out you can go back again, especially if you win a pile of awards, mint a crop of stars and turn a potentially obscure sitcom into Apple\u2019s biggest hit. The iPhone maker has today announced Ted Lasso season four will debut August\u2026",
+          "title": "Vine reboot app Divine arrives with a ban on AI slop",
+          "link": "https://www.engadget.com/2160396/vine-reboot-app-divine-arrives-with-a-ban-on-ai-slop/",
+          "summary": "Do it for Divine all over again.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It turns out youcan go backagain, especially if you win a pile of awards, mint a crop of stars and turn a potentially obscure sitcom into Apple\u2019s biggest hit. The iPhone maker has todayannouncedTed Lassoseason four will debut August 5, with new episodes arriving every Wednesday through October 7. This time out, Ted and Beard havereturned to Richmondto take over coaching its women\u2019s team as it languishes in the second division."
+          "excerpt": "Vine reboot app Divine arrives with a ban on AI slop"
         },
         {
-          "title": "Trump administration is paying more companies to abandon offshore wind projects",
-          "link": "https://www.engadget.com/science/trump-administration-is-paying-more-companies-to-abandon-offshore-wind-projects-150216769.html?src=rss",
-          "summary": "The Trump Administration has signed deals with two major energy companies to abandon their respective offshore wind farms, with both firms agreeing to invest in oil and gas projects instead. The separate agreements were detailed in a press\u2026",
+          "title": "YouTube TV gets a fully customizable multiview feature, with availability for all channels",
+          "link": "https://www.engadget.com/2160303/youtube-tv-gets-a-fully-customizable-multiview-feature/",
+          "summary": "Only live content is supported right now.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The Trump Administration has signed deals with two major energy companies to abandon their respective offshore wind farms, with both firms agreeing to invest in oil and gas projects instead."
+          "excerpt": "YouTube TV gets a fully customizable multiview feature, with availability for all channels"
         },
         {
-          "title": "Amazon brings dark mode to Kindle Colorsoft and Scribe Colorsoft",
-          "link": "https://www.engadget.com/general/amazon-brings-dark-mode-to-kindle-colorsoft-and-scribe-colorsoft-130054573.html?src=rss",
-          "summary": "Amazon has today announced a software update for both the Kindle Colorsoft and Kindle Scribe Colorsoft which will bring dark mode to both e-readers. Even better, users will be able to toggle the settings for specific menus on both devices,\u2026",
+          "title": "It runs Doom: AI chatbot edition",
+          "link": "https://www.engadget.com/2160249/it-runs-doom-ai-chatbot-edition/",
+          "summary": "The latest answer to the always-relevant question: \"Can it run Doom?\"",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Amazon has today announced a software update for both the Kindle Colorsoft and Kindle Scribe Colorsoft which will bring dark mode to both e-readers. Even better, users will be able to toggle the settings for specific menus on both devices, so if they want their library dark and their notebook light, they can. Given the option is available on plenty of other Kindle devices, its omission here always felt like something Amazon was just getting around to addressing."
-        },
-        {
-          "title": "Union accuses Apple of unlawful discrimination against represented workers",
-          "link": "https://www.engadget.com/big-tech/union-accuses-apple-of-unlawful-discrimination-against-represented-workers-094531505.html?src=rss",
-          "summary": "The International Association of Machinists and Aerospace Workers (IAM) union has accused Apple of unlawfully discriminating against the unionized employees of the company\u2019s Towson, Maryland retail store. IAM has filed an unfair labor\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The International Association of Machinists and Aerospace Workers (IAM) union has accused Apple of unlawfully discriminating against the unionized employees of the company\u2019s Towson, Maryland retail store. IAM has filed an unfair labor practice charge against Apple with the National Labor Relations Board (NLRB) after the company announced on April 9 that it wasshutting downthree of its US stores. One of those locations was the Towson retail outlet, which employed nearly 90 workers and became the first Apple Store in the countryto unionizeback in 2022."
-        },
-        {
-          "title": "YouTube is testing an AI search mode that 'feels more like a conversation'",
-          "link": "https://www.engadget.com/apps/youtube-is-testing-an-ai-search-mode-that-feels-more-like-a-conversation-075057461.html?src=rss",
-          "summary": "Google is determined to impose AI search onto as many of its products as possible, and the latest, er, victim is YouTube. A new feature called \"Ask YouTube\" will let you pose complex questions and receive \"comprehensive results that\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google is determined to impose AI search ontoas many of its productsas possible, and the latest, er, victim is YouTube. A new feature called \"Ask YouTube\" will let you pose complex questions and receive \"comprehensive results that include video and text, then ask follow ups to dive deeper,\" Google explained on itsYouTube Labs page. The experimental feature is available starting today until June 8 for Premium US subscribers 18 and older."
-        },
-        {
-          "title": "Images of Samsung's rumored smart glasses have leaked",
-          "link": "https://www.engadget.com/ar-vr/images-of-samsungs-rumored-smart-glasses-have-leaked-184129483.html?src=rss",
-          "summary": "Images and details about Samsung's upcoming smart glasses have leaked, according to a report by Android Headlines . We knew these were coming at some point , but we now have what could be actual photos and they look pretty nifty. The\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Images and details about Samsung's upcoming smart glasses have leaked,according to a report byAndroid Headlines. We knew these werecoming at some point, but we now have what could be actual photos and they look pretty nifty. The glasses are reportedly being developed under the codename \"Jinju\" and could cost anywhere from $380 to $500."
-        },
-        {
-          "title": "Joby Aviation is demoing 10-minute air taxi flights from JFK to Manhattan for a week",
-          "link": "https://www.engadget.com/transportation/joby-aviation-is-demoing-10-minute-air-taxi-flights-from-jfk-to-manhattan-for-a-week-180247411.html?src=rss",
-          "summary": "Joby Aviation is kicking off 10 days of electric air taxi demo flights in New York City. Before you try to book one to bypass the city's awful traffic, Joby's aircrafts aren't taking customers yet. Instead, the company is trialing the air\u2026",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Joby Aviationis kicking off 10 days of electric air taxi demo flights in New York City. Before you try to book one to bypass the city's awful traffic, Joby's aircrafts aren't taking customers yet. Instead, the company is trialing the air taxis in \"real flight routes and real environments,\" as indicated in itspress release."
+          "excerpt": "It runs Doom: AI chatbot edition"
         }
       ]
     },
