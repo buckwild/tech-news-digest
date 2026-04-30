@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T11:00:30.315268-07:00",
-  "generated_at_display": "Apr 30, 2026 11:00 AM PT",
+  "generated_at": "2026-04-30T12:00:21.947954-07:00",
+  "generated_at_display": "Apr 30, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Anbernic's swiveling retro handheld will be available May 11",
+          "link": "https://www.engadget.com/2161434/anbernics-swiveling-retro-handheld-will-be-available-may-11/",
+          "summary": "The RG Rotate starts at just $88.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anbernic's swiveling retro handheld will be available May 11"
+        },
+        {
+          "title": "LG's UltraGear evo 5K gaming monitor is available to pre-order",
+          "link": "https://www.engadget.com/2161419/lgs-ultragear-evo-5k-gaming-monitor-is-available-to-pre-order/",
+          "summary": "The monitor uses a Mini LED screen and supports AI upscaling for lower resolution content.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "LG's UltraGear evo 5K gaming monitor is available to pre-order"
+        },
+        {
           "title": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live",
           "link": "https://www.engadget.com/2161381/microsoft-flight-simulator-2024-support-for-playstation-vr2-is-now-live/",
           "summary": "Asobo Studio says it also improved the game's performance with the latest update.",
@@ -195,30 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Mark Zuckerberg says Meta is working on AI agents for personal and business use"
-        },
-        {
-          "title": "Gemini can now generate files, including Microsoft Word and LaTeX documents",
-          "link": "https://www.engadget.com/2160619/gemini-can-now-generate-files-including-microsoft-word-and-latex-documents/",
-          "summary": "No need to copy and paste Gemini's outputs anymore.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Gemini can now generate files, including Microsoft Word and LaTeX documents"
-        },
-        {
-          "title": "Humanoid robots will work as baggage handlers at Tokyo airport",
-          "link": "https://www.engadget.com/2160602/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/",
-          "summary": "Has nobody watched Terminator?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Humanoid robots will work as baggage handlers at Tokyo airport"
-        },
-        {
-          "title": "Families of Tumbler Ridge shooting victims sue OpenAI",
-          "link": "https://www.engadget.com/2160596/families-of-tumbler-ridge-shooting-victims-sue-openai/",
-          "summary": "Sam Altman apologized for not notifying local authorities last week.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Just days after OpenAI CEO Sam Altmanwrote a public apologyto people of Tumbler Ridge, British Columbia in the aftermath of the town's deadly February 10 school shooting, the families of the victims of the traumatic event are suing OpenAI for negligence."
         }
       ]
     },
