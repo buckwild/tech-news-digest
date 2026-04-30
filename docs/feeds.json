@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T14:00:31.765051-07:00",
-  "generated_at_display": "Apr 30, 2026 02:00 PM PT",
+  "generated_at": "2026-04-30T15:00:20.071430-07:00",
+  "generated_at_display": "Apr 30, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Even Realities\u2019 G2 smart glasses will keep an eye on your AI agent"
-        },
-        {
-          "title": "Spotify's new verification badge shows that music is not AI-generated",
-          "link": "https://www.engadget.com/2161028/spotifys-new-verification-badge-shows-that-music-is-not-ai-generated/",
-          "summary": "\"Verified by Spotify\" will start rolling out over the coming weeks.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify's new verification badge shows that music is not AI-generated"
         }
       ]
     },
@@ -218,6 +210,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "PAIN AT PUMP INTENSIFYING...",
+          "link": "https://www.msn.com/en-us/money/markets/ar-AA226WB1",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "WAR ON IRAN MORE UNPOPULAR THAN VIETNAM!",
           "link": "https://www.themirror.com/news/politics/eye-opening-graphic-shows-how-1814197?3",
