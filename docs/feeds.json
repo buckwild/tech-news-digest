@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T08:00:23.322732-07:00",
-  "generated_at_display": "Apr 30, 2026 08:00 AM PT",
+  "generated_at": "2026-04-30T09:00:21.375723-07:00",
+  "generated_at_display": "Apr 30, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "ChatGPT developed a goblin obsession after OpenAI tried to make it nerdy",
+          "link": "https://www.engadget.com/2161234/chatgpt-developed-a-goblin-obsession-after-openai-tried-to-make-it-nerdy/",
+          "summary": "A warning for all you nerds out there.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Following therelease of GPT-5.5 last week, people noticed something funny about OpenAI's latest model. In itsCodex coding app, the company left a system prompt instructing GPT 5.5 to avoid mention of goblins, gremlins and other creatures. Yes, you read that right. \"Never talk about goblins, gremlins, racoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query,\" the prompt reads."
+        },
+        {
+          "title": "The upcoming Resident Evil movie looks legit scary in its first trailer",
+          "link": "https://www.engadget.com/2161212/the-upcoming-resident-evil-movie-looks-legit-scary-in-its-first-trailer/",
+          "summary": "Zach Cregger's take on the video game source material hits theaters on September 18.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The upcoming Resident Evil movie looks legit scary in its first trailer"
+        },
+        {
           "title": "Even Realities' G2 smart glasses will keep an eye on your AI agent",
           "link": "https://www.engadget.com/2161082/even-realities-terminal-mode-ai-agent/",
           "summary": "It's designed to keep you appraised of what your coding agent is doing, even when you're not at your desk.",
@@ -211,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "YouTube TV gets a fully customizable multiview feature, with availability for all channels"
-        },
-        {
-          "title": "It runs Doom: AI chatbot edition",
-          "link": "https://www.engadget.com/2160249/it-runs-doom-ai-chatbot-edition/",
-          "summary": "The latest answer to the always-relevant question: \"Can it run Doom?\"",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It runs Doom: AI chatbot edition"
         }
       ]
     },
@@ -227,22 +235,29 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "NYT: Military Was Losing Its Edge. After Iran, Everyone Knows It...",
-          "link": "https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html?unlocked_article_code=1.e1A.4bQp.2KFC5jy1cKdW&smid=url-share",
+          "title": "WAR ON IRAN MORE UNPOPULAR THAN VIETNAM!",
+          "link": "https://www.themirror.com/news/politics/eye-opening-graphic-shows-how-1814197?3",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
           "title": "AMAZON Discusses 'APPRENTICE' Reboot With Don Jr. as Host...",
-          "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-potential-apprentice-reboot-trump-1236580630/",
+          "link": "https://www.wsj.com/business/media/amazon-discusses-apprentice-rebootwith-don-jr-as-a-potential-host-fe09e885",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "AS THE MAGA TURNS: Tucker Burns It Down, Tells Trump, 'You Have Failed'...",
+          "title": "AS THE MAGA TURNS: TUCKER DECLARES TRUMP HAS FAILED...",
           "link": "https://www.mediaite.com/politics/tucker-carlson-burns-it-down-tells-trump-you-have-failed/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "CANDACE: LOOMER HAS BLACKMAIL MATERIAL ON THE DON!",
+          "link": "https://x.com/ShadowofEzra/status/2049634126794244509",
           "summary": null,
           "published": null,
           "excerpt": null
