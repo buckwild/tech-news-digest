@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T06:00:21.364316-07:00",
-  "generated_at_display": "Apr 30, 2026 06:00 AM PT",
+  "generated_at": "2026-04-30T07:00:23.513790-07:00",
+  "generated_at_display": "Apr 30, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Even Realities' G2 smart glasses will keep an eye on your AI agent",
+          "link": "https://www.engadget.com/2161082/even-realities-terminal-mode-ai-agent/",
+          "summary": "It's designed to keep you appraised of what your coding agent is doing, even when you're not at your desk.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Even Realities\u2019 G2 smart glasses will keep an eye on your AI agent"
+        },
+        {
+          "title": "Spotify's new verification badge shows that music is not AI-generated",
+          "link": "https://www.engadget.com/2161028/spotifys-new-verification-badge-shows-that-music-is-not-ai-generated/",
+          "summary": "\"Verified by Spotify\" will start rolling out over the coming weeks.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify's new verification badge shows that music is not AI-generated"
+        },
+        {
           "title": "YouTube's picture-in-picture mode is rolling out to all users worldwide",
           "link": "https://www.engadget.com/2160942/youtube-picture-in-picture-rolling-out-worldwide/",
           "summary": "It will be available to everyone, not just Premium users.",
@@ -211,7 +227,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "NYT: The U.S. Military Was Losing Its Edge. After Iran, Everyone Knows It...",
+          "title": "NYT: Military Was Losing Its Edge. After Iran, Everyone Knows It...",
           "link": "https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html?unlocked_article_code=1.e1A.4bQp.2KFC5jy1cKdW&smid=url-share",
           "summary": null,
           "published": null,
