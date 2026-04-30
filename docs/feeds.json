@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T16:00:22.544436-07:00",
-  "generated_at_display": "Apr 29, 2026 04:00 PM PT",
+  "generated_at": "2026-04-29T17:00:22.749331-07:00",
+  "generated_at_display": "Apr 29, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Mark Zuckerberg says Meta is working on AI agents for personal and business use",
+          "link": "https://www.engadget.com/2160792/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/",
+          "summary": "The CEO wants to make an agent so easy even his mom can use it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Mark Zuckerberg says Meta is working on AI agents for personal and business use"
+        },
         {
           "title": "Gemini can now generate files, including Microsoft Word and LaTeX documents",
           "link": "https://www.engadget.com/2160619/gemini-can-now-generate-files-including-microsoft-word-and-latex-documents/",
