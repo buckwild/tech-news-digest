@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T04:00:22.740810-07:00",
-  "generated_at_display": "Apr 30, 2026 04:00 AM PT",
+  "generated_at": "2026-04-30T05:00:28.126439-07:00",
+  "generated_at_display": "Apr 30, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,8 +211,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Airlines across Europe could shut down...",
-          "link": "https://www.dailystar.co.uk/news/latest-news/breaking-airlines-across-europe-could-37085747",
+          "title": "NYT: The U.S. Military Was Losing Its Edge. After Iran, Everyone Knows It...",
+          "link": "https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html?unlocked_article_code=1.e1A.4bQp.2KFC5jy1cKdW&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "AMAZON Discusses 'APPRENTICE' Reboot With Don Jr. as Host...",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-potential-apprentice-reboot-trump-1236580630/",
           "summary": null,
           "published": null,
           "excerpt": null
