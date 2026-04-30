@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T13:00:24.373221-07:00",
-  "generated_at_display": "Apr 30, 2026 01:00 PM PT",
+  "generated_at": "2026-04-30T14:00:31.765051-07:00",
+  "generated_at_display": "Apr 30, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Prime Video will stream three Duke basketball games next season",
+          "link": "https://www.engadget.com/2161567/prime-video-will-stream-three-duke-basketball-games-next-season/",
+          "summary": "This marks Amazon's first streaming deal with a college team.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Prime Video will stream three Duke basketball games next season"
+        },
+        {
           "title": "You can now choose which games use Quick Resume on Xbox",
           "link": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox/",
           "summary": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app.",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Spotify's new verification badge shows that music is not AI-generated"
-        },
-        {
-          "title": "YouTube's picture-in-picture mode is rolling out to all users worldwide",
-          "link": "https://www.engadget.com/2160942/youtube-picture-in-picture-rolling-out-worldwide/",
-          "summary": "It will be available to everyone, not just Premium users.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "YouTube's picture-in-picture mode is rolling out to all users worldwide"
         }
       ]
     },
@@ -249,6 +249,13 @@
         {
           "title": "White House drops embattled surgeon general pick, turns to FOX doc...",
           "link": "https://www.washingtonpost.com/health/2026/04/30/surgeon-general-nominee-means-saphier/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "AI outperforms docs in trial of emergency triage diagnoses...",
+          "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
           "summary": null,
           "published": null,
           "excerpt": null
