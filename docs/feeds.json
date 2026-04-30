@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T10:00:22.370267-07:00",
-  "generated_at_display": "Apr 30, 2026 10:00 AM PT",
+  "generated_at": "2026-04-30T11:00:30.315268-07:00",
+  "generated_at_display": "Apr 30, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live",
+          "link": "https://www.engadget.com/2161381/microsoft-flight-simulator-2024-support-for-playstation-vr2-is-now-live/",
+          "summary": "Asobo Studio says it also improved the game's performance with the latest update.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live"
+        },
+        {
+          "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
+          "link": "https://www.engadget.com/2161370/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/",
+          "summary": "It's a rare moment of working across the aisle.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Senate Judiciary Committee unanimously approves AI chatbot age verification"
+        },
+        {
+          "title": "Amazon's AI-generated shopping experts now let you ask questions",
+          "link": "https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/",
+          "summary": "It's an expansion of the mobile app's \"Hear the Highlights\" feature.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon's AI-generated shopping experts now let you ask questions"
+        },
+        {
           "title": "ChatGPT developed a goblin obsession after OpenAI tried to make it nerdy",
           "link": "https://www.engadget.com/2161234/chatgpt-developed-a-goblin-obsession-after-openai-tried-to-make-it-nerdy/",
           "summary": "A warning for all you nerds out there.",
@@ -195,30 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Just days after OpenAI CEO Sam Altmanwrote a public apologyto people of Tumbler Ridge, British Columbia in the aftermath of the town's deadly February 10 school shooting, the families of the victims of the traumatic event are suing OpenAI for negligence."
-        },
-        {
-          "title": "The Google TV platform will soon display YouTube Shorts videos directly on the home page",
-          "link": "https://www.engadget.com/2160469/the-google-tv-platform-will-soon-display-youtube-shorts-videos/",
-          "summary": "There are also new generative AI tools, because they must be stuffed into everything.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Google TV platform will soon display YouTube Shorts videos directly on the home page"
-        },
-        {
-          "title": "Google Photos Wardrobe will scan your pictures to compile a digital version of your closet",
-          "link": "https://www.engadget.com/2160407/google-photos-wardrobe-scan-pictures-clothes-build-digital-closet/",
-          "summary": "At least now you can figure out what to wear without physically going to your closet?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google Photos Wardrobe will scan your pictures to compile a digital version of your closet"
-        },
-        {
-          "title": "Vine reboot app Divine arrives with a ban on AI slop",
-          "link": "https://www.engadget.com/2160396/vine-reboot-app-divine-arrives-with-a-ban-on-ai-slop/",
-          "summary": "Do it for Divine all over again.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Vine reboot app Divine arrives with a ban on AI slop"
         }
       ]
     },
@@ -250,6 +250,13 @@
         {
           "title": "CANDACE: LOOMER HAS BLACKMAIL MATERIAL ON THE DON!",
           "link": "https://x.com/ShadowofEzra/status/2049634126794244509",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "White House drops embattled surgeon general pick, turns to FOX doc...",
+          "link": "https://www.washingtonpost.com/health/2026/04/30/surgeon-general-nominee-means-saphier/",
           "summary": null,
           "published": null,
           "excerpt": null
