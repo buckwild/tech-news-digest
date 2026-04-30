@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T02:00:21.867518-07:00",
-  "generated_at_display": "Apr 30, 2026 02:00 AM PT",
+  "generated_at": "2026-04-30T03:00:21.690520-07:00",
+  "generated_at_display": "Apr 30, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "YouTube's picture-in-picture mode is rolling out to all users worldwide",
+          "link": "https://www.engadget.com/2160942/youtube-picture-in-picture-rolling-out-worldwide/",
+          "summary": "It will be available to everyone, not just Premium users.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "YouTube's picture-in-picture mode is rolling out to all users worldwide"
+        },
         {
           "title": "Mark Zuckerberg says Meta is working on AI agents for personal and business use",
           "link": "https://www.engadget.com/2160792/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/",
