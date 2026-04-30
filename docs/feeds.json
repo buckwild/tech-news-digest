@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T12:00:21.947954-07:00",
-  "generated_at_display": "Apr 30, 2026 12:00 PM PT",
+  "generated_at": "2026-04-30T13:00:24.373221-07:00",
+  "generated_at_display": "Apr 30, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "You can now choose which games use Quick Resume on Xbox",
+          "link": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox/",
+          "summary": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You can now choose which games use Quick Resume on Xbox"
+        },
+        {
           "title": "Anbernic's swiveling retro handheld will be available May 11",
           "link": "https://www.engadget.com/2161434/anbernics-swiveling-retro-handheld-will-be-available-may-11/",
           "summary": "The RG Rotate starts at just $88.",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "YouTube's picture-in-picture mode is rolling out to all users worldwide"
-        },
-        {
-          "title": "Mark Zuckerberg says Meta is working on AI agents for personal and business use",
-          "link": "https://www.engadget.com/2160792/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/",
-          "summary": "The CEO wants to make an agent so easy even his mom can use it.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Mark Zuckerberg says Meta is working on AI agents for personal and business use"
         }
       ]
     },
