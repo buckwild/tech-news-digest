@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T09:00:21.375723-07:00",
-  "generated_at_display": "Apr 30, 2026 09:00 AM PT",
+  "generated_at": "2026-04-30T10:00:22.370267-07:00",
+  "generated_at_display": "Apr 30, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -219,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Vine reboot app Divine arrives with a ban on AI slop"
-        },
-        {
-          "title": "YouTube TV gets a fully customizable multiview feature, with availability for all channels",
-          "link": "https://www.engadget.com/2160303/youtube-tv-gets-a-fully-customizable-multiview-feature/",
-          "summary": "Only live content is supported right now.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "YouTube TV gets a fully customizable multiview feature, with availability for all channels"
         }
       ]
     },
