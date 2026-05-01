@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T11:00:24.118824-07:00",
-  "generated_at_display": "May 01, 2026 11:00 AM PT",
+  "generated_at": "2026-05-01T12:00:21.641383-07:00",
+  "generated_at_display": "May 01, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live"
-        },
-        {
-          "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
-          "link": "https://www.engadget.com/2161370/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/",
-          "summary": "It's a rare moment of working across the aisle.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Senate Judiciary Committee unanimously approves AI chatbot age verification"
         }
       ]
     },
@@ -235,6 +227,13 @@
         {
           "title": "WHITE HOUSE MOVES TO BLOCK CONGRESSIONAL VOTE...",
           "link": "https://apnews.com/live/donald-trump-news-updates-05-01-2026",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Israel Said to Have Helped Defend Emirates With Iron Dome...",
+          "link": "https://www.nytimes.com/2026/05/01/world/middleeast/israel-emirates-iron-dome.html?unlocked_article_code=1.fFA.wPfL.iJvNoEZnrdU2&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
