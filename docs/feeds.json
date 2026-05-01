@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T04:00:24.126473-07:00",
-  "generated_at_display": "May 01, 2026 04:00 AM PT",
+  "generated_at": "2026-05-01T05:00:24.044364-07:00",
+  "generated_at_display": "May 01, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Microsoft's Xbox mode starts making its way to Windows 11 PCs",
+          "link": "https://www.engadget.com/2161816/microsoft-xbox-mode-windows-11-rollout/",
+          "summary": "Xbox mode brings a console-like interface to Windows 11.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft's Xbox mode starts making its way to Windows 11 PCs"
+        },
+        {
           "title": "Prime Video will stream three Duke basketball games next season",
           "link": "https://www.engadget.com/2161567/prime-video-will-stream-three-duke-basketball-games-next-season/",
           "summary": "This marks Amazon's first streaming deal with a college team.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The upcoming Resident Evil movie looks legit scary in its first trailer"
-        },
-        {
-          "title": "Even Realities' G2 smart glasses will keep an eye on your AI agent",
-          "link": "https://www.engadget.com/2161082/even-realities-terminal-mode-ai-agent/",
-          "summary": "It's designed to keep you appraised of what your coding agent is doing, even when you're not at your desk.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Even Realities\u2019 G2 smart glasses will keep an eye on your AI agent"
         }
       ]
     },
@@ -213,13 +213,6 @@
         {
           "title": "WAR ON IRAN MORE UNPOPULAR THAN VIETNAM!",
           "link": "https://www.themirror.com/news/politics/eye-opening-graphic-shows-how-1814197?3",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "AS THE MAGA TURNS: TUCKER DECLARES TRUMP HAS FAILED...",
-          "link": "https://www.mediaite.com/politics/tucker-carlson-burns-it-down-tells-trump-you-have-failed/",
           "summary": null,
           "published": null,
           "excerpt": null
