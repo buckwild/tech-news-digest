@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T06:00:21.158863-07:00",
-  "generated_at_display": "May 01, 2026 06:00 AM PT",
+  "generated_at": "2026-05-01T07:00:22.988210-07:00",
+  "generated_at_display": "May 01, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Amazon's AI-generated shopping experts now let you ask questions"
-        },
-        {
-          "title": "ChatGPT developed a goblin obsession after OpenAI tried to make it nerdy",
-          "link": "https://www.engadget.com/2161234/chatgpt-developed-a-goblin-obsession-after-openai-tried-to-make-it-nerdy/",
-          "summary": "A warning for all you nerds out there.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Following therelease of GPT-5.5 last week, people noticed something funny about OpenAI's latest model. In itsCodex coding app, the company left a system prompt instructing GPT 5.5 to avoid mention of goblins, gremlins and other creatures. Yes, you read that right. \"Never talk about goblins, gremlins, racoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query,\" the prompt reads."
         }
       ]
     },
