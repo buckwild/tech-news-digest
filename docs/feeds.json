@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T13:00:24.321956-07:00",
-  "generated_at_display": "May 01, 2026 01:00 PM PT",
+  "generated_at": "2026-05-01T14:00:31.215349-07:00",
+  "generated_at_display": "May 01, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "AI performances and screenplays won't be eligible for Oscars",
+          "link": "https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/",
+          "summary": "Will that stop them from taking over?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "AI performances and screenplays won't be eligible for Oscars"
+        },
+        {
+          "title": "Apple appears to have discontinued its cheapest Mac mini",
+          "link": "https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/",
+          "summary": "The compact desktop Mac now starts at $799 and comes with 512GB of storage.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple appears to have discontinued its cheapest Mac mini"
+        },
+        {
           "title": "LG's 2026 Gram laptop lineup starts at $1,150",
           "link": "https://www.engadget.com/2162125/lg-2026-gram-laptop-lineup-starts-at-1150/",
           "summary": "They're available today from LG's website.",
@@ -187,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Anbernic's swiveling retro handheld will be available May 11"
-        },
-        {
-          "title": "LG's UltraGear evo 5K gaming monitor is available to pre-order",
-          "link": "https://www.engadget.com/2161419/lgs-ultragear-evo-5k-gaming-monitor-is-available-to-pre-order/",
-          "summary": "The monitor uses a Mini LED screen and supports AI upscaling for lower resolution content.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "LG's UltraGear evo 5K gaming monitor is available to pre-order"
-        },
-        {
-          "title": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live",
-          "link": "https://www.engadget.com/2161381/microsoft-flight-simulator-2024-support-for-playstation-vr2-is-now-live/",
-          "summary": "Asobo Studio says it also improved the game's performance with the latest update.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live"
         }
       ]
     },
