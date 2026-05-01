@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T07:00:22.988210-07:00",
-  "generated_at_display": "May 01, 2026 07:00 AM PT",
+  "generated_at": "2026-05-01T08:00:28.215721-07:00",
+  "generated_at_display": "May 01, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -193,7 +193,22 @@
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": []
+      "entries": [
+        {
+          "title": "Top AI companies agree to work with Pentagon on secret data...",
+          "link": "https://www.washingtonpost.com/technology/2026/05/01/pentagon-ai-deals-microsoft-amazon-google-classified-military/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "WHITE HOUSE CLAIMS ITS OVER TO AVOID CONGRESSIONAL APPROVAL...",
+          "link": "https://apnews.com/live/donald-trump-news-updates-05-01-2026",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        }
+      ]
     }
   ]
 }
