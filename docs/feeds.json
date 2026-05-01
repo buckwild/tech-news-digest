@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T05:00:24.044364-07:00",
-  "generated_at_display": "May 01, 2026 05:00 AM PT",
+  "generated_at": "2026-05-01T06:00:21.158863-07:00",
+  "generated_at_display": "May 01, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,36 +195,13 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Following therelease of GPT-5.5 last week, people noticed something funny about OpenAI's latest model. In itsCodex coding app, the company left a system prompt instructing GPT 5.5 to avoid mention of goblins, gremlins and other creatures. Yes, you read that right. \"Never talk about goblins, gremlins, racoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query,\" the prompt reads."
-        },
-        {
-          "title": "The upcoming Resident Evil movie looks legit scary in its first trailer",
-          "link": "https://www.engadget.com/2161212/the-upcoming-resident-evil-movie-looks-legit-scary-in-its-first-trailer/",
-          "summary": "Zach Cregger's take on the video game source material hits theaters on September 18.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The upcoming Resident Evil movie looks legit scary in its first trailer"
         }
       ]
     },
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": [
-        {
-          "title": "WAR ON IRAN MORE UNPOPULAR THAN VIETNAM!",
-          "link": "https://www.themirror.com/news/politics/eye-opening-graphic-shows-how-1814197?3",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "CANDACE: LOOMER HAS BLACKMAIL MATERIAL ON THE DON!",
-          "link": "https://x.com/ShadowofEzra/status/2049634126794244509",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        }
-      ]
+      "entries": []
     }
   ]
 }
