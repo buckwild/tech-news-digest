@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T10:00:23.338680-07:00",
-  "generated_at_display": "May 01, 2026 10:00 AM PT",
+  "generated_at": "2026-05-01T11:00:24.118824-07:00",
+  "generated_at_display": "May 01, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "LG's 2026 Gram laptop lineup starts at $1,150",
+          "link": "https://www.engadget.com/2162125/lg-2026-gram-laptop-lineup-starts-at-1150/",
+          "summary": "They're available today from LG's website.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "ManyCES product announcementsleave us hanging for a while on pricing and availability. Today, one of this year's updated laptop series finally has official pricing and release info. LG's 2026 Gram models are now available, starting at $1,150 for the base model."
+        },
+        {
+          "title": "It's Bandcamp Friday again",
+          "link": "https://www.engadget.com/2162117/its-bandcamp-friday-again/",
+          "summary": "What are you buying today?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's Bandcamp Friday again"
+        },
+        {
           "title": "Oura adds more detailed hormonal health insights to its Series 3 and 4 rings",
           "link": "https://www.engadget.com/2162066/oura-adds-more-detailed-hormonal-health-insights-to-its-series-3-and-4-rings/",
           "summary": "The system will track potential side effects of various birth control methods.",
@@ -205,6 +221,13 @@
         {
           "title": "Top AI companies agree to work with Pentagon on secret data...",
           "link": "https://www.washingtonpost.com/technology/2026/05/01/pentagon-ai-deals-microsoft-amazon-google-classified-military/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "WASH POST:  IRAN CONFLICT MORE UNPOPULAR THAN VIETNAM!",
+          "link": "https://www.washingtonpost.com/politics/2026/05/01/poll-trump-iran-war-iraq/",
           "summary": null,
           "published": null,
           "excerpt": null
