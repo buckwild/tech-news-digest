@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T08:00:28.215721-07:00",
-  "generated_at_display": "May 01, 2026 08:00 AM PT",
+  "generated_at": "2026-05-01T09:00:25.898976-07:00",
+  "generated_at_display": "May 01, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon",
+          "link": "https://www.engadget.com/2161995/amazon-web-services-microsoft-and-nvidia-will-provide-ai-tech-to-pentagon/",
+          "summary": "They join Google, OpenAI and xAI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon"
+        },
         {
           "title": "Microsoft's Xbox mode starts making its way to Windows 11 PCs",
           "link": "https://www.engadget.com/2161816/microsoft-xbox-mode-windows-11-rollout/",
