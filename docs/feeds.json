@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T03:00:25.633810-07:00",
-  "generated_at_display": "May 02, 2026 03:00 AM PT",
+  "generated_at": "2026-05-02T04:00:19.958824-07:00",
+  "generated_at_display": "May 02, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,15 +211,22 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "WASH POST:  IRAN CONFLICT MORE UNPOPULAR THAN VIETNAM!",
-          "link": "https://www.washingtonpost.com/politics/2026/05/01/poll-trump-iran-war-iraq/",
+          "title": "BAILOUT UNRAVELS",
+          "link": "https://www.wsj.com/business/airlines/spirit-airlines-deal-what-happened-7e489dcf",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "WHITE HOUSE MOVES TO SIDESTEP AUTHORIZATION...",
-          "link": "https://www.wsj.com/politics/national-security/trump-tells-congress-iran-conflict-is-over-sidestepping-war-authorization-ed3e1144",
+          "title": "IRAN WAR CASUALTY",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/trump-gives-spirit-final-rescue-170653324.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Iran War Gives America's Rivals a Real-Time Look at Its Firepower...",
+          "link": "https://www.wsj.com/world/iran-war-gives-u-s-rivals-a-real-time-look-at-its-firepower-165c40f2",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -234,6 +241,20 @@
         {
           "title": "Air Force vet selling '8647' merch hits out over Comey indictment...",
           "link": "https://www.the-independent.com/b2969173.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Owens Drops Blackmail Theory...",
+          "link": "https://www.mediaite.com/politics/candace-owens-drops-lewd-laura-loomer-theory-for-why-trump-attacked-her/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Garcia-Navarro: What Does Tucker Really Believe? I Went to Maine to Find Out...",
+          "link": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html?unlocked_article_code=1.fVA.acav.xdMxQc5tugla&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
