@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T10:00:24.966078-07:00",
-  "generated_at_display": "May 02, 2026 10:00 AM PT",
+  "generated_at": "2026-05-02T11:00:23.062632-07:00",
+  "generated_at_display": "May 02, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever",
+          "link": "https://www.engadget.com/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/",
+          "summary": "The cars made at the Giga Shanghai factory start at $39,490 CAD, or roughly $29,000 in USD for a Model 3 Premium Rear-Wheel Drive variant.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever"
+        },
+        {
           "title": "Meta acquires robotics AI startup as it makes the push into humanoid machines",
           "link": "https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/",
           "summary": "The company has purchased Assured Robot Intelligence, whose staff is joining Meta's Superintelligence Labs.",
@@ -246,7 +254,7 @@
           "excerpt": null
         },
         {
-          "title": "Iran War Gives America's Rivals a Real-Time Look at Its Firepower...",
+          "title": "Iran War Gives America's Rivals Real-Time Look at Its Firepower...",
           "link": "https://www.wsj.com/world/iran-war-gives-u-s-rivals-a-real-time-look-at-its-firepower-165c40f2",
           "summary": null,
           "published": null,
