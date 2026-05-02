@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T04:00:19.958824-07:00",
-  "generated_at_display": "May 02, 2026 04:00 AM PT",
+  "generated_at": "2026-05-02T05:00:23.559192-07:00",
+  "generated_at_display": "May 02, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "You can now choose which games use Quick Resume on Xbox"
-        },
-        {
-          "title": "Anbernic's swiveling retro handheld will be available May 11",
-          "link": "https://www.engadget.com/2161434/anbernics-swiveling-retro-handheld-will-be-available-may-11/",
-          "summary": "The RG Rotate starts at just $88.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anbernic's swiveling retro handheld will be available May 11"
         }
       ]
     },
