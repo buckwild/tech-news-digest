@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T02:00:21.848022-07:00",
-  "generated_at_display": "May 02, 2026 02:00 AM PT",
+  "generated_at": "2026-05-02T03:00:25.633810-07:00",
+  "generated_at_display": "May 02, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,13 +211,6 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Top AI companies agree to work with Pentagon on secret data...",
-          "link": "https://www.washingtonpost.com/technology/2026/05/01/pentagon-ai-deals-microsoft-amazon-google-classified-military/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "WASH POST:  IRAN CONFLICT MORE UNPOPULAR THAN VIETNAM!",
           "link": "https://www.washingtonpost.com/politics/2026/05/01/poll-trump-iran-war-iraq/",
           "summary": null,
@@ -225,15 +218,8 @@
           "excerpt": null
         },
         {
-          "title": "White House Tells Congress It's Over, Sidestepping War Authorization...",
+          "title": "WHITE HOUSE MOVES TO SIDESTEP AUTHORIZATION...",
           "link": "https://www.wsj.com/politics/national-security/trump-tells-congress-iran-conflict-is-over-sidestepping-war-authorization-ed3e1144",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Israel Said to Have Helped Defend Emirates With Iron Dome...",
-          "link": "https://www.nytimes.com/2026/05/01/world/middleeast/israel-emirates-iron-dome.html?unlocked_article_code=1.fFA.wPfL.iJvNoEZnrdU2&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -246,15 +232,8 @@
           "excerpt": null
         },
         {
-          "title": "Air Force vet selling '8647' merch hits out over Comey indictment: 'Arrest us, I dare you'...",
+          "title": "Air Force vet selling '8647' merch hits out over Comey indictment...",
           "link": "https://www.the-independent.com/b2969173.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "'Bargain' $1M Gold Card backfires with just 338 applications...",
-          "link": "https://www.telegraph.co.uk/money/consumer-affairs/trumps-1m-gold-card-backfires-with-just-338-applications/",
           "summary": null,
           "published": null,
           "excerpt": null
