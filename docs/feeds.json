@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T06:00:20.627892-07:00",
-  "generated_at_display": "May 02, 2026 06:00 AM PT",
+  "generated_at": "2026-05-02T07:00:22.614164-07:00",
+  "generated_at_display": "May 02, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,6 +203,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "President running out of options to contain backlash...",
+          "link": "https://www.washingtonpost.com/politics/2026/05/02/trump-gas-prices-iran/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "BAILOUT UNRAVELS",
           "link": "https://www.wsj.com/business/airlines/spirit-airlines-deal-what-happened-7e489dcf",
           "summary": null,
@@ -231,8 +238,8 @@
           "excerpt": null
         },
         {
-          "title": "Air Force vet selling '8647' merch hits out over Comey indictment...",
-          "link": "https://www.the-independent.com/b2969173.html",
+          "title": "TROUBLES: DAILY WIRE Hit With Layoffs Across 'Number of Teams'...",
+          "link": "https://www.thewrap.com/media-platforms/journalism/ben-shapiro-the-daily-wire-layoffs-nashville/",
           "summary": null,
           "published": null,
           "excerpt": null
