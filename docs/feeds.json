@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T09:00:27.783665-07:00",
-  "generated_at_display": "May 03, 2026 09:00 AM PT",
+  "generated_at": "2026-05-03T10:00:20.249637-07:00",
+  "generated_at_display": "May 03, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler",
+          "link": "https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/",
+          "summary": "RIP to the original AI search bot.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler"
+        },
         {
           "title": "OpenAI introduces AI-generated pets for its Codex app",
           "link": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
