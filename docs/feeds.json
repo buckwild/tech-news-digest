@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T08:00:24.545569-07:00",
-  "generated_at_display": "May 03, 2026 08:00 AM PT",
+  "generated_at": "2026-05-03T09:00:27.783665-07:00",
+  "generated_at_display": "May 03, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Microsoft's Xbox mode starts making its way to Windows 11 PCs"
-        },
-        {
-          "title": "Prime Video will stream three Duke basketball games next season",
-          "link": "https://www.engadget.com/2161567/prime-video-will-stream-three-duke-basketball-games-next-season/",
-          "summary": "This marks Amazon's first streaming deal with a college team.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Prime Video will stream three Duke basketball games next season"
         }
       ]
     },
