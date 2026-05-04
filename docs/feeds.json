@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T06:00:23.573866-07:00",
-  "generated_at_display": "May 04, 2026 06:00 AM PT",
+  "generated_at": "2026-05-04T07:00:28.822537-07:00",
+  "generated_at_display": "May 04, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Instagram is testing optional 'AI creator' labels",
+          "link": "https://www.engadget.com/2162426/instagram-is-testing-optional-ai-creator-labels/",
+          "summary": "The company is encouraging accounts that frequently post Gen AI content to use the feature, but isn't requiring it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Instagram is testing optional 'AI creator' labels"
+        },
+        {
           "title": "Amazon opens up its logistics networks to any business",
           "link": "https://www.engadget.com/2163550/amazon-opens-up-its-logistics-network/",
           "summary": "The first to sign up are P&G, 3M, Lands' End and American Eagle.",
@@ -219,7 +227,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "STRAIT UNCHOKED",
+          "title": "STRAIT UNCHOKED?",
           "link": "https://www.the-sun.com/news/16308982/trump-military-guide-ships-strait-hormuz-freedom/",
           "summary": null,
           "published": null,
@@ -235,6 +243,13 @@
         {
           "title": "AI finds signs of cancer before tumors develop!",
           "link": "https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Quiet Republican Effort to Flip Fetterman...",
+          "link": "https://www.politico.com/news/magazine/2026/05/04/fetterman-switch-parties-republican-00904177",
           "summary": null,
           "published": null,
           "excerpt": null
