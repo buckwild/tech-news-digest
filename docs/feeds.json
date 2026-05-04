@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T11:00:22.073064-07:00",
-  "generated_at_display": "May 04, 2026 11:00 AM PT",
+  "generated_at": "2026-05-04T12:00:29.119129-07:00",
+  "generated_at_display": "May 04, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's Bandcamp Friday again"
-        },
-        {
-          "title": "Oura adds more detailed hormonal health insights to its Series 3 and 4 rings",
-          "link": "https://www.engadget.com/2162066/oura-adds-more-detailed-hormonal-health-insights-to-its-series-3-and-4-rings/",
-          "summary": "The system will track potential side effects of various birth control methods.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Oura adds more detailed hormonal health insights to its Series 3 and 4 rings"
-        },
-        {
-          "title": "Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon",
-          "link": "https://www.engadget.com/2161995/amazon-web-services-microsoft-and-nvidia-will-provide-ai-tech-to-pentagon/",
-          "summary": "They join Google, OpenAI and xAI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon"
         }
       ]
     },
