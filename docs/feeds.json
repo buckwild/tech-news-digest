@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T15:00:29.485654-07:00",
-  "generated_at_display": "May 04, 2026 03:00 PM PT",
+  "generated_at": "2026-05-04T16:00:23.414022-07:00",
+  "generated_at_display": "May 04, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -218,29 +218,8 @@
           "excerpt": null
         },
         {
-          "title": "CEASEFIRE 'UNCERTAIN'",
-          "link": "https://www.mediaite.com/media/tv/us-military-ships-attacked-by-iran-as-ceasefire-remains-uncertain-military-commander-confirms/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "VESSELS ATTACKED IN STRAIT",
           "link": "https://www.wsj.com/world/middle-east/iran-defies-trump-and-tightens-its-grip-on-hormuz-01a4e32b",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Secret Service says individual shot near White House triggering lockdown...",
-          "link": "https://www.dailymail.com/news/article-15789635/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Judge apologizes to accused Correspondents' Dinner gunman for treatment in DC jail...",
-          "link": "https://wjla.com/news/local/judge-lays-out-grave-concerns-over-treatment-of-whcd-suspect-inside-dc-jail-cole-allen-trump-assassination-attempt-solitary-confinement-suicide-watch-white-house-correspondents-dinner-shooting",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -253,15 +232,22 @@
           "excerpt": null
         },
         {
-          "title": "White House Considers Vetting AI Models Before They Are Released!",
-          "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html?unlocked_article_code=1.f1A.2MU9.AkTsgwhO5NcZ&smid=url-share",
+          "title": "Secret Service says individual shot near White House triggers lockdown during Trump speech...",
+          "link": "https://www.dailymail.com/news/article-15789635/",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "AI finds signs of cancer before tumors develop...",
-          "link": "https://www.nbcnews.com/health/rcna343099",
+          "title": "Judge apologizes to accused dinner gunman for treatment in jail...",
+          "link": "https://wjla.com/news/local/judge-lays-out-grave-concerns-over-treatment-of-whcd-suspect-inside-dc-jail-cole-allen-trump-assassination-attempt-solitary-confinement-suicide-watch-white-house-correspondents-dinner-shooting",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "White House Considers Vetting AI Models Before They Are Released!",
+          "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html?unlocked_article_code=1.f1A.2MU9.AkTsgwhO5NcZ&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
