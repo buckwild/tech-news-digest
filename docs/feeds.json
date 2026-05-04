@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T13:00:20.695610-07:00",
-  "generated_at_display": "May 04, 2026 01:00 PM PT",
+  "generated_at": "2026-05-04T14:00:30.619474-07:00",
+  "generated_at_display": "May 04, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android",
+          "link": "https://www.engadget.com/2164303/ios-26-5-will-add-end-to-end-encryption-for-rcs-messages/",
+          "summary": "Keep those private conversations truly private.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android"
+        },
+        {
           "title": "Instagram is testing optional 'AI creator' labels",
           "link": "https://www.engadget.com/2162426/instagram-is-testing-optional-ai-creator-labels/",
           "summary": "The company is encouraging accounts that frequently post Gen AI content to use the feature, but isn't requiring it.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "ManyCES product announcementsleave us hanging for a while on pricing and availability. Today, one of this year's updated laptop series finally has official pricing and release info. LG's 2026 Gram models are now available, starting at $1,150 for the base model."
-        },
-        {
-          "title": "It's Bandcamp Friday again",
-          "link": "https://www.engadget.com/2162117/its-bandcamp-friday-again/",
-          "summary": "What are you buying today?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's Bandcamp Friday again"
         }
       ]
     },
@@ -218,6 +218,13 @@
           "excerpt": null
         },
         {
+          "title": "CEASEFIRE 'UNCERTAIN'",
+          "link": "https://www.mediaite.com/media/tv/us-military-ships-attacked-by-iran-as-ceasefire-remains-uncertain-military-commander-confirms/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "VESSELS ATTACKED IN STRAIT",
           "link": "https://www.wsj.com/world/middle-east/iran-defies-trump-and-tightens-its-grip-on-hormuz-01a4e32b",
           "summary": null,
@@ -225,8 +232,15 @@
           "excerpt": null
         },
         {
-          "title": "WHITE HOUSE SUDDENLY EVACUATES REPORTERS... REPORTS OF GUNFIRE... DEVELOPING...",
-          "link": "https://www.express.co.uk/news/2201729",
+          "title": "Secret Service says individual shot near White House triggering lockdown...",
+          "link": "https://www.dailymail.com/news/article-15789635/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Judge apologizes to accused Correspondents' Dinner gunman for treatment in DC jail...",
+          "link": "https://wjla.com/news/local/judge-lays-out-grave-concerns-over-treatment-of-whcd-suspect-inside-dc-jail-cole-allen-trump-assassination-attempt-solitary-confinement-suicide-watch-white-house-correspondents-dinner-shooting",
           "summary": null,
           "published": null,
           "excerpt": null
