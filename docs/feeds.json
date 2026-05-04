@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T14:00:30.619474-07:00",
-  "generated_at_display": "May 04, 2026 02:00 PM PT",
+  "generated_at": "2026-05-04T15:00:29.485654-07:00",
+  "generated_at_display": "May 04, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The White House is considering tighter regulation of new AI models",
+          "link": "https://www.engadget.com/2164390/the-white-house-is-considering-tighter-regulation-of-new-ai-models/",
+          "summary": "A working group could vet new models before they're publicly released.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The White House is considering tighter regulation of new AI models"
+        },
+        {
           "title": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android",
           "link": "https://www.engadget.com/2164303/ios-26-5-will-add-end-to-end-encryption-for-rcs-messages/",
           "summary": "Keep those private conversations truly private.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple appears to have discontinued its cheapest Mac mini"
-        },
-        {
-          "title": "LG's 2026 Gram laptop lineup starts at $1,150",
-          "link": "https://www.engadget.com/2162125/lg-2026-gram-laptop-lineup-starts-at-1150/",
-          "summary": "They're available today from LG's website.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "ManyCES product announcementsleave us hanging for a while on pricing and availability. Today, one of this year's updated laptop series finally has official pricing and release info. LG's 2026 Gram models are now available, starting at $1,150 for the base model."
         }
       ]
     },
