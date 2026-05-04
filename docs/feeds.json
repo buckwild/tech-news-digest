@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T12:00:29.119129-07:00",
-  "generated_at_display": "May 04, 2026 12:00 PM PT",
+  "generated_at": "2026-05-04T13:00:20.695610-07:00",
+  "generated_at_display": "May 04, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -225,6 +225,13 @@
           "excerpt": null
         },
         {
+          "title": "WHITE HOUSE SUDDENLY EVACUATES REPORTERS... REPORTS OF GUNFIRE... DEVELOPING...",
+          "link": "https://www.express.co.uk/news/2201729",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "TONGHT:  Met Gala's Billionaire Era...",
           "link": "https://observer.com/2026/05/jeff-bezos-lauren-sanchez-bezos-met-gala/",
           "summary": null,
@@ -232,8 +239,15 @@
           "excerpt": null
         },
         {
-          "title": "AI finds signs of cancer before tumors develop!",
-          "link": "https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099",
+          "title": "White House Considers Vetting AI Models Before They Are Released!",
+          "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html?unlocked_article_code=1.f1A.2MU9.AkTsgwhO5NcZ&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "AI finds signs of cancer before tumors develop...",
+          "link": "https://www.nbcnews.com/health/rcna343099",
           "summary": null,
           "published": null,
           "excerpt": null
