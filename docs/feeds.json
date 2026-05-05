@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T15:00:20.802694-07:00",
-  "generated_at_display": "May 05, 2026 03:00 PM PT",
+  "generated_at": "2026-05-05T16:00:24.632808-07:00",
+  "generated_at_display": "May 05, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -227,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Microsoft did the unthinkable last month when itreducedthe price of a media subscription, reversing 2025's controversial Game Pass Ultimatehike(even if the new,CoD-less plan still costs more than it used to). If you're one of the people whoditchedthe subscription service after the price increases, Xbox is hoping to tempt you back in with its Game Passadditionsfor May, which include arguably Microsoft's biggest first-party release for a while inForza Horizon 6."
-        },
-        {
-          "title": "Meta is using AI bone structure analysis to detect and remove underaged users",
-          "link": "https://www.engadget.com/2164981/meta-is-using-ai-bone-structure-analysis-to-detect-and-remove-underaged-users/",
-          "summary": "The company is also expanding its teen account detection systems to Facebook.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Meta is using AI bone structure analysis to detect and remove underaged users"
         }
       ]
     },
