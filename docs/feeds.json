@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T14:00:28.710464-07:00",
-  "generated_at_display": "May 05, 2026 02:00 PM PT",
+  "generated_at": "2026-05-05T15:00:20.802694-07:00",
+  "generated_at_display": "May 05, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
+          "link": "https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/",
+          "summary": "The proposed settlement is the result of a class action lawsuit filed in California.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time"
+        },
+        {
+          "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
+          "link": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
+          "summary": "This five-year deal is one of many circular agreements keeping the AI sector afloat.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access"
+        },
+        {
+          "title": "Xbox is ditching Microsoft's Copilot AI",
+          "link": "https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/",
+          "summary": "The AI assistant is no longer coming to consoles and will be removed from the Xbox mobile app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Xbox is ditching Microsoft's Copilot AI"
+        },
+        {
           "title": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store",
           "link": "https://www.engadget.com/2165488/remakes-of-myst-and-riven-are-coming-to-playstation-xbox-and-the-microsoft-store/",
           "summary": "Both remakes were already released on Steam and the macOS App Store.",
@@ -211,14 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Meta is using AI bone structure analysis to detect and remove underaged users"
-        },
-        {
-          "title": "Google, Microsoft and xAI agree to provide US government with early AI model access",
-          "link": "https://www.engadget.com/2164870/google-microsoft-and-xai-agree-to-provide-us-government-with-early-ai-model-access/",
-          "summary": "The Commerce Department will use the access to conduct security evaluations.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google, Microsoft and xAI agree to provide US government with early AI model access"
         }
       ]
     },
@@ -257,13 +273,6 @@
         {
           "title": "USA Sues NYTIMES, Claiming Discrimination Against White Man...",
           "link": "https://www.nytimes.com/2026/05/05/business/economy/eeoc-nyt-investigation.html?unlocked_article_code=1.gFA.sxDX.JOk8rKiWdG43&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Newsom scores early win in his $787M lawsuit against FOX...",
-          "link": "https://www.sfgate.com/article/22236767.php",
           "summary": null,
           "published": null,
           "excerpt": null
