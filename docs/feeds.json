@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T09:00:27.478431-07:00",
-  "generated_at_display": "May 05, 2026 09:00 AM PT",
+  "generated_at": "2026-05-05T10:00:22.637142-07:00",
+  "generated_at_display": "May 05, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Coinbase lays off nearly 700 workers in 'AI-native' restructuring",
+          "link": "https://www.engadget.com/2165157/coinbase-lays-off-nearly-700-workers-in-ai-native-restructuring/",
+          "summary": "CEO Brian Armstrong blamed a downturn in crypto markets.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Coinbase lays off nearly 700 workers in 'AI-native' restructuring"
+        },
+        {
+          "title": "Game Pass additions for May include Subnautica 2 and Forza Horizon 6",
+          "link": "https://www.engadget.com/2165109/game-pass-additons-for-may-include-subnautica-2-and-forza-horizon-6/",
+          "summary": "It's another stacked lineup, with Mixtape also among the games joining Microsoft's subscription service",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft did the unthinkable last month when itreducedthe price of a media subscription, reversing 2025's controversial Game Pass Ultimatehike(even if the new,CoD-less plan still costs more than it used to). If you're one of the people whoditchedthe subscription service after the price increases, Xbox is hoping to tempt you back in with its Game Passadditionsfor May, which include arguably Microsoft's biggest first-party release for a while inForza Horizon 6."
+        },
+        {
           "title": "Meta is using AI bone structure analysis to detect and remove underaged users",
           "link": "https://www.engadget.com/2164981/meta-is-using-ai-bone-structure-analysis-to-detect-and-remove-underaged-users/",
           "summary": "The company is also expanding its teen account detection systems to Facebook.",
@@ -179,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android"
-        },
-        {
-          "title": "Instagram is testing optional 'AI creator' labels",
-          "link": "https://www.engadget.com/2162426/instagram-is-testing-optional-ai-creator-labels/",
-          "summary": "The company is encouraging accounts that frequently post Gen AI content to use the feature, but isn't requiring it.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Instagram is testing optional 'AI creator' labels"
-        },
-        {
-          "title": "Amazon opens up its logistics networks to any business",
-          "link": "https://www.engadget.com/2163550/amazon-opens-up-its-logistics-network/",
-          "summary": "The first to sign up are P&G, 3M, Lands' End and American Eagle.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Afterreducingits dependency on the US Postal Service andother carriers, Amazon is opening up its own logistics and delivery services to other businesses. \"Today, Amazon is announcing Amazon Supply Chain Services (ASCS), opening its full portfolio of freight, distribution, fulfillment, and parcel shipping capabilities to businesses of all types and sizes, not only Amazon sellers,\" the company wrote in apress release."
         }
       ]
     },
