@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T12:00:28.652706-07:00",
-  "generated_at_display": "May 05, 2026 12:00 PM PT",
+  "generated_at": "2026-05-05T13:00:24.502739-07:00",
+  "generated_at_display": "May 05, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27",
+          "link": "https://www.engadget.com/2165451/apple-intelligence-will-reportedly-let-you-choose-third-party-ai-models-in-ios-27/",
+          "summary": "iPads and Macs are also expected to embrace external options for generative AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27"
+        },
+        {
+          "title": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors",
+          "link": "https://www.engadget.com/2165373/pennsylvania-is-suing-characterai-over-chatbots-that-pretend-to-be-licensed-doctors/",
+          "summary": "State investigators found a chatbot that claimed it had a medical license and could write prescriptions.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
+        },
+        {
           "title": "Google Home gains more Gemini-powered camera features",
           "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
           "summary": "The company also updated Gemini for Home for those in an early access program.",
@@ -203,22 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Bose's new Lifestyle home audio lineup includes a speaker, soundbar and subwoofer"
-        },
-        {
-          "title": "Google's Pentagon AI deal reportedly drove the DeepMind team to unionize",
-          "link": "https://www.engadget.com/2164765/google-us-military-deepmind-union/",
-          "summary": "DeepMind workers in the UK have voted to unionize.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google\u2019s Pentagon AI deal reportedly drove the DeepMind team to unionize"
-        },
-        {
-          "title": "Apple said to be talking to Intel and Samsung about building key device processors",
-          "link": "https://www.engadget.com/2164681/apple-said-to-be-talking-to-intel-and-samsung-about-building-key-device-processors/",
-          "summary": "Apple is concerned about its lack of supply chain flexibility.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple has reportedly approached Samsung and Intel about building \"main device chips\" in a bid to reduce its dependence on TSMC,Bloomberghas reported. The iPhone maker is said to have had early-stage talks with Intel and recently visited a Samsung chip plant currently under development in Texas. No orders have been placed so far and talks with both suppliers are still preliminary, according to sources familiar with the matter."
         }
       ]
     },
@@ -241,6 +241,13 @@
           "excerpt": null
         },
         {
+          "title": "White House East Wing debris dumped at nearby golf course has toxic metals...",
+          "link": "https://wtop.com/sports/2026/05/white-house-east-wing-debris-dumped-at-nearby-golf-course-has-toxic-metals-a-report-says/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Met Gala's Billionaire Era...",
           "link": "https://observer.com/2026/05/jeff-bezos-lauren-sanchez-bezos-met-gala/",
           "summary": null,
@@ -250,6 +257,13 @@
         {
           "title": "USA Sues NYTIMES, Claiming Discrimination Against White Man...",
           "link": "https://www.nytimes.com/2026/05/05/business/economy/eeoc-nyt-investigation.html?unlocked_article_code=1.gFA.sxDX.JOk8rKiWdG43&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Newsom scores early win in his $787M lawsuit against FOX...",
+          "link": "https://www.sfgate.com/article/22236767.php",
           "summary": null,
           "published": null,
           "excerpt": null
