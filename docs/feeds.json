@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T10:00:22.637142-07:00",
-  "generated_at_display": "May 05, 2026 10:00 AM PT",
+  "generated_at": "2026-05-05T11:00:24.000348-07:00",
+  "generated_at_display": "May 05, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Book publishers accuse Meta and Mark Zuckerberg of copyright infringement",
+          "link": "https://www.engadget.com/2165288/book-publishers-accuse-meta-and-mark-zuckerberg-of-copyright-infringement/",
+          "summary": "The class action suit concerns unauthorized scraping by Llama AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Book publishers accuse Meta and Mark Zuckerberg of copyright infringement"
+        },
+        {
+          "title": "Alexa+ is now available on a bunch of Bose speakers",
+          "link": "https://www.engadget.com/2165222/alexa-is-now-available-on-a-bunch-of-bose-speakers/",
+          "summary": "This is the upgraded smart assistant's debut on a non-Amazon device.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Alexa+ is now available on a bunch of Bose speakers"
+        },
+        {
+          "title": "Google will livestream The Android Show: I/O Edition on May 12",
+          "link": "https://www.engadget.com/2164379/google-will-livestream-the-android-show-io-edition-on-may-12/",
+          "summary": "The virtual event will showcase some of the biggest changes to the OS in years.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google will livestream The Android Show: I/O Edition on May 12"
+        },
+        {
           "title": "Coinbase lays off nearly 700 workers in 'AI-native' restructuring",
           "link": "https://www.engadget.com/2165157/coinbase-lays-off-nearly-700-workers-in-ai-native-restructuring/",
           "summary": "CEO Brian Armstrong blamed a downturn in crypto markets.",
@@ -205,6 +229,13 @@
         {
           "title": "IRAN TAUNTS: JUST GETTING STARTED",
           "link": "https://www.the-sun.com/news/16314658/trump-ceasefire-blitz-dubai/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republicans propose $1 billion in taxpayer dollars for Trump ballroom...",
+          "link": "https://www.nbcnews.com/politics/rcna343637",
           "summary": null,
           "published": null,
           "excerpt": null
