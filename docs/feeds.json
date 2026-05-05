@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T11:00:24.000348-07:00",
-  "generated_at_display": "May 05, 2026 11:00 AM PT",
+  "generated_at": "2026-05-05T12:00:28.652706-07:00",
+  "generated_at_display": "May 05, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google Home gains more Gemini-powered camera features",
+          "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
+          "summary": "The company also updated Gemini for Home for those in an early access program.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
+        },
+        {
+          "title": "ChatGPT's new default model is more factual and better at personalization",
+          "link": "https://www.engadget.com/2165298/chatgpts-new-default-model-is-more-factual-and-better-at-personalization/",
+          "summary": "OpenAI is deploying GPT-5.5 Instant to all users starting today.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "ChatGPT's new default model is more factual and better at personalization"
+        },
+        {
           "title": "Book publishers accuse Meta and Mark Zuckerberg of copyright infringement",
           "link": "https://www.engadget.com/2165288/book-publishers-accuse-meta-and-mark-zuckerberg-of-copyright-infringement/",
           "summary": "The class action suit concerns unauthorized scraping by Llama AI.",
@@ -203,22 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple has reportedly approached Samsung and Intel about building \"main device chips\" in a bid to reduce its dependence on TSMC,Bloomberghas reported. The iPhone maker is said to have had early-stage talks with Intel and recently visited a Samsung chip plant currently under development in Texas. No orders have been placed so far and talks with both suppliers are still preliminary, according to sources familiar with the matter."
-        },
-        {
-          "title": "The White House is considering tighter regulation of new AI models",
-          "link": "https://www.engadget.com/2164390/the-white-house-is-considering-tighter-regulation-of-new-ai-models/",
-          "summary": "A working group could vet new models before they're publicly released.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The White House is considering tighter regulation of new AI models"
-        },
-        {
-          "title": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android",
-          "link": "https://www.engadget.com/2164303/ios-26-5-will-add-end-to-end-encryption-for-rcs-messages/",
-          "summary": "Keep those private conversations truly private.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android"
         }
       ]
     },
@@ -248,8 +248,8 @@
           "excerpt": null
         },
         {
-          "title": "Republicans fret as tough midterm races develop...",
-          "link": "https://www.nbcnews.com/politics/2026-election/republicans-fret-iowa-tough-midterm-races-senate-governor-house-rcna343046",
+          "title": "USA Sues NYTIMES, Claiming Discrimination Against White Man...",
+          "link": "https://www.nytimes.com/2026/05/05/business/economy/eeoc-nyt-investigation.html?unlocked_article_code=1.gFA.sxDX.JOk8rKiWdG43&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
