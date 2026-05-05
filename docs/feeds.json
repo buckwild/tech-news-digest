@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T07:00:20.776444-07:00",
-  "generated_at_display": "May 05, 2026 07:00 AM PT",
+  "generated_at": "2026-05-05T08:00:22.221779-07:00",
+  "generated_at_display": "May 05, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta is using AI bone structure analysis to detect and remove underaged users",
+          "link": "https://www.engadget.com/2164981/meta-is-using-ai-bone-structure-analysis-to-detect-and-remove-underaged-users/",
+          "summary": "The company is also expanding its teen account detection systems to Facebook.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Meta is using AI bone structure analysis to detect and remove underaged users"
+        },
+        {
           "title": "Google, Microsoft and xAI agree to provide US government with early AI model access",
           "link": "https://www.engadget.com/2164870/google-microsoft-and-xai-agree-to-provide-us-government-with-early-ai-model-access/",
           "summary": "The Commerce Department will use the access to conduct security evaluations.",
@@ -187,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Afterreducingits dependency on the US Postal Service andother carriers, Amazon is opening up its own logistics and delivery services to other businesses. \"Today, Amazon is announcing Amazon Supply Chain Services (ASCS), opening its full portfolio of freight, distribution, fulfillment, and parcel shipping capabilities to businesses of all types and sizes, not only Amazon sellers,\" the company wrote in apress release."
-        },
-        {
-          "title": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler",
-          "link": "https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/",
-          "summary": "RIP to the original AI search bot.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler"
-        },
-        {
-          "title": "OpenAI introduces AI-generated pets for its Codex app",
-          "link": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
-          "summary": "It's like Microsoft's Clippy, but useful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI introduces AI-generated pets for its Codex app"
         }
       ]
     },
