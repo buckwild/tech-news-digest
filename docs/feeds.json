@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T05:00:19.624904-07:00",
-  "generated_at_display": "May 05, 2026 05:00 AM PT",
+  "generated_at": "2026-05-05T06:00:23.530502-07:00",
+  "generated_at_display": "May 05, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Bose's new Lifestyle home audio lineup includes a speaker, soundbar and subwoofer",
+          "link": "https://www.engadget.com/2164255/bose-new-lifestyle-home-audio-lineup-includes-a-speaker-soundbar-and-subwoofer/",
+          "summary": "The new speakers will be available May 15.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Bose's new Lifestyle home audio lineup includes a speaker, soundbar and subwoofer"
+        },
+        {
+          "title": "Google's Pentagon AI deal reportedly drove the DeepMind team to unionize",
+          "link": "https://www.engadget.com/2164765/google-us-military-deepmind-union/",
+          "summary": "DeepMind workers in the UK have voted to unionize.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google\u2019s Pentagon AI deal reportedly drove the DeepMind team to unionize"
+        },
+        {
           "title": "Apple said to be talking to Intel and Samsung about building key device processors",
           "link": "https://www.engadget.com/2164681/apple-said-to-be-talking-to-intel-and-samsung-about-building-key-device-processors/",
           "summary": "Apple is concerned about its lack of supply chain flexibility.",
@@ -195,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Meta acquires robotics AI startup as it makes the push into humanoid machines"
-        },
-        {
-          "title": "AI performances and screenplays won't be eligible for Oscars",
-          "link": "https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/",
-          "summary": "Will that stop them from taking over?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "AI performances and screenplays won't be eligible for Oscars"
         }
       ]
     },
