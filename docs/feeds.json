@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T00:00:20.859719-07:00",
-  "generated_at_display": "May 06, 2026 12:00 AM PT",
+  "generated_at": "2026-05-06T01:00:23.526663-07:00",
+  "generated_at_display": "May 06, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Pornhub is unblocking UK users who verify their age with Apple",
+          "link": "https://www.engadget.com/2165805/pornhub-uk-verify-age-apple-ios/",
+          "summary": "Its parent company Aylo says age-verified iOS users in the UK will now be able to fully access the adult website.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Pornhub is unblocking UK users who verify their age with Apple"
+        },
         {
           "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
           "link": "https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/",
