@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T10:00:29.464175-07:00",
-  "generated_at_display": "May 06, 2026 10:00 AM PT",
+  "generated_at": "2026-05-06T11:00:21.444766-07:00",
+  "generated_at_display": "May 06, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,9 +125,25 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google just bought a stake in the maker of Eve Online to train its AI models",
+          "link": "https://www.engadget.com/2166270/google-just-bought-a-stake-in-the-maker-of-eve-online-to-train-its-ai-models/",
+          "summary": "DeepMind will research player behavior in the space-based RPG.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google just bought a stake in the maker of Eve Online to train its AI models"
+        },
+        {
+          "title": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff",
+          "link": "https://www.engadget.com/2166238/mindseye-developer-build-a-rocket-boy-has-reportedly-laid-off-even-more-staff/",
+          "summary": "Around 170 roles are said to be affected.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff"
+        },
+        {
           "title": "Chrome downloads a 4GB AI file without user consent, researcher alleges",
           "link": "https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/",
-          "summary": "There's no opt-in, and the file reappears if deleted.",
+          "summary": "At least there's a toggle to easily turn this off.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "If you've paid any attention to Google lately, you know that it wants us using its AI tools. So much so that Chrome apparently downloads a 4GB file containing details for running Gemini Nano, Google's on-device LLM. Computer scientist Alexander Hanffpublished the detailsearlier this week on his website The Privacy Guy and goes into extreme detail on why this isn't a good look for Google."
@@ -211,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Book publishers accuse Meta and Mark Zuckerberg of copyright infringement"
-        },
-        {
-          "title": "Alexa+ is now available on a bunch of Bose speakers",
-          "link": "https://www.engadget.com/2165222/alexa-is-now-available-on-a-bunch-of-bose-speakers/",
-          "summary": "This is the upgraded smart assistant's debut on a non-Amazon device.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Alexa+ is now available on a bunch of Bose speakers"
         }
       ]
     },
@@ -226,6 +234,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "US military opens fire at Iran tanker...",
+          "link": "https://www.express.co.uk/news/2202573",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "WASH POST: Iran has hit far more U.S. military assets than reported...",
           "link": "https://www.msn.com/en-us/news/world/iran-has-hit-far-more-us-military-assets-than-reported-satellite-images-show/ar-AA22v8AF",
@@ -250,13 +265,6 @@
         {
           "title": "White House debris dumped at golf course is toxic...",
           "link": "https://wtop.com/sports/2026/05/white-house-east-wing-debris-dumped-at-nearby-golf-course-has-toxic-metals-a-report-says/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Assaults against American Jews reach 46-year high...",
-          "link": "https://www.axios.com/2026/05/06/antisemitic-assaults-jews-2025",
           "summary": null,
           "published": null,
           "excerpt": null
