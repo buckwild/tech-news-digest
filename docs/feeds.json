@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T03:00:22.024551-07:00",
-  "generated_at_display": "May 06, 2026 03:00 AM PT",
+  "generated_at": "2026-05-06T04:00:23.611253-07:00",
+  "generated_at_display": "May 06, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -243,13 +243,6 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "IRAN TAUNTS: JUST GETTING STARTED",
-          "link": "https://www.the-sun.com/news/16314658",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "Palm Beach County signs off on controversial Trump airport trademark deal...",
           "link": "https://www.yahoo.com/news/articles/palm-beach-county-signs-off-195759835.html",
           "summary": null,
@@ -264,15 +257,29 @@
           "excerpt": null
         },
         {
-          "title": "White House East Wing debris dumped at nearby golf course has toxic metals...",
+          "title": "White House debris dumped at golf course is toxic...",
           "link": "https://wtop.com/sports/2026/05/white-house-east-wing-debris-dumped-at-nearby-golf-course-has-toxic-metals-a-report-says/",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Feds Sue NYTIMES, Claiming Discrimination Against WHITE Man...",
+          "title": "Feds Sue NYT, Claiming Discrimination Against WHITE Man...",
           "link": "https://www.nytimes.com/2026/05/05/business/economy/eeoc-nyt-investigation.html?unlocked_article_code=1.gFA.sxDX.JOk8rKiWdG43&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Newsom scores early win in $787M lawsuit against FOX...",
+          "link": "https://www.sfgate.com/article/22236767.php",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "'Spreading like wildfire': Fiji grapples with soaring HIV cases...",
+          "link": "http://yahoo.com/news/articles/spreading-wildfire-fiji-grapples-soaring-021833097.html",
           "summary": null,
           "published": null,
           "excerpt": null
