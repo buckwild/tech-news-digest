@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T08:00:21.709916-07:00",
-  "generated_at_display": "May 06, 2026 08:00 AM PT",
+  "generated_at": "2026-05-06T09:00:24.293192-07:00",
+  "generated_at_display": "May 06, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Chrome downloads a 4GB AI file without user consent, researcher alleges",
+          "link": "https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/",
+          "summary": "There's no opt-in, and the file reappears if deleted.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "If you've paid any attention to Google lately, you know that it wants us using its AI tools. So much so that Chrome apparently downloads a 4GB file containing details for running Gemini Nano, Google's on-device LLM. Computer scientist Alexander Hanffpublished the detailsearlier this week on his website The Privacy Guy and goes into extreme detail on why this isn't a good look for Google."
+        },
+        {
           "title": "Pornhub is unblocking UK users who verify their age with Apple",
           "link": "https://www.engadget.com/2165805/pornhub-uk-verify-age-apple-ios/",
           "summary": "Its parent company Aylo says age-verified iOS users in the UK will now be able to fully access the adult website.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Alexa+ is now available on a bunch of Bose speakers"
-        },
-        {
-          "title": "Google will livestream The Android Show: I/O Edition on May 12",
-          "link": "https://www.engadget.com/2164379/google-will-livestream-the-android-show-io-edition-on-may-12/",
-          "summary": "The virtual event will showcase some of the biggest changes to the OS in years.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google will livestream The Android Show: I/O Edition on May 12"
         }
       ]
     },
@@ -257,13 +257,6 @@
         {
           "title": "White House debris dumped at golf course is toxic...",
           "link": "https://wtop.com/sports/2026/05/white-house-east-wing-debris-dumped-at-nearby-golf-course-has-toxic-metals-a-report-says/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Feds Sue NYT, Claiming Discrimination Against WHITE Man...",
-          "link": "https://www.nytimes.com/2026/05/05/business/economy/eeoc-nyt-investigation.html?unlocked_article_code=1.gFA.sxDX.JOk8rKiWdG43&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
