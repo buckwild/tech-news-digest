@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T09:00:24.293192-07:00",
-  "generated_at_display": "May 06, 2026 09:00 AM PT",
+  "generated_at": "2026-05-06T10:00:29.464175-07:00",
+  "generated_at_display": "May 06, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -234,13 +234,6 @@
           "excerpt": null
         },
         {
-          "title": "Assaults against American Jews reach 46-year high...",
-          "link": "https://www.axios.com/2026/05/06/antisemitic-assaults-jews-2025",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "Palm Beach County signs off on controversial Trump airport trademark deal...",
           "link": "https://www.yahoo.com/news/articles/palm-beach-county-signs-off-195759835.html",
           "summary": null,
@@ -257,6 +250,13 @@
         {
           "title": "White House debris dumped at golf course is toxic...",
           "link": "https://wtop.com/sports/2026/05/white-house-east-wing-debris-dumped-at-nearby-golf-course-has-toxic-metals-a-report-says/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Assaults against American Jews reach 46-year high...",
+          "link": "https://www.axios.com/2026/05/06/antisemitic-assaults-jews-2025",
           "summary": null,
           "published": null,
           "excerpt": null
