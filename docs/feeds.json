@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T14:00:24.888338-07:00",
-  "generated_at_display": "May 06, 2026 02:00 PM PT",
+  "generated_at": "2026-05-06T15:00:21.014654-07:00",
+  "generated_at_display": "May 06, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,28 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Google's AI search results will now turn to Reddit for 'Expert Advice'",
+          "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
+          "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
+          "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Canadian officials claim OpenAI violated federal and provincial privacy laws"
+        },
+        {
+          "title": "Snap's $400 million deal with Perplexity is dead",
+          "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
+          "summary": "The planned AI search feature for Snapchat never fully rolled out.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Snap's $400 million deal with Perplexity is dead"
+        },
+        {
+          "title": "Google's AI search results will now turn to Reddit for expert advice",
           "link": "https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/",
           "summary": "AI responses now also recommend in-depth articles and links to sources you already subscribe to.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google's AI search results will now turn to Reddit for 'Expert Advice'"
+          "excerpt": "Google isupdating AI Overviews and AI Mode, the AI-generated portions of its search engine, to highlight sources in new ways, and interestingly, more prominently feature first-hand accounts from social media, expert blogs and forums like Reddit."
         },
         {
           "title": "Anthropic is doubling Claude Code rate limits after deal with SpaceX",
@@ -219,14 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
-        },
-        {
-          "title": "Google Home gains more Gemini-powered camera features",
-          "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
-          "summary": "The company also updated Gemini for Home for those in an early access program.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
         }
       ]
     },
@@ -243,7 +251,7 @@
         },
         {
           "title": "WASH POST: Iran has hit far more U.S. military assets than reported...",
-          "link": "https://www.msn.com/en-us/news/world/iran-has-hit-far-more-us-military-assets-than-reported-satellite-images-show/ar-AA22v8AF",
+          "link": "https://www.msn.com/en-us/news/world/ar-AA22v8AF",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -256,15 +264,8 @@
           "excerpt": null
         },
         {
-          "title": "Republicans propose $1 BILLION in taxpayer dollars for ballroom...",
-          "link": "https://www.nbcnews.com/politics/rcna343637",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "White House debris dumped at golf course is toxic...",
-          "link": "https://wtop.com/sports/2026/05/white-house-east-wing-debris-dumped-at-nearby-golf-course-has-toxic-metals-a-report-says/",
+          "title": "Republicans Want To Borrow Every Single Dollar of $1 Billion Ballroom...",
+          "link": "https://reason.com/2026/05/06/republicans-want-to-borrow-every-single-dollar-of-the-72-billion-bill-to-fund-ice-and-trumps-ballroom/",
           "summary": null,
           "published": null,
           "excerpt": null
