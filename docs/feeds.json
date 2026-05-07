@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T15:00:19.175393-07:00",
-  "generated_at_display": "May 07, 2026 03:00 PM PT",
+  "generated_at": "2026-05-07T16:00:25.014742-07:00",
+  "generated_at_display": "May 07, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Bumble will replace swiping right with... something",
+          "link": "https://www.engadget.com/2167487/bumble-will-replace-swiping-right-with-something/",
+          "summary": "The company previously announced it was working on an AI assistant that can make matches.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Bumble will replace swiping right with... something"
+        },
+        {
+          "title": "OpenAI debuts a Codex plugin for Chrome",
+          "link": "https://www.engadget.com/2167480/openai-debuts-a-codex-plugin-for-chrome/",
+          "summary": "The new feature could turn Codex into more than a coding aid.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI debuts a Codex plugin for Chrome"
+        },
+        {
           "title": "Meta's AI agent plans reportedly include an OpenClaw competitor that can shop on Instagram",
           "link": "https://www.engadget.com/2167475/metas-ai-agent-plans-reportedly-include-an-openclaw-competitor-that-can-shop-on-instagram/",
           "summary": "Mark Zuckerberg has said he wants to make AI agents more accessible.",
@@ -195,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Whoop-like wearable thatGoogle teased in\u00a0Marchhas just been unveiled. Called the Google Fitbit Air, it's a screenless device that you can put in a wristband, chest strap or technically anywhere, really, depending on the accessory you choose. It's available for pre-order today for $100 and\u00a0is basically a Fitbit, freed from its band. But of course, with a name like Air, the new gadget is a lot smaller than its predecessors. According to the general manager for Google Health Rishi Chandra, the Fitbit Air is 25 percent smaller than theFitbit Luxeand 50 percent smaller thanthe Inspire 3."
-        },
-        {
-          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
-          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
-          "summary": "The feature would allow users to get into a safe position or call for help.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
         }
       ]
     },
@@ -212,20 +220,13 @@
       "entries": [
         {
           "title": "USA, Iran trade fire in Strait of Hormuz; Each claims other shot first...",
-          "link": "https://www.cnbc.com/2026/05/07/iran-war-hormuz-strait-ceasefire-trump.html\n",
+          "link": "https://www.rfi.fr/en/international-news/20260507-us-awaits-iran-response-to-latest-deal-offer",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Saudi, Kuwait Lift Curbs on U.S. Military Access to Bases, Airspace...Paves way for 'Project Freedom' to resume...",
-          "link": "https://www.wsj.com/world/middle-east/saudi-arabia-kuwait-lift-restrictions-on-u-s-military-access-to-bases-airspace-8504c830",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "IMF warns of 'inevitable' AI threats to global financial system...",
+          "title": "IMF warns of AI threats to global financial system...",
           "link": "https://www.imf.org/en/blogs/articles/2026/05/07/financial-stability-risks-mount-as-artificial-intelligence-fuels-cyberattacks",
           "summary": null,
           "published": null,
