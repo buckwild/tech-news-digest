@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T13:00:23.951704-07:00",
-  "generated_at_display": "May 07, 2026 01:00 PM PT",
+  "generated_at": "2026-05-07T14:00:22.770335-07:00",
+  "generated_at_display": "May 07, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,13 +203,6 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "IMF warns of 'inevitable' AI threats to global financial system...",
-          "link": "https://www.imf.org/en/blogs/articles/2026/05/07/financial-stability-risks-mount-as-artificial-intelligence-fuels-cyberattacks",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "Explosions reported near Strait of Hormuz... Developing...",
           "link": "https://www.jpost.com/middle-east/iran-news/2026-05-07/live-updates-895401",
           "summary": null,
@@ -231,8 +224,15 @@
           "excerpt": null
         },
         {
-          "title": "Jet-Fuel Prices Spiking and White House Advisers Worried...",
-          "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c",
+          "title": "IMF warns of 'inevitable' AI threats to global financial system...",
+          "link": "https://www.imf.org/en/blogs/articles/2026/05/07/financial-stability-risks-mount-as-artificial-intelligence-fuels-cyberattacks",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Pentagon turns to AI targeting...",
+          "link": "https://www.defensenews.com/industry/2026/05/07/pentagon-turns-to-ai-targeting-to-help-troops-shoot-drones/",
           "summary": null,
           "published": null,
           "excerpt": null
