@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T01:00:22.878505-07:00",
-  "generated_at_display": "May 07, 2026 01:00 AM PT",
+  "generated_at": "2026-05-07T02:00:25.875566-07:00",
+  "generated_at_display": "May 07, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
+          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
+          "summary": "The feature would allow users to get into a safe position or call for help.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
+        },
+        {
           "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
           "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
           "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Xbox is ditching Microsoft's Copilot AI"
-        },
-        {
-          "title": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store",
-          "link": "https://www.engadget.com/2165488/remakes-of-myst-and-riven-are-coming-to-playstation-xbox-and-the-microsoft-store/",
-          "summary": "Both remakes were already released on Steam and the macOS App Store.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store"
         }
       ]
     },
