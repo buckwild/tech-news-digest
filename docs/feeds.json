@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T04:00:23.252933-07:00",
-  "generated_at_display": "May 07, 2026 04:00 AM PT",
+  "generated_at": "2026-05-07T05:00:22.600250-07:00",
+  "generated_at_display": "May 07, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -229,6 +229,13 @@
         {
           "title": "Did Saudi Arabia force Trump to suspend operation in Hormuz?",
           "link": "https://www.nbcnews.com/politics/white-house/trumps-abrupt-u-turn-plan-re-open-strait-hormuz-came-backlash-allies-rcna343845",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Inside MAGA influencer's turn against the right-wing machine...",
+          "link": "https://www.washingtonpost.com/technology/2026/05/07/ashley-st-clair-trump-online-machine/",
           "summary": null,
           "published": null,
           "excerpt": null
