@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T09:00:32.167318-07:00",
-  "generated_at_display": "May 07, 2026 09:00 AM PT",
+  "generated_at": "2026-05-07T10:00:21.743950-07:00",
+  "generated_at_display": "May 07, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -219,7 +219,14 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "U.S. intelligence says Iran can outlast Trump's Hormuz blockade for months...",
+          "title": "IMF warns of 'inevitable' AI threats to global financial system...",
+          "link": "https://www.imf.org/en/blogs/articles/2026/05/07/financial-stability-risks-mount-as-artificial-intelligence-fuels-cyberattacks",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "CIA dossier  says Iran can outlast Trump's Hormuz blockade for months...",
           "link": "https://dnyuz.com/2026/05/07/u-s-intelligence-says-iran-can-outlast-trumps-hormuz-blockade-for-months/",
           "summary": null,
           "published": null,
