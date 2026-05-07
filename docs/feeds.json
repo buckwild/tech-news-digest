@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T16:00:18.917172-07:00",
-  "generated_at_display": "May 06, 2026 04:00 PM PT",
+  "generated_at": "2026-05-06T17:00:24.001277-07:00",
+  "generated_at_display": "May 06, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -219,22 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store"
-        },
-        {
-          "title": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27",
-          "link": "https://www.engadget.com/2165451/apple-intelligence-will-reportedly-let-you-choose-third-party-ai-models-in-ios-27/",
-          "summary": "iPads and Macs are also expected to embrace external options for generative AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27"
-        },
-        {
-          "title": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors",
-          "link": "https://www.engadget.com/2165373/pennsylvania-is-suing-characterai-over-chatbots-that-pretend-to-be-licensed-doctors/",
-          "summary": "State investigators found a chatbot that claimed it had a medical license and could write prescriptions.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
         }
       ]
     },
