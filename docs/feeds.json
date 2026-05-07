@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T08:00:21.554854-07:00",
-  "generated_at_display": "May 07, 2026 08:00 AM PT",
+  "generated_at": "2026-05-07T09:00:32.167318-07:00",
+  "generated_at_display": "May 07, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google just bought a stake in the maker of Eve Online to train its AI models"
-        },
-        {
-          "title": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff",
-          "link": "https://www.engadget.com/2166238/mindseye-developer-build-a-rocket-boy-has-reportedly-laid-off-even-more-staff/",
-          "summary": "Around 170 roles are said to be affected.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff"
         }
       ]
     },
@@ -227,8 +219,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Did Saudi Arabia force Trump to suspend operation in Hormuz?",
-          "link": "https://www.nbcnews.com/politics/white-house/trumps-abrupt-u-turn-plan-re-open-strait-hormuz-came-backlash-allies-rcna343845",
+          "title": "U.S. intelligence says Iran can outlast Trump's Hormuz blockade for months...",
+          "link": "https://dnyuz.com/2026/05/07/u-s-intelligence-says-iran-can-outlast-trumps-hormuz-blockade-for-months/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -236,13 +228,6 @@
         {
           "title": "Jet-Fuel Prices Spiking and White House Advisers Worried...",
           "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Plastic Building Up In Brains, And Junk Food May Be Making It Worse...",
-          "link": "https://studyfinds.com/plastic-building-up-human-brains-junk-food/",
           "summary": null,
           "published": null,
           "excerpt": null
