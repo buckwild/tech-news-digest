@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T07:00:24.346948-07:00",
-  "generated_at_display": "May 07, 2026 07:00 AM PT",
+  "generated_at": "2026-05-07T08:00:21.554854-07:00",
+  "generated_at_display": "May 07, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,46 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Spotify now lets AI agents like OpenClaw generate personal podcasts",
+          "link": "https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/",
+          "summary": "Rejoice, nerds.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify now lets AI agents like OpenClaw generate personal podcasts"
+        },
+        {
+          "title": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech",
+          "link": "https://www.engadget.com/2166994/qualcomm-reveals-two-new-affordable-phone-chips-with-smooth-motion-ui-tech/",
+          "summary": "The Snapdragon 6 Gen 5 promises next-gen AI camera features while the Snapdragon 4 Gen 5 offers a big boost in GPU performance.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech"
+        },
+        {
+          "title": "Spotify's AI-powered personal DJ expands to more languages and countries",
+          "link": "https://www.engadget.com/2166965/spotify-ai-powered-personal-dj-expands-to-more-languages-and-countries/",
+          "summary": "Premium users in more than 75 markets will now have access to it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify's AI-powered personal DJ expands to more languages and countries"
+        },
+        {
+          "title": "Google is turning the Fitbit app into a unified portal for your health and fitness data",
+          "link": "https://www.engadget.com/2166841/google-unifies-health-fitness-apps-fitbit/",
+          "summary": "The new Health app is rolling out on May 19.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is turning the Fitbit app into a unified portal for your health and fitness data"
+        },
+        {
+          "title": "The Google Fitbit Air is an AI-infused take on Whoop wearables",
+          "link": "https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/",
+          "summary": "It's basically a small Fitbit Inspire without a strap.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Whoop-like wearable thatGoogle teased in\u00a0Marchhas just been unveiled. Called the Google Fitbit Air, it's a screenless device that you can put in a wristband, chest strap or technically anywhere, really, depending on the accessory you choose. It's available for pre-order today for $100 and\u00a0is basically a Fitbit, freed from its band. But of course, with a name like Air, the new gadget is a lot smaller than its predecessors. According to the general manager for Google Health Rishi Chandra, the Fitbit Air is 25 percent smaller than theFitbit Luxeand 50 percent smaller thanthe Inspire 3."
+        },
+        {
           "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
           "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
           "summary": "The feature would allow users to get into a safe position or call for help.",
@@ -179,30 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff"
-        },
-        {
-          "title": "Chrome downloads a 4GB AI file without user consent, researcher alleges",
-          "link": "https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/",
-          "summary": "At least there's a toggle to easily turn this off.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "If you've paid any attention to Google lately, you know that it wants us using its AI tools. So much so that Chrome apparently downloads a 4GB file containing details for running Gemini Nano, Google's on-device LLM. Computer scientist Alexander Hanffpublished the detailsearlier this week on his website The Privacy Guy and goes into extreme detail on why this isn't a good look for Google."
-        },
-        {
-          "title": "Pornhub is unblocking UK users who verify their age with Apple",
-          "link": "https://www.engadget.com/2165805/pornhub-uk-verify-age-apple-ios/",
-          "summary": "Its parent company Aylo says age-verified iOS users in the UK will now be able to fully access the adult website.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Pornhub is unblocking UK users who verify their age with Apple"
-        },
-        {
-          "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
-          "link": "https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/",
-          "summary": "The proposed settlement is the result of a class action lawsuit filed in California.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time"
         }
       ]
     },
@@ -220,13 +236,6 @@
         {
           "title": "Jet-Fuel Prices Spiking and White House Advisers Worried...",
           "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Inside MAGA influencer's turn against the right-wing machine...",
-          "link": "https://www.washingtonpost.com/technology/2026/05/07/ashley-st-clair-trump-online-machine/",
           "summary": null,
           "published": null,
           "excerpt": null
