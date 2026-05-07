@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T14:00:22.770335-07:00",
-  "generated_at_display": "May 07, 2026 02:00 PM PT",
+  "generated_at": "2026-05-07T15:00:19.175393-07:00",
+  "generated_at_display": "May 07, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta's AI agent plans reportedly include an OpenClaw competitor that can shop on Instagram",
+          "link": "https://www.engadget.com/2167475/metas-ai-agent-plans-reportedly-include-an-openclaw-competitor-that-can-shop-on-instagram/",
+          "summary": "Mark Zuckerberg has said he wants to make AI agents more accessible.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Last week during Meta's earnings, Mark Zuckerberg said that the company is working on newAI agentsfor people and businesses on the company's platform. Now, we know a bit more about what those plans entail, thanks to anew reportfromThe Information."
+        },
+        {
           "title": "I'm already dreading Apple's camera-equipped AirPods",
           "link": "https://www.engadget.com/2167325/im-already-dreading-apples-camera-equipped-airpods/",
           "summary": "Must everything be part of the panopticon?",
@@ -135,7 +143,7 @@
         {
           "title": "Perplexity opens up its Personal Computer AI assistant to all Mac users",
           "link": "https://www.engadget.com/2167301/perplexity-opens-up-its-personal-computer-ai-assistant-to-all-mac-users/",
-          "summary": "It's no longer locked a Max subscription.",
+          "summary": "It's no longer locked behind a Max subscription.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Perplexity opens up its Personal Computer AI assistant to all Mac users"
@@ -203,8 +211,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Explosions reported near Strait of Hormuz... Developing...",
-          "link": "https://www.jpost.com/middle-east/iran-news/2026-05-07/live-updates-895401",
+          "title": "USA, Iran trade fire in Strait of Hormuz; Each claims other shot first...",
+          "link": "https://www.cnbc.com/2026/05/07/iran-war-hormuz-strait-ceasefire-trump.html\n",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -217,22 +225,8 @@
           "excerpt": null
         },
         {
-          "title": "CIA dossier says Iran can outlast blockade for months...",
-          "link": "https://dnyuz.com/2026/05/07/u-s-intelligence-says-iran-can-outlast-trumps-hormuz-blockade-for-months/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "IMF warns of 'inevitable' AI threats to global financial system...",
           "link": "https://www.imf.org/en/blogs/articles/2026/05/07/financial-stability-risks-mount-as-artificial-intelligence-fuels-cyberattacks",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Pentagon turns to AI targeting...",
-          "link": "https://www.defensenews.com/industry/2026/05/07/pentagon-turns-to-ai-targeting-to-help-troops-shoot-drones/",
           "summary": null,
           "published": null,
           "excerpt": null
