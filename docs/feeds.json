@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T05:00:22.600250-07:00",
-  "generated_at_display": "May 07, 2026 05:00 AM PT",
+  "generated_at": "2026-05-07T06:00:20.388696-07:00",
+  "generated_at_display": "May 07, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time"
-        },
-        {
-          "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
-          "link": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
-          "summary": "This five-year deal is one of many circular agreements keeping the AI sector afloat.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access"
-        },
-        {
-          "title": "Xbox is ditching Microsoft's Copilot AI",
-          "link": "https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/",
-          "summary": "The AI assistant is no longer coming to consoles and will be removed from the Xbox mobile app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Xbox is ditching Microsoft's Copilot AI"
         }
       ]
     },
@@ -234,8 +218,22 @@
           "excerpt": null
         },
         {
+          "title": "Jet-Fuel Prices Spiking and White House Advisers Worried...",
+          "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Inside MAGA influencer's turn against the right-wing machine...",
           "link": "https://www.washingtonpost.com/technology/2026/05/07/ashley-st-clair-trump-online-machine/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Plastic Building Up In Brains, And Junk Food May Be Making It Worse...",
+          "link": "https://studyfinds.com/plastic-building-up-human-brains-junk-food/",
           "summary": null,
           "published": null,
           "excerpt": null
