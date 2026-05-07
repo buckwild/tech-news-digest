@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T11:00:24.506073-07:00",
-  "generated_at_display": "May 07, 2026 11:00 AM PT",
+  "generated_at": "2026-05-07T12:00:35.187902-07:00",
+  "generated_at_display": "May 07, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake",
+          "link": "https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake/",
+          "summary": "Prime members can also claim a code for Mafia II: Definitive Edition.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake"
+        },
+        {
           "title": "Spotify now lets AI agents like OpenClaw generate personal podcasts",
           "link": "https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/",
           "summary": "Rejoice, nerds.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Snap's $400 million deal with Perplexity is dead"
-        },
-        {
-          "title": "Google's AI search results will now turn to Reddit for expert advice",
-          "link": "https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/",
-          "summary": "AI responses now also recommend in-depth articles and links to sources you already subscribe to.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google isupdating AI Overviews and AI Mode, the AI-generated portions of its search engine, to highlight sources in new ways, and interestingly, more prominently feature first-hand accounts from social media, expert blogs and forums like Reddit."
         }
       ]
     },
@@ -212,6 +212,13 @@
         {
           "title": "CIA dossier  says Iran can outlast Trump's Hormuz blockade for months...",
           "link": "https://dnyuz.com/2026/05/07/u-s-intelligence-says-iran-can-outlast-trumps-hormuz-blockade-for-months/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Saudi, Kuwait Lift Curbs on U.S. Military Access to Bases, Airspace...Paves way for 'Project Freedom' to resume...",
+          "link": "https://www.wsj.com/world/middle-east/saudi-arabia-kuwait-lift-restrictions-on-u-s-military-access-to-bases-airspace-8504c830",
           "summary": null,
           "published": null,
           "excerpt": null
