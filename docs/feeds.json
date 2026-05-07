@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T12:00:35.187902-07:00",
-  "generated_at_display": "May 07, 2026 12:00 PM PT",
+  "generated_at": "2026-05-07T13:00:23.951704-07:00",
+  "generated_at_display": "May 07, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "I'm already dreading Apple's camera-equipped AirPods",
+          "link": "https://www.engadget.com/2167325/im-already-dreading-apples-camera-equipped-airpods/",
+          "summary": "Must everything be part of the panopticon?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I'm already dreading Apple's camera-equipped AirPods"
+        },
+        {
+          "title": "Perplexity opens up its Personal Computer AI assistant to all Mac users",
+          "link": "https://www.engadget.com/2167301/perplexity-opens-up-its-personal-computer-ai-assistant-to-all-mac-users/",
+          "summary": "It's no longer locked a Max subscription.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Perplexity opens up its Personal Computer AI assistant to all Mac users"
+        },
+        {
           "title": "Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake",
           "link": "https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake/",
           "summary": "Prime members can also claim a code for Mafia II: Definitive Edition.",
@@ -179,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
-        },
-        {
-          "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
-          "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
-          "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Canadian officials claim OpenAI violated federal and provincial privacy laws"
-        },
-        {
-          "title": "Snap's $400 million deal with Perplexity is dead",
-          "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
-          "summary": "The planned AI search feature for Snapchat never fully rolled out.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Snap's $400 million deal with Perplexity is dead"
         }
       ]
     },
@@ -210,8 +210,8 @@
           "excerpt": null
         },
         {
-          "title": "CIA dossier  says Iran can outlast Trump's Hormuz blockade for months...",
-          "link": "https://dnyuz.com/2026/05/07/u-s-intelligence-says-iran-can-outlast-trumps-hormuz-blockade-for-months/",
+          "title": "Explosions reported near Strait of Hormuz... Developing...",
+          "link": "https://www.jpost.com/middle-east/iran-news/2026-05-07/live-updates-895401",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -219,6 +219,13 @@
         {
           "title": "Saudi, Kuwait Lift Curbs on U.S. Military Access to Bases, Airspace...Paves way for 'Project Freedom' to resume...",
           "link": "https://www.wsj.com/world/middle-east/saudi-arabia-kuwait-lift-restrictions-on-u-s-military-access-to-bases-airspace-8504c830",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "CIA dossier says Iran can outlast blockade for months...",
+          "link": "https://dnyuz.com/2026/05/07/u-s-intelligence-says-iran-can-outlast-trumps-hormuz-blockade-for-months/",
           "summary": null,
           "published": null,
           "excerpt": null
