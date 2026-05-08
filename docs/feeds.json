@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T01:00:24.557347-07:00",
-  "generated_at_display": "May 08, 2026 01:00 AM PT",
+  "generated_at": "2026-05-08T02:00:27.232849-07:00",
+  "generated_at_display": "May 08, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Instructure hackers claim they stole data from nearly 9,000 schools",
+          "link": "https://www.engadget.com/2167627/instructure-hack-schools/",
+          "summary": "They also locked students out of Canvas and warned the company to negotiate with them by May 12.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Instructure hackers claim they stole data from nearly 9,000 schools"
+        },
+        {
           "title": "Bumble will replace swiping right with... something",
           "link": "https://www.engadget.com/2167487/bumble-will-replace-swiping-right-with-something/",
           "summary": "The company previously announced it was working on an AI assistant that can make matches.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Spotify's AI-powered personal DJ expands to more languages and countries"
-        },
-        {
-          "title": "Google is turning the Fitbit app into a unified portal for your health and fitness data",
-          "link": "https://www.engadget.com/2166841/google-unifies-health-fitness-apps-fitbit/",
-          "summary": "The new Health app is rolling out on May 19.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google is turning the Fitbit app into a unified portal for your health and fitness data"
         }
       ]
     },
