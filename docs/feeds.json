@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T09:00:23.949869-07:00",
-  "generated_at_display": "May 08, 2026 09:00 AM PT",
+  "generated_at": "2026-05-08T10:00:27.984552-07:00",
+  "generated_at_display": "May 08, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The studio that (technically) made Disco Elysium just dropped a trailer for its new game",
+          "link": "https://www.engadget.com/2167928/the-studio-that-technically-made-disco-elysium-just-dropped-a-trailer-for-its-new-game/",
+          "summary": "Zero Parades: For Dead Spies comes out on May 21.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The studio that (technically) made Disco Elysium just dropped a trailer for its new game"
+        },
+        {
           "title": "How to watch The Android Show: Google I/O Edition on May 12",
           "link": "https://www.engadget.com/2167858/how-to-watch-the-android-show-google-io-edition-on-may-12/",
           "summary": "Watch the entire event unfold on YouTube.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Last week during Meta's earnings, Mark Zuckerberg said that the company is working on newAI agentsfor people and businesses on the company's platform. Now, we know a bit more about what those plans entail, thanks to anew reportfromThe Information."
-        },
-        {
-          "title": "I'm already dreading Apple's camera-equipped AirPods",
-          "link": "https://www.engadget.com/2167325/im-already-dreading-apples-camera-equipped-airpods/",
-          "summary": "Must everything be part of the panopticon?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "I'm already dreading Apple's camera-equipped AirPods"
         }
       ]
     },
