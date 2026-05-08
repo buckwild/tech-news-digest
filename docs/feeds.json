@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T05:00:21.608175-07:00",
-  "generated_at_display": "May 08, 2026 05:00 AM PT",
+  "generated_at": "2026-05-08T06:00:24.104567-07:00",
+  "generated_at_display": "May 08, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "ChatGPT can reach out to a friend if you're at risk of self-harm",
+          "link": "https://www.engadget.com/2167709/chatgpt-trusted-contact-openai/",
+          "summary": "You will now be able to nominate a Trusted Contact OpenAI can warn.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "ChatGPT can reach out to a friend if you're at risk of self-harm"
+        },
+        {
+          "title": "DJI teases the dual-camera Osmo Pocket 4P gimbal",
+          "link": "https://www.engadget.com/2167650/dji-teases-the-dual-camera-osmo-pocket-4p-gimbal/",
+          "summary": "The Osmo Pocket 3P will feature a main wide camera and 3x zoom lens.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "DJI teases the dual-camera Osmo Pocket 4P gimbal"
+        },
+        {
           "title": "The Morning After: Google's new wearable doesn't have a screen",
           "link": "https://www.engadget.com/2167661/the-morning-after-google-fitbit-air/",
           "summary": "This week's biggest stories, including: Google's new wearable, the new reMarkable slate and a new gimbal from DJI.",
@@ -195,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake"
-        },
-        {
-          "title": "Spotify now lets AI agents like OpenClaw generate personal podcasts",
-          "link": "https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/",
-          "summary": "Rejoice, nerds.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify now lets AI agents like OpenClaw generate personal podcasts"
         }
       ]
     },
@@ -210,6 +218,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "YEAR OF LEOAMERICANS HAIL POPE",
+          "link": "https://www.theguardian.com/world/2026/may/08/pope-leo-american-support-in-trump-clash",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "China Sees 'Giant With a Limp' as USA Drains Weapons on Iran War...",
           "link": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html?unlocked_article_code=1.g1A.4ed9.dQL_2w_ohK_G&smid=url-share",
