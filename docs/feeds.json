@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T02:00:27.232849-07:00",
-  "generated_at_display": "May 08, 2026 02:00 AM PT",
+  "generated_at": "2026-05-08T03:00:21.621911-07:00",
+  "generated_at_display": "May 08, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Nintendo is raising Switch 2 prices as chip crisis bites",
+          "link": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
+          "summary": "It sold 19.86 million Switch 2s last year but forecasts a drop in sales next year.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Nintendo is raising Switch 2 prices as chip crisis bites"
+        },
+        {
           "title": "Instructure hackers claim they stole data from nearly 9,000 schools",
           "link": "https://www.engadget.com/2167627/instructure-hack-schools/",
           "summary": "They also locked students out of Canvas and warned the company to negotiate with them by May 12.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech"
-        },
-        {
-          "title": "Spotify's AI-powered personal DJ expands to more languages and countries",
-          "link": "https://www.engadget.com/2166965/spotify-ai-powered-personal-dj-expands-to-more-languages-and-countries/",
-          "summary": "Premium users in more than 75 markets will now have access to it.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify's AI-powered personal DJ expands to more languages and countries"
         }
       ]
     },
