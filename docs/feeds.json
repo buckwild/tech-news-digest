@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T04:00:24.454208-07:00",
-  "generated_at_display": "May 08, 2026 04:00 AM PT",
+  "generated_at": "2026-05-08T05:00:21.608175-07:00",
+  "generated_at_display": "May 08, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Spotify now lets AI agents like OpenClaw generate personal podcasts"
-        },
-        {
-          "title": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech",
-          "link": "https://www.engadget.com/2166994/qualcomm-reveals-two-new-affordable-phone-chips-with-smooth-motion-ui-tech/",
-          "summary": "The Snapdragon 6 Gen 5 promises next-gen AI camera features while the Snapdragon 4 Gen 5 offers a big boost in GPU performance.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech"
         }
       ]
     },
@@ -219,8 +211,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "USA, Iran trade fire in Strait...",
-          "link": "https://www.rfi.fr/en/international-news/20260507-us-awaits-iran-response-to-latest-deal-offer",
+          "title": "China Sees 'Giant With a Limp' as USA Drains Weapons on Iran War...",
+          "link": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html?unlocked_article_code=1.g1A.4ed9.dQL_2w_ohK_G&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "ANTHROPIC sets sights on joining trillion-dollar club...",
+          "link": "https://www.telegraph.co.uk/business/2026/05/08/anthropic-sets-sights-on-joining-wall-streets-trillion-doll/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -228,6 +227,13 @@
         {
           "title": "IMF warns of AI threats to global financial system...",
           "link": "https://www.imf.org/en/blogs/articles/2026/05/07/financial-stability-risks-mount-as-artificial-intelligence-fuels-cyberattacks",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Murdoch's High-Stakes Blitz Against NFL...",
+          "link": "https://www.wsj.com/business/media/murdoch-nfl-television-fight-35aa3587",
           "summary": null,
           "published": null,
           "excerpt": null
