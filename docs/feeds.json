@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T03:00:21.621911-07:00",
-  "generated_at_display": "May 08, 2026 03:00 AM PT",
+  "generated_at": "2026-05-08T04:00:24.454208-07:00",
+  "generated_at_display": "May 08, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Morning After: Google's new wearable doesn't have a screen",
+          "link": "https://www.engadget.com/2167661/the-morning-after-google-fitbit-air/",
+          "summary": "This week's biggest stories, including: Google's new wearable, the new reMarkable slate and a new gimbal from DJI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Morning After: Google's new wearable doesn't have a screen"
+        },
+        {
           "title": "Nintendo is raising Switch 2 prices as chip crisis bites",
           "link": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
           "summary": "It sold 19.86 million Switch 2s last year but forecasts a drop in sales next year.",
@@ -211,7 +219,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "USA, Iran trade fire in Strait of Hormuz; Each claims other shot first...",
+          "title": "USA, Iran trade fire in Strait...",
           "link": "https://www.rfi.fr/en/international-news/20260507-us-awaits-iran-response-to-latest-deal-offer",
           "summary": null,
           "published": null,
