@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T10:00:27.984552-07:00",
-  "generated_at_display": "May 08, 2026 10:00 AM PT",
+  "generated_at": "2026-05-08T11:00:21.341769-07:00",
+  "generated_at_display": "May 08, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "InMusic will acquire Native Instruments, putting it under the same umbrella as Akai",
+          "link": "https://www.engadget.com/2168045/inmusic-will-acquire-native-instruments-putting-it-under-the-same-umbrella-as-akai/",
+          "summary": "The company also owns Moog and M-Audio, so this creates an industry juggernaut.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "InMusic will acquire Native Instruments, putting it under the same umbrella as Akai"
+        },
+        {
+          "title": "Intel has reportedly signed a preliminary deal to produce chips for Apple",
+          "link": "https://www.engadget.com/2168036/intel-signs-preliminary-chip-deal-apple/",
+          "summary": "Is it 2006 again?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Intel has reportedly signed a preliminary deal to produce chips for Apple"
+        },
+        {
           "title": "The studio that (technically) made Disco Elysium just dropped a trailer for its new game",
           "link": "https://www.engadget.com/2167928/the-studio-that-technically-made-disco-elysium-just-dropped-a-trailer-for-its-new-game/",
           "summary": "Zero Parades: For Dead Spies comes out on May 21.",
@@ -195,30 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Instructure hackers claim they stole data from nearly 9,000 schools"
-        },
-        {
-          "title": "Bumble will replace swiping right with... something",
-          "link": "https://www.engadget.com/2167487/bumble-will-replace-swiping-right-with-something/",
-          "summary": "The company previously announced it was working on an AI assistant that can make matches.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Bumble will replace swiping right with... something"
-        },
-        {
-          "title": "OpenAI debuts a Codex plugin for Chrome",
-          "link": "https://www.engadget.com/2167480/openai-debuts-a-codex-plugin-for-chrome/",
-          "summary": "The new feature could turn Codex into more than a coding aid.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI debuts a Codex plugin for Chrome"
-        },
-        {
-          "title": "Meta's AI agent plans reportedly include an OpenClaw competitor that can shop on Instagram",
-          "link": "https://www.engadget.com/2167475/metas-ai-agent-plans-reportedly-include-an-openclaw-competitor-that-can-shop-on-instagram/",
-          "summary": "Mark Zuckerberg has said he wants to make AI agents more accessible.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Last week during Meta's earnings, Mark Zuckerberg said that the company is working on newAI agentsfor people and businesses on the company's platform. Now, we know a bit more about what those plans entail, thanks to anew reportfromThe Information."
         }
       ]
     },
