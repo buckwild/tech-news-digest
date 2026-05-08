@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T16:00:25.014742-07:00",
-  "generated_at_display": "May 07, 2026 04:00 PM PT",
+  "generated_at": "2026-05-07T17:00:21.511965-07:00",
+  "generated_at_display": "May 07, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google is turning the Fitbit app into a unified portal for your health and fitness data"
-        },
-        {
-          "title": "The Google Fitbit Air is an AI-infused take on Whoop wearables",
-          "link": "https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/",
-          "summary": "It's basically a small Fitbit Inspire without a strap.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Whoop-like wearable thatGoogle teased in\u00a0Marchhas just been unveiled. Called the Google Fitbit Air, it's a screenless device that you can put in a wristband, chest strap or technically anywhere, really, depending on the accessory you choose. It's available for pre-order today for $100 and\u00a0is basically a Fitbit, freed from its band. But of course, with a name like Air, the new gadget is a lot smaller than its predecessors. According to the general manager for Google Health Rishi Chandra, the Fitbit Air is 25 percent smaller than theFitbit Luxeand 50 percent smaller thanthe Inspire 3."
         }
       ]
     },
