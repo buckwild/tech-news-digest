@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T06:00:24.104567-07:00",
-  "generated_at_display": "May 08, 2026 06:00 AM PT",
+  "generated_at": "2026-05-08T07:00:27.846355-07:00",
+  "generated_at_display": "May 08, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Blackmagic Camera hands-on: Apple Watch compatibility gives vloggers remote control",
+          "link": "https://www.engadget.com/2167733/blackmagic-camera-hands-on-apple-watch-compatibility-gives-vloggers-remote-control/",
+          "summary": "Capture high-quality Apple ProRes video with full stabilization.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We may receive a commission on purchases made from links."
+        },
+        {
           "title": "ChatGPT can reach out to a friend if you're at risk of self-harm",
           "link": "https://www.engadget.com/2167709/chatgpt-trusted-contact-openai/",
           "summary": "You will now be able to nominate a Trusted Contact OpenAI can warn.",
@@ -135,7 +143,7 @@
         {
           "title": "DJI teases the dual-camera Osmo Pocket 4P gimbal",
           "link": "https://www.engadget.com/2167650/dji-teases-the-dual-camera-osmo-pocket-4p-gimbal/",
-          "summary": "The Osmo Pocket 3P will feature a main wide camera and 3x zoom lens.",
+          "summary": "The Osmo Pocket 4P will feature a main wide camera and 3x zoom lens.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "DJI teases the dual-camera Osmo Pocket 4P gimbal"
