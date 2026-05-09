@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T13:00:23.645026-07:00",
-  "generated_at_display": "May 09, 2026 01:00 PM PT",
+  "generated_at": "2026-05-09T14:00:22.879274-07:00",
+  "generated_at_display": "May 09, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander",
+          "link": "https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/",
+          "summary": "The space agency is planning to put astronauts on the moon in 2028.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander"
+        },
         {
           "title": "Porsche is discontinuing its performance e-bike division",
           "link": "https://www.engadget.com/2168638/porsche-is-discontinuing-its-performance-ebike-division/",
