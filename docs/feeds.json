@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T09:00:21.969203-07:00",
-  "generated_at_display": "May 09, 2026 09:00 AM PT",
+  "generated_at": "2026-05-09T10:00:24.756272-07:00",
+  "generated_at_display": "May 09, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,22 +203,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "HORROR: Jet Hits Person on Runway During Takeoff at Denver Airport...",
+          "title": "HORROR: Jet Fatally Hits Person on Runway During Takeoff at Denver Airport...",
           "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html?unlocked_article_code=1.hFA.4TV8.Fk9G1n1BsVZo&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Trapped in Strait: Sailors Low on Supplies and Stuck in War Zone...",
-          "link": "https://www.wsj.com/world/middle-east/iran-hormuz-sailors-ships-stranded-07f792a7",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Anger, confusion as Louisiana Republicans move to erase Black House district...",
-          "link": "https://www.msn.com/en-us/news/politics/anger-confusion-as-louisiana-republicans-move-to-erase-majority-black-us-house-district/ar-AA22KHts",
+          "title": "Can Republicans hold Florida after DeSantis?",
+          "link": "https://thehill.com/opinion/campaign/5869601-trump-endorsement-florida-governor-race/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -226,6 +219,13 @@
         {
           "title": "DOWD: My Ted Talk...Captain Courageous cut cool swath, in contrast to today's creepy oligarchs...",
           "link": "https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html?unlocked_article_code=1.hFA.3hLj.IUUm_u6vCCIs&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Trapped in Strait: Sailors Low on Supplies and Stuck in War Zone...",
+          "link": "https://www.wsj.com/world/middle-east/iran-hormuz-sailors-ships-stranded-07f792a7",
           "summary": null,
           "published": null,
           "excerpt": null
