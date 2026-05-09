@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T06:00:20.291967-07:00",
-  "generated_at_display": "May 09, 2026 06:00 AM PT",
+  "generated_at": "2026-05-09T07:00:23.206185-07:00",
+  "generated_at_display": "May 09, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "DJI teases the dual-camera Osmo Pocket 4P gimbal"
-        },
-        {
-          "title": "The Morning After: Google's new wearable doesn't have a screen",
-          "link": "https://www.engadget.com/2167661/the-morning-after-google-fitbit-air/",
-          "summary": "This week's biggest stories, including: Google's new wearable, the new reMarkable slate and a new gimbal from DJI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Morning After: Google's new wearable doesn't have a screen"
         }
       ]
     },
@@ -218,15 +210,22 @@
           "excerpt": null
         },
         {
-          "title": "DOWD: My Ted Talk...Captain Courageous cut a cool swath, in contrast to today's creepy oligarchs...",
-          "link": "https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html?unlocked_article_code=1.hFA.3hLj.IUUm_u6vCCIs&smid=url-share",
+          "title": "Jet Hits Person on Runway During Takeoff at Denver Airport...",
+          "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html?unlocked_article_code=1.hFA.4TV8.Fk9G1n1BsVZo&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Apple a day: 13 old wives' tales that are true...",
-          "link": "https://www.thetimes.com/life-style/health-fitness/article/old-wives-tales-true-apples-cranberry-juice-uti-rgx7zdnq6",
+          "title": "Anger, confusion as Louisiana Republicans move to erase majority-Black House district...",
+          "link": "https://www.msn.com/en-us/news/politics/anger-confusion-as-louisiana-republicans-move-to-erase-majority-black-us-house-district/ar-AA22KHts",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "DOWD: My Ted Talk...Captain Courageous cut a cool swath, in contrast to today's creepy oligarchs...",
+          "link": "https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html?unlocked_article_code=1.hFA.3hLj.IUUm_u6vCCIs&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
