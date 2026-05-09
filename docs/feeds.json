@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T04:00:23.260755-07:00",
-  "generated_at_display": "May 09, 2026 04:00 AM PT",
+  "generated_at": "2026-05-09T05:00:23.783493-07:00",
+  "generated_at_display": "May 09, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Chainsaw carnage, lots of music-based titles and other new indie games worth checking out",
+          "link": "https://www.engadget.com/2168204/chainsaw-carnage-lots-of-music-based-titles-and-other-new-indie-games/",
+          "summary": "Plus, make a mixtape with help from the folks behind Mixtape.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "VIDEO"
+        },
+        {
           "title": "InMusic will acquire Native Instruments, putting it under the same umbrella as Akai",
           "link": "https://www.engadget.com/2168045/inmusic-will-acquire-native-instruments-putting-it-under-the-same-umbrella-as-akai/",
           "summary": "The company also owns Moog and M-Audio, so this creates an industry juggernaut.",
@@ -195,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Morning After: Google's new wearable doesn't have a screen"
-        },
-        {
-          "title": "Nintendo is raising Switch 2 prices as chip crisis bites",
-          "link": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
-          "summary": "It sold 19.86 million Switch 2s last year but forecasts a drop in sales next year.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Nintendo is raising Switch 2 prices as chip crisis bites"
-        },
-        {
-          "title": "Instructure hackers claim they stole data from nearly 9,000 schools",
-          "link": "https://www.engadget.com/2167627/instructure-hack-schools/",
-          "summary": "They also locked students out of Canvas and warned the company to negotiate with them by May 12.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Instructure hackers claim they stole data from nearly 9,000 schools"
         }
       ]
     },
