@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T10:00:24.756272-07:00",
-  "generated_at_display": "May 09, 2026 10:00 AM PT",
+  "generated_at": "2026-05-09T11:00:23.015100-07:00",
+  "generated_at_display": "May 09, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "ChatGPT can reach out to a friend if you're at risk of self-harm"
-        },
-        {
-          "title": "DJI teases the dual-camera Osmo Pocket 4P gimbal",
-          "link": "https://www.engadget.com/2167650/dji-teases-the-dual-camera-osmo-pocket-4p-gimbal/",
-          "summary": "The Osmo Pocket 4P will feature a main wide camera and 3x zoom lens.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "DJI teases the dual-camera Osmo Pocket 4P gimbal"
         }
       ]
     },
@@ -203,7 +195,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "HORROR: Jet Fatally Hits Person on Runway During Takeoff at Denver Airport...",
+          "title": "HORROR: Jet Fatally Hits Person During Takeoff at Denver Airport...",
           "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html?unlocked_article_code=1.hFA.4TV8.Fk9G1n1BsVZo&smid=url-share",
           "summary": null,
           "published": null,
