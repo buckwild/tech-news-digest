@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T12:00:19.849248-07:00",
-  "generated_at_display": "May 09, 2026 12:00 PM PT",
+  "generated_at": "2026-05-09T13:00:23.645026-07:00",
+  "generated_at_display": "May 09, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Sony is partnering with Bandai Namco Holdings Inc. (the parent company of Bandai Namco Entertainment) on a \"collaborative pilot initiative\" focused on generative AI and its role in the future of video production. AI was a big theme in the company's latest earnings and corporate strategypresentation, with Sony President and CEO Hiroki Totoki describing the technology as an \"amplifier of human imagination and a catalyst for new possibilities,\" while insisting that it won't replace artists or creators."
-        },
-        {
-          "title": "Blackmagic Camera hands-on: Apple Watch compatibility gives vloggers remote control",
-          "link": "https://www.engadget.com/2167733/blackmagic-camera-hands-on-apple-watch-compatibility-gives-vloggers-remote-control/",
-          "summary": "Capture high-quality Apple ProRes video with full stabilization.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We may receive a commission on purchases made from links."
         }
       ]
     },
