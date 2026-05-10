@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T10:00:20.833145-07:00",
-  "generated_at_display": "May 10, 2026 10:00 AM PT",
+  "generated_at": "2026-05-10T11:00:25.007624-07:00",
+  "generated_at_display": "May 10, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Safari's latest trick could be automatically organizing your tabs into groups",
+          "link": "https://www.engadget.com/2169076/safari-latest-trick-could-be-automatically-organizing-your-tabs-into-groups/",
+          "summary": "Bloomberg's Mark Gurman said Apple could introduce Organize Tabs feature with the next major software update.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Safari's latest trick could be automatically organizing your tabs into groups"
+        },
+        {
           "title": "A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release",
           "link": "https://www.engadget.com/2169030/a-new-subnautica-2-gameplay-trailer-just-dropped-ahead-of-its-early-access-release/",
           "summary": "Subnautica 2 will be available in Early Access on May 14.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The studio that (technically) made Disco Elysium just dropped a trailer for its new game"
-        },
-        {
-          "title": "How to watch The Android Show: Google I/O Edition on May 12",
-          "link": "https://www.engadget.com/2167858/how-to-watch-the-android-show-google-io-edition-on-may-12/",
-          "summary": "Watch the entire event unfold on YouTube.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "How to watch The Android Show: Google I/O Edition on May 12"
         }
       ]
     },
