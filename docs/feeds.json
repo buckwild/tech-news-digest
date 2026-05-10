@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T04:00:21.805681-07:00",
-  "generated_at_display": "May 10, 2026 04:00 AM PT",
+  "generated_at": "2026-05-10T05:00:20.300306-07:00",
+  "generated_at_display": "May 10, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,6 +195,27 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "$100 paid to attend Vance Iowa rally...",
+          "link": "https://iowastartingline.com/news/politics/paid-attendees-nunn-jd-vance-rally-des-moines/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Email from Susie Wiles warning White House staff about leaks, is leaked...",
+          "link": "https://www.the-independent.com/ab2973551.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "In Bid to Flip Senate, Party Pushes Deep Into Trump Territory...",
+          "link": "https://www.wsj.com/politics/elections/in-bid-to-flip-senate-democrats-push-deep-into-trump-territory-97ed6b8d",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "HORROR: Jet Fatally Hits Person During Takeoff at Denver Airport...",
           "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html?unlocked_article_code=1.hFA.4TV8.Fk9G1n1BsVZo&smid=url-share",
           "summary": null,
@@ -202,22 +223,8 @@
           "excerpt": null
         },
         {
-          "title": "Can Republicans hold Florida after DeSantis?",
-          "link": "https://thehill.com/opinion/campaign/5869601-trump-endorsement-florida-governor-race/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "DOWD: My Ted Talk...Captain Courageous cut cool swath, in contrast to today's creepy oligarchs...",
-          "link": "https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html?unlocked_article_code=1.hFA.3hLj.IUUm_u6vCCIs&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Trapped in Strait: Sailors Low on Supplies and Stuck in War Zone...",
-          "link": "https://www.wsj.com/world/middle-east/iran-hormuz-sailors-ships-stranded-07f792a7",
+          "title": "He's U.S. Citizen, Combat Vet. ICE Tear-Gassed, Jailed, and Falsely Accused Him...",
+          "link": "https://reason.com/2026/05/10/why-this-u-s-citizen-was-arrested-and-jailed-during-an-ice-raid/",
           "summary": null,
           "published": null,
           "excerpt": null
