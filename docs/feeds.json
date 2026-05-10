@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T09:00:22.129650-07:00",
-  "generated_at_display": "May 10, 2026 09:00 AM PT",
+  "generated_at": "2026-05-10T10:00:20.833145-07:00",
+  "generated_at_display": "May 10, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release",
+          "link": "https://www.engadget.com/2169030/a-new-subnautica-2-gameplay-trailer-just-dropped-ahead-of-its-early-access-release/",
+          "summary": "Subnautica 2 will be available in Early Access on May 14.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release"
+        },
+        {
           "title": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander",
           "link": "https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/",
           "summary": "The space agency is planning to put astronauts on the moon in 2028.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "How to watch The Android Show: Google I/O Edition on May 12"
-        },
-        {
-          "title": "Sony and Bandai get into bed with generative AI",
-          "link": "https://www.engadget.com/2167841/sony-and-bandai-get-into-bed-with-generative-ai/",
-          "summary": "The company also outlined AI's role in the future of PlayStation.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Sony is partnering with Bandai Namco Holdings Inc. (the parent company of Bandai Namco Entertainment) on a \"collaborative pilot initiative\" focused on generative AI and its role in the future of video production. AI was a big theme in the company's latest earnings and corporate strategypresentation, with Sony President and CEO Hiroki Totoki describing the technology as an \"amplifier of human imagination and a catalyst for new possibilities,\" while insisting that it won't replace artists or creators."
         }
       ]
     },
