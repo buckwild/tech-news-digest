@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T10:00:24.502281-07:00",
-  "generated_at_display": "May 11, 2026 10:00 AM PT",
+  "generated_at": "2026-05-11T11:00:22.074559-07:00",
+  "generated_at_display": "May 11, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -171,14 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Porsche is discontinuing its performance e-bike division"
-        },
-        {
-          "title": "Chainsaw carnage, lots of music-based titles and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2168204/chainsaw-carnage-lots-of-music-based-titles-and-other-new-indie-games/",
-          "summary": "Plus, make a mixtape with help from the folks behind Mixtape.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "VIDEO"
         }
       ]
     },
