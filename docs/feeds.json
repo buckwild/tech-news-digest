@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T04:00:28.322035-07:00",
-  "generated_at_display": "May 11, 2026 04:00 AM PT",
+  "generated_at": "2026-05-11T05:00:22.553965-07:00",
+  "generated_at_display": "May 11, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -186,6 +186,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Cage match is on for tickets to UFC fight at White House...",
+          "link": "https://www.nbcnews.com/politics/donald-trump/cage-match-tickets-trump-ufc-fight-white-house-rcna342904",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Lobbyist recruited paid attendees for Vance rally...",
           "link": "https://iowastartingline.com/news/politics/paid-attendees-nunn-jd-vance-rally-des-moines/",
