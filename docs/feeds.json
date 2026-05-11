@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T07:00:24.012056-07:00",
-  "generated_at_display": "May 11, 2026 07:00 AM PT",
+  "generated_at": "2026-05-11T08:00:21.064747-07:00",
+  "generated_at_display": "May 11, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -181,6 +181,13 @@
         {
           "title": "Beijing Patiently Waiting for USA to Flame Out...",
           "link": "https://archive.ph/We6GM",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Cost of Reflecting Pool Repairs DOUBLES, Administration Says...",
+          "link": "https://www.nytimes.com/2026/05/11/us/politics/reflecting-pool-paint-contract-trump.html?unlocked_article_code=1.hlA.S8VQ.X7DzpvbVseLu&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
