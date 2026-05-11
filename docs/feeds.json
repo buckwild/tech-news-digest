@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T13:00:28.249672-07:00",
-  "generated_at_display": "May 11, 2026 01:00 PM PT",
+  "generated_at": "2026-05-11T14:00:20.596976-07:00",
+  "generated_at_display": "May 11, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Texas AG sues Netflix, claiming the streaming service collects user data without consent",
+          "link": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent/",
+          "summary": "The case particularly focuses on children's accounts.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Texas AG sues Netflix, claiming the streaming service collects user data without consent"
+        },
+        {
           "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
           "link": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/",
           "summary": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
@@ -217,6 +225,13 @@
         {
           "title": "GOP Plant? Dem Ruse? Accusations Fly in Nebraska Senate Race...",
           "link": "https://www.nytimes.com/2026/05/11/us/politics/nebraska-senate-race-primary.html?unlocked_article_code=1.hlA.qyRl.DiMH_oVxsCTj&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Why Republicans Are Still Drawing House Maps, While Dems Are Stuck...",
+          "link": "https://www.nytimes.com/2026/05/11/us/politics/redistricting-republicans-democrats.html?unlocked_article_code=1.hlA.N2xR.I6iSYrvlTOop&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
