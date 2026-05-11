@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:00:20.492652-07:00",
-  "generated_at_display": "May 10, 2026 04:00 PM PT",
+  "generated_at": "2026-05-10T17:00:22.154214-07:00",
+  "generated_at_display": "May 10, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Samsung's Bespoke update is big step towards a useful AI for your fridge",
+          "link": "https://www.engadget.com/2167892/samsungs-bespoke-update-is-big-step-towards-a-useful-ai-for-your-fridge/",
+          "summary": "Running a software upgrade on a fridge feels strange, but these are the times we live in.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Samsung's Bespoke update is big step towards a useful AI for your fridge"
+        },
+        {
           "title": "Safari's latest trick could be automatically organizing your tabs into groups",
           "link": "https://www.engadget.com/2169076/safari-latest-trick-could-be-automatically-organizing-your-tabs-into-groups/",
           "summary": "Bloomberg's Mark Gurman said Apple could introduce Organize Tabs feature with the next major software update.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "InMusic will acquire Native Instruments, putting it under the same umbrella as Akai"
-        },
-        {
-          "title": "Intel has reportedly signed a preliminary deal to produce chips for Apple",
-          "link": "https://www.engadget.com/2168036/intel-signs-preliminary-chip-deal-apple/",
-          "summary": "Is it 2006 again?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Following more than a year of \"intensive talks,\"The Wall\u00a0Street JournalreportsApple has reached a preliminary agreement with\u00a0Intel for the former titan to produce some of the chips that power its devices.\u00a0The scale of agreement is unknown at this time. As theJournalnotes, Apple has recently shipped more than 200 million iPhones per year, and needs a steady supply of silicon for millions of other devices, including iPads and Mac computers."
         }
       ]
     },
