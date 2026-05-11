@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T08:00:21.064747-07:00",
-  "generated_at_display": "May 11, 2026 08:00 AM PT",
+  "generated_at": "2026-05-11T09:00:24.517070-07:00",
+  "generated_at_display": "May 11, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "OpenAI sued by spouse of FSU shooting victim",
+          "link": "https://www.engadget.com/2169656/openai-sued-by-spouse-of-fsu-shooting-victim/",
+          "summary": "Florida's attorney general also opened an investigation into ChatGPT recently on similar grounds.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI sued by spouse of FSU shooting victim"
+        },
         {
           "title": "Samsung's Bespoke update is big step towards a useful AI for your fridge",
           "link": "https://www.engadget.com/2167892/samsungs-bespoke-update-is-big-step-towards-a-useful-ai-for-your-fridge/",
