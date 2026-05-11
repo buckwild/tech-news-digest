@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T15:00:22.707563-07:00",
-  "generated_at_display": "May 11, 2026 03:00 PM PT",
+  "generated_at": "2026-05-11T16:00:28.841043-07:00",
+  "generated_at_display": "May 11, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Astronomers use the Webb telescope to improve our map of the cosmic web",
+          "link": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
+          "summary": "Adding significantly more detail means better future investigations into the universe's past.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Astronomers use the Webb telescope to improve our map of the cosmic web"
+        },
+        {
           "title": "Texas AG sues Netflix, claiming the streaming service collects user data without consent",
           "link": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent/",
           "summary": "The case particularly focuses on children's accounts.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander"
-        },
-        {
-          "title": "Porsche is discontinuing its performance e-bike division",
-          "link": "https://www.engadget.com/2168638/porsche-is-discontinuing-its-performance-ebike-division/",
-          "summary": "The German automaker said it would refocus on its \"core business.\"",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Porsche is discontinuing its performance e-bike division"
         }
       ]
     },
