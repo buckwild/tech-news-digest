@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T14:00:20.596976-07:00",
-  "generated_at_display": "May 11, 2026 02:00 PM PT",
+  "generated_at": "2026-05-11T15:00:22.707563-07:00",
+  "generated_at_display": "May 11, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -210,7 +210,7 @@
         },
         {
           "title": "Cage match is on for tickets to UFC fight at White House...",
-          "link": "https://www.nbcnews.com/politics/donald-trump/cage-match-tickets-trump-ufc-fight-white-house-rcna342904",
+          "link": "https://www.nbcnews.com/politics/rcna342904",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -218,6 +218,13 @@
         {
           "title": "Miller in Retreat?Once-powerful aide's influence has quietly diminished...",
           "link": "https://archive.ph/jdqo8",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Kari Lake nominated Jamaica ambassador...",
+          "link": "https://www.fox10phoenix.com/news/kari-lake-appointed-trump-jamaica-ambassadorship",
           "summary": null,
           "published": null,
           "excerpt": null
