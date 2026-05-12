@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T08:00:26.407826-07:00",
-  "generated_at_display": "May 12, 2026 08:00 AM PT",
+  "generated_at": "2026-05-12T09:00:22.032389-07:00",
+  "generated_at_display": "May 12, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Rivian is rolling out its AI-powered voice assistant",
+          "link": "https://www.engadget.com/2170527/rivian-ai-voice-assistant/",
+          "summary": "It will be available on all Rivian Gen 1 and Gen 2 vehicles, as well as on the R2 when it launches.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Rivian is rolling out its AI-powered voice assistant"
+        },
+        {
           "title": "Amazon rolls out its new 30-minute delivery option in a number of cities across the US",
           "link": "https://www.engadget.com/2170754/amazon-rolls-out-its-new-30-minute-delivery-option-in-more-cities-across-the-us/",
           "summary": "Amazon Now is coming to \"dozens\" of locations in 2026.",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google announces its first-ever discovery of a zero-day exploit made with AI"
-        },
-        {
-          "title": "OpenAI sued by spouse of FSU shooting victim",
-          "link": "https://www.engadget.com/2169656/openai-sued-by-spouse-of-fsu-shooting-victim/",
-          "summary": "Florida's attorney general also opened an investigation into ChatGPT recently on similar grounds.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI sued by spouse of FSU shooting victim"
         }
       ]
     },
