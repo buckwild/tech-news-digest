@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T18:00:24.279386-07:00",
-  "generated_at_display": "May 11, 2026 06:00 PM PT",
+  "generated_at": "2026-05-11T19:00:23.661969-07:00",
+  "generated_at_display": "May 11, 2026 07:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
+          "link": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
+          "summary": "OpenAI has launched a cybersecurity initiative called Daybreak, powered by GPT-5.5 and Codex Security.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Daybreak is OpenAI's response to Anthropic's Claude Mythos"
+        },
         {
           "title": "Astronomers use the Webb telescope to improve our map of the cosmic web",
           "link": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
