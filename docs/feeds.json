@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T09:00:22.032389-07:00",
-  "generated_at_display": "May 12, 2026 09:00 AM PT",
+  "generated_at": "2026-05-12T10:00:22.258860-07:00",
+  "generated_at_display": "May 12, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Lord of the Rings: The Rings of Power returns to Prime Video in November",
+          "link": "https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/",
+          "summary": "Season three of Amazon's Lord of the Rings show skips forward several years from the second season finale.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Lord of the Rings: The Rings of Power returns to Prime Video in November"
+        },
         {
           "title": "Rivian is rolling out its AI-powered voice assistant",
           "link": "https://www.engadget.com/2170527/rivian-ai-voice-assistant/",
