@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T13:00:22.976606-07:00",
-  "generated_at_display": "May 12, 2026 01:00 PM PT",
+  "generated_at": "2026-05-12T14:00:29.595428-07:00",
+  "generated_at_display": "May 12, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Lord of the Rings: The Rings of Power returns to Prime Video in November"
-        },
-        {
-          "title": "Rivian is rolling out its AI-powered voice assistant",
-          "link": "https://www.engadget.com/2170527/rivian-ai-voice-assistant/",
-          "summary": "It will be available on all Rivian Gen 1 and Gen 2 vehicles, as well as on the R2 when it launches.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Rivian is rolling out its AI-powered voice assistant"
-        },
-        {
-          "title": "Amazon rolls out its new 30-minute delivery option in a number of cities across the US",
-          "link": "https://www.engadget.com/2170754/amazon-rolls-out-its-new-30-minute-delivery-option-in-more-cities-across-the-us/",
-          "summary": "Amazon Now is coming to \"dozens\" of locations in 2026.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Prime not quite quick enough for you? Amazon isrolling outits ultra-fast delivery service, Amazon Now, in dozens of cities in the US, promising deliveries of groceries and \"household essentials\" in 30 minutes or less."
         }
       ]
     },
