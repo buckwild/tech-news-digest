@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T23:00:23.798317-07:00",
-  "generated_at_display": "May 11, 2026 11:00 PM PT",
+  "generated_at": "2026-05-12T00:00:28.744033-07:00",
+  "generated_at_display": "May 12, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Digg is back again, this time to aggregate AI news",
+          "link": "https://www.engadget.com/2170484/digg-ai-news-aggregator/",
+          "summary": "Kevin Rose says Digg will introduce new topics in the future.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Digg is back again, this time to aggregate AI news"
+        },
+        {
+          "title": "Sony's new wearable air conditioner runs even cooler",
+          "link": "https://www.engadget.com/2169805/sony-reon-pocket-pro-plus-wearable-air-cooler/",
+          "summary": "And it should be more comfortable, too.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The development of Sony's wearable Reon cooling device started back in 2017and after acrowdfunding launch in 2019, it eventually went on sale in Asia and, in recent years, the West. It's time for an upgrade with the Reon Pocket Pro Plus, which will be available in the UK and Europe through Sony's own store and online retailers, including Amazon."
+        },
+        {
           "title": "Gemini for Google Home will no longer freak out if you ask it how to make a margarita",
           "link": "https://www.engadget.com/2170470/gemini-google-home-cocktail-recipes-update/",
           "summary": "Google has rolled out updates to make Gemini for Home faster and more useful.",
@@ -187,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Safari's latest trick could be automatically organizing your tabs into groups"
-        },
-        {
-          "title": "A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release",
-          "link": "https://www.engadget.com/2169030/a-new-subnautica-2-gameplay-trailer-just-dropped-ahead-of-its-early-access-release/",
-          "summary": "Subnautica 2 will be available in Early Access on May 14.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release"
         }
       ]
     },
