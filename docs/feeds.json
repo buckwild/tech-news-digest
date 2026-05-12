@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T05:00:27.726574-07:00",
-  "generated_at_display": "May 12, 2026 05:00 AM PT",
+  "generated_at": "2026-05-12T06:00:22.235254-07:00",
+  "generated_at_display": "May 12, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAI sued by spouse of FSU shooting victim"
-        },
-        {
-          "title": "Samsung's Bespoke update is big step towards a useful AI for your fridge",
-          "link": "https://www.engadget.com/2167892/samsungs-bespoke-update-is-big-step-towards-a-useful-ai-for-your-fridge/",
-          "summary": "Running a software upgrade on a fridge feels strange, but these are the times we live in.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Samsung's Bespoke update is big step towards a useful AI for your fridge"
         }
       ]
     },
@@ -211,15 +203,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Cost of Reflecting Pool Repairs DOUBLES, Administration Says...",
-          "link": "https://www.nytimes.com/2026/05/11/us/politics/reflecting-pool-paint-contract-trump.html?unlocked_article_code=1.hlA.S8VQ.X7DzpvbVseLu&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "$1 million tickets for ringside at White House UFC fight...",
-          "link": "https://www.nbcnews.com/politics/rcna342904",
+          "title": "World Braces for Lasting Economic Pain...",
+          "link": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html?unlocked_article_code=1.h1A.ubSR.jm0ugcq0fSUt&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
