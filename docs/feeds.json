@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T15:00:20.289523-07:00",
-  "generated_at_display": "May 12, 2026 03:00 PM PT",
+  "generated_at": "2026-05-12T16:00:23.522411-07:00",
+  "generated_at_display": "May 12, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta is facing another lawsuit over scam ads on Facebook and Instagram",
+          "link": "https://www.engadget.com/2171464/meta-is-facing-another-lawsuit-over-scam-ads-on-facebook-and-instagram/",
+          "summary": "The lawsuit claims Meta is not doing enough to protect senior citizens and other vulnerable groups.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Santa Clara County has become the latest entityto sue Metaover scam ads on Facebook and Instagram. The lawsuit, brought by County Counsel Tony LoPresti, alleges that the company has profited from \"a vast ecosystem of scam ads\" that have defrauded senior citizens and other vulnerable people."
+        },
+        {
           "title": "Apple reportedly has a lot of changes planned for the Camera app",
           "link": "https://www.engadget.com/2171448/apple-reportedly-has-a-lot-of-changes-planned-for-the-camera-app/",
           "summary": "iOS 27 may integrate Visual Intelligence into the Camera and make it more customizable.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "After multiple years of rumors, Google today confirmed a new laptop-focused initiative called Googlebooks. ChromeOS, which launched more than 15 years ago, was built with the thought that most people do everything online now; Google says this new category of laptops is built for a Gemini-first world. The company only gave us a very brief preview of what makes up a Googlebook, with plans to more formally announce more details including hardware later this year."
-        },
-        {
-          "title": "Android 17 includes better iOS file sharing and a forced break for addictive apps",
-          "link": "https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/",
-          "summary": "Google is also launching 3D Emoji.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google mission to add an extra layer of polish to its mobile OS continues with Android 17. Withlast year's update, the company focused on upgrading its notification experience and adding a big-screen desktop mode. Android 17, not surprisingly, willlean into more integration with Google's Gemini(including the nifty ability to create app automations). But if you're not into AI, there are still a few notable additions, especially when it comes to file sharing with iOS, 3D emojis and reining in addictive apps."
         }
       ]
     },
