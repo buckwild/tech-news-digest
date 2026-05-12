@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T11:00:24.055130-07:00",
-  "generated_at_display": "May 12, 2026 11:00 AM PT",
+  "generated_at": "2026-05-12T12:00:20.162857-07:00",
+  "generated_at_display": "May 12, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google is reportedly considering working with SpaceX on orbital data centers",
+          "link": "https://www.engadget.com/2171194/google-is-reportedly-considering-working-with-spacex-on-orbital-data-centers/",
+          "summary": "The company has been working on the idea since the end of 2025.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is reportedly considering working with SpaceX on orbital data centers"
+        },
+        {
+          "title": "Apple acquired another company that could help build out its Creator Studio subscription",
+          "link": "https://www.engadget.com/2171141/apple-acquired-another-company-that-could-help-build-out-its-creator-studio-subscription/",
+          "summary": "The company behind color grading tool Color.io was acquired in January.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple acquired another company that could help build out its Creator Studio subscription"
+        },
+        {
+          "title": "Threads users are pissed they can't block Meta's new AI chatbot",
+          "link": "https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/",
+          "summary": "It's the top trending topic on the platform.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Threads users are pissed they can't block Meta's new AI chatbot"
+        },
+        {
           "title": "Everything announced at The Android Show: I/O 2026 edition",
           "link": "https://www.engadget.com/2171038/everything-announced-at-android-show-google-io-2026/",
           "summary": "Google had a whole lot of news to share, including on new laptops and Gemini Intelligence.",
@@ -154,7 +178,7 @@
           "summary": "Google is also launching 3D Emoji.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google mission to add an extra layer of polish to its mobile OS continues with Android 17. Withlast year's update, the company focused on upgrading its notification experience and adding a big-screen desktop mode. Android 17, not surprisingly, willlean into more integration with Google's Gemini(including the nifty ability to create app automations). But if you're not into AI, there are still a few notable additions, especially when it comes to file sharing with iOS, 3D emojis and reigning in addictive apps."
+          "excerpt": "Google mission to add an extra layer of polish to its mobile OS continues with Android 17. Withlast year's update, the company focused on upgrading its notification experience and adding a big-screen desktop mode. Android 17, not surprisingly, willlean into more integration with Google's Gemini(including the nifty ability to create app automations). But if you're not into AI, there are still a few notable additions, especially when it comes to file sharing with iOS, 3D emojis and reining in addictive apps."
         },
         {
           "title": "Lord of the Rings: The Rings of Power returns to Prime Video in November",
@@ -194,6 +218,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Saudi Arabia launched covert attacks on Iran...",
+          "link": "https://www.yahoo.com/news/articles/exclusive-saudi-arabia-launched-covert-180746273.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "World Braces for Lasting Economic Pain...",
           "link": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html?unlocked_article_code=1.h1A.ubSR.jm0ugcq0fSUt&smid=url-share",
