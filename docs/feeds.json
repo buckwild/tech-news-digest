@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T22:00:20.903919-07:00",
-  "generated_at_display": "May 11, 2026 10:00 PM PT",
+  "generated_at": "2026-05-11T23:00:23.798317-07:00",
+  "generated_at_display": "May 11, 2026 11:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Gemini for Google Home will no longer freak out if you ask it how to make a margarita",
+          "link": "https://www.engadget.com/2170470/gemini-google-home-cocktail-recipes-update/",
+          "summary": "Google has rolled out updates to make Gemini for Home faster and more useful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Gemini for Google Home will no longer freak out if you ask it how to make a margarita"
+        },
+        {
           "title": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
           "link": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
           "summary": "OpenAI has launched a cybersecurity initiative called Daybreak, powered by GPT-5.5 and Codex Security.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release"
-        },
-        {
-          "title": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander",
-          "link": "https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/",
-          "summary": "The space agency is planning to put astronauts on the moon in 2028.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander"
         }
       ]
     },
