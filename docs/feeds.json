@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T02:00:22.306615-07:00",
-  "generated_at_display": "May 12, 2026 02:00 AM PT",
+  "generated_at": "2026-05-12T03:00:20.822748-07:00",
+  "generated_at_display": "May 12, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -138,7 +138,7 @@
           "summary": "And it should be more comfortable, too.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The development of Sony's wearable Reon cooling device started back in 2017and after acrowdfunding launch in 2019, it eventually went on sale in Asia and, in recent years, the West. It's time for an upgrade with the Reon Pocket Pro Plus, which will be available in the UK and Europe through Sony's own store and online retailers, including Amazon."
+          "excerpt": "The development of Sony's wearable Reon cooling device started back in 2017and after acrowdfunding launch in 2019, it eventually went on sale in Asia and, in recent years, the West. It's time for an upgrade with the Reon Pocket Pro Plus, which will be available in the UK and Europe through Sony's own store and online retailers, including Amazon. (Sony wasn't able to confirm at time of writing whether the device would officially launch in the US, which likely means it won't.)"
         },
         {
           "title": "Gemini for Google Home will no longer freak out if you ask it how to make a margarita",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Samsung's Bespoke update is big step towards a useful AI for your fridge"
-        },
-        {
-          "title": "Safari's latest trick could be automatically organizing your tabs into groups",
-          "link": "https://www.engadget.com/2169076/safari-latest-trick-could-be-automatically-organizing-your-tabs-into-groups/",
-          "summary": "Bloomberg's Mark Gurman said Apple could introduce Organize Tabs feature with the next major software update.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Safari's latest trick could be automatically organizing your tabs into groups"
         }
       ]
     },
