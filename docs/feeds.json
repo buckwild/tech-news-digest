@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T14:00:29.595428-07:00",
-  "generated_at_display": "May 12, 2026 02:00 PM PT",
+  "generated_at": "2026-05-12T15:00:20.289523-07:00",
+  "generated_at_display": "May 12, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple reportedly has a lot of changes planned for the Camera app",
+          "link": "https://www.engadget.com/2171448/apple-reportedly-has-a-lot-of-changes-planned-for-the-camera-app/",
+          "summary": "iOS 27 may integrate Visual Intelligence into the Camera and make it more customizable.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple reportedly has a lot of changes planned for the Camera app"
+        },
+        {
+          "title": "DOJ extracts $30m settlement from PayPal over minority-owned business program",
+          "link": "https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/",
+          "summary": "The federal retaliation against corporate DEI efforts marches on.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
+        },
+        {
           "title": "Tekken director Katsuhiro Harada is back with his own studio under SNK",
           "link": "https://www.engadget.com/2171217/tekken-director-katsuhiro-harada-is-back-with-his-own-studio-under-snk/",
           "summary": "Six months after leaving Bandai Namco, Harada is in charge of his own team.",
@@ -187,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google mission to add an extra layer of polish to its mobile OS continues with Android 17. Withlast year's update, the company focused on upgrading its notification experience and adding a big-screen desktop mode. Android 17, not surprisingly, willlean into more integration with Google's Gemini(including the nifty ability to create app automations). But if you're not into AI, there are still a few notable additions, especially when it comes to file sharing with iOS, 3D emojis and reining in addictive apps."
-        },
-        {
-          "title": "Lord of the Rings: The Rings of Power returns to Prime Video in November",
-          "link": "https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/",
-          "summary": "Season three of Amazon's Lord of the Rings show skips forward several years from the second season finale.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Lord of the Rings: The Rings of Power returns to Prime Video in November"
         }
       ]
     },
@@ -212,6 +220,13 @@
         {
           "title": "Pro-Tehran hackers claim attack on SPOTIFY as 'revenge' for ayatollah killing...",
           "link": "https://threatbeat.com/attacks-and-incidents/pro-iran-hackers-claim-attack-on-spotify-as-revenge-for-ayatollahs-killing/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "U.S. Intel Shows: Retains Substantial Missile Capabilities...",
+          "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html?unlocked_article_code=1.h1A.RV9B.9wt_0gztHObY&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
