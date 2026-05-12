@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T10:00:22.258860-07:00",
-  "generated_at_display": "May 12, 2026 10:00 AM PT",
+  "generated_at": "2026-05-12T11:00:24.055130-07:00",
+  "generated_at_display": "May 12, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,38 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Everything announced at The Android Show: I/O 2026 edition",
+          "link": "https://www.engadget.com/2171038/everything-announced-at-android-show-google-io-2026/",
+          "summary": "Google had a whole lot of news to share, including on new laptops and Gemini Intelligence.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google has largely shifted away from big annual operating system updates in favor of more frequent Pixel Drops. Still, the pre-I/O edition of The Android Show gives the company a chance to give you a peek at what's coming viaAndroid 17."
+        },
+        {
+          "title": "Google announces upcoming security tools for Android, including enhanced protection against banking scam calls",
+          "link": "https://www.engadget.com/2169750/google-announces-upcoming-security-tools-for-android/",
+          "summary": "The Live Threat Detection feature is also getting a major upgrade.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google just livestreamed theAndroid Show: I/O Edition, which is an event that takes place the week before thecompany's annual I/O conference. This gave us a peek at a bunch of new features coming to the Android operating system, and many of them focus on security."
+        },
+        {
+          "title": "Googlebooks are the Android-based evolution of the Chromebook",
+          "link": "https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/",
+          "summary": "Google's only giving us a tease of what it has planned for its new laptop lineup.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "After multiple years of rumors, Google today confirmed a new laptop-focused initiative called Googlebooks. ChromeOS, which launched more than 15 years ago, was built with the thought that most people do everything online now; Google says this new category of laptops is built for a Gemini-first world. The company only gave us a very brief preview of what makes up a Googlebook, with plans to more formally announce more details including hardware later this year."
+        },
+        {
+          "title": "Android 17 includes better iOS file sharing and a forced break for addictive apps",
+          "link": "https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/",
+          "summary": "Google is also launching 3D Emoji.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google mission to add an extra layer of polish to its mobile OS continues with Android 17. Withlast year's update, the company focused on upgrading its notification experience and adding a big-screen desktop mode. Android 17, not surprisingly, willlean into more integration with Google's Gemini(including the nifty ability to create app automations). But if you're not into AI, there are still a few notable additions, especially when it comes to file sharing with iOS, 3D emojis and reigning in addictive apps."
+        },
+        {
           "title": "Lord of the Rings: The Rings of Power returns to Prime Video in November",
           "link": "https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/",
           "summary": "Season three of Amazon's Lord of the Rings show skips forward several years from the second season finale.",
@@ -155,70 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Meta has spent the last couple years giving its self-titled AI chatbot prominent placement in its apps and now it's Threads' turn. The company isstarting to test a new featurethat gives the Meta AI chatbot Grok-like functionality on Threads, with the ability to reply to posts with additional \"context.\""
-        },
-        {
-          "title": "The Steve Jobs $1 coin goes on sale today starting at $61 for a roll",
-          "link": "https://www.engadget.com/2170555/steve-jobs-coin-on-sale-today/",
-          "summary": "It features the Apple co-founder with the California landscape in the background.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Steve Jobs $1 coin goes on sale today starting at $61 for a roll"
-        },
-        {
-          "title": "Digg is back again, this time to aggregate AI news",
-          "link": "https://www.engadget.com/2170484/digg-ai-news-aggregator/",
-          "summary": "Kevin Rose says Digg will introduce new topics in the future.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Digg is back again, this time to aggregate AI news"
-        },
-        {
-          "title": "Sony's new wearable air conditioner runs even cooler",
-          "link": "https://www.engadget.com/2169805/sony-reon-pocket-pro-plus-wearable-air-cooler/",
-          "summary": "And it should be more comfortable, too.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The development of Sony's wearable Reon cooling device started back in 2017and after acrowdfunding launch in 2019, it eventually went on sale in Asia and, in recent years, the West. It's time for an upgrade with the Reon Pocket Pro Plus, which will be available in the UK and Europe through Sony's own store and online retailers, including Amazon. (Sony wasn't able to confirm at time of writing whether the device would officially launch in the US, which likely means it won't.)"
-        },
-        {
-          "title": "Gemini for Google Home will no longer freak out if you ask it how to make a margarita",
-          "link": "https://www.engadget.com/2170470/gemini-google-home-cocktail-recipes-update/",
-          "summary": "Google has rolled out updates to make Gemini for Home faster and more useful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Gemini for Google Home will no longer freak out if you ask it how to make a margarita"
-        },
-        {
-          "title": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
-          "link": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
-          "summary": "OpenAI has launched a cybersecurity initiative called Daybreak, powered by GPT-5.5 and Codex Security.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Daybreak is OpenAI's response to Anthropic's Claude Mythos"
-        },
-        {
-          "title": "Astronomers use the Webb telescope to improve our map of the cosmic web",
-          "link": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
-          "summary": "Adding significantly more detail means better future investigations into the universe's past.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Astronomers use the Webb telescope to improve our map of the cosmic web"
-        },
-        {
-          "title": "Texas AG sues Netflix, claiming the streaming service collects user data without consent",
-          "link": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent/",
-          "summary": "The case particularly focuses on children's accounts.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Texas AG sues Netflix, claiming the streaming service collects user data without consent"
-        },
-        {
-          "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
-          "link": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/",
-          "summary": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google announces its first-ever discovery of a zero-day exploit made with AI"
         }
       ]
     },
@@ -229,6 +197,13 @@
         {
           "title": "World Braces for Lasting Economic Pain...",
           "link": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html?unlocked_article_code=1.h1A.ubSR.jm0ugcq0fSUt&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Mysterious Meddling in Dem Primaries Has Republican Fingerprints...",
+          "link": "https://www.nytimes.com/2026/05/12/us/politics/gop-mystery-pac-midterms.html?unlocked_article_code=1.h1A.7D6K.DmaZZlGgNqzF&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
