@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T14:00:20.408718-07:00",
-  "generated_at_display": "May 13, 2026 02:00 PM PT",
+  "generated_at": "2026-05-13T15:00:22.603467-07:00",
+  "generated_at_display": "May 13, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "You can now visit Amazon.com on big-screen Echo Show displays"
-        },
-        {
-          "title": "Amazon made a version of Alexa just for shopping",
-          "link": "https://www.engadget.com/2171806/amazon-made-a-version-of-alexa-just-for-shopping/",
-          "summary": "Alexa for Shopping is an 'agentic AI assistant' for Amazon purchases",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amazon made a version of Alexa just for shopping"
         }
       ]
     },
@@ -194,6 +186,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "China gains major edge on U.S. amid Iran war, intel finds...",
+          "link": "https://archive.is/KMviT",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Beijing Plots Secret Arms Sales to Iran...",
           "link": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html?unlocked_article_code=1.iFA.hMzL.0Gn85rcNrOLT&smid=url-share",
@@ -204,6 +203,13 @@
         {
           "title": "AI Rivalry Overshadows Push For Guardrails...",
           "link": "https://www.barrons.com/news/ai-rivalry-overshadows-push-for-guardrails-at-xi-trump-talks-experts-740f1dc9",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Taiwan fears 'grand bargain'...",
+          "link": "https://www.telegraph.co.uk/world-news/2026/05/13/fears-of-a-taiwan-sell-out-overshadow-trump-xi-summit/",
           "summary": null,
           "published": null,
           "excerpt": null
