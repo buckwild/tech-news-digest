@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T15:00:22.603467-07:00",
-  "generated_at_display": "May 13, 2026 03:00 PM PT",
+  "generated_at": "2026-05-13T16:00:21.234277-07:00",
+  "generated_at_display": "May 13, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "KitchenAid launches its first smart thermometer",
+          "link": "https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/",
+          "summary": "There are single and dual probe models available.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "KitchenAid launches its first smart thermometer"
+        },
+        {
           "title": "Apple may open up the App Store to agentic AI",
           "link": "https://www.engadget.com/2172378/apple-may-open-up-the-app-store-to-agentic-ai/",
           "summary": "But doing so could threaten its bottom line.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "WhatsApp users can soon have private conversations with Meta AI"
-        },
-        {
-          "title": "You can now visit Amazon.com on big-screen Echo Show displays",
-          "link": "https://www.engadget.com/2171710/full-amazon-shop-echo-show/",
-          "summary": "The full Amazon experience is available on Echo Show 15 and 21.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You can now visit Amazon.com on big-screen Echo Show displays"
         }
       ]
     },
