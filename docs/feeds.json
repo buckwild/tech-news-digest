@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T08:00:30.846597-07:00",
-  "generated_at_display": "May 13, 2026 08:00 AM PT",
+  "generated_at": "2026-05-13T09:00:27.513290-07:00",
+  "generated_at_display": "May 13, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Elon Musk just can't stop (potentially) violating the Clean Air Act",
+          "link": "https://www.engadget.com/2172050/elon-musk-just-cant-stop-potentially-violating-the-clean-air-act/",
+          "summary": "xAI has reportedly added 19 more unpermitted methane gas turbines to its latest data center site.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Elon Musk just can't stop (potentially) violating the Clean Air Act"
+        },
+        {
           "title": "WhatsApp users can soon have private conversations with Meta AI",
           "link": "https://www.engadget.com/2171922/whatsapp-users-can-soon-have-private-conversations-with-meta-ai/",
           "summary": "No one other than you will be able to read messages exchanged via Incognito Chat with Meta AI.",
@@ -203,22 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google is reportedly considering working with SpaceX on orbital data centers"
-        },
-        {
-          "title": "Apple acquired another company that could help build out its Creator Studio subscription",
-          "link": "https://www.engadget.com/2171141/apple-acquired-another-company-that-could-help-build-out-its-creator-studio-subscription/",
-          "summary": "The company behind color grading tool Color.io was acquired in January.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple acquired another company that could help build out its Creator Studio subscription"
-        },
-        {
-          "title": "Threads users are pissed they can't block Meta's new AI chatbot",
-          "link": "https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/",
-          "summary": "It's the top trending topic on the platform.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Threads users are pissed they can't block Meta's new AI chatbot"
         }
       ]
     },
@@ -226,6 +218,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "AI Rivalry Overshadows Push For Guardrails...",
+          "link": "https://www.barrons.com/news/ai-rivalry-overshadows-push-for-guardrails-at-xi-trump-talks-experts-740f1dc9",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Republican Rep Humiliates Boy, 10, for Writing Letter About Electric Cars...",
           "link": "https://www.yahoo.com/news/articles/gop-rep-humiliates-boy-10-000416199.html",
