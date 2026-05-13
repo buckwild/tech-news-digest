@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T13:00:30.967665-07:00",
-  "generated_at_display": "May 13, 2026 01:00 PM PT",
+  "generated_at": "2026-05-13T14:00:20.408718-07:00",
+  "generated_at_display": "May 13, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple may open up the App Store to agentic AI",
+          "link": "https://www.engadget.com/2172378/apple-may-open-up-the-app-store-to-agentic-ai/",
+          "summary": "But doing so could threaten its bottom line.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple may open up the App Store to agentic AI"
+        },
+        {
           "title": "Xbox's new filters aim to make sense of disorganized game libraries",
           "link": "https://www.engadget.com/2172273/xbox-new-filters-aim-to-make-sense-of-disorganized-game-libraries/",
           "summary": "And, brace yourself, Microsoft is also testing a new startup experience.",
@@ -179,22 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Amazon made a version of Alexa just for shopping"
-        },
-        {
-          "title": "Sony's Xperia 1 VIII has bigger camera sensors and a new look",
-          "link": "https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign/",
-          "summary": "Once again, Sony doesn't have plans to release it in the US.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Sony's Xperia 1 VIII has bigger camera sensors and a new look"
-        },
-        {
-          "title": "Family sues OpenAI, alleging ChatGPT advice led to accidental overdose",
-          "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
-          "summary": "The complaint says ChatGPT started giving Sam Nelson advice about drug use with the launch of GPT-4o.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI is facing anotherwrongful death lawsuit. Leila Turner-Scott and Angus Scott filed a lawsuit against the company, alleging that it designed and distributed a \"defective product\" that led to the death of their son\u00a0Sam Nelson from an accidental overdose. Specifically, they're alleging that Sam died following the \"exact medical adviceGPT-4ohad provided and approved.\""
         }
       ]
     },
@@ -203,7 +195,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Plots Secret Arms Sales to Iran...",
+          "title": "Beijing Plots Secret Arms Sales to Iran...",
           "link": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html?unlocked_article_code=1.iFA.hMzL.0Gn85rcNrOLT&smid=url-share",
           "summary": null,
           "published": null,
