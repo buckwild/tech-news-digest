@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T10:00:26.031739-07:00",
-  "generated_at_display": "May 13, 2026 10:00 AM PT",
+  "generated_at": "2026-05-13T11:00:22.858242-07:00",
+  "generated_at_display": "May 13, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta employees are protesting the company's mouse tracking program",
+          "link": "https://www.engadget.com/2172212/meta-employees-are-protesting-the-companys-mouse-tracking-program/",
+          "summary": "Last month, it said it would use employees' mouse movements and keystrokes to train AI models.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Shockingly, Meta employees aren't too keen on training their robot replacements.Reutersreportsthat workers have begun circulating flyers at multiple US offices to protest the company's installation of tracking software on their work computers."
+        },
+        {
           "title": "Elon Musk just can't stop (potentially) violating the Clean Air Act",
           "link": "https://www.engadget.com/2172050/elon-musk-just-cant-stop-potentially-violating-the-clean-air-act/",
           "summary": "xAI has reportedly added 19 more unpermitted methane gas turbines to its latest data center site.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
-        },
-        {
-          "title": "Tekken director Katsuhiro Harada is back with his own studio under SNK",
-          "link": "https://www.engadget.com/2171217/tekken-director-katsuhiro-harada-is-back-with-his-own-studio-under-snk/",
-          "summary": "Six months after leaving Bandai Namco, Harada is in charge of his own team.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Longtime Tekken director Katsuhiro Harada is back, and this time around he's in full control, leading a Tokyo-based team called VS Studio. Haradaleft Bandai Namcoin December after 30 years directing and serving as the hair-gelled, always-shady face of the Tekken franchise, and his departure came as a surprise to the fighting game community. While Harada is in charge of the vision and output at VS Studio, it's a subsidiary of SNK Corporation, Bandai's market rival in the world of fighting games. Scandalous, surely."
         }
       ]
     },
@@ -218,6 +218,13 @@
           "excerpt": null
         },
         {
+          "title": "CBSNEWS anchor Dokoupil to broadcast from Taiwan after failing to get China visa in time...",
+          "link": "https://www.semafor.com/article/05/13/2026/cbs-news-tony-dokoupil-to-broadcast-from-taiwan-after-failing-to-get-china-visa-in-time",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Republican Rep Humiliates Boy, 10, for Writing Letter About Electric Cars...",
           "link": "https://www.yahoo.com/news/articles/gop-rep-humiliates-boy-10-000416199.html",
           "summary": null,
@@ -227,13 +234,6 @@
         {
           "title": "The Sad Wives of AI...",
           "link": "https://archive.ph/tkqy6",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Daily pill could 'keep you slim for life'...",
-          "link": "https://www.telegraph.co.uk/news/2026/05/12/daily-pill-could-keep-you-slim-for-life/",
           "summary": null,
           "published": null,
           "excerpt": null
