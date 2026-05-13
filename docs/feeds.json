@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T11:00:22.858242-07:00",
-  "generated_at_display": "May 13, 2026 11:00 AM PT",
+  "generated_at": "2026-05-13T12:00:33.349000-07:00",
+  "generated_at_display": "May 13, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Xbox's new filters aim to make sense of disorganized game libraries",
+          "link": "https://www.engadget.com/2172273/xbox-new-filters-aim-to-make-sense-of-disorganized-game-libraries/",
+          "summary": "And, brace yourself, Microsoft is also testing a new startup experience.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Xbox's new filters aim to make sense of disorganized game libraries"
+        },
+        {
+          "title": "OpenAI endorses the Kids Online Safety Act",
+          "link": "https://www.engadget.com/2172269/openai-endorses-the-kids-online-safety-act/",
+          "summary": "The bill appears to be gaining new momentum.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI endorses the Kids Online Safety Act"
+        },
+        {
           "title": "Meta employees are protesting the company's mouse tracking program",
           "link": "https://www.engadget.com/2172212/meta-employees-are-protesting-the-companys-mouse-tracking-program/",
           "summary": "Last month, it said it would use employees' mouse movements and keystrokes to train AI models.",
@@ -179,30 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAI is facing anotherwrongful death lawsuit. Leila Turner-Scott and Angus Scott filed a lawsuit against the company, alleging that it designed and distributed a \"defective product\" that led to the death of their son\u00a0Sam Nelson from an accidental overdose. Specifically, they're alleging that Sam died following the \"exact medical adviceGPT-4ohad provided and approved.\""
-        },
-        {
-          "title": "Meta is facing another lawsuit over scam ads on Facebook and Instagram",
-          "link": "https://www.engadget.com/2171464/meta-is-facing-another-lawsuit-over-scam-ads-on-facebook-and-instagram/",
-          "summary": "The lawsuit claims Meta is not doing enough to protect senior citizens and other vulnerable groups.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Santa Clara County has become the latest entityto sue Metaover scam ads on Facebook and Instagram. The lawsuit, brought by County Counsel Tony LoPresti, alleges that the company has profited from \"a vast ecosystem of scam ads\" that have defrauded senior citizens and other vulnerable people."
-        },
-        {
-          "title": "Apple reportedly has a lot of changes planned for the Camera app",
-          "link": "https://www.engadget.com/2171448/apple-reportedly-has-a-lot-of-changes-planned-for-the-camera-app/",
-          "summary": "iOS 27 may integrate Visual Intelligence into the Camera and make it more customizable.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple reportedly has a lot of changes planned for the Camera app"
-        },
-        {
-          "title": "DOJ extracts $30m settlement from PayPal over minority-owned business program",
-          "link": "https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/",
-          "summary": "The federal retaliation against corporate DEI efforts marches on.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
         }
       ]
     },
@@ -210,6 +202,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Plots Secret Arms Sales to Iran...",
+          "link": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html?unlocked_article_code=1.iFA.hMzL.0Gn85rcNrOLT&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "AI Rivalry Overshadows Push For Guardrails...",
           "link": "https://www.barrons.com/news/ai-rivalry-overshadows-push-for-guardrails-at-xi-trump-talks-experts-740f1dc9",
@@ -227,13 +226,6 @@
         {
           "title": "Republican Rep Humiliates Boy, 10, for Writing Letter About Electric Cars...",
           "link": "https://www.yahoo.com/news/articles/gop-rep-humiliates-boy-10-000416199.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "The Sad Wives of AI...",
-          "link": "https://archive.ph/tkqy6",
           "summary": null,
           "published": null,
           "excerpt": null
