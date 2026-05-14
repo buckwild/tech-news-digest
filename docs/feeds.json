@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T00:00:28.272814-07:00",
-  "generated_at_display": "May 14, 2026 12:00 AM PT",
+  "generated_at": "2026-05-14T01:00:20.996114-07:00",
+  "generated_at_display": "May 14, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Apple backs Google after EU orders Android be opened up to AI rivals",
+          "link": "https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/",
+          "summary": "The company agrees with Google that it would put European users' privacy and safety at risk.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple backs Google after EU orders Android be opened up to AI rivals"
+        },
         {
           "title": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now",
           "link": "https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/",
