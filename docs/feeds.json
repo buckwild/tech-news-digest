@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T11:00:21.575943-07:00",
-  "generated_at_display": "May 14, 2026 11:00 AM PT",
+  "generated_at": "2026-05-14T12:00:29.897061-07:00",
+  "generated_at_display": "May 14, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny",
+          "link": "https://www.engadget.com/2173164/microsofts-unreleased-cloud-controller-has-been-spotted-in-the-wild-and-its-teeny/",
+          "summary": "It reportedly uses Wi-Fi to directly connect to the Xbox Cloud Gaming service, for lower latency.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny"
+        },
+        {
+          "title": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts",
+          "link": "https://www.engadget.com/2173148/spotify-and-its-hosting-platforms-are-adopting-apples-tech-for-video-podcasts/",
+          "summary": "HTTP Live Streaming support will let Apple Podcasts play Spotify-hosted video podcasts.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts"
+        },
+        {
+          "title": "The Esports World Cup will reportedly move to Paris from Riyadh",
+          "link": "https://www.engadget.com/2173107/the-esports-world-cup-will-reportedly-move-to-paris-from-riyadh/",
+          "summary": "Uncertainty in the Middle East is apparently forcing the location change.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This summer's Esports World Cup will be held in Paris, France, rather than its originally scheduled location of Riyadh, Saudi Arabia, due to the war in the Middle East,GamesBeatreports. According to the site, EWC organizers are telling stakeholders behind the scenes that the tournament will be moved to Paris this year, though there's been no public confirmation of the change. Rumors of a location swap have beenswirling for days."
+        },
+        {
           "title": "Americans really don't want AI data centers close to their homes",
           "link": "https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/",
           "summary": "Maybe NIMBYs are right for once.",
@@ -187,30 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips"
-        },
-        {
-          "title": "Apple backs Google after EU orders Android be opened up to AI rivals",
-          "link": "https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/",
-          "summary": "The company agrees with Google that it would put European users' privacy and safety at risk.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple backs Google after EU orders Android be opened up to AI rivals"
-        },
-        {
-          "title": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now",
-          "link": "https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/",
-          "summary": "Copilot features are now available on Edge for mobile.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now"
-        },
-        {
-          "title": "KitchenAid launches its first smart thermometer",
-          "link": "https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/",
-          "summary": "There are single and dual probe models available.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "KitchenAid launches its first smart thermometer"
         }
       ]
     },
