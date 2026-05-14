@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T12:00:29.897061-07:00",
-  "generated_at_display": "May 14, 2026 12:00 PM PT",
+  "generated_at": "2026-05-14T13:00:21.322852-07:00",
+  "generated_at_display": "May 14, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Netflix wants to use generative AI to make animated shorts",
+          "link": "https://www.engadget.com/2173239/netflix-wants-to-use-generative-ai-to-make-animated-shorts/",
+          "summary": "Sigh.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Netflix wants to use generative AI to make animated shorts"
+        },
+        {
           "title": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny",
           "link": "https://www.engadget.com/2173164/microsofts-unreleased-cloud-controller-has-been-spotted-in-the-wild-and-its-teeny/",
           "summary": "It reportedly uses Wi-Fi to directly connect to the Xbox Cloud Gaming service, for lower latency.",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Motorola Razr Fold review: A worthy rival to Google and Samsung"
-        },
-        {
-          "title": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips",
-          "link": "https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/",
-          "summary": "But Reuters says NVIDIA has yet to make any deliveries.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips"
         }
       ]
     },
