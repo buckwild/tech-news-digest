@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T06:00:23.090181-07:00",
-  "generated_at_display": "May 14, 2026 06:00 AM PT",
+  "generated_at": "2026-05-14T07:00:22.863425-07:00",
+  "generated_at_display": "May 14, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
+          "link": "https://www.engadget.com/2172725/dell-14s-16-s-2026/",
+          "summary": "The new models are now available, with prices starting at $1,270.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Dell's new 14S and 16S are the replacement for its old Plus models"
+        },
+        {
+          "title": "Motorola Razr Fold review: A worthy rival to Google and Samsung",
+          "link": "https://www.engadget.com/2172439/motorola-razr-fold-review/",
+          "summary": "It even has native stylus support, which Samsung dropped on the Galaxy Z Fold 7.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Motorola Razr Fold review: A worthy rival to Google and Samsung"
+        },
+        {
           "title": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips",
           "link": "https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/",
           "summary": "But Reuters says NVIDIA has yet to make any deliveries.",
@@ -179,21 +195,21 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAI endorses the Kids Online Safety Act"
-        },
-        {
-          "title": "Meta employees are protesting the company's mouse tracking program",
-          "link": "https://www.engadget.com/2172212/meta-employees-are-protesting-the-companys-mouse-tracking-program/",
-          "summary": "Last month, it said it would use employees' mouse movements and keystrokes to train AI models.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Shockingly, Meta employees aren't too keen on training their robot replacements.Reutersreportsthat workers have begun circulating flyers at multiple US offices to protest the company's installation of tracking software on their work computers."
         }
       ]
     },
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": []
+      "entries": [
+        {
+          "title": "White House explores pardon spree...",
+          "link": "https://www.wsj.com/politics/policy/white-house-explores-250-pardons-to-mark-americas-250th-20fccfbc",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        }
+      ]
     }
   ]
 }
