@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T20:00:23.575985-07:00",
-  "generated_at_display": "May 13, 2026 08:00 PM PT",
+  "generated_at": "2026-05-13T21:00:21.067653-07:00",
+  "generated_at_display": "May 13, 2026 09:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now",
+          "link": "https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/",
+          "summary": "Copilot features are now available on Edge for mobile.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now"
+        },
         {
           "title": "KitchenAid launches its first smart thermometer",
           "link": "https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/",
