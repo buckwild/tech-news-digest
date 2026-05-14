@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T03:00:28.169297-07:00",
-  "generated_at_display": "May 14, 2026 03:00 AM PT",
+  "generated_at": "2026-05-14T04:00:19.960226-07:00",
+  "generated_at_display": "May 14, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips",
+          "link": "https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/",
+          "summary": "But Reuters says NVIDIA has yet to make any deliveries.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips"
+        },
+        {
           "title": "Apple backs Google after EU orders Android be opened up to AI rivals",
           "link": "https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/",
           "summary": "The company agrees with Google that it would put European users' privacy and safety at risk.",
@@ -187,57 +195,13 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Elon Musk just can't stop (potentially) violating the Clean Air Act"
-        },
-        {
-          "title": "WhatsApp users can soon have private conversations with Meta AI",
-          "link": "https://www.engadget.com/2171922/whatsapp-users-can-soon-have-private-conversations-with-meta-ai/",
-          "summary": "No one other than you will be able to read messages exchanged via Incognito Chat with Meta AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "WhatsApp users can soon have private conversations with Meta AI"
         }
       ]
     },
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": [
-        {
-          "title": "China gains major edge on U.S. amid Iran war, intel finds...",
-          "link": "https://archive.is/KMviT",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Beijing Plots Secret Arms Sales to Iran...",
-          "link": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html?unlocked_article_code=1.iFA.hMzL.0Gn85rcNrOLT&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "AI Rivalry Overshadows Push For Guardrails...",
-          "link": "https://www.barrons.com/news/ai-rivalry-overshadows-push-for-guardrails-at-xi-trump-talks-experts-740f1dc9",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Taiwan fears 'grand bargain'...",
-          "link": "https://www.telegraph.co.uk/world-news/2026/05/13/fears-of-a-taiwan-sell-out-overshadow-trump-xi-summit/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "CBSNEWS anchor Dokoupil to broadcast from Taiwan after failing to get China visa in time...",
-          "link": "https://www.semafor.com/article/05/13/2026/cbs-news-tony-dokoupil-to-broadcast-from-taiwan-after-failing-to-get-china-visa-in-time",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        }
-      ]
+      "entries": []
     }
   ]
 }
