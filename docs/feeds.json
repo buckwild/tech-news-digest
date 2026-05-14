@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T08:00:27.985251-07:00",
-  "generated_at_display": "May 14, 2026 08:00 AM PT",
+  "generated_at": "2026-05-14T09:00:21.204698-07:00",
+  "generated_at_display": "May 14, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "UK antitrust regulator is officially investigating Microsoft Office",
+          "link": "https://www.engadget.com/2172943/uk-antitrust-regulator-is-officially-investigating-microsoft-office/",
+          "summary": "It's examining whether or not the bundling of Word, Excel, Teams and Copilot is uncompetitive.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "UK antitrust regulator is officially investigating Microsoft Office"
+        },
+        {
           "title": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level",
           "link": "https://www.engadget.com/2162157/dont-touch-the-snail-is-an-anti-cozy-game-that-takes-permadeath-to-the-next-level/",
           "summary": "Once you die, you can never play again.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple may open up the App Store to agentic AI"
-        },
-        {
-          "title": "Xbox's new filters aim to make sense of disorganized game libraries",
-          "link": "https://www.engadget.com/2172273/xbox-new-filters-aim-to-make-sense-of-disorganized-game-libraries/",
-          "summary": "And, brace yourself, Microsoft is also testing a new startup experience.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Xbox's new filters aim to make sense of disorganized game libraries"
         }
       ]
     },
@@ -203,7 +203,21 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "White House explores pardon spree...",
+          "title": "Billionaire backers drying up?",
+          "link": "https://www.theguardian.com/us-news/2023/sep/05/texas-fracking-billionaire-brothers-prageru-daily-wire",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "ROLLING STONES AI VIDEO FOR NEW SONG...",
+          "link": "https://www.showbiz411.com/2026/05/14/rolling-stones-drop-new-video-for-in-the-stars-single-ahead-of-album-release-uses-ai-to-insert-younger-selves-into-new-performance",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "White House explores ANOTHER pardon spree...",
           "link": "https://www.wsj.com/politics/policy/white-house-explores-250-pardons-to-mark-americas-250th-20fccfbc",
           "summary": null,
           "published": null,
