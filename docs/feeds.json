@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T10:00:22.882179-07:00",
-  "generated_at_display": "May 14, 2026 10:00 AM PT",
+  "generated_at": "2026-05-14T11:00:21.575943-07:00",
+  "generated_at_display": "May 14, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,9 +125,25 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Americans really don't want AI data centers close to their homes",
+          "link": "https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/",
+          "summary": "Maybe NIMBYs are right for once.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "AI companies are spending astronomical sums of money on building data centers as quickly as possible in order to increase their compute power. But the majority of Americans don't want that infrastructure close to their homes, according to aGallup survey."
+        },
+        {
+          "title": "The ChatGPT desktop app for Mac just got hit with a security breach",
+          "link": "https://www.engadget.com/2173054/the-chatgpt-desktop-app-for-mac-just-got-hit-with-a-security-breach/",
+          "summary": "OpenAI found no evidence that user data was accessed.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The ChatGPT desktop app for Mac just got hit with a security breach"
+        },
+        {
           "title": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number",
           "link": "https://www.engadget.com/2173013/new-google-accounts-may-only-get-5gb-free-storage-unless-you-link-a-phone-number/",
-          "summary": "Previously, you got 15GB whether you added a number or not.",
+          "summary": "Google describes it as a regional test.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number"
@@ -195,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "KitchenAid launches its first smart thermometer"
-        },
-        {
-          "title": "Apple may open up the App Store to agentic AI",
-          "link": "https://www.engadget.com/2172378/apple-may-open-up-the-app-store-to-agentic-ai/",
-          "summary": "But doing so could threaten its bottom line.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple may open up the App Store to agentic AI"
         }
       ]
     },
@@ -241,6 +249,13 @@
         {
           "title": "White House explores ANOTHER pardon spree...",
           "link": "https://www.wsj.com/politics/policy/white-house-explores-250-pardons-to-mark-americas-250th-20fccfbc",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Inside Jack Schlossberg's Chaotic Campaign to Revive Camelot...",
+          "link": "https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html?unlocked_article_code=1.iVA.BvvZ.dQiEY8FlIfp2&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
