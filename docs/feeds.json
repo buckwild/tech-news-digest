@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T07:00:28.178473-07:00",
-  "generated_at_display": "May 15, 2026 07:00 AM PT",
+  "generated_at": "2026-05-15T08:00:20.220330-07:00",
+  "generated_at_display": "May 15, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "X, a bastion for hate, claims it will reduce hate content in the UK",
+          "link": "https://www.engadget.com/2173686/x-a-bastion-for-hate-claims-it-will-reduce-hate-content-in-the-uk/",
+          "summary": "Ofcom says X has committed to reviewing reported posts more quickly.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "X, a bastion for hate, claims it will reduce hate content in the UK"
+        },
+        {
+          "title": "Engadget Podcast: Who needs Googlebooks?",
+          "link": "https://www.engadget.com/2173571/engadget-podcast-who-needs-googlebooks/",
+          "summary": "We also dive into all the new features in Android 17.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Engadget Podcast: Who needs Googlebooks?"
+        },
+        {
           "title": "The UK's tax authority is turning to AI to help identify fraud",
           "link": "https://www.engadget.com/2173575/uk-tax-authority-turning-to-ai-fraud-detection/",
           "summary": "Human staff members will still check the AI's findings.",
@@ -219,14 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts"
-        },
-        {
-          "title": "The Esports World Cup will reportedly move to Paris from Riyadh",
-          "link": "https://www.engadget.com/2173107/the-esports-world-cup-will-reportedly-move-to-paris-from-riyadh/",
-          "summary": "Uncertainty in the Middle East is apparently forcing the location change.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "This summer's Esports World Cup will be held in Paris, France, rather than its originally scheduled location of Riyadh, Saudi Arabia, due to the war in the Middle East,GamesBeatreports. According to the site, EWC organizers are telling stakeholders behind the scenes that the tournament will be moved to Paris this year, though there's been no public confirmation of the change. Rumors of a location swap have beenswirling for days."
         }
       ]
     },
