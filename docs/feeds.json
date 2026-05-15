@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T09:00:23.361936-07:00",
-  "generated_at_display": "May 15, 2026 09:00 AM PT",
+  "generated_at": "2026-05-15T10:00:20.438936-07:00",
+  "generated_at_display": "May 15, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "ChatGPT will offer personalized financial advice (if you connect your bank account)",
+          "link": "https://www.engadget.com/2173768/chatgpt-will-offer-personalized-financial-advice-if-you-connect-your-bank-account/",
+          "summary": "ChatGPT's new Plaid integration allows it pull information from more than 12,000 financial institutions.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI is rolling out a preview of a new personal finance feature inside of ChatGPT. Starting today, Pro users in the US can connect their financial accounts to ChatGPT in order to get more personalized advice from the chatbot."
+        },
+        {
           "title": "The Nest app is down for many users",
           "link": "https://www.engadget.com/2173741/the-nest-app-is-down-for-many-users/",
           "summary": "The official Nest status page claims everything is running smoothly.",
@@ -241,15 +249,7 @@
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": [
-        {
-          "title": "DONNY'S ANGELS: Trump's trio of female aides catering to his demands...",
-          "link": "https://www.irishstar.com/news/politics/donald-trump-china-female-aides-37157510",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        }
-      ]
+      "entries": []
     }
   ]
 }
