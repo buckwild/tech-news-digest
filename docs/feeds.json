@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T08:00:20.220330-07:00",
-  "generated_at_display": "May 15, 2026 08:00 AM PT",
+  "generated_at": "2026-05-15T09:00:23.361936-07:00",
+  "generated_at_display": "May 15, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Nest app is down for many users",
+          "link": "https://www.engadget.com/2173741/the-nest-app-is-down-for-many-users/",
+          "summary": "The official Nest status page claims everything is running smoothly.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Nest app is down for many users"
+        },
+        {
+          "title": "Lego 2K Drive will vanish from digital storefronts on May 19",
+          "link": "https://www.engadget.com/2173738/lego-2k-drive-will-vanish-from-digital-storefronts-on-may-19/",
+          "summary": "The racing game's multiplayer servers will remain live for another year.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Lego 2K Drive will vanish from digital storefronts on May 19"
+        },
+        {
           "title": "X, a bastion for hate, claims it will reduce hate content in the UK",
           "link": "https://www.engadget.com/2173686/x-a-bastion-for-hate-claims-it-will-reduce-hate-content-in-the-uk/",
           "summary": "Ofcom says X has committed to reviewing reported posts more quickly.",
@@ -219,22 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Netflix wants to use generative AI to make animated shorts"
-        },
-        {
-          "title": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny",
-          "link": "https://www.engadget.com/2173164/microsofts-unreleased-cloud-controller-has-been-spotted-in-the-wild-and-its-teeny/",
-          "summary": "It reportedly uses Wi-Fi to directly connect to the Xbox Cloud Gaming service, for lower latency.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny"
-        },
-        {
-          "title": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts",
-          "link": "https://www.engadget.com/2173148/spotify-and-its-hosting-platforms-are-adopting-apples-tech-for-video-podcasts/",
-          "summary": "HTTP Live Streaming support will let Apple Podcasts play Spotify-hosted video podcasts.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts"
         }
       ]
     },
@@ -245,13 +245,6 @@
         {
           "title": "DONNY'S ANGELS: Trump's trio of female aides catering to his demands...",
           "link": "https://www.irishstar.com/news/politics/donald-trump-china-female-aides-37157510",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Billionaire backers drying up?",
-          "link": "https://www.theguardian.com/us-news/2023/sep/05/texas-fracking-billionaire-brothers-prageru-daily-wire",
           "summary": null,
           "published": null,
           "excerpt": null
