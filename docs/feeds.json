@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T04:00:22.799368-07:00",
-  "generated_at_display": "May 15, 2026 04:00 AM PT",
+  "generated_at": "2026-05-15T05:00:21.589279-07:00",
+  "generated_at_display": "May 15, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Morning After: Google teases the Android-based Googlebook",
+          "link": "https://www.engadget.com/2173553/the-morning-after-google-android-laptop-googlebook/",
+          "summary": "And Google I/O isn't until next week.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Morning After: Google teases the Android-based Googlebook"
+        },
+        {
           "title": "Security researchers, aided by Anthropic's Mythos, claim to have  breached macOS",
           "link": "https://www.engadget.com/2173543/security-researchers-anthropic-mythos-macos-exploit/",
           "summary": "Apple is taking the claims seriously.",
@@ -227,14 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The ChatGPT desktop app for Mac just got hit with a security breach"
-        },
-        {
-          "title": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number",
-          "link": "https://www.engadget.com/2173013/new-google-accounts-may-only-get-5gb-free-storage-unless-you-link-a-phone-number/",
-          "summary": "Google describes it as a regional test.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number"
         }
       ]
     },
