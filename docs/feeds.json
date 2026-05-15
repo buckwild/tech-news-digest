@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T00:00:22.654390-07:00",
-  "generated_at_display": "May 15, 2026 12:00 AM PT",
+  "generated_at": "2026-05-15T01:00:27.151274-07:00",
+  "generated_at_display": "May 15, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The ROG Xreal R1 AR gaming glasses are now available to pre-order for $849",
+          "link": "https://www.engadget.com/2173261/the-rog-xreal-r1-ar-gaming-glasses-are-now-available-to-pre-order-for-dollar849/",
+          "summary": "They offer a 240Hz refresh rate and a bundled connectivity dock.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The ROG Xreal R1 AR gaming glasses are now available to pre-order for $849"
+        },
+        {
           "title": "xAI introduces its coding agent called Grok Build",
           "link": "https://www.engadget.com/2173482/xai-coding-agent-grok-build/",
           "summary": "It's in early beta and only available to SuperGrok Heavy subscribers right now.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number"
-        },
-        {
-          "title": "UK antitrust regulator is officially investigating Microsoft Office",
-          "link": "https://www.engadget.com/2172943/uk-antitrust-regulator-is-officially-investigating-microsoft-office/",
-          "summary": "It's examining whether or not the bundling of Word, Excel, Teams and Copilot is uncompetitive.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "UK antitrust regulator is officially investigating Microsoft Office"
         }
       ]
     },
