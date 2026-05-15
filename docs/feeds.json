@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T12:00:29.423844-07:00",
-  "generated_at_display": "May 15, 2026 12:00 PM PT",
+  "generated_at": "2026-05-15T13:00:23.867351-07:00",
+  "generated_at_display": "May 15, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Marathon's future includes duo queues, more PvE modes and better onboarding",
+          "link": "https://www.engadget.com/2173991/marathons-future-includes-duo-queues-more-pve-modes-and-better-onboarding/",
+          "summary": "Bungie details how it plans to grow its extraction shooter.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Since the release ofMarathonon March 5, a lot has been written and said about Bungie's latest shooter. Much of the discourse has been negative, predicting the imminent death of the game due to declining player counts. During that time, Bungie has said precious little about its plans forMarathon, other than to reiterate its commitment to the game for the long haul. That changed this week when the studio published alengthy blogfrom Game DirectorJoe Ziegler. The post details Bungie's overarching strategy forMarathon, starting with an acknowledgement of the areas where the game falls short."
+        },
+        {
           "title": "ChatGPT will offer personalized financial advice (if you connect your bank account)",
           "link": "https://www.engadget.com/2173768/chatgpt-will-offer-personalized-financial-advice-if-you-connect-your-bank-account/",
           "summary": "ChatGPT's new Plaid integration allows it pull information from more than 12,000 financial institutions.",
@@ -219,30 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Xbox Elite Controller 3 leaked by Brazilian regulator"
-        },
-        {
-          "title": "Amazon hurled its Lord of the Rings MMO back into the fires of Mount Doom",
-          "link": "https://www.engadget.com/2173272/amazon-has-hurled-its-lord-of-the-rings-mmo-back-into-the-fires-of-mount-doom/",
-          "summary": "It's still making a new game set in Middle-earth, though.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amazon hurled its Lord of the Rings MMO back into the fires of Mount Doom"
-        },
-        {
-          "title": "OpenAI brings its Codex coding app to mobile",
-          "link": "https://www.engadget.com/2173235/openai-brings-its-codex-coding-app-to-mobile/",
-          "summary": "The integration allows you to keep tabs on your coding projects on the go.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI brings its Codex coding app to mobile"
-        },
-        {
-          "title": "Netflix wants to use generative AI to make animated shorts",
-          "link": "https://www.engadget.com/2173239/netflix-wants-to-use-generative-ai-to-make-animated-shorts/",
-          "summary": "Sigh.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Netflix wants to use generative AI to make animated shorts"
         }
       ]
     },
