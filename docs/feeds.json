@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T03:00:23.122319-07:00",
-  "generated_at_display": "May 15, 2026 03:00 AM PT",
+  "generated_at": "2026-05-15T04:00:22.799368-07:00",
+  "generated_at_display": "May 15, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,22 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Security researchers, aided by Anthropic's Mythos, claim to have  breached macOS",
+          "link": "https://www.engadget.com/2173543/security-researchers-anthropic-mythos-macos-exploit/",
+          "summary": "Apple is taking the claims seriously.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Security researchers, aided by Anthropic's Mythos, claim to have  breached macOS"
+        },
+        {
+          "title": "Apple reportedly testing Intel's 18A-P process to make iPhone and Mac chips",
+          "link": "https://www.engadget.com/2173529/apple-reportedly-testing-intel-18a-p-for-apple-silicon/",
+          "summary": "The initial run will focus on older Apple Silicon systems.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple reportedly testing Intel's 18A-P process to make iPhone and Mac chips"
+        },
         {
           "title": "The ROG Xreal R1 AR gaming glasses are now available to pre-order for $849",
           "link": "https://www.engadget.com/2173261/the-rog-xreal-r1-ar-gaming-glasses-are-now-available-to-pre-order-for-dollar849/",
