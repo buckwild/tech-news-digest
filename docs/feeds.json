@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T14:00:23.342353-07:00",
-  "generated_at_display": "May 16, 2026 02:00 PM PT",
+  "generated_at": "2026-05-16T15:00:27.905144-07:00",
+  "generated_at_display": "May 16, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "X, a bastion for hate, claims it will reduce hate content in the UK"
-        },
-        {
-          "title": "Engadget Podcast: Who needs Googlebooks?",
-          "link": "https://www.engadget.com/2173571/engadget-podcast-who-needs-googlebooks/",
-          "summary": "We also dive into all the new features in Android 17.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Engadget Podcast: Who needs Googlebooks?"
         }
       ]
     },
