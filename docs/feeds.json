@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T04:00:22.481496-07:00",
-  "generated_at_display": "May 16, 2026 04:00 AM PT",
+  "generated_at": "2026-05-16T05:00:20.476003-07:00",
+  "generated_at_display": "May 16, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -227,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The ROG Xreal R1 AR gaming glasses are now available to pre-order for $849"
-        },
-        {
-          "title": "xAI introduces its coding agent called Grok Build",
-          "link": "https://www.engadget.com/2173482/xai-coding-agent-grok-build/",
-          "summary": "It's in early beta and only available to SuperGrok Heavy subscribers right now.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "xAI introduces its coding agent called Grok Build"
         }
       ]
     },
