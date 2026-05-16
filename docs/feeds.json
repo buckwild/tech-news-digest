@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T08:00:24.341927-07:00",
-  "generated_at_display": "May 16, 2026 08:00 AM PT",
+  "generated_at": "2026-05-16T09:00:25.279834-07:00",
+  "generated_at_display": "May 16, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -219,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple reportedly testing Intel's 18A-P process to make iPhone and Mac chips"
-        },
-        {
-          "title": "The ROG Xreal R1 AR gaming glasses are now available to pre-order for $849",
-          "link": "https://www.engadget.com/2173261/the-rog-xreal-r1-ar-gaming-glasses-are-now-available-to-pre-order-for-dollar849/",
-          "summary": "They offer a 240Hz refresh rate and a bundled connectivity dock.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The ROG Xreal R1 AR gaming glasses are now available to pre-order for $849"
         }
       ]
     },
