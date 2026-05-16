@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T09:00:25.279834-07:00",
-  "generated_at_display": "May 16, 2026 09:00 AM PT",
+  "generated_at": "2026-05-16T10:00:23.975462-07:00",
+  "generated_at_display": "May 16, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year",
+          "link": "https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/",
+          "summary": "Residents will have to go through a course on artificial intelligence before activating the subscription.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year"
+        },
+        {
           "title": "Microsoft lets Insiders choose their Windows 11 Start menu size",
           "link": "https://www.engadget.com/2174306/microsoft-insider-windows-11-start-menu-size-taskbar/",
           "summary": "The company is also testing the ability to reposition the Windows 11 taskbar.",
@@ -203,22 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Morning After: Google teases the Android-based Googlebook"
-        },
-        {
-          "title": "Security researchers, aided by Anthropic's Mythos, claim to have  breached macOS",
-          "link": "https://www.engadget.com/2173543/security-researchers-anthropic-mythos-macos-exploit/",
-          "summary": "Apple is taking the claims seriously.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Security researchers, aided by Anthropic's Mythos, claim to have  breached macOS"
-        },
-        {
-          "title": "Apple reportedly testing Intel's 18A-P process to make iPhone and Mac chips",
-          "link": "https://www.engadget.com/2173529/apple-reportedly-testing-intel-18a-p-for-apple-silicon/",
-          "summary": "The initial run will focus on older Apple Silicon systems.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple reportedly testing Intel's 18A-P process to make iPhone and Mac chips"
         }
       ]
     },
