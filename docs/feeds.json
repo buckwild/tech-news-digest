@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T00:00:20.498828-07:00",
-  "generated_at_display": "May 16, 2026 12:00 AM PT",
+  "generated_at": "2026-05-16T01:00:22.976004-07:00",
+  "generated_at_display": "May 16, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "YouTube's AI deepfake detection tool is now available to all creators 18 and older",
+          "link": "https://www.engadget.com/2174282/youtube-likeness-detection-ai-deepfakes-expansion/",
+          "summary": "Even new creators can sign up for access.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "YouTube's AI deepfake detection tool is now available to all creators 18 and older"
+        },
         {
           "title": "Marathon's future includes duo queues, more PvE modes and better onboarding",
           "link": "https://www.engadget.com/2173991/marathons-future-includes-duo-queues-more-pve-modes-and-better-onboarding/",
