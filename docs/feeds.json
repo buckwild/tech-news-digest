@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T03:00:22.031496-07:00",
-  "generated_at_display": "May 16, 2026 03:00 AM PT",
+  "generated_at": "2026-05-16T04:00:22.481496-07:00",
+  "generated_at_display": "May 16, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Microsoft lets Insiders choose their Windows 11 Start menu size",
+          "link": "https://www.engadget.com/2174306/microsoft-insider-windows-11-start-menu-size-taskbar/",
+          "summary": "The company is also testing the ability to reposition the Windows 11 taskbar.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft lets Insiders choose their Windows 11 Start menu size"
+        },
+        {
           "title": "YouTube's AI deepfake detection tool is now available to all creators 18 and older",
           "link": "https://www.engadget.com/2174282/youtube-likeness-detection-ai-deepfakes-expansion/",
           "summary": "Even new creators can sign up for access.",
@@ -227,14 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "xAI introduces its coding agent called Grok Build"
-        },
-        {
-          "title": "Xbox Elite Controller 3 leaked by Brazilian regulator",
-          "link": "https://www.engadget.com/2173365/xbox-elite-controller-3-leaked-by-brazilian-regulator/",
-          "summary": "It's a tough day to work at Microsoft PR.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Xbox Elite Controller 3 leaked by Brazilian regulator"
         }
       ]
     },
