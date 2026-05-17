@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T09:00:24.404456-07:00",
-  "generated_at_display": "May 17, 2026 09:00 AM PT",
+  "generated_at": "2026-05-17T10:00:20.904868-07:00",
+  "generated_at_display": "May 17, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Lego 2K Drive will vanish from digital storefronts on May 19"
-        },
-        {
-          "title": "X, a bastion for hate, claims it will reduce hate content in the UK",
-          "link": "https://www.engadget.com/2173686/x-a-bastion-for-hate-claims-it-will-reduce-hate-content-in-the-uk/",
-          "summary": "Ofcom says X has committed to reviewing reported posts more quickly.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "X, a bastion for hate, claims it will reduce hate content in the UK"
         }
       ]
     },
