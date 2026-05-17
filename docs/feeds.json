@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T10:00:20.904868-07:00",
-  "generated_at_display": "May 17, 2026 10:00 AM PT",
+  "generated_at": "2026-05-17T11:00:24.743866-07:00",
+  "generated_at_display": "May 17, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple's new Siri app will reportedly offer auto-deleting chat options",
+          "link": "https://www.engadget.com/2174928/apple-new-siri-app-will-reportedly-offer-auto-deleting-chat-options/",
+          "summary": "Users can choose between keeping conversations for 30 days, one year or forever, according to Bloomberg.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple's new Siri app will reportedly offer auto-deleting chat options"
+        },
+        {
           "title": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year",
           "link": "https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/",
           "summary": "Residents will have to go through a course on artificial intelligence before activating the subscription.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Nest app is down for many users"
-        },
-        {
-          "title": "Lego 2K Drive will vanish from digital storefronts on May 19",
-          "link": "https://www.engadget.com/2173738/lego-2k-drive-will-vanish-from-digital-storefronts-on-may-19/",
-          "summary": "The racing game's multiplayer servers will remain live for another year.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Lego 2K Drive will vanish from digital storefronts on May 19"
         }
       ]
     },
