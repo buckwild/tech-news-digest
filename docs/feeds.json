@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T13:00:20.703602-07:00",
-  "generated_at_display": "May 17, 2026 01:00 PM PT",
+  "generated_at": "2026-05-17T14:00:24.284358-07:00",
+  "generated_at_display": "May 17, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -171,14 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "YouTube's AI deepfake detection tool is now available to all creators 18 and older"
-        },
-        {
-          "title": "Marathon's future includes duo queues, more PvE modes and better onboarding",
-          "link": "https://www.engadget.com/2173991/marathons-future-includes-duo-queues-more-pve-modes-and-better-onboarding/",
-          "summary": "Bungie details how it plans to grow its extraction shooter.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Since the release ofMarathonon March 5, a lot has been written and said about Bungie's latest shooter. Much of the discourse has been negative, predicting the imminent death of the game due to declining player counts. During that time, Bungie has said precious little about its plans forMarathon, other than to reiterate its commitment to the game for the long haul. That changed this week when the studio published alengthy blogfrom Game DirectorJoe Ziegler. The post details Bungie's overarching strategy forMarathon, starting with an acknowledgement of the areas where the game falls short."
         }
       ]
     },
