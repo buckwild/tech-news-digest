@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T11:00:24.743866-07:00",
-  "generated_at_display": "May 17, 2026 11:00 AM PT",
+  "generated_at": "2026-05-17T12:00:31.779832-07:00",
+  "generated_at_display": "May 17, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -171,14 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAI is rolling out a preview of a new personal finance feature inside of ChatGPT. Starting today, Pro users in the US can connect their financial accounts to ChatGPT in order to get more personalized advice from the chatbot."
-        },
-        {
-          "title": "The Nest app is down for many users",
-          "link": "https://www.engadget.com/2173741/the-nest-app-is-down-for-many-users/",
-          "summary": "The official Nest status page claims everything is running smoothly.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Nest app is down for many users"
         }
       ]
     },
