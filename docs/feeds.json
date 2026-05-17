@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T12:00:31.779832-07:00",
-  "generated_at_display": "May 17, 2026 12:00 PM PT",
+  "generated_at": "2026-05-17T13:00:20.703602-07:00",
+  "generated_at_display": "May 17, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs",
+          "link": "https://www.engadget.com/2174992/amazon-facing-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/",
+          "summary": "The lawsuit claims that Amazon owes 'hundreds of millions' in refunds to its users.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs"
+        },
+        {
+          "title": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items",
+          "link": "https://www.engadget.com/2174984/terraria-developer-confirms-cross-play-is-coming-and-teases-15th-anniversary-collector-items/",
+          "summary": "The game has sold 70 million copies over its 15-year run, Re-Logic said.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items"
+        },
+        {
           "title": "Apple's new Siri app will reportedly offer auto-deleting chat options",
           "link": "https://www.engadget.com/2174928/apple-new-siri-app-will-reportedly-offer-auto-deleting-chat-options/",
           "summary": "Users can choose between keeping conversations for 30 days, one year or forever, according to Bloomberg.",
@@ -163,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Since the release ofMarathonon March 5, a lot has been written and said about Bungie's latest shooter. Much of the discourse has been negative, predicting the imminent death of the game due to declining player counts. During that time, Bungie has said precious little about its plans forMarathon, other than to reiterate its commitment to the game for the long haul. That changed this week when the studio published alengthy blogfrom Game DirectorJoe Ziegler. The post details Bungie's overarching strategy forMarathon, starting with an acknowledgement of the areas where the game falls short."
-        },
-        {
-          "title": "ChatGPT will offer personalized financial advice (if you connect your bank account)",
-          "link": "https://www.engadget.com/2173768/chatgpt-will-offer-personalized-financial-advice-if-you-connect-your-bank-account/",
-          "summary": "ChatGPT's new Plaid integration allows it pull information from more than 12,000 financial institutions.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI is rolling out a preview of a new personal finance feature inside of ChatGPT. Starting today, Pro users in the US can connect their financial accounts to ChatGPT in order to get more personalized advice from the chatbot."
         }
       ]
     },
