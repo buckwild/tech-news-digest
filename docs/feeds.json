@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T03:00:23.960691-07:00",
-  "generated_at_display": "May 18, 2026 03:00 AM PT",
+  "generated_at": "2026-05-18T04:00:21.434291-07:00",
+  "generated_at_display": "May 18, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,8 +187,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Republican senator who voted to convict during impeachment loses primary...Revenge tour continues...",
-          "link": "https://www.washingtonpost.com/politics/2026/05/16/gop-senator-who-defied-trump-impeachment-faces-voters-five-years-later/",
+          "title": "Latest White House Renovation Plan: Helipad on South Lawn...",
+          "link": "https://www.wsj.com/politics/policy/trumps-latest-white-house-renovation-plan-a-helipad-on-the-south-lawn-9d0bf72f",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Massie confronts full force of Trump's wrath in Republican primary...",
+          "link": "https://www.nbcnews.com/politics/2026-election/rep-thomas-massie-confronts-full-force-trumps-wrath-republican-primary-rcna345257",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -196,20 +203,6 @@
         {
           "title": "Jr's AI dealmaking spree...",
           "link": "https://as.ft.com/r/417418ac-9ed8-4e19-bd83-643c0bff178b",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "President's Remarks Reveal a Billionaire Out of Touch...",
-          "link": "https://www.nytimes.com/2026/05/17/us/politics/to-critics-trump-remarks-reveal-a-billionaire-out-of-touch.html?unlocked_article_code=1.jFA.mhip.Ad3rxDNHo3CO&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "POLL:  Stress, uncertainty, many frustrated...",
-          "link": "https://www.cbsnews.com/news/cbs-news-poll-stress-uncertainty-economy-views-decline/",
           "summary": null,
           "published": null,
           "excerpt": null
