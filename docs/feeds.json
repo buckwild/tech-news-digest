@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T13:00:27.576596-07:00",
-  "generated_at_display": "May 18, 2026 01:00 PM PT",
+  "generated_at": "2026-05-18T14:00:21.938463-07:00",
+  "generated_at_display": "May 18, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -244,6 +244,13 @@
         {
           "title": "USA postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' 'request'...",
           "link": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "US aircraft to stay in Israel until end of '27...",
+          "link": "https://www.jpost.com/israel-news/defense-news/article-896603",
           "summary": null,
           "published": null,
           "excerpt": null
