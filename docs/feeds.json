@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T06:00:23.403630-07:00",
-  "generated_at_display": "May 18, 2026 06:00 AM PT",
+  "generated_at": "2026-05-18T07:00:22.538262-07:00",
+  "generated_at_display": "May 18, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -186,6 +186,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "DROPS $10B LAWSUIT AGAINST IRS...",
+          "link": "https://www.cnbc.com/2026/05/18/trump-dismiss-irs-lawsuit.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Latest White House Renovation Plan: Helipad on South Lawn...",
           "link": "https://www.wsj.com/politics/policy/trumps-latest-white-house-renovation-plan-a-helipad-on-the-south-lawn-9d0bf72f",
