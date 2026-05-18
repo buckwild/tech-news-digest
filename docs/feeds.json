@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T09:00:26.723702-07:00",
-  "generated_at_display": "May 18, 2026 09:00 AM PT",
+  "generated_at": "2026-05-18T10:00:22.274832-07:00",
+  "generated_at_display": "May 18, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,38 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "How to watch the Google I/O 2026 keynote",
+          "link": "https://www.engadget.com/2175638/how-to-watch-google-io-2026-keynote/",
+          "summary": "Google's keynote on Tuesday will include a boatload of AI news and perhaps some Android XR updates.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The keynote will include a boatload of AI news and perhaps some Android XR updates."
+        },
+        {
+          "title": "Sony hit with a class action lawsuit for allegedly profiting from tariff-related price hikes",
+          "link": "https://www.engadget.com/2175588/sony-hit-with-a-class-action-lawsuit-for-allegedly-profiting-from-tariff-related-price-hikes/",
+          "summary": "The case against Sony is similar to ones filed against Nintendo and Amazon.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This case is similar to ones filed against Nintendo and Amazon."
+        },
+        {
+          "title": "Elon Musk reportedly owes quite a few of his employees $420",
+          "link": "https://www.engadget.com/2175582/elon-musk-reportedly-owes-quite-a-few-of-his-employees-420-dollars/",
+          "summary": "xAI promised workers the money in exchange for tax information to train Grok.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "xAI promised workers the money in exchange for tax information to train Grok."
+        },
+        {
+          "title": "Volvo reveals $58,400 starting price for the EX60",
+          "link": "https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/",
+          "summary": "Volvo's upcoming mainstream EV SUV is available to order now.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Between theRivian R2,BMW iX3and theVolvo EX60, there's a bunch of appealing electric SUVs scheduled to hit the market soon. And now,Volvois revealing official pricing for its upcoming family EV, which starts at $58,400."
+        },
+        {
           "title": "Google's much-improved app icons are rolling out now",
           "link": "https://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/",
           "summary": "The old icons that debuted five years ago had very little to visually differentiate them.",
@@ -179,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple's new Siri app will reportedly offer auto-deleting chat options"
-        },
-        {
-          "title": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year",
-          "link": "https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/",
-          "summary": "Residents will have to go through a course on artificial intelligence before activating the subscription.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year"
         }
       ]
     },
@@ -202,8 +226,8 @@
           "excerpt": null
         },
         {
-          "title": "Georgia Republicans Brace for Bruising Runoff in Must-Win Battleground...",
-          "link": "https://time.com/article/2026/05/18/georgia-republicans-brace-for-bruising-senate-runoff-in-key-2026-battleground/",
+          "title": "Defense Secretary Hegseth to Campaign for a Republican House Candidate...",
+          "link": "https://www.nytimes.com/2026/05/18/us/politics/hegseth-gallrein-campaign.html?unlocked_article_code=1.jVA.OAP7.qF7Yp-MxhZAl&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
