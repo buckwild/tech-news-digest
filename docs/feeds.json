@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T01:00:23.956761-07:00",
-  "generated_at_display": "May 18, 2026 01:00 AM PT",
+  "generated_at": "2026-05-18T02:00:19.968324-07:00",
+  "generated_at_display": "May 18, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Microsoft ditches Teams feature that put attendees into the same virtual room",
+          "link": "https://www.engadget.com/2175215/microsoft-ditches-teams-feature-that-put-attendees-into-the-same-virtual-room/",
+          "summary": "Microsoft said 'Together' mode added too much 'implementation complexity' and will steer users toward the Teams' gallery view instead.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft ditches Teams feature that put attendees into the same virtual room"
+        },
         {
           "title": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs",
           "link": "https://www.engadget.com/2174992/amazon-facing-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/",
