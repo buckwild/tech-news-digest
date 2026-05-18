@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T14:00:21.938463-07:00",
-  "generated_at_display": "May 18, 2026 02:00 PM PT",
+  "generated_at": "2026-05-18T15:00:23.731220-07:00",
+  "generated_at_display": "May 18, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Disney faces a class action lawsuit over facial recognition tech",
+          "link": "https://www.engadget.com/2176016/disney-faces-a-class-action-lawsuit-over-facial-recognition-tech/",
+          "summary": "The complaint says park visitors don't get sufficient notice they're being scanned.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The complaint says park visitors don\u2019t get sufficient notice they\u2019re being scanned."
+        },
         {
           "title": "Sony raises PS Plus prices for one- and three-month subscriptions",
           "link": "https://www.engadget.com/2175751/sony-raises-ps-plus-prices-for-one-and-three-month-subscriptions/",
@@ -251,13 +259,6 @@
         {
           "title": "US aircraft to stay in Israel until end of '27...",
           "link": "https://www.jpost.com/israel-news/defense-news/article-896603",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Federal Prosecutors Move to Drop Bribery Case Against Indian Magnate...",
-          "link": "https://www.nytimes.com/2026/05/18/nyregion/gautam-adani-indictment-trump.html?unlocked_article_code=1.jVA.NDIU.N8JKgXLJ-x2T&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
