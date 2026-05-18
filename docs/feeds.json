@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T07:00:22.538262-07:00",
-  "generated_at_display": "May 18, 2026 07:00 AM PT",
+  "generated_at": "2026-05-18T08:00:24.944926-07:00",
+  "generated_at_display": "May 18, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "LinkedIn doesn't want your AI slop anymore",
+          "link": "https://www.engadget.com/2174163/linkedin-doesnt-want-your-ai-slop-anymore/",
+          "summary": "It isn't just lazy. It's also mind-numbingly boring.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "LinkedIn doesn't want your AI slop anymore"
+        },
+        {
+          "title": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here",
+          "link": "https://www.engadget.com/2175403/steelseries-arctis-nova-elite-review-ultra-high-end-gaming-headsets-are-here/",
+          "summary": "$600 is a lot of money for a gaming headset, but if you edit audio and video, the Arctis Nova Elite might be the only pair you need.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here"
+        },
+        {
           "title": "Microsoft ditches Teams feature that put attendees into the same virtual room",
           "link": "https://www.engadget.com/2175215/microsoft-ditches-teams-feature-that-put-attendees-into-the-same-virtual-room/",
           "summary": "Microsoft said 'Together' mode added too much 'implementation complexity' and will steer users toward the Teams' gallery view instead.",
@@ -187,7 +203,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "DROPS $10B LAWSUIT AGAINST IRS...",
+          "title": "THE DON DROPS $10B SUIT AGAINST IRS...",
           "link": "https://www.cnbc.com/2026/05/18/trump-dismiss-irs-lawsuit.html",
           "summary": null,
           "published": null,
