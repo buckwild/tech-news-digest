@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T10:00:22.274832-07:00",
-  "generated_at_display": "May 18, 2026 10:00 AM PT",
+  "generated_at": "2026-05-18T11:00:25.395896-07:00",
+  "generated_at_display": "May 18, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The jury in the OpenAI case has ruled against Elon Musk",
+          "link": "https://www.engadget.com/2175740/the-jury-in-the-openai-case-has-ruled-against-elon-musk/",
+          "summary": "The three week trial ended with less than two hours of deliberation.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "After three weeks of testimony and not much deliberation, a jury has ruled against Elon Musk, finding that Sam Altman and Greg Brockman were not liable in the case. The jury found that the statute of limitations had already passed when Musk sued the two executives."
+        },
+        {
           "title": "How to watch the Google I/O 2026 keynote",
           "link": "https://www.engadget.com/2175638/how-to-watch-google-io-2026-keynote/",
           "summary": "Google's keynote on Tuesday will include a boatload of AI news and perhaps some Android XR updates.",
@@ -228,6 +236,13 @@
         {
           "title": "Defense Secretary Hegseth to Campaign for a Republican House Candidate...",
           "link": "https://www.nytimes.com/2026/05/18/us/politics/hegseth-gallrein-campaign.html?unlocked_article_code=1.jVA.OAP7.qF7Yp-MxhZAl&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Federal Prosecutors Move to Drop Bribery Case Against Indian Magnate...",
+          "link": "https://www.nytimes.com/2026/05/18/nyregion/gautam-adani-indictment-trump.html?unlocked_article_code=1.jVA.NDIU.N8JKgXLJ-x2T&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
