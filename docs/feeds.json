@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T15:00:29.136536-07:00",
-  "generated_at_display": "May 19, 2026 03:00 PM PT",
+  "generated_at": "2026-05-19T16:00:21.886256-07:00",
+  "generated_at_display": "May 19, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Android XR is finally starting to feel real",
+          "link": "https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/",
+          "summary": "Google has a lot to prove, but its smart glasses will have a few big advantages.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Last year at Google I/O, we got a promising, iffrustratingly limited, look at Android XR. At this year's event, the company confirmed that the first glasses from Warby Parker and Gentle Monster arefinally cominglater this year."
+        },
+        {
+          "title": "Discord now has end-to-end encryption on all calls",
+          "link": "https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/",
+          "summary": "It's a win for privacy on the social app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s a win for privacy on the social app."
+        },
+        {
           "title": "Firefox AI guardrails arrive for mobile",
           "link": "https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/",
           "summary": "The feature lets you turn all AI enhancements off with one tap.",
@@ -243,22 +259,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The company is expanding SynthID to Chrome and Search."
-        },
-        {
-          "title": "Google shoves more AI into Search, including a dynamic Search box and agentic features",
-          "link": "https://www.engadget.com/2176547/google-shoves-more-ai-into-search-including-a-dynamic-search-box-and-agentic-features/",
-          "summary": "You can kiss the classic Google Search goodbye.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google Search is becoming even more of a showpiece for its AI ambitions. Today at Google I/O 2026, the company announced that Search has been upgraded to the Gemini 3.5 Flash model, which it says offers faster inferencing, smarter results and the ability to process different types of media. As a result, Google is also launching a new Intelligent Search Box that can dynamically get larger to fit complex queries, as well as use videos, images, files and even Chrome tabs as inputs. None of this is a surprise, though."
-        },
-        {
-          "title": "Samsung and Google just teased their upcoming Android XR smartglasses at Google I/O",
-          "link": "https://www.engadget.com/2176805/samsung-and-google-just-teased-their-upcoming-android-xr-smartglasses-at-google-io/",
-          "summary": "The two models were created in partnership with Warby Parker and Gentle Monster.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The two models were created in partnership with Warby Parker and Gentle Monster."
         }
       ]
     },
@@ -274,7 +274,7 @@
           "excerpt": null
         },
         {
-          "title": "Manager at NJ Golf Club Helped Plan Reflecting Pool Repairs...",
+          "title": "Manager at NJ Golf Club Helped Plan Reflecting Pool 'Repairs'...",
           "link": "https://www.nytimes.com/2026/05/19/us/politics/reflecting-pool-trump-schutzenhofer.html?unlocked_article_code=1.jlA.05SM.UZxiLKvMBLRo&smid=url-share",
           "summary": null,
           "published": null,
@@ -283,13 +283,6 @@
         {
           "title": "Senate advances measure to end military action in Iran in rebuke to president...",
           "link": "https://www.cnbc.com/2026/05/19/senate-advances-measure-to-end-military-action-in-iran-in-rebuke-to-trump.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "USA Seized Iran-Linked Oil Tanker in Indian Ocean...",
-          "link": "https://www.wsj.com/world/middle-east/u-s-seized-iran-linked-oil-tanker-in-the-indian-ocean-704f5f3c",
           "summary": null,
           "published": null,
           "excerpt": null
