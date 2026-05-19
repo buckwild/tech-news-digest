@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T13:00:22.240484-07:00",
-  "generated_at_display": "May 19, 2026 01:00 PM PT",
+  "generated_at": "2026-05-19T14:00:22.568734-07:00",
+  "generated_at_display": "May 19, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Apple Sports app expands to 90 new markets ahead of the World Cup",
+          "link": "https://www.engadget.com/2177172/apple-sports-app-expands-to-90-new-markets-ahead-of-the-world-cup/",
+          "summary": "Apple is targeting World Cup fans ahead of this summer's tournament.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s targeting soccer fans ahead of this summer\u2019s tournament."
+        },
+        {
+          "title": "Google debuts AI-powered tools to optimize scientific research workflows",
+          "link": "https://www.engadget.com/2177120/google-debuts-ai-powered-tools-to-optimize-scientific-research-workflows/",
+          "summary": "Three new features will be available under the Gemini for Science collection.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Three new features will be available under the Gemini for Science collection."
+        },
+        {
           "title": "Google announces Wear OS 7",
           "link": "https://www.engadget.com/2177050/google-announces-wear-os-7/",
           "summary": "The OS update integrates Gemini Intelligence and adds a new widget system.",
@@ -235,22 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The two models were created in partnership with Warby Parker and Gentle Monster."
-        },
-        {
-          "title": "Google brings more conversational features to Gmail, Docs and Keep",
-          "link": "https://www.engadget.com/2176612/google-brings-more-conversational-features-to-gmail-docs-and-keep/",
-          "summary": "You can talk out a first draft of a document, and Docs will organize your thoughts for you.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It can pluck answers to questions out of the data in your apps."
-        },
-        {
-          "title": "Ask YouTube compiles video answers to your questions",
-          "link": "https://www.engadget.com/2176557/ask-youtube-compiles-vide-answers-to-your-questions/",
-          "summary": "Google's new Ask YouTube feature will pull together short- and long-form content.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019ll pull together short- and long-form content."
         }
       ]
     },
@@ -275,13 +275,6 @@
         {
           "title": "USA Seized Iran-Linked Oil Tanker in Indian Ocean...",
           "link": "https://www.wsj.com/world/middle-east/u-s-seized-iran-linked-oil-tanker-in-the-indian-ocean-704f5f3c",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "WHITE HOUSE BACKS FUSION -- AS COMPANY TIED TO TRUMP INVESTS IN IT...",
-          "link": "https://www.marketwatch.com/story/trump-administration-backs-nuclear-fusion-as-a-company-tied-to-trump-invests-in-it-7f855f39",
           "summary": null,
           "published": null,
           "excerpt": null
