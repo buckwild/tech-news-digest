@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T20:00:21.868471-07:00",
-  "generated_at_display": "May 18, 2026 08:00 PM PT",
+  "generated_at": "2026-05-18T21:00:28.373821-07:00",
+  "generated_at_display": "May 18, 2026 09:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta is reportedly 'reassigning' 7,000 employees to AI-focused roles",
+          "link": "https://www.engadget.com/2176172/meta-reassigns-workers-ai-roles/",
+          "summary": "The company is transferring workers to four new organizations building AI tools and apps, according to NYT and Reuters.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company is also expected to lay off 8,000 workers this week."
+        },
+        {
           "title": "PSA: The first F1 race on Netflix is this weekend",
           "link": "https://www.engadget.com/2176061/psa-the-first-f1-race-on-netflix-is-this-weekend/",
           "summary": "Catch the F1 Canadian Grand Prix live on a service that isn't Apple.",
@@ -235,14 +243,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items"
-        },
-        {
-          "title": "Apple's new Siri app will reportedly offer auto-deleting chat options",
-          "link": "https://www.engadget.com/2174928/apple-new-siri-app-will-reportedly-offer-auto-deleting-chat-options/",
-          "summary": "Users can choose between keeping conversations for 30 days, one year or forever, according to Bloomberg.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple's new Siri app will reportedly offer auto-deleting chat options"
         }
       ]
     },
