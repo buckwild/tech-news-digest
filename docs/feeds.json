@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T12:00:21.174356-07:00",
-  "generated_at_display": "May 19, 2026 12:00 PM PT",
+  "generated_at": "2026-05-19T13:00:22.240484-07:00",
+  "generated_at_display": "May 19, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Google announces Wear OS 7",
+          "link": "https://www.engadget.com/2177050/google-announces-wear-os-7/",
+          "summary": "The OS update integrates Gemini Intelligence and adds a new widget system.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The OS update integrates Gemini Intelligence and adds a new widget system."
+        },
         {
           "title": "Everything announced at Google I/O 2026",
           "link": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark/",
