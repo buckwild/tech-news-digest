@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T14:00:22.568734-07:00",
-  "generated_at_display": "May 19, 2026 02:00 PM PT",
+  "generated_at": "2026-05-19T15:00:29.136536-07:00",
+  "generated_at_display": "May 19, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Firefox AI guardrails arrive for mobile",
+          "link": "https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/",
+          "summary": "The feature lets you turn all AI enhancements off with one tap.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "On a day when Google announcedAI feature after AI feature at I/O, here's something a little different:\u00a0Today's Firefox 151releasebrings AI controls to both iOS and Android systems. People can use the binary toggle to turn off all generative AI features as a blanket setting. There are also options to pick and choose which AI features are enabled."
+        },
         {
           "title": "The Apple Sports app expands to 90 new markets ahead of the World Cup",
           "link": "https://www.engadget.com/2177172/apple-sports-app-expands-to-90-new-markets-ahead-of-the-world-cup/",
@@ -268,6 +276,13 @@
         {
           "title": "Manager at NJ Golf Club Helped Plan Reflecting Pool Repairs...",
           "link": "https://www.nytimes.com/2026/05/19/us/politics/reflecting-pool-trump-schutzenhofer.html?unlocked_article_code=1.jlA.05SM.UZxiLKvMBLRo&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Senate advances measure to end military action in Iran in rebuke to president...",
+          "link": "https://www.cnbc.com/2026/05/19/senate-advances-measure-to-end-military-action-in-iran-in-rebuke-to-trump.html",
           "summary": null,
           "published": null,
           "excerpt": null
