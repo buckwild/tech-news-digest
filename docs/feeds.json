@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T09:00:19.877217-07:00",
-  "generated_at_display": "May 19, 2026 09:00 AM PT",
+  "generated_at": "2026-05-19T10:00:24.298170-07:00",
+  "generated_at_display": "May 19, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -227,22 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "xAI promised workers the money in exchange for tax information to train Grok."
-        },
-        {
-          "title": "Volvo reveals $58,400 starting price for the EX60",
-          "link": "https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/",
-          "summary": "Volvo's upcoming mainstream EV SUV is available to order now.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Between theRivian R2,BMW iX3and theVolvo EX60, there's a bunch of appealing electric SUVs scheduled to hit the market soon. And now,Volvois revealing official pricing for its upcoming family EV, which starts at $58,400."
-        },
-        {
-          "title": "Google's much-improved app icons are rolling out now",
-          "link": "https://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/",
-          "summary": "The old icons that debuted five years ago had very little to visually differentiate them.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The old icons had very little to visually differentiate them."
         }
       ]
     },
@@ -267,13 +251,6 @@
         {
           "title": "WHITE HOUSE BACKS FUSION -- AS COMPANY TIED TO TRUMP INVESTS IN IT...",
           "link": "https://www.marketwatch.com/story/trump-administration-backs-nuclear-fusion-as-a-company-tied-to-trump-invests-in-it-7f855f39",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Justices Hint at Strains as Supreme Court Comes Under Scrutiny...",
-          "link": "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html?unlocked_article_code=1.jlA.9cEj.IgR_L7n8CpvT&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
