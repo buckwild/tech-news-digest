@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T11:00:21.027236-07:00",
-  "generated_at_display": "May 19, 2026 11:00 AM PT",
+  "generated_at": "2026-05-19T12:00:21.174356-07:00",
+  "generated_at_display": "May 19, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Everything announced at Google I/O 2026",
+          "link": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark/",
+          "summary": "The biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Far too much AI news, and also some smart glasses."
+        },
+        {
           "title": "Google's Gemini Spark is an agentic AI assistant",
           "link": "https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/",
           "summary": "The AI agent is rolling out to testers this week.",
@@ -191,10 +199,10 @@
         {
           "title": "Project Genie adds Google Street View integration and goes live for global AI Ultra users",
           "link": "https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/",
-          "summary": "Ground your snow-globe worlds in real-world locations from Google Maps.",
+          "summary": "Ground your snow-globe worlds in real-life locations from Google Maps.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Ground your snow-globe worlds in real-world locations from Google Maps."
+          "excerpt": "Ground your snow-globe worlds in real-life locations from Google Maps."
         },
         {
           "title": "Google's Circle to Search feature can tell you if an image was AI-generated",
@@ -235,14 +243,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It\u2019ll pull together short- and long-form content."
-        },
-        {
-          "title": "Spotify is launching verification badges for podcasts to help listeners avoid AI slop",
-          "link": "https://www.engadget.com/2176567/spotify-is-launching-verification-badges-for-podcasts-to-help-listeners-avoid-ai-slop/",
-          "summary": "The platform recently did something similar for music.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The platform recently did something similar for music."
         }
       ]
     },
@@ -265,8 +265,8 @@
           "excerpt": null
         },
         {
-          "title": "Iran stages mass weddings for couples ready for war 'sacrifice'...",
-          "link": "https://www.france24.com/en/live-news/20260519-iran-stages-mass-weddings-for-couples-ready-for-war-sacrifice",
+          "title": "USA Seized Iran-Linked Oil Tanker in Indian Ocean...",
+          "link": "https://www.wsj.com/world/middle-east/u-s-seized-iran-linked-oil-tanker-in-the-indian-ocean-704f5f3c",
           "summary": null,
           "published": null,
           "excerpt": null
