@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T06:00:20.518259-07:00",
-  "generated_at_display": "May 19, 2026 06:00 AM PT",
+  "generated_at": "2026-05-19T07:00:24.134329-07:00",
+  "generated_at_display": "May 19, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Insta360's Mic Pro has three built-in mics and looks like a chunky pin badge",
+          "link": "https://www.engadget.com/2175567/insta360-mic-pro-has-three-built-in-mics-and-looks-like-a-chunky-pin-badge/",
+          "summary": "Insta360's latest mic hides in plain sight.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Insta360 teased several new devices at NAB 2026 last month, including a possibleDJI Osmorival with dual camerascalled the Luna. While the camera isn't ready just yet, an upgraded version of its wireless mic is. While it packs in a lot of technology, the eye-catching part is the e-ink display, which covers almost the entire circular face of the Mic Pro."
+        },
+        {
+          "title": "Microsoft's new Surface Laptop for Business has a privacy screen and quirky haptics",
+          "link": "https://www.engadget.com/2176309/microsoft-surface-pro-business-laptops-2026/",
+          "summary": "The new laptops are geared towards corporate buyers, with a price to match.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new Surface Pro and Surface Laptop for Business are powered by Intel's Core Ultra Series 3 processors."
+        },
+        {
+          "title": "Google I/O 2026: Live updates as the company announces new features for Gemini, AI, Search and more",
+          "link": "https://www.engadget.com/2176173/google-io-live-blog-gemini-ai/",
+          "summary": "Join our liveblog as the Engadget team brings you Google's news live from the developer conference.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The annual developer conference starts today."
+        },
+        {
           "title": "Apple's new accessibility feature lets Vision Pro users control a wheelchair with their eyes",
           "link": "https://www.engadget.com/2176236/apple-accessibility-features-vision-pro-wheelchair-control/",
           "summary": "Apple is previewing new accessibility features including Apple Intelligence-powered updates like natural language voice input.",
@@ -227,14 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here"
-        },
-        {
-          "title": "Microsoft ditches Teams feature that put attendees into the same virtual room",
-          "link": "https://www.engadget.com/2175215/microsoft-ditches-teams-feature-that-put-attendees-into-the-same-virtual-room/",
-          "summary": "Microsoft said 'Together' mode added too much 'implementation complexity' and will steer users toward the Teams' gallery view instead.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Microsoft ditches Teams feature that put attendees into the same virtual room"
         }
       ]
     },
