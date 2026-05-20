@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T07:00:20.282485-07:00",
-  "generated_at_display": "May 20, 2026 07:00 AM PT",
+  "generated_at": "2026-05-20T08:00:21.609541-07:00",
+  "generated_at_display": "May 20, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google has announced severalupdates for the Gemini appat its I/O annual developer conference, including a design language called \"Neural Expressive\" that gives it a redesigned interface with \u00a0new typography, more fluid animations and haptic feedback. The company has also integratedGemini Liveinto the main Gemini experience."
-        },
-        {
-          "title": "Google's Gemini Omni can generate 'anything from any input,' starting with video",
-          "link": "https://www.engadget.com/2176590/googles-gemini-omni-can-generate-anything-from-any-input-starting-with-video/",
-          "summary": "Google didn't forget AI creators in its latest round of Gemini announcements.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google didn't forget AI creators in its latest round of Gemini announcements as part ofGoogle I/O. The company just officially revealed Gemini Omni, a new model that can \"create anything from any input\u00a0\u2014 starting with video,\" according to Google. The first model called Gemini Omni Flash is rolling out today to the Gemini app, Google Flow and YouTube Shorts."
         }
       ]
     },
@@ -234,15 +226,8 @@
           "excerpt": null
         },
         {
-          "title": "Manager at NJ Golf Club Helped Plan Reflecting Pool 'Repairs'...",
-          "link": "https://www.nytimes.com/2026/05/19/us/politics/reflecting-pool-trump-schutzenhofer.html?unlocked_article_code=1.jlA.05SM.UZxiLKvMBLRo&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "USAID CUT CAUSED OUTBREAK?",
-          "link": "https://www.npr.org/nx-s1-5825646",
+          "title": "USAID CUTS FUELING OUTBREAK...",
+          "link": "https://archive.ph/7wFCn",
           "summary": null,
           "published": null,
           "excerpt": null
