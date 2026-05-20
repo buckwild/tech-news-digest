@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T14:00:21.653684-07:00",
-  "generated_at_display": "May 20, 2026 02:00 PM PT",
+  "generated_at": "2026-05-20T15:00:22.783341-07:00",
+  "generated_at_display": "May 20, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -157,6 +157,38 @@
           "excerpt": "The OS update integrates Gemini Intelligence and adds a new widget system."
         },
         {
+          "title": "All the news you might have missed from Google I/O 2026",
+          "link": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark/",
+          "summary": "Catch up on the biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Far too much AI news, and also some smart glasses."
+        },
+        {
+          "title": "Google's redesigned Gemini comes with a new interface and AI models",
+          "link": "https://www.engadget.com/2176568/google-redesigned-gemini-comes-with-a-new-interface-and-ai-models/",
+          "summary": "Google's redesigned chatbot hits Android and iOS today.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google has announced severalupdates for the Gemini appat its I/O annual developer conference, including a design language called \"Neural Expressive\" that gives it a redesigned interface with \u00a0new typography, more fluid animations and haptic feedback. The company has also integratedGemini Liveinto the main Gemini experience."
+        },
+        {
+          "title": "Google's Gemini Omni can generate 'anything from any input,' starting with video",
+          "link": "https://www.engadget.com/2176590/googles-gemini-omni-can-generate-anything-from-any-input-starting-with-video/",
+          "summary": "Google didn't forget AI creators in its latest round of Gemini announcements.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google didn't forget AI creators in its latest round of Gemini announcements as part ofGoogle I/O. The company just officially revealed Gemini Omni, a new model that can \"create anything from any input\u00a0\u2014 starting with video,\" according to Google. The first model called Gemini Omni Flash is rolling out today to the Gemini app, Google Flow and YouTube Shorts."
+        },
+        {
+          "title": "Google says Gemini 3.5 Flash rivals 'large flagship models' for coding and agentic tasks",
+          "link": "https://www.engadget.com/2176592/google-says-gemini-3-5-flash-rivals-large-flagship-models-for-coding-and-agentic-tasks/",
+          "summary": "Google says its Gemini 3.5 Flash model can complete tasks in a \"fraction of the time\" of other frontier models.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google has unveiled Gemini 3.5, starting with the Gemini 3.5 Flash model that promises to outperform Gemini 3.1 Pro in real-world agentic and coding tasks. \"3.5 Flash delivers frontier-level intelligence at exceptional speed \u2014 proving you no longer have to trade quality for latency.\""
+        },
+        {
           "title": "Google is bringing new AI-powered ad formats to search",
           "link": "https://www.engadget.com/2178075/google-is-bringing-new-ai-powered-ad-formats-to-search/",
           "summary": "Finally, the Google I/O announcement you've been waiting for.",
@@ -195,22 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAI is reportedly preparing to file for an initial public offering (IPO,)according toThe New York Times. If a filing does happen in the near future, the IPO could take place as soon as September."
-        },
-        {
-          "title": "Xreal's Project Aura smartglasses are a maximalist take on Android XR",
-          "link": "https://www.engadget.com/2177998/android-xr-xreal-project-aura-hands-on/",
-          "summary": "At Google I/O 2026, we took a closer look at Xreal's Project Aura, one of the first Android XR smart glasses.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Xreal has always occupied a somewhat different niche in the smartglasses market. Rather than normal-looking glasses with some smart features, the company offers a more immersive AR experience that's particularly well-suited for entertainment. That approach is very much the same with the company's Android XR-poweredProject Aura. But after spending some time with the glasses at Google I/O, it's clear that Xreal is trying to do much, much more than make another pair of cinema glasses."
-        },
-        {
-          "title": "All the news you might have missed from Google I/O 2026",
-          "link": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark/",
-          "summary": "Catch up on the biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Far too much AI news, and also some smart glasses."
         }
       ]
     },
@@ -228,6 +244,13 @@
         {
           "title": "REPORT:  42 USA aircraft shot down by Iran...",
           "link": "https://www.ndtv.com/world-news/11522243",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "RFK Jr daughter-in-law leaves two of her govt jobs over Iran war...",
+          "link": "https://www.independent.co.uk/b2980431.html",
           "summary": null,
           "published": null,
           "excerpt": null
