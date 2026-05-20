@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T06:00:22.084037-07:00",
-  "generated_at_display": "May 20, 2026 06:00 AM PT",
+  "generated_at": "2026-05-20T07:00:20.282485-07:00",
+  "generated_at_display": "May 20, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -219,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google didn't forget AI creators in its latest round of Gemini announcements as part ofGoogle I/O. The company just officially revealed Gemini Omni, a new model that can \"create anything from any input\u00a0\u2014 starting with video,\" according to Google. The first model called Gemini Omni Flash is rolling out today to the Gemini app, Google Flow and YouTube Shorts."
-        },
-        {
-          "title": "Google says Gemini 3.5 Flash rivals 'large flagship models' for coding and agentic tasks",
-          "link": "https://www.engadget.com/2176592/google-says-gemini-3-5-flash-rivals-large-flagship-models-for-coding-and-agentic-tasks/",
-          "summary": "Google says its Gemini 3.5 Flash model can complete tasks in a \"fraction of the time\" of other frontier models.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google has unveiled Gemini 3.5, starting with the Gemini 3.5 Flash model that promises to outperform Gemini 3.1 Pro in real-world agentic and coding tasks. \"3.5 Flash delivers frontier-level intelligence at exceptional speed \u2014 proving you no longer have to trade quality for latency.\""
         }
       ]
     },
@@ -235,8 +227,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "UNSUSTAINABLE GOVT FINANCES...",
-          "link": "https://www.cnn.com/2026/05/19/business/30-year-treasury-yield-bond-record",
+          "title": "Iran Threatens to Strike Beyond Middle East...",
+          "link": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html?unlocked_article_code=1.j1A.UsYA.3Cn6tmkWWmhI&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -244,6 +236,13 @@
         {
           "title": "Manager at NJ Golf Club Helped Plan Reflecting Pool 'Repairs'...",
           "link": "https://www.nytimes.com/2026/05/19/us/politics/reflecting-pool-trump-schutzenhofer.html?unlocked_article_code=1.jlA.05SM.UZxiLKvMBLRo&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "USAID CUT CAUSED OUTBREAK?",
+          "link": "https://www.npr.org/nx-s1-5825646",
           "summary": null,
           "published": null,
           "excerpt": null
