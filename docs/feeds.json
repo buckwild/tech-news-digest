@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T21:00:22.200436-07:00",
-  "generated_at_display": "May 19, 2026 09:00 PM PT",
+  "generated_at": "2026-05-19T22:00:26.753122-07:00",
+  "generated_at_display": "May 19, 2026 10:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -251,14 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Ground your snow-globe worlds in real-life locations from Google Maps."
-        },
-        {
-          "title": "Google's Circle to Search feature can tell you if an image was AI-generated",
-          "link": "https://www.engadget.com/2176090/google-expand-synthid-to-chrome-pixel-search/",
-          "summary": "Google is bringing its AI-detecting feature to more of its products to make it easier for people to verify if something was generated or edited with AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company is expanding SynthID to Chrome and Search."
         }
       ]
     },
