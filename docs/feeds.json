@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T16:00:21.886256-07:00",
-  "generated_at_display": "May 19, 2026 04:00 PM PT",
+  "generated_at": "2026-05-19T17:00:22.802988-07:00",
+  "generated_at_display": "May 19, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -173,9 +173,9 @@
           "excerpt": "The OS update integrates Gemini Intelligence and adds a new widget system."
         },
         {
-          "title": "Everything announced at Google I/O 2026",
+          "title": "All the news you might have missed from Google I/O 2026",
           "link": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark/",
-          "summary": "The biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
+          "summary": "Catch up on the biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Far too much AI news, and also some smart glasses."
