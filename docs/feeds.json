@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T02:00:21.536792-07:00",
-  "generated_at_display": "May 20, 2026 02:00 AM PT",
+  "generated_at": "2026-05-20T03:00:22.643752-07:00",
+  "generated_at_display": "May 20, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -235,14 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "But you'll need the $200 option if you want Project Genie access."
-        },
-        {
-          "title": "Google's newest app is an AI-powered image editor",
-          "link": "https://www.engadget.com/2176578/googles-newest-app-is-an-ai-powered-image-editor/",
-          "summary": "Google Pics isn't Photoshop, but it could be better than what's in Google Photos.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s not Photoshop, but it could be better than what's in Google Photos."
         }
       ]
     },
