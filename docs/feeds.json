@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T08:00:21.609541-07:00",
-  "generated_at_display": "May 20, 2026 08:00 AM PT",
+  "generated_at": "2026-05-20T09:00:28.934161-07:00",
+  "generated_at_display": "May 20, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+        },
+        {
           "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
           "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
           "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
@@ -195,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Far too much AI news, and also some smart glasses."
-        },
-        {
-          "title": "Google's Gemini Spark is an agentic AI assistant",
-          "link": "https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/",
-          "summary": "The AI agent is rolling out to testers this week.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The AI agent is rolling out to testers this week."
-        },
-        {
-          "title": "Google's redesigned Gemini comes with a new interface and AI models",
-          "link": "https://www.engadget.com/2176568/google-redesigned-gemini-comes-with-a-new-interface-and-ai-models/",
-          "summary": "Google's redesigned chatbot hits Android and iOS today.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google has announced severalupdates for the Gemini appat its I/O annual developer conference, including a design language called \"Neural Expressive\" that gives it a redesigned interface with \u00a0new typography, more fluid animations and haptic feedback. The company has also integratedGemini Liveinto the main Gemini experience."
         }
       ]
     },
@@ -219,15 +211,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Iran Threatens to Strike Beyond Middle East...",
-          "link": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html?unlocked_article_code=1.j1A.UsYA.3Cn6tmkWWmhI&smid=url-share",
+          "title": "REPORT:  42 USA aircraft shot down by Iran...",
+          "link": "https://www.ndtv.com/world-news/f-15s-f-35-mq-9-reaper-drones-us-report-says-42-aircraft-lost-in-iran-war-11522243",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "USAID CUTS FUELING OUTBREAK...",
-          "link": "https://archive.ph/7wFCn",
+          "title": "Bezos Praises Trump...'More Mature, More Disciplined Version'...",
+          "link": "https://www.mediaite.com/media/tv/jeff-bezos-fawns-over-trump-in-wild-cnbc-interview-a-more-mature-more-disciplined-version-than-his-first-term/",
           "summary": null,
           "published": null,
           "excerpt": null
