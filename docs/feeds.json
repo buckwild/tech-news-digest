@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T11:00:24.387666-07:00",
-  "generated_at_display": "May 20, 2026 11:00 AM PT",
+  "generated_at": "2026-05-20T12:00:26.958508-07:00",
+  "generated_at_display": "May 20, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,28 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Xreal's Project Aura smartglasses are a maximalist take on Android XR",
+          "link": "https://www.engadget.com/2177998/android-xr-xreal-project-aura-hands-on/",
+          "summary": "At Google I/O 2026, we took a closer look at Xreal's Project Aura, one of the first Android XR smart glasses.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Xreal has always occupied a somewhat different niche in the smartglasses market. Rather than normal-looking glasses with some smart features, the company offers a more immersive AR experience that's particularly well-suited for entertainment. That approach is very much the same with the company's Android XR-poweredProject Aura. But after spending some time with the glasses at Google I/O, it's clear that Xreal is trying to do much, much more than make another pair of cinema glasses."
+        },
+        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
-        },
-        {
-          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
-        },
-        {
-          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
-          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
-          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's unclear how useful any of it will be though."
         },
         {
           "title": "Samsung faces strike from nearly 48,000 union workers",
@@ -163,6 +155,22 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Last year at Google I/O, we got a promising, iffrustratingly limited, look at Android XR. At this year's event, the company confirmed that the first glasses from Warby Parker and Gentle Monster arefinally cominglater this year."
+        },
+        {
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+        },
+        {
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's unclear how useful any of it will be though."
         },
         {
           "title": "Discord now has end-to-end encryption on all calls",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Three new features will be available under the Gemini for Science collection."
-        },
-        {
-          "title": "Google announces Wear OS 7",
-          "link": "https://www.engadget.com/2177050/google-announces-wear-os-7/",
-          "summary": "The OS update integrates Gemini Intelligence and adds a new widget system.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The OS update integrates Gemini Intelligence and adds a new widget system."
         }
       ]
     },
@@ -212,7 +212,7 @@
       "entries": [
         {
           "title": "REPORT:  42 USA aircraft shot down by Iran...",
-          "link": "https://www.ndtv.com/world-news/f-15s-f-35-mq-9-reaper-drones-us-report-says-42-aircraft-lost-in-iran-war-11522243",
+          "link": "https://www.ndtv.com/world-news/11522243",
           "summary": null,
           "published": null,
           "excerpt": null
