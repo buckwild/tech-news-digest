@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T05:00:21.039012-07:00",
-  "generated_at_display": "May 20, 2026 05:00 AM PT",
+  "generated_at": "2026-05-20T06:00:22.084037-07:00",
+  "generated_at_display": "May 20, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's unclear how useful any of it will be though."
+        },
+        {
           "title": "Samsung faces strike from nearly 48,000 union workers",
           "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
           "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
@@ -219,22 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google has unveiled Gemini 3.5, starting with the Gemini 3.5 Flash model that promises to outperform Gemini 3.1 Pro in real-world agentic and coding tasks. \"3.5 Flash delivers frontier-level intelligence at exceptional speed \u2014 proving you no longer have to trade quality for latency.\""
-        },
-        {
-          "title": "I/O 2026 is bringing more AI to Google Play",
-          "link": "https://www.engadget.com/2175948/io-2026-is-bringing-more-ai-to-google-play/",
-          "summary": "Play Games Sidekick is also getting a wider rollout.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Play Games Sidekick is also getting a wider rollout."
-        },
-        {
-          "title": "The Google AI Ultra plan now starts at $100 a month",
-          "link": "https://www.engadget.com/2176060/the-google-ai-ultra-plan-now-starts-at-100-a-month/",
-          "summary": "Google's most expensive AI plan is now a little cheaper.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "But you'll need the $200 option if you want Project Genie access."
         }
       ]
     },
