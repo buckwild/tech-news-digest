@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T13:00:22.756836-07:00",
-  "generated_at_display": "May 20, 2026 01:00 PM PT",
+  "generated_at": "2026-05-20T14:00:21.653684-07:00",
+  "generated_at_display": "May 20, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -205,14 +205,6 @@
           "excerpt": "Xreal has always occupied a somewhat different niche in the smartglasses market. Rather than normal-looking glasses with some smart features, the company offers a more immersive AR experience that's particularly well-suited for entertainment. That approach is very much the same with the company's Android XR-poweredProject Aura. But after spending some time with the glasses at Google I/O, it's clear that Xreal is trying to do much, much more than make another pair of cinema glasses."
         },
         {
-          "title": "Samsung faces strike from nearly 48,000 union workers",
-          "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
-          "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "They had failed to reach an agreement regarding worker bonuses."
-        },
-        {
           "title": "All the news you might have missed from Google I/O 2026",
           "link": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark/",
           "summary": "Catch up on the biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
@@ -226,6 +218,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "BYE BYE BALLROOM?Senate Republicans Don't Have the Votes...",
+          "link": "https://www.notus.org/congress/senate-republicans-trump-ballroom-border-bill-reconciliation",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "REPORT:  42 USA aircraft shot down by Iran...",
           "link": "https://www.ndtv.com/world-news/11522243",
