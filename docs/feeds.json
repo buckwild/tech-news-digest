@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T00:00:23.176606-07:00",
-  "generated_at_display": "May 20, 2026 12:00 AM PT",
+  "generated_at": "2026-05-20T01:00:21.852414-07:00",
+  "generated_at_display": "May 20, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -243,14 +243,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It'll even look for chances to maximize your loyalty points."
-        },
-        {
-          "title": "Project Genie adds Google Street View integration and goes live for global AI Ultra users",
-          "link": "https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/",
-          "summary": "Ground your snow-globe worlds in real-life locations from Google Maps.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Ground your snow-globe worlds in real-life locations from Google Maps."
         }
       ]
     },
