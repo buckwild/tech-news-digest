@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T15:00:22.783341-07:00",
-  "generated_at_display": "May 20, 2026 03:00 PM PT",
+  "generated_at": "2026-05-20T16:00:20.408674-07:00",
+  "generated_at_display": "May 20, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,30 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Firefox AI guardrails arrive for mobile",
-          "link": "https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/",
-          "summary": "The feature lets you turn all AI enhancements off with one tap.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "On a day when Google announcedAI feature after AI feature at I/O, here's something a little different:\u00a0Today's Firefox 151releasebrings AI controls to both iOS and Android systems. People can use the binary toggle to turn off all generative AI features as a blanket setting. There are also options to pick and choose which AI features are enabled."
-        },
-        {
-          "title": "The Apple Sports app expands to 90 new markets ahead of the World Cup",
-          "link": "https://www.engadget.com/2177172/apple-sports-app-expands-to-90-new-markets-ahead-of-the-world-cup/",
-          "summary": "Apple is targeting World Cup fans ahead of this summer's tournament.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s targeting soccer fans ahead of this summer\u2019s tournament."
-        },
-        {
-          "title": "Google debuts AI-powered tools to optimize scientific research workflows",
-          "link": "https://www.engadget.com/2177120/google-debuts-ai-powered-tools-to-optimize-scientific-research-workflows/",
-          "summary": "Three new features will be available under the Gemini for Science collection.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Three new features will be available under the Gemini for Science collection."
-        },
-        {
           "title": "Google announces Wear OS 7",
           "link": "https://www.engadget.com/2177050/google-announces-wear-os-7/",
           "summary": "The OS update integrates Gemini Intelligence and adds a new widget system.",
@@ -181,22 +157,6 @@
           "excerpt": "Google didn't forget AI creators in its latest round of Gemini announcements as part ofGoogle I/O. The company just officially revealed Gemini Omni, a new model that can \"create anything from any input\u00a0\u2014 starting with video,\" according to Google. The first model called Gemini Omni Flash is rolling out today to the Gemini app, Google Flow and YouTube Shorts."
         },
         {
-          "title": "Google says Gemini 3.5 Flash rivals 'large flagship models' for coding and agentic tasks",
-          "link": "https://www.engadget.com/2176592/google-says-gemini-3-5-flash-rivals-large-flagship-models-for-coding-and-agentic-tasks/",
-          "summary": "Google says its Gemini 3.5 Flash model can complete tasks in a \"fraction of the time\" of other frontier models.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google has unveiled Gemini 3.5, starting with the Gemini 3.5 Flash model that promises to outperform Gemini 3.1 Pro in real-world agentic and coding tasks. \"3.5 Flash delivers frontier-level intelligence at exceptional speed \u2014 proving you no longer have to trade quality for latency.\""
-        },
-        {
-          "title": "Google is bringing new AI-powered ad formats to search",
-          "link": "https://www.engadget.com/2178075/google-is-bringing-new-ai-powered-ad-formats-to-search/",
-          "summary": "Finally, the Google I/O announcement you've been waiting for.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Finally, the Google I/O announcement you\u2019ve been waiting for."
-        },
-        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
@@ -213,20 +173,60 @@
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
+          "title": "Google says Gemini 3.5 Flash rivals 'large flagship models' for coding and agentic tasks",
+          "link": "https://www.engadget.com/2176592/google-says-gemini-3-5-flash-rivals-large-flagship-models-for-coding-and-agentic-tasks/",
+          "summary": "Google says its Gemini 3.5 Flash model can complete tasks in a \"fraction of the time\" of other frontier models.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google has unveiled Gemini 3.5, starting with the Gemini 3.5 Flash model that promises to outperform Gemini 3.1 Pro in real-world agentic and coding tasks. \"3.5 Flash delivers frontier-level intelligence at exceptional speed \u2014 proving you no longer have to trade quality for latency.\""
+        },
+        {
+          "title": "I/O 2026 is bringing more AI to Google Play",
+          "link": "https://www.engadget.com/2175948/io-2026-is-bringing-more-ai-to-google-play/",
+          "summary": "Play Games Sidekick is also getting a wider rollout.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Play Games Sidekick is also getting a wider rollout."
+        },
+        {
+          "title": "The Google AI Ultra plan now starts at $100 a month",
+          "link": "https://www.engadget.com/2176060/the-google-ai-ultra-plan-now-starts-at-100-a-month/",
+          "summary": "Google's most expensive AI plan is now a little cheaper.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "But you'll need the $200 option if you want Project Genie access."
+        },
+        {
+          "title": "Google's newest app is an AI-powered image editor",
+          "link": "https://www.engadget.com/2176578/googles-newest-app-is-an-ai-powered-image-editor/",
+          "summary": "Google Pics isn't Photoshop, but it could be better than what's in Google Photos.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s not Photoshop, but it could be better than what's in Google Photos."
+        },
+        {
+          "title": "Google's Universal Cart will keep an eye on your shopping",
+          "link": "https://www.engadget.com/2176633/google-universal-cart-will-keep-an-eye-on-your-shopping/",
+          "summary": "Universal Cart will make it easier to buy from inside YouTube and Gmail.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It'll even look for chances to maximize your loyalty points."
+        },
+        {
+          "title": "Google is bringing new AI-powered ad formats to search",
+          "link": "https://www.engadget.com/2178075/google-is-bringing-new-ai-powered-ad-formats-to-search/",
+          "summary": "Finally, the Google I/O announcement you've been waiting for.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Finally, the Google I/O announcement you\u2019ve been waiting for."
+        },
+        {
           "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
           "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
           "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's unclear how useful any of it will be though."
-        },
-        {
-          "title": "OpenAI may go public as soon as September",
-          "link": "https://www.engadget.com/2178018/openai-may-go-public-as-soon-as-september/",
-          "summary": "OpenAI's potential IPO would come after a jury sided with CEO Sam Altman in a legal battle with Elon Musk.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI is reportedly preparing to file for an initial public offering (IPO,)according toThe New York Times. If a filing does happen in the near future, the IPO could take place as soon as September."
         }
       ]
     },
