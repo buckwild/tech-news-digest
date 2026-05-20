@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T10:00:20.277750-07:00",
-  "generated_at_display": "May 20, 2026 10:00 AM PT",
+  "generated_at": "2026-05-20T11:00:24.387666-07:00",
+  "generated_at_display": "May 20, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,20 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Samsung faces strike from nearly 48,000 union workers",
-          "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
-          "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
+          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
+          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
+          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "They had failed to reach an agreement regarding worker bonuses."
-        },
-        {
-          "title": "Android XR is finally starting to feel real",
-          "link": "https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/",
-          "summary": "Google has a lot to prove, but its smart glasses will have a few big advantages.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Last year at Google I/O, we got a promising, iffrustratingly limited, look at Android XR. At this year's event, the company confirmed that the first glasses from Warby Parker and Gentle Monster arefinally cominglater this year."
+          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         },
         {
           "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
@@ -155,6 +147,22 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's unclear how useful any of it will be though."
+        },
+        {
+          "title": "Samsung faces strike from nearly 48,000 union workers",
+          "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
+          "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "They had failed to reach an agreement regarding worker bonuses."
+        },
+        {
+          "title": "Android XR is finally starting to feel real",
+          "link": "https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/",
+          "summary": "Google has a lot to prove, but its smart glasses will have a few big advantages.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Last year at Google I/O, we got a promising, iffrustratingly limited, look at Android XR. At this year's event, the company confirmed that the first glasses from Warby Parker and Gentle Monster arefinally cominglater this year."
         },
         {
           "title": "Discord now has end-to-end encryption on all calls",
