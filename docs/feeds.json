@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T09:00:28.934161-07:00",
-  "generated_at_display": "May 20, 2026 09:00 AM PT",
+  "generated_at": "2026-05-20T10:00:20.277750-07:00",
+  "generated_at_display": "May 20, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,22 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
-        },
-        {
-          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
-          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
-          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's unclear how useful any of it will be though."
-        },
-        {
           "title": "Samsung faces strike from nearly 48,000 union workers",
           "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
           "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
@@ -155,6 +139,22 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Last year at Google I/O, we got a promising, iffrustratingly limited, look at Android XR. At this year's event, the company confirmed that the first glasses from Warby Parker and Gentle Monster arefinally cominglater this year."
+        },
+        {
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+        },
+        {
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's unclear how useful any of it will be though."
         },
         {
           "title": "Discord now has end-to-end encryption on all calls",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The OS update integrates Gemini Intelligence and adds a new widget system."
-        },
-        {
-          "title": "All the news you might have missed from Google I/O 2026",
-          "link": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark/",
-          "summary": "Catch up on the biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Far too much AI news, and also some smart glasses."
         }
       ]
     },
