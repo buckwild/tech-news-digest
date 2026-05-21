@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T13:00:19.602158-07:00",
-  "generated_at_display": "May 21, 2026 01:00 PM PT",
+  "generated_at": "2026-05-21T14:00:23.946896-07:00",
+  "generated_at_display": "May 21, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Microsoft's Xbox controller refresh kills its underused accessory port",
+          "link": "https://www.engadget.com/2179020/microsofts-xbox-controller-refresh-kills-its-underused-accessory-port/",
+          "summary": "Hold your Chatpads close.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Xbox controllers will no longer come with a proprietary expansion port \u2014 known as the Chatpad port to many players\u00a0\u2014 if all three of the recent signs are to be believed."
+        },
+        {
           "title": "Sony raises PS Plus prices for one- and three-month subscriptions",
           "link": "https://www.engadget.com/2175751/sony-raises-ps-plus-prices-for-one-and-three-month-subscriptions/",
           "summary": "Sony is blaming PS Plus price increases on \"ongoing market conditions.\"",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple's new Siri app will reportedly offer auto-deleting chat options"
-        },
-        {
-          "title": "Spotify is adding more AI gunk for podcasts and audiobooks",
-          "link": "https://www.engadget.com/2178788/spotify-is-adding-more-ai-gunk-for-podcasts-and-audiobooks/",
-          "summary": "Spotify podcasts are getting the personalized AI slop treatment.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Premium users in the US will soon be able to generate personal podcasts that explain certain topics and provide daily briefings."
         }
       ]
     },
