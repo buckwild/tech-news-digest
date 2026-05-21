@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T10:00:22.171371-07:00",
-  "generated_at_display": "May 21, 2026 10:00 AM PT",
+  "generated_at": "2026-05-21T11:00:18.955001-07:00",
+  "generated_at_display": "May 21, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,52 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Spotify and Universal are building an AI tool for covers and remixes",
-          "link": "https://www.engadget.com/2178670/spotify-and-universal-are-building-an-ai-tool-for-covers-and-remixes/",
-          "summary": "Spotify is working on a paid AI tool for covers and remixes.",
+          "title": "Spotify is adding more AI gunk for podcasts and audiobooks",
+          "link": "https://www.engadget.com/2178788/spotify-is-adding-more-ai-gunk-for-podcasts-and-audiobooks/",
+          "summary": "Spotify podcasts are getting the personalized AI slop treatment.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "This will be a paid add-on for Premium subscribers."
-        },
-        {
-          "title": "Spotify is launching verification badges for podcasts to help listeners avoid AI slop",
-          "link": "https://www.engadget.com/2176567/spotify-is-launching-verification-badges-for-podcasts-to-help-listeners-avoid-ai-slop/",
-          "summary": "The platform recently did something similar for music.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The platform recently did something similar for music."
-        },
-        {
-          "title": "Insta360's Mic Pro has three built-in mics and looks like a chunky pin badge",
-          "link": "https://www.engadget.com/2175567/insta360-mic-pro-has-three-built-in-mics-and-looks-like-a-chunky-pin-badge/",
-          "summary": "Insta360's latest mic hides in plain sight.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Insta360 teased several new devices at NAB 2026 last month, including a possibleDJI Osmorival with dual camerascalled the Luna. While the camera isn't ready just yet, an upgraded version of its wireless mic is. While it packs in a lot of technology, the eye-catching part is the e-ink display, which covers almost the entire circular face of the Mic Pro."
-        },
-        {
-          "title": "Microsoft's new Surface Laptop for Business has a privacy screen and quirky haptics",
-          "link": "https://www.engadget.com/2176309/microsoft-surface-pro-business-laptops-2026/",
-          "summary": "The new laptops are geared towards corporate buyers, with a price to match.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new Surface Pro and Surface Laptop for Business are powered by Intel's Core Ultra Series 3 processors."
-        },
-        {
-          "title": "Google I/O 2026: Live updates on XR glasses, Gemini, Search and more",
-          "link": "https://www.engadget.com/2176173/google-io-live-blog-gemini-ai/",
-          "summary": "Join our liveblog as we bring you Google's news live from the developer conference, where Android XR and intelligent eyewear products were just unveiled.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We've heard a lot so far about Gemini and Search, but we just learned about Android XR and intelligent eyewear."
-        },
-        {
-          "title": "Apple's new accessibility feature lets Vision Pro users control a wheelchair with their eyes",
-          "link": "https://www.engadget.com/2176236/apple-accessibility-features-vision-pro-wheelchair-control/",
-          "summary": "Apple is previewing new accessibility features including Apple Intelligence-powered updates like natural language voice input.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple is previewingnew accessibility featuresincluding Apple Intelligence-powered updates like natural language voice input, along with a new Vision Pro app that allows eye control for motorized wheelchairs. The updates, revealed just ahead of\u00a0Global Accessibility Awareness Day (GAAD) on May 21, arrive later this year. \"With Apple Intelligence, we are bringing powerful new capabilities into our accessibility features while maintaining our foundational commitment to privacy by design,\" said Apple CEO Tim Cook."
+          "excerpt": "Premium users in the US will soon be able to generate personal podcasts that explain certain topics and provide daily briefings."
         },
         {
           "title": "Google won't rest until Gemini is everywhere in your home",
@@ -197,36 +157,36 @@
           "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         },
         {
-          "title": "Apple will broadcast a Major League Soccer game captured entirely with iPhones",
-          "link": "https://www.engadget.com/2178621/apple-will-broadcast-a-major-league-soccer-game-captured-entirely-with-iphones/",
-          "summary": "Apple says the May 23 Los Angeles Galaxy vs. Houston Dynamo match is the first major live pro sports event to be shot only on iPhones.",
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It's the first major live pro sports event to be shot only on iPhones."
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
-          "title": "Meta is reportedly 'reassigning' 7,000 employees to AI-focused roles",
-          "link": "https://www.engadget.com/2176172/meta-reassigns-workers-ai-roles/",
-          "summary": "The company is transferring workers to four new organizations building AI tools and apps, according to NYT and Reuters.",
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The company is also expected to lay off 8,000 workers this week."
+          "excerpt": "It's unclear how useful any of it will be though."
         },
         {
-          "title": "PSA: The first F1 race on Netflix is this weekend",
-          "link": "https://www.engadget.com/2176061/psa-the-first-f1-race-on-netflix-is-this-weekend/",
-          "summary": "Catch the F1 Canadian Grand Prix live on a service that isn't Apple.",
+          "title": "Samsung faces strike from nearly 48,000 union workers",
+          "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
+          "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Catch the Canadian Grand Prix live on a service that isn't Apple."
+          "excerpt": "They had failed to reach an agreement regarding worker bonuses."
         },
         {
-          "title": "Disney faces a class action lawsuit over facial recognition tech",
-          "link": "https://www.engadget.com/2176016/disney-faces-a-class-action-lawsuit-over-facial-recognition-tech/",
-          "summary": "The complaint says park visitors don't get sufficient notice they're being scanned.",
+          "title": "Spotify and Universal are building an AI tool for covers and remixes",
+          "link": "https://www.engadget.com/2178670/spotify-and-universal-are-building-an-ai-tool-for-covers-and-remixes/",
+          "summary": "Spotify is working on a paid AI tool for covers and remixes.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The complaint says park visitors don\u2019t get sufficient notice they\u2019re being scanned."
+          "excerpt": "This will be a paid add-on for Premium subscribers."
         },
         {
           "title": "Sony raises PS Plus prices for one- and three-month subscriptions",
@@ -243,6 +203,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "After three weeks of testimony and not much deliberation, a jury has ruled against Elon Musk, finding that Sam Altman and Greg Brockman were not liable in the case. The jury found that the statute of limitations had already passed when Musk sued the two executives."
+        },
+        {
+          "title": "How to watch the Google I/O 2026 keynote",
+          "link": "https://www.engadget.com/2175638/how-to-watch-google-io-2026-keynote/",
+          "summary": "Google's keynote on Tuesday will include a boatload of AI news and perhaps some Android XR updates.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The keynote will include a boatload of AI news and perhaps some Android XR updates."
         }
       ]
     },
