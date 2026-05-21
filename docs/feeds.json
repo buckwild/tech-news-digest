@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T14:00:23.946896-07:00",
-  "generated_at_display": "May 21, 2026 02:00 PM PT",
+  "generated_at": "2026-05-21T15:00:19.589452-07:00",
+  "generated_at_display": "May 21, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,36 +125,52 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Starbucks abandons its AI inventory tool after only nine months",
+          "link": "https://www.engadget.com/2179029/starbucks-abandons-its-ai-inventory-tool-after-only-nine-months/",
+          "summary": "Looks like manual inventory management is back on the menu.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Sometimes, AI helps youfine-tune weather forecastsorimprove the lives of people with disabilities. Other times, well, it loses a fight with a bottle of peppermint syrup. That's the situation Starbucks CEO Brian Niccol finds himself in after the coffee chain reportedlytold staffthat it's scrapping an AI inventory program after only nine months."
+        },
+        {
+          "title": "Google won't rest until Gemini is everywhere in your home",
+          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
+          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google won't rest until Gemini is everywhere in your home"
+        },
+        {
+          "title": "Are you really going to talk to Gemini like that?",
+          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
+          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
+        },
+        {
+          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
+          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
+          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
+        },
+        {
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+        },
+        {
           "title": "Microsoft's Xbox controller refresh kills its underused accessory port",
           "link": "https://www.engadget.com/2179020/microsofts-xbox-controller-refresh-kills-its-underused-accessory-port/",
           "summary": "Hold your Chatpads close.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Xbox controllers will no longer come with a proprietary expansion port \u2014 known as the Chatpad port to many players\u00a0\u2014 if all three of the recent signs are to be believed."
-        },
-        {
-          "title": "Sony raises PS Plus prices for one- and three-month subscriptions",
-          "link": "https://www.engadget.com/2175751/sony-raises-ps-plus-prices-for-one-and-three-month-subscriptions/",
-          "summary": "Sony is blaming PS Plus price increases on \"ongoing market conditions.\"",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company is blaming this increase on \"ongoing market conditions.\""
-        },
-        {
-          "title": "The jury in the OpenAI case has ruled against Elon Musk",
-          "link": "https://www.engadget.com/2175740/the-jury-in-the-openai-case-has-ruled-against-elon-musk/",
-          "summary": "The three week trial ended with less than two hours of deliberation.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "After three weeks of testimony and not much deliberation, a jury has ruled against Elon Musk, finding that Sam Altman and Greg Brockman were not liable in the case. The jury found that the statute of limitations had already passed when Musk sued the two executives."
-        },
-        {
-          "title": "How to watch the Google I/O 2026 keynote",
-          "link": "https://www.engadget.com/2175638/how-to-watch-google-io-2026-keynote/",
-          "summary": "Google's keynote on Tuesday will include a boatload of AI news and perhaps some Android XR updates.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The keynote will include a boatload of AI news and perhaps some Android XR updates."
         },
         {
           "title": "Sony hit with a class action lawsuit for allegedly profiting from tariff-related price hikes",
@@ -197,6 +213,14 @@
           "excerpt": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here"
         },
         {
+          "title": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs",
+          "link": "https://www.engadget.com/2174992/amazon-facing-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/",
+          "summary": "The lawsuit claims that Amazon owes 'hundreds of millions' in refunds to its users.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs"
+        },
+        {
           "title": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items",
           "link": "https://www.engadget.com/2174984/terraria-developer-confirms-cross-play-is-coming-and-teases-15th-anniversary-collector-items/",
           "summary": "The game has sold 70 million copies over its 15-year run, Re-Logic said.",
@@ -227,7 +251,7 @@
         },
         {
           "title": "SUPREME LEADER: URANIUM STAYS IN IRAN",
-          "link": "https://www.msn.com/en-us/money/general/exclusive-supreme-leader-says-enriched-uranium-must-stay-in-iran-iranian-sources-say/ar-AA23ITZq",
+          "link": "https://www.msn.com/en-us/money/general/ar-AA23ITZq",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -256,13 +280,6 @@
         {
           "title": "MAGA already lining up to claim cash from 'slush fund'...",
           "link": "https://www.washingtonpost.com/politics/2026/05/21/trumps-allies-are-already-lining-up-apply-his-18-billion-fund/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Profanity hallmark of second term...",
-          "link": "https://www.washingtonpost.com/politics/2026/05/21/profanity-is-hallmark-trumps-more-combative-second-term/",
           "summary": null,
           "published": null,
           "excerpt": null
