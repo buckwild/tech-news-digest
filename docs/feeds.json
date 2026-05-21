@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T04:00:28.469047-07:00",
-  "generated_at_display": "May 21, 2026 04:00 AM PT",
+  "generated_at": "2026-05-21T05:00:19.956061-07:00",
+  "generated_at_display": "May 21, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,68 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Anthropic is reportedly about to have its first profitable quarter",
-          "link": "https://www.engadget.com/2178340/anthropic-first-profitable-quarter/",
-          "summary": "Anthropic is expected to reach profitability for the first time since it was founded in 2021.",
+          "title": "Meta has reportedly laid off 8,000 employees",
+          "link": "https://www.engadget.com/2178378/meta-reportedly-lays-off-8000-employees/",
+          "summary": "Meta lays off around 10 percent of its total staff as it pivots toward AI.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It\u2019s on track to post $10.9 billion in revenue, according to The Wall Street Journal."
-        },
-        {
-          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
-          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
-          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
-        },
-        {
-          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
-        },
-        {
-          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
-          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
-          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's unclear how useful any of it will be though."
-        },
-        {
-          "title": "AMD prices its Ryzen AI Halo PC at $3,999, unveils Ryzen AI Max 400 chips",
-          "link": "https://www.engadget.com/2177687/amd-prices-its-ryzen-ai-halo-pc-at-dollar3999-unveils-ryzen-ai-max-400-chips/",
-          "summary": "AMD is taking a direct shot at NVIDIA's DGX Spark with its $3,999 Ryzen AI Halo PC.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "They're direct shots at NVIDIA's AI systems"
-        },
-        {
-          "title": "I/O 2026 is bringing more AI to Google Play",
-          "link": "https://www.engadget.com/2175948/io-2026-is-bringing-more-ai-to-google-play/",
-          "summary": "Play Games Sidekick is also getting a wider rollout.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Play Games Sidekick is also getting a wider rollout."
-        },
-        {
-          "title": "The Google AI Ultra plan now starts at $100 a month",
-          "link": "https://www.engadget.com/2176060/the-google-ai-ultra-plan-now-starts-at-100-a-month/",
-          "summary": "Google's most expensive AI plan is now a little cheaper.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "But you'll need the $200 option if you want Project Genie access."
-        },
-        {
-          "title": "Google's newest app is an AI-powered image editor",
-          "link": "https://www.engadget.com/2176578/googles-newest-app-is-an-ai-powered-image-editor/",
-          "summary": "Google Pics isn't Photoshop, but it could be better than what's in Google Photos.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s not Photoshop, but it could be better than what's in Google Photos."
+          "excerpt": "CEO Mark Zuckerberg issued an all-hands memo to employees confirming that Meta is laying off around 8,000 employees and transferring another 7,000, according to reports fromSky NewsandBusiness Insider. \"As previously shared, we have decided to reduce headcount... to allow us to offset the other investments we're making,\" the memo reportedly states.\u00a0Meta said it didn't anticipate further \"company-wide\" layoffs this year."
         },
         {
           "title": "Google's Universal Cart will keep an eye on your shopping",
@@ -203,14 +147,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Ground your snow-globe worlds in real-life locations from Google Maps."
-        },
-        {
-          "title": "Kansas City has bought more than 4,500 MacBook Neos for its students",
-          "link": "https://www.engadget.com/2178254/kansas-city-has-bought-more-than-4-500-macbook-neos-for-its-students/",
-          "summary": "The newly \"all-Apple district\" will replace 30,000 Windows and Chromebook devices across its public schools.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The newly \u201call-Apple district\u201d will replace 30,000 Windows and Chromebook devices across its public schools."
         },
         {
           "title": "Google's Circle to Search feature can tell you if an image was AI-generated",
@@ -237,12 +173,52 @@
           "excerpt": "The two models were created in partnership with Warby Parker and Gentle Monster."
         },
         {
-          "title": "Google brings more conversational features to Gmail, Docs and Keep",
-          "link": "https://www.engadget.com/2176612/google-brings-more-conversational-features-to-gmail-docs-and-keep/",
-          "summary": "You can talk out a first draft of a document, and Docs will organize your thoughts for you.",
+          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
+          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
+          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It can pluck answers to questions out of the data in your apps."
+          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
+        },
+        {
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+        },
+        {
+          "title": "Anthropic is reportedly about to have its first profitable quarter",
+          "link": "https://www.engadget.com/2178340/anthropic-first-profitable-quarter/",
+          "summary": "Anthropic is expected to reach profitability for the first time since it was founded in 2021.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s on track to post $10.9 billion in revenue, according to The Wall Street Journal."
+        },
+        {
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's unclear how useful any of it will be though."
+        },
+        {
+          "title": "Samsung faces strike from nearly 48,000 union workers",
+          "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
+          "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "They had failed to reach an agreement regarding worker bonuses."
+        },
+        {
+          "title": "AMD prices its Ryzen AI Halo PC at $3,999, unveils Ryzen AI Max 400 chips",
+          "link": "https://www.engadget.com/2177687/amd-prices-its-ryzen-ai-halo-pc-at-dollar3999-unveils-ryzen-ai-max-400-chips/",
+          "summary": "AMD is taking a direct shot at NVIDIA's DGX Spark with its $3,999 Ryzen AI Halo PC.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "They're direct shots at NVIDIA's AI systems"
         }
       ]
     },
@@ -250,6 +226,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "SUPREME LEADER: URANIUM STAYS IN IRAN",
+          "link": "https://www.msn.com/en-us/money/general/exclusive-supreme-leader-says-enriched-uranium-must-stay-in-iran-iranian-sources-say/ar-AA23ITZq",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "REPORT:  42 US aircraft shot down by Iran...",
           "link": "https://www.ndtv.com/world-news/11522243",
@@ -260,6 +243,13 @@
         {
           "title": "Bezos Praises Trump...'More Mature, More Disciplined Version'...",
           "link": "https://www.mediaite.com/media/tv/jeff-bezos-fawns-over-trump-in-wild-cnbc-interview-a-more-mature-more-disciplined-version-than-his-first-term/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Profanity is hallmark of second term...",
+          "link": "https://www.washingtonpost.com/politics/2026/05/21/profanity-is-hallmark-trumps-more-combative-second-term/",
           "summary": null,
           "published": null,
           "excerpt": null
