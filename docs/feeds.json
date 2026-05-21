@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T08:00:18.198488-07:00",
-  "generated_at_display": "May 21, 2026 08:00 AM PT",
+  "generated_at": "2026-05-21T09:00:20.985209-07:00",
+  "generated_at_display": "May 21, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Netflix's Avatar: The Last Airbender season 2 trailer shows plenty of live-action Toph",
+          "link": "https://www.engadget.com/2178558/netflix-avatar-the-last-airbender-season-2-trailer-shows-plenty-of-live-action-toph/",
+          "summary": "Season two arrives on June 25.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The episodes drop on June 25."
+        },
+        {
           "title": "Are you really going to talk to Gemini like that?",
           "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
           "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
@@ -149,6 +157,30 @@
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
+          "title": "Meta's Oversight Board will examine deepfake video of a UK politician Facebook left online",
+          "link": "https://www.engadget.com/2178551/meta-oversight-board-will-examine-deefake-video-of-a-uk-politician-facebook-left-online/",
+          "summary": "The allegedly AI-generated video depicted the politician making incendiary statements about refugees.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Meta's Oversight Board isinvestigatingan apparently AI-generated video of a British politician that misrepresents their views on issues such as immigration. The board said the video in question was part of an album posted on Facebook in November last year, and features a seemingly deepfaked Labour Party councillor who represents an area in Scotland making sarcastic and offensive comments about refugees and sexual assault."
+        },
+        {
+          "title": "Google brings more conversational features to Gmail, Docs and Keep",
+          "link": "https://www.engadget.com/2176612/google-brings-more-conversational-features-to-gmail-docs-and-keep/",
+          "summary": "You can talk out a first draft of a document, and Docs will organize your thoughts for you.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It can pluck answers to questions out of the data in your apps."
+        },
+        {
+          "title": "Ask YouTube compiles video answers to your questions",
+          "link": "https://www.engadget.com/2176557/ask-youtube-compiles-vide-answers-to-your-questions/",
+          "summary": "Google's new Ask YouTube feature will pull together short- and long-form content.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019ll pull together short- and long-form content."
+        },
+        {
           "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
           "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
           "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
@@ -171,38 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It\u2019s now one of the 10 countries where (supervised) FSD is now available."
-        },
-        {
-          "title": "Spotify is launching verification badges for podcasts to help listeners avoid AI slop",
-          "link": "https://www.engadget.com/2176567/spotify-is-launching-verification-badges-for-podcasts-to-help-listeners-avoid-ai-slop/",
-          "summary": "The platform recently did something similar for music.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The platform recently did something similar for music."
-        },
-        {
-          "title": "Insta360's Mic Pro has three built-in mics and looks like a chunky pin badge",
-          "link": "https://www.engadget.com/2175567/insta360-mic-pro-has-three-built-in-mics-and-looks-like-a-chunky-pin-badge/",
-          "summary": "Insta360's latest mic hides in plain sight.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Insta360 teased several new devices at NAB 2026 last month, including a possibleDJI Osmorival with dual camerascalled the Luna. While the camera isn't ready just yet, an upgraded version of its wireless mic is. While it packs in a lot of technology, the eye-catching part is the e-ink display, which covers almost the entire circular face of the Mic Pro."
-        },
-        {
-          "title": "Meta has reportedly laid off 8,000 employees",
-          "link": "https://www.engadget.com/2178378/meta-reportedly-lays-off-8000-employees/",
-          "summary": "Meta lays off around 10 percent of its total staff as it pivots toward AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "CEO Mark Zuckerberg issued an all-hands memo to employees confirming that Meta is laying off around 8,000 employees and transferring another 7,000, according to reports fromSky NewsandBusiness Insider. \"As previously shared, we have decided to reduce headcount... to allow us to offset the other investments we're making,\" the memo reportedly states.\u00a0Meta said it didn't anticipate further \"company-wide\" layoffs this year."
-        },
-        {
-          "title": "Microsoft's new Surface Laptop for Business has a privacy screen and quirky haptics",
-          "link": "https://www.engadget.com/2176309/microsoft-surface-pro-business-laptops-2026/",
-          "summary": "The new laptops are geared towards corporate buyers, with a price to match.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new Surface Pro and Surface Laptop for Business are powered by Intel's Core Ultra Series 3 processors."
         }
       ]
     },
@@ -232,7 +232,14 @@
           "excerpt": null
         },
         {
-          "title": "Profanity is hallmark of second term...",
+          "title": "MAGA already lining up to claim cash from 'slush fund'...",
+          "link": "https://www.washingtonpost.com/politics/2026/05/21/trumps-allies-are-already-lining-up-apply-his-18-billion-fund/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Profanity hallmark of second term...",
           "link": "https://www.washingtonpost.com/politics/2026/05/21/profanity-is-hallmark-trumps-more-combative-second-term/",
           "summary": null,
           "published": null,
