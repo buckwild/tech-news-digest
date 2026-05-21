@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T01:00:22.632052-07:00",
-  "generated_at_display": "May 21, 2026 01:00 AM PT",
+  "generated_at": "2026-05-21T02:00:28.367032-07:00",
+  "generated_at_display": "May 21, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Anthropic is reportedly about to have its first profitable quarter",
+          "link": "https://www.engadget.com/2178340/anthropic-first-profitable-quarter/",
+          "summary": "Anthropic is expected to reach profitability for the first time since it was founded in 2021.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s on track to post $10.9 billion in revenue, according to The Wall Street Journal."
+        },
+        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
@@ -141,20 +149,20 @@
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's unclear how useful any of it will be though."
+        },
+        {
           "title": "AMD prices its Ryzen AI Halo PC at $3,999, unveils Ryzen AI Max 400 chips",
           "link": "https://www.engadget.com/2177687/amd-prices-its-ryzen-ai-halo-pc-at-dollar3999-unveils-ryzen-ai-max-400-chips/",
           "summary": "AMD is taking a direct shot at NVIDIA's DGX Spark with its $3,999 Ryzen AI Halo PC.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "They're direct shots at NVIDIA's AI systems"
-        },
-        {
-          "title": "Google says Gemini 3.5 Flash rivals 'large flagship models' for coding and agentic tasks",
-          "link": "https://www.engadget.com/2176592/google-says-gemini-3-5-flash-rivals-large-flagship-models-for-coding-and-agentic-tasks/",
-          "summary": "Google says its Gemini 3.5 Flash model can complete tasks in a \"fraction of the time\" of other frontier models.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google has unveiled Gemini 3.5, starting with the Gemini 3.5 Flash model that promises to outperform Gemini 3.1 Pro in real-world agentic and coding tasks. \"3.5 Flash delivers frontier-level intelligence at exceptional speed \u2014 proving you no longer have to trade quality for latency.\""
         },
         {
           "title": "I/O 2026 is bringing more AI to Google Play",
@@ -189,20 +197,20 @@
           "excerpt": "It'll even look for chances to maximize your loyalty points."
         },
         {
-          "title": "Kansas City has bought more than 4,500 MacBook Neos for its students",
-          "link": "https://www.engadget.com/2178254/kansas-city-has-bought-more-than-4-500-macbook-neos-for-its-students/",
-          "summary": "The newly \"all-Apple district\" will replace 30,000 Windows and Chromebook devices across its public schools.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The newly \u201call-Apple district\u201d will replace 30,000 Windows and Chromebook devices across its public schools."
-        },
-        {
           "title": "Project Genie adds Google Street View integration and goes live for global AI Ultra users",
           "link": "https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/",
           "summary": "Ground your snow-globe worlds in real-life locations from Google Maps.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Ground your snow-globe worlds in real-life locations from Google Maps."
+        },
+        {
+          "title": "Kansas City has bought more than 4,500 MacBook Neos for its students",
+          "link": "https://www.engadget.com/2178254/kansas-city-has-bought-more-than-4-500-macbook-neos-for-its-students/",
+          "summary": "The newly \"all-Apple district\" will replace 30,000 Windows and Chromebook devices across its public schools.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The newly \u201call-Apple district\u201d will replace 30,000 Windows and Chromebook devices across its public schools."
         },
         {
           "title": "Google's Circle to Search feature can tell you if an image was AI-generated",
@@ -229,20 +237,12 @@
           "excerpt": "The two models were created in partnership with Warby Parker and Gentle Monster."
         },
         {
-          "title": "Microsoft hired an analyst with an influential video game blog to fix Xbox",
-          "link": "https://www.engadget.com/2178253/microsoft-hired-an-analyst-with-an-influential-video-game-blog-to-fix-xbox/",
-          "summary": "Matthew Ball is the new chief strategy officer for Xbox ahead of Project Helix.",
+          "title": "Google brings more conversational features to Gmail, Docs and Keep",
+          "link": "https://www.engadget.com/2176612/google-brings-more-conversational-features-to-gmail-docs-and-keep/",
+          "summary": "You can talk out a first draft of a document, and Docs will organize your thoughts for you.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Xbox has hired your favorite video game developer's favorite industry analyst, Matthew Ball, as its new Chief Strategy Officer. As reported byThe Game Businessandconfirmed via his LinkedIn, Ball is joining Xbox with the stated goal of strengthening its console segment, which is in dire straits due to global memory shortages, recent corporate upheaval at Microsoft, and unrelenting competition from Sony, Nintendo and, soon,Valve."
-        },
-        {
-          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
-          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
-          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's unclear how useful any of it will be though."
+          "excerpt": "It can pluck answers to questions out of the data in your apps."
         }
       ]
     },
