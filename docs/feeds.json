@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T12:00:20.170918-07:00",
-  "generated_at_display": "May 21, 2026 12:00 PM PT",
+  "generated_at": "2026-05-21T13:00:19.602158-07:00",
+  "generated_at_display": "May 21, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -189,44 +189,28 @@
           "excerpt": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here"
         },
         {
+          "title": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items",
+          "link": "https://www.engadget.com/2174984/terraria-developer-confirms-cross-play-is-coming-and-teases-15th-anniversary-collector-items/",
+          "summary": "The game has sold 70 million copies over its 15-year run, Re-Logic said.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items"
+        },
+        {
+          "title": "Apple's new Siri app will reportedly offer auto-deleting chat options",
+          "link": "https://www.engadget.com/2174928/apple-new-siri-app-will-reportedly-offer-auto-deleting-chat-options/",
+          "summary": "Users can choose between keeping conversations for 30 days, one year or forever, according to Bloomberg.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple's new Siri app will reportedly offer auto-deleting chat options"
+        },
+        {
           "title": "Spotify is adding more AI gunk for podcasts and audiobooks",
           "link": "https://www.engadget.com/2178788/spotify-is-adding-more-ai-gunk-for-podcasts-and-audiobooks/",
           "summary": "Spotify podcasts are getting the personalized AI slop treatment.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Premium users in the US will soon be able to generate personal podcasts that explain certain topics and provide daily briefings."
-        },
-        {
-          "title": "Google won't rest until Gemini is everywhere in your home",
-          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
-          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google won't rest until Gemini is everywhere in your home"
-        },
-        {
-          "title": "Are you really going to talk to Gemini like that?",
-          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
-          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
-        },
-        {
-          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
-          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
-          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
-        },
-        {
-          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         }
       ]
     },
@@ -251,6 +235,13 @@
         {
           "title": "PERMANENT TOLL IN HORMUZ?",
           "link": "https://investinglive.com/news/iran-and-oman-are-discussing-a-permanent-strait-of-hormuz-toll-20260521/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Russia arms missiles with uranium in new Ukraine attacks...",
+          "link": "https://www.telegraph.co.uk/world-news/2026/05/21/russia-arms-missiles-with-uranium-in-new-ukraine-attacks/",
           "summary": null,
           "published": null,
           "excerpt": null
