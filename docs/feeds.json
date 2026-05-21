@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T06:00:23.293773-07:00",
-  "generated_at_display": "May 21, 2026 06:00 AM PT",
+  "generated_at": "2026-05-21T07:00:24.185887-07:00",
+  "generated_at_display": "May 21, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Are you really going to talk to Gemini like that?",
+          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
+          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
+        },
+        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
@@ -141,44 +149,28 @@
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's unclear how useful any of it will be though."
+        },
+        {
+          "title": "Samsung faces strike from nearly 48,000 union workers",
+          "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
+          "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "They had failed to reach an agreement regarding worker bonuses."
+        },
+        {
           "title": "Tesla brings Full Self-Driving to China",
           "link": "https://www.engadget.com/2178393/tesla-self-driving-china/",
           "summary": "Tesla says China is now one of the countries where Full Self-Driving is available after years of regulatory delays.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "It\u2019s now one of the 10 countries where (supervised) FSD is now available."
-        },
-        {
-          "title": "Samsung and Google just teased their upcoming Android XR smartglasses at Google I/O",
-          "link": "https://www.engadget.com/2176805/samsung-and-google-just-teased-their-upcoming-android-xr-smartglasses-at-google-io/",
-          "summary": "The two models were created in partnership with Warby Parker and Gentle Monster.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The two models were created in partnership with Warby Parker and Gentle Monster."
-        },
-        {
-          "title": "Google brings more conversational features to Gmail, Docs and Keep",
-          "link": "https://www.engadget.com/2176612/google-brings-more-conversational-features-to-gmail-docs-and-keep/",
-          "summary": "You can talk out a first draft of a document, and Docs will organize your thoughts for you.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It can pluck answers to questions out of the data in your apps."
-        },
-        {
-          "title": "Ask YouTube compiles video answers to your questions",
-          "link": "https://www.engadget.com/2176557/ask-youtube-compiles-vide-answers-to-your-questions/",
-          "summary": "Google's new Ask YouTube feature will pull together short- and long-form content.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019ll pull together short- and long-form content."
-        },
-        {
-          "title": "Meta has reportedly laid off 8,000 employees",
-          "link": "https://www.engadget.com/2178378/meta-reportedly-lays-off-8000-employees/",
-          "summary": "Meta lays off around 10 percent of its total staff as it pivots toward AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "CEO Mark Zuckerberg issued an all-hands memo to employees confirming that Meta is laying off around 8,000 employees and transferring another 7,000, according to reports fromSky NewsandBusiness Insider. \"As previously shared, we have decided to reduce headcount... to allow us to offset the other investments we're making,\" the memo reportedly states.\u00a0Meta said it didn't anticipate further \"company-wide\" layoffs this year."
         },
         {
           "title": "Spotify is launching verification badges for podcasts to help listeners avoid AI slop",
@@ -197,12 +189,20 @@
           "excerpt": "Insta360 teased several new devices at NAB 2026 last month, including a possibleDJI Osmorival with dual camerascalled the Luna. While the camera isn't ready just yet, an upgraded version of its wireless mic is. While it packs in a lot of technology, the eye-catching part is the e-ink display, which covers almost the entire circular face of the Mic Pro."
         },
         {
-          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
-          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
-          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
+          "title": "Meta has reportedly laid off 8,000 employees",
+          "link": "https://www.engadget.com/2178378/meta-reportedly-lays-off-8000-employees/",
+          "summary": "Meta lays off around 10 percent of its total staff as it pivots toward AI.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It's unclear how useful any of it will be though."
+          "excerpt": "CEO Mark Zuckerberg issued an all-hands memo to employees confirming that Meta is laying off around 8,000 employees and transferring another 7,000, according to reports fromSky NewsandBusiness Insider. \"As previously shared, we have decided to reduce headcount... to allow us to offset the other investments we're making,\" the memo reportedly states.\u00a0Meta said it didn't anticipate further \"company-wide\" layoffs this year."
+        },
+        {
+          "title": "Microsoft's new Surface Laptop for Business has a privacy screen and quirky haptics",
+          "link": "https://www.engadget.com/2176309/microsoft-surface-pro-business-laptops-2026/",
+          "summary": "The new laptops are geared towards corporate buyers, with a price to match.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new Surface Pro and Surface Laptop for Business are powered by Intel's Core Ultra Series 3 processors."
         }
       ]
     },
@@ -213,13 +213,6 @@
         {
           "title": "SUPREME LEADER: URANIUM STAYS IN IRAN",
           "link": "https://www.msn.com/en-us/money/general/exclusive-supreme-leader-says-enriched-uranium-must-stay-in-iran-iranian-sources-say/ar-AA23ITZq",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "REPORT:  42 US aircraft shot down by Iran...",
-          "link": "https://www.ndtv.com/world-news/11522243",
           "summary": null,
           "published": null,
           "excerpt": null
