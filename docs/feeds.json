@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T15:00:19.589452-07:00",
-  "generated_at_display": "May 21, 2026 03:00 PM PT",
+  "generated_at": "2026-05-21T16:00:23.019122-07:00",
+  "generated_at_display": "May 21, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,54 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "You can now add ChatGPT to PowerPoint",
+          "link": "https://www.engadget.com/2179075/you-can-now-add-chatgpt-to-powerpoint/",
+          "summary": "Most users can start generating slides with AI today.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Most users can start generating slides with AI today."
+        },
+        {
+          "title": "Sony hit with a class action lawsuit for allegedly profiting from tariff-related price hikes",
+          "link": "https://www.engadget.com/2175588/sony-hit-with-a-class-action-lawsuit-for-allegedly-profiting-from-tariff-related-price-hikes/",
+          "summary": "The case against Sony is similar to ones filed against Nintendo and Amazon.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This case is similar to ones filed against Nintendo and Amazon."
+        },
+        {
+          "title": "Elon Musk reportedly owes quite a few of his employees $420",
+          "link": "https://www.engadget.com/2175582/elon-musk-reportedly-owes-quite-a-few-of-his-employees-420-dollars/",
+          "summary": "xAI promised workers the money in exchange for tax information to train Grok.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "xAI promised workers the money in exchange for tax information to train Grok."
+        },
+        {
+          "title": "Volvo reveals $58,400 starting price for the EX60",
+          "link": "https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/",
+          "summary": "Volvo's upcoming mainstream EV SUV is available to order now.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Between theRivian R2,BMW iX3and theVolvo EX60, there's a bunch of appealing electric SUVs scheduled to hit the market soon. And now,Volvois revealing official pricing for its upcoming family EV, which starts at $58,400."
+        },
+        {
+          "title": "Google's much-improved app icons are rolling out now",
+          "link": "https://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/",
+          "summary": "The old icons that debuted five years ago had very little to visually differentiate them.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The old icons had very little to visually differentiate them."
+        },
+        {
+          "title": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here",
+          "link": "https://www.engadget.com/2175403/steelseries-arctis-nova-elite-review-ultra-high-end-gaming-headsets-are-here/",
+          "summary": "$600 is a lot of money for a gaming headset, but if you edit audio and video, the Arctis Nova Elite might be the only pair you need.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here"
+        },
+        {
           "title": "Starbucks abandons its AI inventory tool after only nine months",
           "link": "https://www.engadget.com/2179029/starbucks-abandons-its-ai-inventory-tool-after-only-nine-months/",
           "summary": "Looks like manual inventory management is back on the menu.",
@@ -171,54 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Xbox controllers will no longer come with a proprietary expansion port \u2014 known as the Chatpad port to many players\u00a0\u2014 if all three of the recent signs are to be believed."
-        },
-        {
-          "title": "Sony hit with a class action lawsuit for allegedly profiting from tariff-related price hikes",
-          "link": "https://www.engadget.com/2175588/sony-hit-with-a-class-action-lawsuit-for-allegedly-profiting-from-tariff-related-price-hikes/",
-          "summary": "The case against Sony is similar to ones filed against Nintendo and Amazon.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "This case is similar to ones filed against Nintendo and Amazon."
-        },
-        {
-          "title": "Elon Musk reportedly owes quite a few of his employees $420",
-          "link": "https://www.engadget.com/2175582/elon-musk-reportedly-owes-quite-a-few-of-his-employees-420-dollars/",
-          "summary": "xAI promised workers the money in exchange for tax information to train Grok.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "xAI promised workers the money in exchange for tax information to train Grok."
-        },
-        {
-          "title": "Volvo reveals $58,400 starting price for the EX60",
-          "link": "https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/",
-          "summary": "Volvo's upcoming mainstream EV SUV is available to order now.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Between theRivian R2,BMW iX3and theVolvo EX60, there's a bunch of appealing electric SUVs scheduled to hit the market soon. And now,Volvois revealing official pricing for its upcoming family EV, which starts at $58,400."
-        },
-        {
-          "title": "Google's much-improved app icons are rolling out now",
-          "link": "https://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/",
-          "summary": "The old icons that debuted five years ago had very little to visually differentiate them.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The old icons had very little to visually differentiate them."
-        },
-        {
-          "title": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here",
-          "link": "https://www.engadget.com/2175403/steelseries-arctis-nova-elite-review-ultra-high-end-gaming-headsets-are-here/",
-          "summary": "$600 is a lot of money for a gaming headset, but if you edit audio and video, the Arctis Nova Elite might be the only pair you need.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here"
-        },
-        {
-          "title": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs",
-          "link": "https://www.engadget.com/2174992/amazon-facing-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/",
-          "summary": "The lawsuit claims that Amazon owes 'hundreds of millions' in refunds to its users.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs"
         },
         {
           "title": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items",
