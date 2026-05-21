@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T16:00:20.408674-07:00",
-  "generated_at_display": "May 20, 2026 04:00 PM PT",
+  "generated_at": "2026-05-20T17:00:22.863842-07:00",
+  "generated_at_display": "May 20, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Google announces Wear OS 7",
-          "link": "https://www.engadget.com/2177050/google-announces-wear-os-7/",
-          "summary": "The OS update integrates Gemini Intelligence and adds a new widget system.",
+          "title": "Kansas City has bought more than 4,500 MacBook Neos for its students",
+          "link": "https://www.engadget.com/2178254/kansas-city-has-bought-more-than-4-500-macbook-neos-for-its-students/",
+          "summary": "The newly \"all-Apple district\" will replace 30,000 Windows and Chromebook devices across its public schools.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The OS update integrates Gemini Intelligence and adds a new widget system."
+          "excerpt": "The newly \u201call-Apple district\u201d will replace 30,000 Windows and Chromebook devices across its public schools."
         },
         {
           "title": "All the news you might have missed from Google I/O 2026",
@@ -157,6 +157,22 @@
           "excerpt": "Google didn't forget AI creators in its latest round of Gemini announcements as part ofGoogle I/O. The company just officially revealed Gemini Omni, a new model that can \"create anything from any input\u00a0\u2014 starting with video,\" according to Google. The first model called Gemini Omni Flash is rolling out today to the Gemini app, Google Flow and YouTube Shorts."
         },
         {
+          "title": "Google says Gemini 3.5 Flash rivals 'large flagship models' for coding and agentic tasks",
+          "link": "https://www.engadget.com/2176592/google-says-gemini-3-5-flash-rivals-large-flagship-models-for-coding-and-agentic-tasks/",
+          "summary": "Google says its Gemini 3.5 Flash model can complete tasks in a \"fraction of the time\" of other frontier models.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google has unveiled Gemini 3.5, starting with the Gemini 3.5 Flash model that promises to outperform Gemini 3.1 Pro in real-world agentic and coding tasks. \"3.5 Flash delivers frontier-level intelligence at exceptional speed \u2014 proving you no longer have to trade quality for latency.\""
+        },
+        {
+          "title": "Microsoft hired an analyst with an influential video game blog to fix Xbox",
+          "link": "https://www.engadget.com/2178253/microsoft-hired-an-analyst-with-an-influential-video-game-blog-to-fix-xbox/",
+          "summary": "Matthew Ball is the new chief strategy officer for Xbox ahead of Project Helix.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Xbox has hired your favorite video game developer's favorite industry analyst, Matthew Ball, as its new Chief Strategy Officer. As reported byThe Game Businessandconfirmed via his LinkedIn, Ball is joining Xbox with the stated goal of strengthening its console segment, which is in dire straits due to global memory shortages, recent corporate upheaval at Microsoft, and unrelenting competition from Sony, Nintendo and, soon,Valve."
+        },
+        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
@@ -171,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
-        },
-        {
-          "title": "Google says Gemini 3.5 Flash rivals 'large flagship models' for coding and agentic tasks",
-          "link": "https://www.engadget.com/2176592/google-says-gemini-3-5-flash-rivals-large-flagship-models-for-coding-and-agentic-tasks/",
-          "summary": "Google says its Gemini 3.5 Flash model can complete tasks in a \"fraction of the time\" of other frontier models.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google has unveiled Gemini 3.5, starting with the Gemini 3.5 Flash model that promises to outperform Gemini 3.1 Pro in real-world agentic and coding tasks. \"3.5 Flash delivers frontier-level intelligence at exceptional speed \u2014 proving you no longer have to trade quality for latency.\""
         },
         {
           "title": "I/O 2026 is bringing more AI to Google Play",
@@ -213,12 +221,12 @@
           "excerpt": "It'll even look for chances to maximize your loyalty points."
         },
         {
-          "title": "Google is bringing new AI-powered ad formats to search",
-          "link": "https://www.engadget.com/2178075/google-is-bringing-new-ai-powered-ad-formats-to-search/",
-          "summary": "Finally, the Google I/O announcement you've been waiting for.",
+          "title": "Project Genie adds Google Street View integration and goes live for global AI Ultra users",
+          "link": "https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/",
+          "summary": "Ground your snow-globe worlds in real-life locations from Google Maps.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Finally, the Google I/O announcement you\u2019ve been waiting for."
+          "excerpt": "Ground your snow-globe worlds in real-life locations from Google Maps."
         },
         {
           "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
