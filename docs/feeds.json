@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T02:00:21.718907-07:00",
-  "generated_at_display": "May 22, 2026 02:00 AM PT",
+  "generated_at": "2026-05-22T03:00:22.579676-07:00",
+  "generated_at_display": "May 22, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Trump postpones AI oversight executive order",
+          "link": "https://www.engadget.com/2179211/trump-postpones-ai-oversight-bill-after-big-tech-pressure/",
+          "summary": "Trump's AI order was reportedly delayed due to last-minute pressure from industry leaders.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "President Trump has postponed the signing an executive order around government AI oversight,CNNreported, saying he \"didn't like certain aspects\"\u00a0of it. Originally, the orderwould havecompelled AI companies to share advanced models with the government ahead of launch to ensure their safety, but it was later watered down to make tech company participation voluntary."
+        },
+        {
           "title": "Google won't rest until Gemini is everywhere in your home",
           "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
           "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
@@ -149,20 +157,20 @@
           "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         },
         {
-          "title": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs",
-          "link": "https://www.engadget.com/2174992/amazon-facing-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/",
-          "summary": "The lawsuit claims that Amazon owes 'hundreds of millions' in refunds to its users.",
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs"
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
-          "title": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items",
-          "link": "https://www.engadget.com/2174984/terraria-developer-confirms-cross-play-is-coming-and-teases-15th-anniversary-collector-items/",
-          "summary": "The game has sold 70 million copies over its 15-year run, Re-Logic said.",
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items"
+          "excerpt": "It's unclear how useful any of it will be though."
         },
         {
           "title": "Apple's new Siri app will reportedly offer auto-deleting chat options",
@@ -181,12 +189,12 @@
           "excerpt": "Following the initial tease of itsThus AI chip,Ankerannounced the first earbuds with the component during its Anker Day event. The Soundcore Liberty 5 Pro and Liberty 5 Pro Max both utilize the chip for what the company calls Whisper Clear voice performance. Of course, the usual earbud features are here \u2014 active noise cancellation (ANC), voice controls and personalized sound \u2014 but there are some unique tools available on these models as well. Those include an AI Note-Taker on the Liberty 5 Pro Max and touchscreen charging cases for both."
         },
         {
-          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
+          "title": "Samsung faces strike from nearly 48,000 union workers",
+          "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
+          "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+          "excerpt": "They had failed to reach an agreement regarding worker bonuses."
         },
         {
           "title": "You can now add ChatGPT to PowerPoint",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Most users can start generating slides with AI today."
-        },
-        {
-          "title": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year",
-          "link": "https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/",
-          "summary": "Residents will have to go through a course on artificial intelligence before activating the subscription.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year"
         }
       ]
     },
