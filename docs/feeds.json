@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T05:00:21.148478-07:00",
-  "generated_at_display": "May 22, 2026 05:00 AM PT",
+  "generated_at": "2026-05-22T06:00:23.311641-07:00",
+  "generated_at_display": "May 22, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Iran reportedly funneled billions through Binance to fund its military",
-          "link": "https://www.engadget.com/2179233/iran-binance-allegations-wsj/",
-          "summary": "The Wall Street Journal claims Iran continued to use Binance to funnel money despite tough sanctions.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The crypto company previously pled guilty to violating Iran sanctions."
-        },
-        {
           "title": "The Morning After: The biggest news from Google I/O 2026",
           "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
           "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
@@ -173,12 +165,12 @@
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
-          "title": "Trump postpones AI oversight executive order",
-          "link": "https://www.engadget.com/2179211/trump-postpones-ai-oversight-bill-after-big-tech-pressure/",
-          "summary": "Trump's AI order was reportedly delayed due to last-minute pressure from industry leaders.",
+          "title": "Iran reportedly funneled billions through Binance to fund its military",
+          "link": "https://www.engadget.com/2179233/iran-binance-allegations-wsj/",
+          "summary": "The Wall Street Journal claims Iran continued to use Binance to funnel money despite tough sanctions.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "President Trump has postponed the signing an executive order around government AI oversight,CNNreported, saying he \"didn't like certain aspects\"\u00a0of it. Originally, the orderwould havecompelled AI companies to share advanced models with the government ahead of launch to ensure their safety, but it was later watered down to make tech company participation voluntary."
+          "excerpt": "The crypto company previously pled guilty to violating Iran sanctions."
         },
         {
           "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
@@ -205,20 +197,20 @@
           "excerpt": "It\u2019s a win for privacy on the social app."
         },
         {
+          "title": "Trump postpones AI oversight executive order",
+          "link": "https://www.engadget.com/2179211/trump-postpones-ai-oversight-bill-after-big-tech-pressure/",
+          "summary": "Trump's AI order was reportedly delayed due to last-minute pressure from industry leaders.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "President Trump has postponed the signing an executive order around government AI oversight,CNNreported, saying he \"didn't like certain aspects\"\u00a0of it. Originally, the orderwould havecompelled AI companies to share advanced models with the government ahead of launch to ensure their safety, but it was later watered down to make tech company participation voluntary."
+        },
+        {
           "title": "Firefox AI guardrails arrive for mobile",
           "link": "https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/",
           "summary": "The feature lets you turn all AI enhancements off with one tap.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "On a day when Google announcedAI feature after AI feature at I/O, here's something a little different:\u00a0Today's Firefox 151releasebrings AI controls to both iOS and Android systems. People can use the binary toggle to turn off all generative AI features as a blanket setting. There are also options to pick and choose which AI features are enabled."
-        },
-        {
-          "title": "The Apple Sports app expands to 90 new markets ahead of the World Cup",
-          "link": "https://www.engadget.com/2177172/apple-sports-app-expands-to-90-new-markets-ahead-of-the-world-cup/",
-          "summary": "Apple is targeting World Cup fans ahead of this summer's tournament.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s targeting soccer fans ahead of this summer\u2019s tournament."
         }
       ]
     },
@@ -229,6 +221,27 @@
         {
           "title": "REPUBLICAN SENATOR UNLOADS...",
           "link": "https://www.mediaite.com/media/news/republican-senator-unloads-on-trumps-stupid-plan-that-could-compensate-criminals-beyond-the-pale/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "MEMORIAL DAY PAIN",
+          "link": "https://qz.com/memorial-day-beef-prices-record-high-grilling-costs",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Oil Mystery at Heart of America's Pressure Campaign on Iran...",
+          "link": "https://www.wsj.com/world/middle-east/the-oil-mystery-at-the-heart-of-americas-pressure-campaign-on-iran-7b88d43a",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "UPDATE: Pratt campaign spent more than $15,000 at pricey Hotel Bel-Air...$1,800 on Tequila...",
+          "link": "https://www.msn.com/en-us/news/politics/spencer-pratts-campaign-spent-more-than-15000-at-pricey-hotel-bel-air/ar-AA23Oei9",
           "summary": null,
           "published": null,
           "excerpt": null
