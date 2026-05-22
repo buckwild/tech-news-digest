@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T07:00:22.232338-07:00",
-  "generated_at_display": "May 22, 2026 07:00 AM PT",
+  "generated_at": "2026-05-22T08:00:26.026430-07:00",
+  "generated_at_display": "May 22, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
+          "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
+          "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
+        },
+        {
           "title": "The Morning After: The biggest news from Google I/O 2026",
           "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
           "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
@@ -147,14 +155,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
-        },
-        {
-          "title": "Iran reportedly funneled billions through Binance to fund its military",
-          "link": "https://www.engadget.com/2179233/iran-binance-allegations-wsj/",
-          "summary": "The Wall Street Journal claims Iran continued to use Binance to funnel money despite tough sanctions.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The crypto company previously pled guilty to violating Iran sanctions."
         },
         {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
@@ -181,12 +181,12 @@
           "excerpt": "It's unclear how useful any of it will be though."
         },
         {
-          "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
-          "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
-          "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
+          "title": "Iran reportedly funneled billions through Binance to fund its military",
+          "link": "https://www.engadget.com/2179233/iran-binance-allegations-wsj/",
+          "summary": "The Wall Street Journal claims Iran continued to use Binance to funnel money despite tough sanctions.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
+          "excerpt": "The crypto company previously pled guilty to violating Iran sanctions."
         },
         {
           "title": "Samsung faces strike from nearly 48,000 union workers",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "They had failed to reach an agreement regarding worker bonuses."
-        },
-        {
-          "title": "Trump postpones AI oversight executive order",
-          "link": "https://www.engadget.com/2179211/trump-postpones-ai-oversight-bill-after-big-tech-pressure/",
-          "summary": "Trump's AI order was reportedly delayed due to last-minute pressure from industry leaders.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "President Trump has postponed the signing an executive order around government AI oversight,CNNreported, saying he \"didn't like certain aspects\"\u00a0of it. Originally, the orderwould havecompelled AI companies to share advanced models with the government ahead of launch to ensure their safety, but it was later watered down to make tech company participation voluntary."
         },
         {
           "title": "Discord now has end-to-end encryption on all calls",
