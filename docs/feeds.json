@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:00:27.445262-07:00",
-  "generated_at_display": "May 22, 2026 04:00 AM PT",
+  "generated_at": "2026-05-22T05:00:21.148478-07:00",
+  "generated_at_display": "May 22, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Iran reportedly funneled billions through Binance to fund its military",
+          "link": "https://www.engadget.com/2179233/iran-binance-allegations-wsj/",
+          "summary": "The Wall Street Journal claims Iran continued to use Binance to funnel money despite tough sanctions.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The crypto company previously pled guilty to violating Iran sanctions."
+        },
+        {
+          "title": "The Morning After: The biggest news from Google I/O 2026",
+          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
+          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
+        },
+        {
           "title": "Google won't rest until Gemini is everywhere in your home",
           "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
           "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
@@ -189,12 +205,20 @@
           "excerpt": "It\u2019s a win for privacy on the social app."
         },
         {
-          "title": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year",
-          "link": "https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/",
-          "summary": "Residents will have to go through a course on artificial intelligence before activating the subscription.",
+          "title": "Firefox AI guardrails arrive for mobile",
+          "link": "https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/",
+          "summary": "The feature lets you turn all AI enhancements off with one tap.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year"
+          "excerpt": "On a day when Google announcedAI feature after AI feature at I/O, here's something a little different:\u00a0Today's Firefox 151releasebrings AI controls to both iOS and Android systems. People can use the binary toggle to turn off all generative AI features as a blanket setting. There are also options to pick and choose which AI features are enabled."
+        },
+        {
+          "title": "The Apple Sports app expands to 90 new markets ahead of the World Cup",
+          "link": "https://www.engadget.com/2177172/apple-sports-app-expands-to-90-new-markets-ahead-of-the-world-cup/",
+          "summary": "Apple is targeting World Cup fans ahead of this summer's tournament.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s targeting soccer fans ahead of this summer\u2019s tournament."
         }
       ]
     },
