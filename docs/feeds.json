@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T13:00:20.580491-07:00",
-  "generated_at_display": "May 22, 2026 01:00 PM PT",
+  "generated_at": "2026-05-22T14:00:22.773316-07:00",
+  "generated_at_display": "May 22, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google is currently struggling to define words like disregard, stop and ignore",
+          "link": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
+          "summary": "The search engine's definitions have been replaced with AI Overviews.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The search engine's definitions have been replaced with AI Overviews."
+        },
+        {
           "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
           "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
           "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
@@ -189,12 +197,12 @@
           "excerpt": "They had failed to reach an agreement regarding worker bonuses."
         },
         {
-          "title": "Iran reportedly funneled billions through Binance to fund its military",
-          "link": "https://www.engadget.com/2179233/iran-binance-allegations-wsj/",
-          "summary": "The Wall Street Journal claims Iran continued to use Binance to funnel money despite tough sanctions.",
+          "title": "Discord now has end-to-end encryption on all calls",
+          "link": "https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/",
+          "summary": "It's a win for privacy on the social app.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The crypto company previously pled guilty to violating Iran sanctions."
+          "excerpt": "It\u2019s a win for privacy on the social app."
         }
       ]
     },
@@ -219,6 +227,13 @@
         {
           "title": "UPDATE: Pratt campaign spent more than $15,000 at pricey Hotel Bel-Air...$1,800 on Tequila...",
           "link": "https://www.msn.com/en-us/news/politics/spencer-pratts-campaign-spent-more-than-15000-at-pricey-hotel-bel-air/ar-AA23Oei9",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Graham Platner 'Grassroots' Campaign Funneling Money to Influencers To Fawn Over Him...",
+          "link": "https://freebeacon.com/elections/the-best-fundraising-text-ive-ever-seen-graham-platners-grassroots-campaign-is-funneling-money-to-influencers-to-fawn-over-him/",
           "summary": null,
           "published": null,
           "excerpt": null
