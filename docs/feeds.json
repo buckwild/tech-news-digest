@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T01:00:26.811658-07:00",
-  "generated_at_display": "May 22, 2026 01:00 AM PT",
+  "generated_at": "2026-05-22T02:00:21.718907-07:00",
+  "generated_at_display": "May 22, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,46 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Elon Musk reportedly owes quite a few of his employees $420",
-          "link": "https://www.engadget.com/2175582/elon-musk-reportedly-owes-quite-a-few-of-his-employees-420-dollars/",
-          "summary": "xAI promised workers the money in exchange for tax information to train Grok.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "xAI promised workers the money in exchange for tax information to train Grok."
-        },
-        {
-          "title": "Volvo reveals $58,400 starting price for the EX60",
-          "link": "https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/",
-          "summary": "Volvo's upcoming mainstream EV SUV is available to order now.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Between theRivian R2,BMW iX3and theVolvo EX60, there's a bunch of appealing electric SUVs scheduled to hit the market soon. And now,Volvois revealing official pricing for its upcoming family EV, which starts at $58,400."
-        },
-        {
-          "title": "Google's much-improved app icons are rolling out now",
-          "link": "https://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/",
-          "summary": "The old icons that debuted five years ago had very little to visually differentiate them.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The old icons had very little to visually differentiate them."
-        },
-        {
-          "title": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here",
-          "link": "https://www.engadget.com/2175403/steelseries-arctis-nova-elite-review-ultra-high-end-gaming-headsets-are-here/",
-          "summary": "$600 is a lot of money for a gaming headset, but if you edit audio and video, the Arctis Nova Elite might be the only pair you need.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here"
-        },
-        {
-          "title": "Anker debuts Soundcore Liberty 5 Pro earbuds with its Thus AI chip",
-          "link": "https://www.engadget.com/2177672/anker-debuts-soundcore-liberty-5-pro-earbuds-with-its-thus-ai-chip/",
-          "summary": "Anker's first products with its Thus AI chip are two powerful sets of earbuds, including one that has an AI note taker.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Following the initial tease of itsThus AI chip,Ankerannounced the first earbuds with the component during its Anker Day event. The Soundcore Liberty 5 Pro and Liberty 5 Pro Max both utilize the chip for what the company calls Whisper Clear voice performance. Of course, the usual earbud features are here \u2014 active noise cancellation (ANC), voice controls and personalized sound \u2014 but there are some unique tools available on these models as well. Those include an AI Note-Taker on the Liberty 5 Pro Max and touchscreen charging cases for both."
-        },
-        {
           "title": "Google won't rest until Gemini is everywhere in your home",
           "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
           "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
@@ -181,12 +141,12 @@
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
         },
         {
-          "title": "You can now add ChatGPT to PowerPoint",
-          "link": "https://www.engadget.com/2179075/you-can-now-add-chatgpt-to-powerpoint/",
-          "summary": "Most users can start generating slides with AI today.",
+          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
+          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
+          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Most users can start generating slides with AI today."
+          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         },
         {
           "title": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs",
@@ -213,20 +173,12 @@
           "excerpt": "Apple's new Siri app will reportedly offer auto-deleting chat options"
         },
         {
-          "title": "Starbucks abandons its AI inventory tool after only nine months",
-          "link": "https://www.engadget.com/2179029/starbucks-abandons-its-ai-inventory-tool-after-only-nine-months/",
-          "summary": "Looks like manual inventory management is back on the menu.",
+          "title": "Anker debuts Soundcore Liberty 5 Pro earbuds with its Thus AI chip",
+          "link": "https://www.engadget.com/2177672/anker-debuts-soundcore-liberty-5-pro-earbuds-with-its-thus-ai-chip/",
+          "summary": "Anker's first products with its Thus AI chip are two powerful sets of earbuds, including one that has an AI note taker.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Sometimes, AI helps youfine-tune weather forecastsorimprove the lives of people with disabilities. Other times, well, it loses a fight with a bottle of peppermint syrup. That's the situation Starbucks CEO Brian Niccol finds himself in after the coffee chain reportedlytold staffthat it's scrapping an AI inventory program after only nine months."
-        },
-        {
-          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
-          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
-          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
+          "excerpt": "Following the initial tease of itsThus AI chip,Ankerannounced the first earbuds with the component during its Anker Day event. The Soundcore Liberty 5 Pro and Liberty 5 Pro Max both utilize the chip for what the company calls Whisper Clear voice performance. Of course, the usual earbud features are here \u2014 active noise cancellation (ANC), voice controls and personalized sound \u2014 but there are some unique tools available on these models as well. Those include an AI Note-Taker on the Liberty 5 Pro Max and touchscreen charging cases for both."
         },
         {
           "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
@@ -235,6 +187,22 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+        },
+        {
+          "title": "You can now add ChatGPT to PowerPoint",
+          "link": "https://www.engadget.com/2179075/you-can-now-add-chatgpt-to-powerpoint/",
+          "summary": "Most users can start generating slides with AI today.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Most users can start generating slides with AI today."
+        },
+        {
+          "title": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year",
+          "link": "https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/",
+          "summary": "Residents will have to go through a course on artificial intelligence before activating the subscription.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI is offering ChatGPT Plus to citizens of Malta for a year"
         }
       ]
     },
