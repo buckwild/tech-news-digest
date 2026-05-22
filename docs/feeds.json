@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T06:00:23.311641-07:00",
-  "generated_at_display": "May 22, 2026 06:00 AM PT",
+  "generated_at": "2026-05-22T07:00:22.232338-07:00",
+  "generated_at_display": "May 22, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -149,6 +149,14 @@
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
         },
         {
+          "title": "Iran reportedly funneled billions through Binance to fund its military",
+          "link": "https://www.engadget.com/2179233/iran-binance-allegations-wsj/",
+          "summary": "The Wall Street Journal claims Iran continued to use Binance to funnel money despite tough sanctions.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The crypto company previously pled guilty to violating Iran sanctions."
+        },
+        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
@@ -165,20 +173,20 @@
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
-          "title": "Iran reportedly funneled billions through Binance to fund its military",
-          "link": "https://www.engadget.com/2179233/iran-binance-allegations-wsj/",
-          "summary": "The Wall Street Journal claims Iran continued to use Binance to funnel money despite tough sanctions.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The crypto company previously pled guilty to violating Iran sanctions."
-        },
-        {
           "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
           "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
           "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's unclear how useful any of it will be though."
+        },
+        {
+          "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
+          "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
+          "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
         },
         {
           "title": "Samsung faces strike from nearly 48,000 union workers",
@@ -189,14 +197,6 @@
           "excerpt": "They had failed to reach an agreement regarding worker bonuses."
         },
         {
-          "title": "Discord now has end-to-end encryption on all calls",
-          "link": "https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/",
-          "summary": "It's a win for privacy on the social app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s a win for privacy on the social app."
-        },
-        {
           "title": "Trump postpones AI oversight executive order",
           "link": "https://www.engadget.com/2179211/trump-postpones-ai-oversight-bill-after-big-tech-pressure/",
           "summary": "Trump's AI order was reportedly delayed due to last-minute pressure from industry leaders.",
@@ -205,12 +205,12 @@
           "excerpt": "President Trump has postponed the signing an executive order around government AI oversight,CNNreported, saying he \"didn't like certain aspects\"\u00a0of it. Originally, the orderwould havecompelled AI companies to share advanced models with the government ahead of launch to ensure their safety, but it was later watered down to make tech company participation voluntary."
         },
         {
-          "title": "Firefox AI guardrails arrive for mobile",
-          "link": "https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/",
-          "summary": "The feature lets you turn all AI enhancements off with one tap.",
+          "title": "Discord now has end-to-end encryption on all calls",
+          "link": "https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/",
+          "summary": "It's a win for privacy on the social app.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "On a day when Google announcedAI feature after AI feature at I/O, here's something a little different:\u00a0Today's Firefox 151releasebrings AI controls to both iOS and Android systems. People can use the binary toggle to turn off all generative AI features as a blanket setting. There are also options to pick and choose which AI features are enabled."
+          "excerpt": "It\u2019s a win for privacy on the social app."
         }
       ]
     },
