@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T09:00:20.381685-07:00",
-  "generated_at_display": "May 23, 2026 09:00 AM PT",
+  "generated_at": "2026-05-23T10:00:21.658955-07:00",
+  "generated_at_display": "May 23, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,46 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
-          "link": "https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/",
-          "summary": "The lower prices could be aimed at undercutting the competition.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The lower prices could be aimed at undercutting the competition."
-        },
-        {
-          "title": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny",
-          "link": "https://www.engadget.com/2173164/microsofts-unreleased-cloud-controller-has-been-spotted-in-the-wild-and-its-teeny/",
-          "summary": "It reportedly uses Wi-Fi to directly connect to the Xbox Cloud Gaming service, for lower latency.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny"
-        },
-        {
-          "title": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts",
-          "link": "https://www.engadget.com/2173148/spotify-and-its-hosting-platforms-are-adopting-apples-tech-for-video-podcasts/",
-          "summary": "HTTP Live Streaming support will let Apple Podcasts play Spotify-hosted video podcasts.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts"
-        },
-        {
-          "title": "The Esports World Cup will reportedly move to Paris from Riyadh",
-          "link": "https://www.engadget.com/2173107/the-esports-world-cup-will-reportedly-move-to-paris-from-riyadh/",
-          "summary": "Uncertainty in the Middle East is apparently forcing the location change.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "This summer's Esports World Cup will be held in Paris, France, rather than its originally scheduled location of Riyadh, Saudi Arabia, due to the war in the Middle East,GamesBeatreports. According to the site, EWC organizers are telling stakeholders behind the scenes that the tournament will be moved to Paris this year, though there's been no public confirmation of the change. Rumors of a location swap have beenswirling for days."
-        },
-        {
-          "title": "Americans really don't want AI data centers close to their homes",
-          "link": "https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/",
-          "summary": "Maybe NIMBYs are right for once.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "AI companies are spending astronomical sums of money on building data centers as quickly as possible in order to increase their compute power. But the majority of Americans don't want that infrastructure close to their homes, according to aGallup survey."
-        },
-        {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
           "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
           "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
@@ -243,6 +203,30 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's unclear how useful any of it will be though."
+        },
+        {
+          "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
+          "link": "https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/",
+          "summary": "The lower prices could be aimed at undercutting the competition.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The lower prices could be aimed at undercutting the competition."
+        },
+        {
+          "title": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny",
+          "link": "https://www.engadget.com/2173164/microsofts-unreleased-cloud-controller-has-been-spotted-in-the-wild-and-its-teeny/",
+          "summary": "It reportedly uses Wi-Fi to directly connect to the Xbox Cloud Gaming service, for lower latency.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny"
+        },
+        {
+          "title": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts",
+          "link": "https://www.engadget.com/2173148/spotify-and-its-hosting-platforms-are-adopting-apples-tech-for-video-podcasts/",
+          "summary": "HTTP Live Streaming support will let Apple Podcasts play Spotify-hosted video podcasts.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts"
         }
       ]
     },
@@ -274,6 +258,13 @@
         {
           "title": "See the Surveillance Flights Off Coast of Cuba...",
           "link": "https://www.wsj.com/world/americas/maps-surveillance-flights-cuba-us-079820ee",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Towns Paid for Teachers and Cops to Use Weight-Loss Drugs. It Broke the Bank...",
+          "link": "https://www.wsj.com/us-news/u-s-towns-paid-for-teachers-and-cops-to-use-weight-loss-drugs-it-broke-the-bank-3c46ec87",
           "summary": null,
           "published": null,
           "excerpt": null
