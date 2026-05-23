@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T05:00:22.596202-07:00",
-  "generated_at_display": "May 23, 2026 05:00 AM PT",
+  "generated_at": "2026-05-23T06:00:20.628558-07:00",
+  "generated_at_display": "May 23, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Google is currently struggling to define words like disregard, stop and ignore",
-          "link": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
-          "summary": "The search engine's definitions have been replaced with AI Overviews.",
+          "title": "Anthropic says Mythos has already found more than 10,000 vulnerabilities",
+          "link": "https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/",
+          "summary": "Anthropic has published an initial update about Project Glasswing, which it says has helped partners find bugs high and critical in severity.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The search engine's definitions have been replaced with AI Overviews."
+          "excerpt": "Anthropic haspublishedan initial report forProject Glasswing, the cybersecurity initiative it launched in April that aims to prevent\u00a0AI cyberattacks with, well, AI. The initiative is powered by\u00a0Claude Mythos Preview, the company's unreleased model, which Anthropic says has already helped its partners find\u00a0more than ten thousand vulnerabilities overall just a month after Glasswing's launch. In addition, it says most of its partners have \"each found hundreds of critical- or high-severity vulnerabilities in their software\" using the model."
+        },
+        {
+          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
+          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
+          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "VIDEO"
         },
         {
           "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
@@ -173,6 +181,14 @@
           "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         },
         {
+          "title": "Google is currently struggling to define words like disregard, stop and ignore",
+          "link": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
+          "summary": "The search engine's definitions have been replaced with AI Overviews.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The search engine's definitions have been replaced with AI Overviews."
+        },
+        {
           "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
           "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
           "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
@@ -187,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's unclear how useful any of it will be though."
-        },
-        {
-          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
-          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "VIDEO"
         },
         {
           "title": "Samsung faces strike from nearly 48,000 union workers",
