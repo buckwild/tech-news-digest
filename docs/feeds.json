@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T04:00:20.444047-07:00",
-  "generated_at_display": "May 23, 2026 04:00 AM PT",
+  "generated_at": "2026-05-23T05:00:22.596202-07:00",
+  "generated_at_display": "May 23, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google is currently struggling to define words like disregard, stop and ignore",
+          "link": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
+          "summary": "The search engine's definitions have been replaced with AI Overviews.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The search engine's definitions have been replaced with AI Overviews."
+        },
+        {
           "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
           "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
           "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
@@ -147,14 +155,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google won't rest until Gemini is everywhere in your home"
-        },
-        {
-          "title": "Google is currently struggling to define words like disregard, stop and ignore",
-          "link": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
-          "summary": "The search engine's definitions have been replaced with AI Overviews.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The search engine's definitions have been replaced with AI Overviews."
         },
         {
           "title": "Are you really going to talk to Gemini like that?",
@@ -189,6 +189,14 @@
           "excerpt": "It's unclear how useful any of it will be though."
         },
         {
+          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
+          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
+          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "VIDEO"
+        },
+        {
           "title": "Samsung faces strike from nearly 48,000 union workers",
           "link": "https://www.engadget.com/2177466/samsung-strike-union-workers-korea/",
           "summary": "Samsung workers in Korea are set to walk off their jobs on May 21 after failing to reach an agreement with the company.",
@@ -219,20 +227,6 @@
         {
           "title": "MEMORIAL DAY PAIN...",
           "link": "https://qz.com/memorial-day-beef-prices-record-high-grilling-costs",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Graham Platner 'Grassroots' Campaign Funneling Money to Influencers To Fawn Over Him...",
-          "link": "https://freebeacon.com/elections/the-best-fundraising-text-ive-ever-seen-graham-platners-grassroots-campaign-is-funneling-money-to-influencers-to-fawn-over-him/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "NJ congressional candidate's ties to convicted terrorist mastermind raise alarm...",
-          "link": "https://archive.is/UBw3A",
           "summary": null,
           "published": null,
           "excerpt": null
