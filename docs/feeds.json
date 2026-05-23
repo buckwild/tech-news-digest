@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T02:00:20.418024-07:00",
-  "generated_at_display": "May 23, 2026 02:00 AM PT",
+  "generated_at": "2026-05-23T03:00:22.712954-07:00",
+  "generated_at_display": "May 23, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Google is currently struggling to define words like disregard, stop and ignore",
-          "link": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
-          "summary": "The search engine's definitions have been replaced with AI Overviews.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The search engine's definitions have been replaced with AI Overviews."
-        },
-        {
           "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
           "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
           "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
@@ -155,6 +147,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google won't rest until Gemini is everywhere in your home"
+        },
+        {
+          "title": "Google is currently struggling to define words like disregard, stop and ignore",
+          "link": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
+          "summary": "The search engine's definitions have been replaced with AI Overviews.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The search engine's definitions have been replaced with AI Overviews."
         },
         {
           "title": "Are you really going to talk to Gemini like that?",
