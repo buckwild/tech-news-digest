@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T03:00:22.712954-07:00",
-  "generated_at_display": "May 23, 2026 03:00 AM PT",
+  "generated_at": "2026-05-23T04:00:20.444047-07:00",
+  "generated_at_display": "May 23, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -202,6 +202,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "MAG 6 QUAKE HAWAII...",
+          "link": "https://www.hawaiinewsnow.com/2026/05/23/magnitude-60-earthquake-hawaii-island-shakes-state-no-tsunami-generated/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Oil Mystery at Heart of America's Pressure Campaign on Iran...",
           "link": "https://www.wsj.com/world/middle-east/the-oil-mystery-at-the-heart-of-americas-pressure-campaign-on-iran-7b88d43a",
