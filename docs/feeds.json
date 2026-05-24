@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T08:00:22.019700-07:00",
-  "generated_at_display": "May 24, 2026 08:00 AM PT",
+  "generated_at": "2026-05-24T09:00:21.819100-07:00",
+  "generated_at_display": "May 24, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Ansel Adams' trust says AI-colorized version of his work was exhibited without permission",
-          "link": "https://www.engadget.com/2180105/ansel-adams-trust-says-ai-colorized-version-moonrise-was-exhibited-without-permission/",
-          "summary": "The AI-generated version of 'Moonrise, Hernandez, New Mexico' was on display at AIPAD's The Photography show.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The AI-generated version of \u2018Moonrise, Hernandez, New Mexico\u2019 was on display at AIPAD\u2019s The Photography show."
-        },
-        {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
           "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
           "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
@@ -165,20 +157,12 @@
           "excerpt": "Google won't rest until Gemini is everywhere in your home"
         },
         {
-          "title": "Are you really going to talk to Gemini like that?",
-          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
-          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
+          "title": "Ansel Adams' trust says AI-colorized version of his work was exhibited without permission",
+          "link": "https://www.engadget.com/2180105/ansel-adams-trust-says-ai-colorized-version-moonrise-was-exhibited-without-permission/",
+          "summary": "The AI-generated version of 'Moonrise, Hernandez, New Mexico' was on display at AIPAD's The Photography show.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
-        },
-        {
-          "title": "Ayaneo reveals yet another Game Boy remake but this one has AI",
-          "link": "https://www.engadget.com/2180083/ayaneo-reveals-yet-another-game-boy-remake-but-this-one-has-ai/",
-          "summary": "The Konkr Pocket Block will be smaller than the company's previous vertical handhelds.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Konkr Pocket Block will be smaller than the company\u2019s previous vertical handhelds."
+          "excerpt": "The AI-generated version of \u2018Moonrise, Hernandez, New Mexico\u2019 was on display at AIPAD\u2019s The Photography show."
         },
         {
           "title": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number",
@@ -195,6 +179,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "UK antitrust regulator is officially investigating Microsoft Office"
+        },
+        {
+          "title": "Ayaneo reveals yet another Game Boy remake but this one has AI",
+          "link": "https://www.engadget.com/2180083/ayaneo-reveals-yet-another-game-boy-remake-but-this-one-has-ai/",
+          "summary": "The Konkr Pocket Block will be smaller than the company's previous vertical handhelds.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Konkr Pocket Block will be smaller than the company\u2019s previous vertical handhelds."
         },
         {
           "title": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level",
