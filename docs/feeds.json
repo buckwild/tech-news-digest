@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T04:00:21.627835-07:00",
-  "generated_at_display": "May 24, 2026 04:00 AM PT",
+  "generated_at": "2026-05-24T05:00:26.705457-07:00",
+  "generated_at_display": "May 24, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -227,8 +227,22 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "Rubio vs. conservative critics of Iran deal as agreement appears imminent...",
+          "link": "https://www.washingtonpost.com/national-security/2026/05/24/rubio-defends-push-iran-deal-which-trump-says-is-final-stages/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republicans warn: Could strengthen Tehran, 'disaster'...",
+          "link": "https://www.jpost.com/international/article-897082",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "UPDATE:  30 SHOTS FIRED OUTSIDE WHITE HOUSE",
-          "link": "https://www.nbcnews.com/politics/politics-news/gunshots-reported-near-white-house-rcna346671",
+          "link": "https://www.nbcnews.com/politics/rcna346671",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -243,13 +257,6 @@
         {
           "title": "Trump Drops Shocking Violent AI Vid Showing Assault on Colbert...",
           "link": "https://www.mediaite.com/media/news/trump-drops-shocking-violent-ai-vid-showing-assault-on-late-show-host-stephen-colbert-so-did-his-white-house/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Three months in, is USA losing Iran war?",
-          "link": "https://www.yahoo.com/news/articles/analysis-three-months-trump-losing-050310695.html",
           "summary": null,
           "published": null,
           "excerpt": null
