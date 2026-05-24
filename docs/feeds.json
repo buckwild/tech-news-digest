@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T15:00:25.308205-07:00",
-  "generated_at_display": "May 24, 2026 03:00 PM PT",
+  "generated_at": "2026-05-24T16:00:22.413698-07:00",
+  "generated_at_display": "May 24, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "The White House is reportedly forcing its official app onto all government employee phones",
-          "link": "https://www.engadget.com/2180247/white-house-is-reportedly-forcing-its-official-app-onto-all-government-employee-phones/",
-          "summary": "You gotta pump up those download numbers somehow.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You gotta pump up those download numbers somehow."
-        },
-        {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
           "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
           "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
@@ -157,12 +149,44 @@
           "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
         },
         {
-          "title": "Google won't rest until Gemini is everywhere in your home",
-          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
-          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
+          "title": "The White House is reportedly forcing its official app onto all government employee phones",
+          "link": "https://www.engadget.com/2180247/white-house-is-reportedly-forcing-its-official-app-onto-all-government-employee-phones/",
+          "summary": "You gotta pump up those download numbers somehow.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google won't rest until Gemini is everywhere in your home"
+          "excerpt": "You gotta pump up those download numbers somehow."
+        },
+        {
+          "title": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts",
+          "link": "https://www.engadget.com/2173148/spotify-and-its-hosting-platforms-are-adopting-apples-tech-for-video-podcasts/",
+          "summary": "HTTP Live Streaming support will let Apple Podcasts play Spotify-hosted video podcasts.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts"
+        },
+        {
+          "title": "The Esports World Cup will reportedly move to Paris from Riyadh",
+          "link": "https://www.engadget.com/2173107/the-esports-world-cup-will-reportedly-move-to-paris-from-riyadh/",
+          "summary": "Uncertainty in the Middle East is apparently forcing the location change.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This summer's Esports World Cup will be held in Paris, France, rather than its originally scheduled location of Riyadh, Saudi Arabia, due to the war in the Middle East,GamesBeatreports. According to the site, EWC organizers are telling stakeholders behind the scenes that the tournament will be moved to Paris this year, though there's been no public confirmation of the change. Rumors of a location swap have beenswirling for days."
+        },
+        {
+          "title": "Americans really don't want AI data centers close to their homes",
+          "link": "https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/",
+          "summary": "Maybe NIMBYs are right for once.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "AI companies are spending astronomical sums of money on building data centers as quickly as possible in order to increase their compute power. But the majority of Americans don't want that infrastructure close to their homes, according to aGallup survey."
+        },
+        {
+          "title": "The ChatGPT desktop app for Mac just got hit with a security breach",
+          "link": "https://www.engadget.com/2173054/the-chatgpt-desktop-app-for-mac-just-got-hit-with-a-security-breach/",
+          "summary": "OpenAI found no evidence that user data was accessed.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The ChatGPT desktop app for Mac just got hit with a security breach"
         },
         {
           "title": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number",
@@ -195,30 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level"
-        },
-        {
-          "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
-          "link": "https://www.engadget.com/2172725/dell-14s-16-s-2026/",
-          "summary": "The new models are now available, with prices starting at $1,270.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Dell's new 14S and 16S are the replacement for its old Plus models"
-        },
-        {
-          "title": "Motorola Razr Fold review: A worthy rival to Google and Samsung",
-          "link": "https://www.engadget.com/2172439/motorola-razr-fold-review/",
-          "summary": "It even has native stylus support, which Samsung dropped on the Galaxy Z Fold 7.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Motorola Razr Fold review: A worthy rival to Google and Samsung"
-        },
-        {
-          "title": "Ayaneo reveals yet another Game Boy remake but this one has AI",
-          "link": "https://www.engadget.com/2180083/ayaneo-reveals-yet-another-game-boy-remake-but-this-one-has-ai/",
-          "summary": "The Konkr Pocket Block will be smaller than the company's previous vertical handhelds.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Konkr Pocket Block will be smaller than the company\u2019s previous vertical handhelds."
         }
       ]
     },
@@ -227,7 +227,14 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Rubio vs. conservative critics of Iran deal as agreement appears imminent...",
+          "title": "Oil Futures Edge Down as Ships Move Toward Hormuz...",
+          "link": "https://www.wsj.com/business/energy-oil/oil-markets-hormuz-us-iran-deal-cf79ca70",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Rubio vs. conservative critics of Iran deal...",
           "link": "https://www.washingtonpost.com/national-security/2026/05/24/rubio-defends-push-iran-deal-which-trump-says-is-final-stages/",
           "summary": null,
           "published": null,
@@ -257,20 +264,6 @@
         {
           "title": "AIRS OUT AG",
           "link": "https://www.nbcnews.com/politics/rcna346599",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "The Former Air Force Pilot Allegedly Recruited to Train China's Military...",
-          "link": "https://www.wsj.com/world/the-former-air-force-pilot-who-was-allegedly-recruited-to-train-chinas-military-8aa2d738",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Doug McCain, oldest son of Sen. John McCain, dead at 66...",
-          "link": "https://nypost.com/2026/05/24/us-news/doug-mccain-the-oldest-son-of-sen-john-mccain-dead-at-66",
           "summary": null,
           "published": null,
           "excerpt": null
