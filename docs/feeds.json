@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T09:00:28.207560-07:00",
-  "generated_at_display": "May 25, 2026 09:00 AM PT",
+  "generated_at": "2026-05-25T10:00:19.986572-07:00",
+  "generated_at_display": "May 25, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Huawei claims it will make cutting-edge semiconductors by 2031",
+          "link": "https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/",
+          "summary": "The company said its next-gen chips will be \"feasible and affordable.\"",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company said its next-gen chips will be \u201cfeasible and affordable.\u201d"
+        },
+        {
+          "title": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level",
+          "link": "https://www.engadget.com/2162157/dont-touch-the-snail-is-an-anti-cozy-game-that-takes-permadeath-to-the-next-level/",
+          "summary": "Once you die, you can never play again.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level"
+        },
+        {
+          "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
+          "link": "https://www.engadget.com/2172725/dell-14s-16-s-2026/",
+          "summary": "The new models are now available, with prices starting at $1,270.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Dell's new 14S and 16S are the replacement for its old Plus models"
+        },
+        {
           "title": "Star Citizen has raised $1 billion, remains in early access after nine years",
           "link": "https://www.engadget.com/2180552/star-citizen-has-raised-1-billion-remains-in-early-access-after-nine-years/",
           "summary": "Single-player spin-off Squadron 42 is \"in the closing stages\" but doesn't have a release date either.",
@@ -149,20 +173,28 @@
           "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
         },
         {
-          "title": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level",
-          "link": "https://www.engadget.com/2162157/dont-touch-the-snail-is-an-anti-cozy-game-that-takes-permadeath-to-the-next-level/",
-          "summary": "Once you die, you can never play again.",
+          "title": "Motorola Razr Fold review: A worthy rival to Google and Samsung",
+          "link": "https://www.engadget.com/2172439/motorola-razr-fold-review/",
+          "summary": "It even has native stylus support, which Samsung dropped on the Galaxy Z Fold 7.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level"
+          "excerpt": "Motorola Razr Fold review: A worthy rival to Google and Samsung"
         },
         {
-          "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
-          "link": "https://www.engadget.com/2172725/dell-14s-16-s-2026/",
-          "summary": "The new models are now available, with prices starting at $1,270.",
+          "title": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips",
+          "link": "https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/",
+          "summary": "But Reuters says NVIDIA has yet to make any deliveries.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Dell's new 14S and 16S are the replacement for its old Plus models"
+          "excerpt": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips"
+        },
+        {
+          "title": "Apple backs Google after EU orders Android be opened up to AI rivals",
+          "link": "https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/",
+          "summary": "The company agrees with Google that it would put European users' privacy and safety at risk.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple backs Google after EU orders Android be opened up to AI rivals"
         },
         {
           "title": "Pope Leo calls for AI to serve humanity and not concentrate power",
@@ -187,30 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google won't rest until Gemini is everywhere in your home"
-        },
-        {
-          "title": "Are you really going to talk to Gemini like that?",
-          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
-          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
-        },
-        {
-          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
-          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
-          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
-        },
-        {
-          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         }
       ]
     },
