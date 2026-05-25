@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T04:00:21.219963-07:00",
-  "generated_at_display": "May 25, 2026 04:00 AM PT",
+  "generated_at": "2026-05-25T05:00:22.799490-07:00",
+  "generated_at_display": "May 25, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -250,6 +250,13 @@
         {
           "title": "POPE AI WARNING'TOWER OF BABEL'",
           "link": "https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Self-Indulgence Deepens Republican Fears in Midterms...",
+          "link": "https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html?unlocked_article_code=1.lFA.0PVP.d86PLSdN2KO1&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
