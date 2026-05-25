@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T05:00:22.799490-07:00",
-  "generated_at_display": "May 25, 2026 05:00 AM PT",
+  "generated_at": "2026-05-25T06:00:22.538137-07:00",
+  "generated_at_display": "May 25, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Pope Leo calls for AI to serve humanity and not concentrate power",
+          "link": "https://www.engadget.com/2180436/pope-leo-calls-for-ai-to-serve-humanity-and-not-concentrate-power/",
+          "summary": "In 42,300 word encyclical, Pope Leo warns of AI dangers around educational, child safety, concentration of power and weapons.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Pope Leo XIV has taken a stronger stand against AI. On Monday,Leo released his first papal encyclical\u2014 an almost 400-year-old tradition in which the Catholic Church shares its perspective on an issue. In this case, over about 42,300 words (in the English version), the Pope warned of \"the misconception of equating this type of 'intelligence' with that of human beings.\""
+        },
+        {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
           "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
           "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
@@ -149,52 +157,44 @@
           "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
         },
         {
+          "title": "Google won't rest until Gemini is everywhere in your home",
+          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
+          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google won't rest until Gemini is everywhere in your home"
+        },
+        {
+          "title": "Are you really going to talk to Gemini like that?",
+          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
+          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
+        },
+        {
+          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
+          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
+          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
+        },
+        {
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+        },
+        {
           "title": "The White House is reportedly forcing its official app onto all government employee phones",
           "link": "https://www.engadget.com/2180247/white-house-is-reportedly-forcing-its-official-app-onto-all-government-employee-phones/",
           "summary": "You gotta pump up those download numbers somehow.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "You gotta pump up those download numbers somehow."
-        },
-        {
-          "title": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts",
-          "link": "https://www.engadget.com/2173148/spotify-and-its-hosting-platforms-are-adopting-apples-tech-for-video-podcasts/",
-          "summary": "HTTP Live Streaming support will let Apple Podcasts play Spotify-hosted video podcasts.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify and its hosting platforms are adopting Apple's tech for video podcasts"
-        },
-        {
-          "title": "The Esports World Cup will reportedly move to Paris from Riyadh",
-          "link": "https://www.engadget.com/2173107/the-esports-world-cup-will-reportedly-move-to-paris-from-riyadh/",
-          "summary": "Uncertainty in the Middle East is apparently forcing the location change.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "This summer's Esports World Cup will be held in Paris, France, rather than its originally scheduled location of Riyadh, Saudi Arabia, due to the war in the Middle East,GamesBeatreports. According to the site, EWC organizers are telling stakeholders behind the scenes that the tournament will be moved to Paris this year, though there's been no public confirmation of the change. Rumors of a location swap have beenswirling for days."
-        },
-        {
-          "title": "Americans really don't want AI data centers close to their homes",
-          "link": "https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/",
-          "summary": "Maybe NIMBYs are right for once.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "AI companies are spending astronomical sums of money on building data centers as quickly as possible in order to increase their compute power. But the majority of Americans don't want that infrastructure close to their homes, according to aGallup survey."
-        },
-        {
-          "title": "The ChatGPT desktop app for Mac just got hit with a security breach",
-          "link": "https://www.engadget.com/2173054/the-chatgpt-desktop-app-for-mac-just-got-hit-with-a-security-breach/",
-          "summary": "OpenAI found no evidence that user data was accessed.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The ChatGPT desktop app for Mac just got hit with a security breach"
-        },
-        {
-          "title": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number",
-          "link": "https://www.engadget.com/2173013/new-google-accounts-may-only-get-5gb-free-storage-unless-you-link-a-phone-number/",
-          "summary": "Google describes it as a regional test.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "New Google accounts may only get 5GB free storage \u2014 unless you link a phone number"
         },
         {
           "title": "UK antitrust regulator is officially investigating Microsoft Office",
@@ -205,20 +205,20 @@
           "excerpt": "UK antitrust regulator is officially investigating Microsoft Office"
         },
         {
-          "title": "Ansel Adams' trust says AI-colorized version of his work was exhibited without permission",
-          "link": "https://www.engadget.com/2180105/ansel-adams-trust-says-ai-colorized-version-moonrise-was-exhibited-without-permission/",
-          "summary": "The AI-generated version of 'Moonrise, Hernandez, New Mexico' was on display at AIPAD's The Photography show.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The AI-generated version of \u2018Moonrise, Hernandez, New Mexico\u2019 was on display at AIPAD\u2019s The Photography show."
-        },
-        {
           "title": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level",
           "link": "https://www.engadget.com/2162157/dont-touch-the-snail-is-an-anti-cozy-game-that-takes-permadeath-to-the-next-level/",
           "summary": "Once you die, you can never play again.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level"
+        },
+        {
+          "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
+          "link": "https://www.engadget.com/2172725/dell-14s-16-s-2026/",
+          "summary": "The new models are now available, with prices starting at $1,270.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Dell's new 14S and 16S are the replacement for its old Plus models"
         }
       ]
     },
@@ -234,8 +234,8 @@
           "excerpt": null
         },
         {
-          "title": "Rubio vs. conservative critics of Iran 'deal'...",
-          "link": "https://www.washingtonpost.com/national-security/2026/05/24/rubio-defends-push-iran-deal-which-trump-says-is-final-stages/",
+          "title": "Iran 'deal' as divisive as decision to wage war...",
+          "link": "https://www.cnn.com/2026/05/25/politics/trump-iran-war-deal-analysis",
           "summary": null,
           "published": null,
           "excerpt": null
