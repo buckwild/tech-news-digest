@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T01:00:22.801807-07:00",
-  "generated_at_display": "May 26, 2026 01:00 AM PT",
+  "generated_at": "2026-05-26T02:00:22.292491-07:00",
+  "generated_at_display": "May 26, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
+          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
+          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
+        },
+        {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
           "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
           "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
@@ -139,6 +147,38 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
+        },
+        {
+          "title": "The Morning After: The biggest news from Google I/O 2026",
+          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
+          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
+        },
+        {
+          "title": "Google won't rest until Gemini is everywhere in your home",
+          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
+          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google won't rest until Gemini is everywhere in your home"
+        },
+        {
+          "title": "Are you really going to talk to Gemini like that?",
+          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
+          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
+        },
+        {
+          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
+          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
+          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         },
         {
           "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
@@ -157,20 +197,20 @@
           "excerpt": "Motorola Razr Fold review: A worthy rival to Google and Samsung"
         },
         {
-          "title": "Huawei claims it will make cutting-edge semiconductors by 2031",
-          "link": "https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/",
-          "summary": "The company said its next-gen chips will be \"feasible and affordable.\"",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company said its next-gen chips will be \u201cfeasible and affordable.\u201d"
-        },
-        {
           "title": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips",
           "link": "https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/",
           "summary": "But Reuters says NVIDIA has yet to make any deliveries.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips"
+        },
+        {
+          "title": "Huawei claims it will make cutting-edge semiconductors by 2031",
+          "link": "https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/",
+          "summary": "The company said its next-gen chips will be \"feasible and affordable.\"",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company said its next-gen chips will be \u201cfeasible and affordable.\u201d"
         },
         {
           "title": "Apple backs Google after EU orders Android be opened up to AI rivals",
@@ -187,30 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now"
-        },
-        {
-          "title": "KitchenAid launches its first smart thermometer",
-          "link": "https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/",
-          "summary": "There are single and dual probe models available.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "KitchenAid launches its first smart thermometer"
-        },
-        {
-          "title": "Apple may open up the App Store to agentic AI",
-          "link": "https://www.engadget.com/2172378/apple-may-open-up-the-app-store-to-agentic-ai/",
-          "summary": "But doing so could threaten its bottom line.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple may open up the App Store to agentic AI"
-        },
-        {
-          "title": "Star Citizen has raised $1 billion, remains in early access after nine years",
-          "link": "https://www.engadget.com/2180552/star-citizen-has-raised-1-billion-remains-in-early-access-after-nine-years/",
-          "summary": "Single-player spin-off Squadron 42 is \"in the closing stages\" but doesn't have a release date either.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amidsuggestionsthat Rockstar Games is spending as much as around $1.5 billion on the\u00a0development ofGrand Theft Auto VI\u2014 which would mean it's the most expensive video game ever made \u2014 there's at least one other game confirmed to have reached 10 figures in funding.Star Citizenhas now raked inover $1 billion in fundingfrom more than 6.5 million people."
         }
       ]
     },
