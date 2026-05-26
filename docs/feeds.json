@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T10:00:20.573851-07:00",
-  "generated_at_display": "May 26, 2026 10:00 AM PT",
+  "generated_at": "2026-05-26T11:00:24.884888-07:00",
+  "generated_at_display": "May 26, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Spain blocks Polymarket and Kalshi as it investigates prediction market platforms",
-          "link": "https://www.engadget.com/2181235/spain-blocks-polymarket-and-kalshi-as-it-investigates-prediction-market-platforms/",
-          "summary": "US states have also tried to regulate Polymarket and Kalshi, but the federal government isn't having any of it.",
+          "title": "SpaceX's Starlink will soon provide in-flight Wi-Fi for American Airlines",
+          "link": "https://www.engadget.com/2181390/spacexs-starlink-will-soon-provide-in-flight-wi-fi-for-american-airlines/",
+          "summary": "Starlink is coming to (some of) American Airline.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The Spanish government has issued an order to block the gambling platforms Polymarket and Kalshi, according to a report byThe Wall Street Journal. The ban is being instituted as the country investigates the legality of prediction market platforms, as they operate in Spain(and everywhere else)without a gambling license."
+          "excerpt": "The company has already won contracts with United, Southwest and other carriers."
         },
         {
           "title": "Fitbit Air review: Health tracking for the AI generation",
@@ -147,6 +147,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "VIDEO"
+        },
+        {
+          "title": "Spain blocks Polymarket and Kalshi as it investigates prediction market platforms",
+          "link": "https://www.engadget.com/2181235/spain-blocks-polymarket-and-kalshi-as-it-investigates-prediction-market-platforms/",
+          "summary": "US states have also tried to regulate Polymarket and Kalshi, but the federal government isn't having any of it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Spanish government has issued an order to block the gambling platforms Polymarket and Kalshi, according to a report byThe Wall Street Journal. The ban is being instituted as the country investigates the legality of prediction market platforms, as they operate in Spain(and everywhere else)without a gambling license."
         },
         {
           "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
@@ -181,14 +189,6 @@
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
         },
         {
-          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
-          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
-          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
-        },
-        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
@@ -211,6 +211,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's unclear how useful any of it will be though."
+        },
+        {
+          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
+          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
+          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
         }
       ]
     },
@@ -221,6 +229,13 @@
         {
           "title": "UPDATE: USA Bombs Iran Hours After Negotiators Arrive for 'Peace Talks'...",
           "link": "https://www.telegraph.co.uk/world-news/2026/05/26/iran-war-trump-strait-hormuz-ceasefire-peace-deal-latest/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "UFC Fight Venue Takes Shape on White House Lawn...",
+          "link": "https://www.nytimes.com/2026/05/26/us/politics/ufc-fight-trump-white-house.html?unlocked_article_code=1.lVA._Td5.0NPJZupYfqy9&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
