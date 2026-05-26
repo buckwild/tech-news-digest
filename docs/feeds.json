@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T11:00:24.884888-07:00",
-  "generated_at_display": "May 26, 2026 11:00 AM PT",
+  "generated_at": "2026-05-26T12:00:28.287461-07:00",
+  "generated_at_display": "May 26, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "SpaceX's Starlink will soon provide in-flight Wi-Fi for American Airlines",
-          "link": "https://www.engadget.com/2181390/spacexs-starlink-will-soon-provide-in-flight-wi-fi-for-american-airlines/",
-          "summary": "Starlink is coming to (some of) American Airline.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company has already won contracts with United, Southwest and other carriers."
-        },
-        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
@@ -141,20 +133,20 @@
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
+          "title": "SpaceX's Starlink will soon provide in-flight Wi-Fi for American Airlines",
+          "link": "https://www.engadget.com/2181390/spacexs-starlink-will-soon-provide-in-flight-wi-fi-for-american-airlines/",
+          "summary": "Starlink is coming to (some of) American Airline.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company has already won contracts with United, Southwest and other carriers."
+        },
+        {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
           "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
           "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "VIDEO"
-        },
-        {
-          "title": "Spain blocks Polymarket and Kalshi as it investigates prediction market platforms",
-          "link": "https://www.engadget.com/2181235/spain-blocks-polymarket-and-kalshi-as-it-investigates-prediction-market-platforms/",
-          "summary": "US states have also tried to regulate Polymarket and Kalshi, but the federal government isn't having any of it.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Spanish government has issued an order to block the gambling platforms Polymarket and Kalshi, according to a report byThe Wall Street Journal. The ban is being instituted as the country investigates the legality of prediction market platforms, as they operate in Spain(and everywhere else)without a gambling license."
         },
         {
           "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
@@ -189,6 +181,14 @@
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
         },
         {
+          "title": "Spain blocks Polymarket and Kalshi as it investigates prediction market platforms",
+          "link": "https://www.engadget.com/2181235/spain-blocks-polymarket-and-kalshi-as-it-investigates-prediction-market-platforms/",
+          "summary": "US states have also tried to regulate Polymarket and Kalshi, but the federal government isn't having any of it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Spanish government has issued an order to block the gambling platforms Polymarket and Kalshi, according to a report byThe Wall Street Journal. The ban is being instituted as the country investigates the legality of prediction market platforms, as they operate in Spain(and everywhere else)without a gambling license."
+        },
+        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
@@ -211,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's unclear how useful any of it will be though."
-        },
-        {
-          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
-          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
-          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
         }
       ]
     },
