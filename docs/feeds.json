@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T08:00:26.526451-07:00",
-  "generated_at_display": "May 26, 2026 08:00 AM PT",
+  "generated_at": "2026-05-26T09:00:21.089763-07:00",
+  "generated_at_display": "May 26, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Spain blocks Polymarket and Kalshi as it investigates prediction market platforms",
+          "link": "https://www.engadget.com/2181235/spain-blocks-polymarket-and-kalshi-as-it-investigates-prediction-market-platforms/",
+          "summary": "US states have also tried to regulate Polymarket and Kalshi, but the federal government isn't having any of it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Spanish government has issued an order to block the gambling platforms Polymarket and Kalshi, according to a report byThe Wall Street Journal. The ban is being instituted as the country investigates the legality of prediction market platforms, as they operate in Spain(and everywhere else)without a gambling license."
+        },
+        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
@@ -149,14 +157,6 @@
           "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
         },
         {
-          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
-          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
-          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
-        },
-        {
           "title": "The Morning After: The biggest news from Google I/O 2026",
           "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
           "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
@@ -179,6 +179,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
+        },
+        {
+          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
+          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
+          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
         },
         {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
@@ -212,7 +220,7 @@
       "entries": [
         {
           "title": "UPDATE: USA Bombs Iran Hours After Negotiators Arrive for 'Peace Talks'...",
-          "link": "https://www.mediaite.com/politics/u-s-bombs-iran-hours-after-negotiators-arrive-for-peace-talks/",
+          "link": "https://www.telegraph.co.uk/world-news/2026/05/26/iran-war-trump-strait-hormuz-ceasefire-peace-deal-latest/",
           "summary": null,
           "published": null,
           "excerpt": null
