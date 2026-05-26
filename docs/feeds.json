@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T07:00:24.832371-07:00",
-  "generated_at_display": "May 26, 2026 07:00 AM PT",
+  "generated_at": "2026-05-26T08:00:26.526451-07:00",
+  "generated_at_display": "May 26, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
-          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
-          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
@@ -147,6 +147,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
+        },
+        {
+          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
+          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
+          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
         },
         {
           "title": "The Morning After: The biggest news from Google I/O 2026",
@@ -181,14 +189,6 @@
           "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         },
         {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
           "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
           "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
           "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
@@ -197,12 +197,12 @@
           "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
-          "title": "Motorola Razr Fold review: A worthy rival to Google and Samsung",
-          "link": "https://www.engadget.com/2172439/motorola-razr-fold-review/",
-          "summary": "It even has native stylus support, which Samsung dropped on the Galaxy Z Fold 7.",
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Motorola Razr Fold review: A worthy rival to Google and Samsung"
+          "excerpt": "It's unclear how useful any of it will be though."
         }
       ]
     },
