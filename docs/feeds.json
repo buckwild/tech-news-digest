@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T15:00:23.051358-07:00",
-  "generated_at_display": "May 26, 2026 03:00 PM PT",
+  "generated_at": "2026-05-26T16:00:29.272876-07:00",
+  "generated_at_display": "May 26, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,20 +125,28 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Elon Musk just can't stop (potentially) violating the Clean Air Act",
+          "link": "https://www.engadget.com/2172050/elon-musk-just-cant-stop-potentially-violating-the-clean-air-act/",
+          "summary": "xAI has reportedly added 19 more unpermitted methane gas turbines to its latest data center site.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Elon Musk just can't stop (potentially) violating the Clean Air Act"
+        },
+        {
+          "title": "WhatsApp users can soon have private conversations with Meta AI",
+          "link": "https://www.engadget.com/2171922/whatsapp-users-can-soon-have-private-conversations-with-meta-ai/",
+          "summary": "No one other than you will be able to read messages exchanged via Incognito Chat with Meta AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "WhatsApp users can soon have private conversations with Meta AI"
+        },
+        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
-          "title": "SpaceX's Starlink will soon provide in-flight Wi-Fi for American Airlines",
-          "link": "https://www.engadget.com/2181390/spacexs-starlink-will-soon-provide-in-flight-wi-fi-for-american-airlines/",
-          "summary": "Starlink is coming to (some of) American Airline.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company has already won contracts with United, Southwest and other carriers."
         },
         {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
@@ -173,6 +181,14 @@
           "excerpt": "Google won't rest until Gemini is everywhere in your home"
         },
         {
+          "title": "SpaceX's Starlink will soon provide in-flight Wi-Fi for American Airlines",
+          "link": "https://www.engadget.com/2181390/spacexs-starlink-will-soon-provide-in-flight-wi-fi-for-american-airlines/",
+          "summary": "Starlink is coming to (some of) American Airline.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company has already won contracts with United, Southwest and other carriers."
+        },
+        {
           "title": "Are you really going to talk to Gemini like that?",
           "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
           "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
@@ -181,36 +197,12 @@
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
         },
         {
-          "title": "Spain blocks Polymarket and Kalshi as it investigates prediction market platforms",
-          "link": "https://www.engadget.com/2181235/spain-blocks-polymarket-and-kalshi-as-it-investigates-prediction-market-platforms/",
-          "summary": "US states have also tried to regulate Polymarket and Kalshi, but the federal government isn't having any of it.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Spanish government has issued an order to block the gambling platforms Polymarket and Kalshi, according to a report byThe Wall Street Journal. The ban is being instituted as the country investigates the legality of prediction market platforms, as they operate in Spain(and everywhere else)without a gambling license."
-        },
-        {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
           "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
           "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
-        },
-        {
-          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
-        },
-        {
-          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
-          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
-          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's unclear how useful any of it will be though."
         }
       ]
     },
