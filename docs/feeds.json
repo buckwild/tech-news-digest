@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T04:00:22.122754-07:00",
-  "generated_at_display": "May 26, 2026 04:00 AM PT",
+  "generated_at": "2026-05-26T05:00:21.523244-07:00",
+  "generated_at_display": "May 26, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
-          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
-          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
-        },
-        {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
           "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
           "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
@@ -147,6 +139,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
+        },
+        {
+          "title": "Blue Origin cleared to launch New Glenn rocket again after FAA investigation",
+          "link": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
+          "summary": "Blue Origin can now prepare for New Glenn's fourth flight after the FAA cleared it for launch.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The FAA grounded New Glenn after it failed to put its payload into orbit."
         },
         {
           "title": "The Morning After: The biggest news from Google I/O 2026",
@@ -181,20 +181,20 @@
           "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         },
         {
-          "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
-          "link": "https://www.engadget.com/2172725/dell-14s-16-s-2026/",
-          "summary": "The new models are now available, with prices starting at $1,270.",
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Dell's new 14S and 16S are the replacement for its old Plus models"
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         },
         {
-          "title": "Motorola Razr Fold review: A worthy rival to Google and Samsung",
-          "link": "https://www.engadget.com/2172439/motorola-razr-fold-review/",
-          "summary": "It even has native stylus support, which Samsung dropped on the Galaxy Z Fold 7.",
+          "title": "Engadget Podcast: Google I/O 2026 was AI all the way down",
+          "link": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+          "summary": "Google I/O was AI all the way down, but it's not clear how much will be useful.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Motorola Razr Fold review: A worthy rival to Google and Samsung"
+          "excerpt": "It's unclear how useful any of it will be though."
         },
         {
           "title": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips"
-        },
-        {
-          "title": "Huawei claims it will make cutting-edge semiconductors by 2031",
-          "link": "https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/",
-          "summary": "The company said its next-gen chips will be \"feasible and affordable.\"",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company said its next-gen chips will be \u201cfeasible and affordable.\u201d"
         },
         {
           "title": "Apple backs Google after EU orders Android be opened up to AI rivals",
