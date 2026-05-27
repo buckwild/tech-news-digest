@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T11:00:22.384072-07:00",
-  "generated_at_display": "May 27, 2026 11:00 AM PT",
+  "generated_at": "2026-05-27T12:00:23.670123-07:00",
+  "generated_at_display": "May 27, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,46 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google updates Gemini for Home with AI-powered camera automations",
+          "link": "https://www.engadget.com/2182342/google-updates-gemini-for-home-with-ai-powered-camera-automations/",
+          "summary": "Gemini can trigger smart home routines based on what your cameras see.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Gemini can trigger smart home routines based on what your cameras see."
+        },
+        {
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
+        },
+        {
+          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
+          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
+          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "VIDEO"
+        },
+        {
+          "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
+          "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
+          "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
+        },
+        {
+          "title": "The Morning After: The biggest news from Google I/O 2026",
+          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
+          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
+        },
+        {
           "title": "YouTube will automatically detect and label AI-generated videos",
           "link": "https://www.engadget.com/2182197/youtube-will-automatically-detect-and-label-ai-generated-videos/",
           "summary": "It should be easier to tell at a glance if a YouTube video will contain AI-generated gunk.",
@@ -133,28 +173,12 @@
           "excerpt": "It should be easier to tell at a glance if a YouTube video will contain AI-generated gunk."
         },
         {
-          "title": "Google is reportedly considering working with SpaceX on orbital data centers",
-          "link": "https://www.engadget.com/2171194/google-is-reportedly-considering-working-with-spacex-on-orbital-data-centers/",
-          "summary": "The company has been working on the idea since the end of 2025.",
+          "title": "Android 17 includes better iOS file sharing and a forced break for addictive apps",
+          "link": "https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/",
+          "summary": "Google is also launching 3D Emoji.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google is reportedly considering working with SpaceX on orbital data centers"
-        },
-        {
-          "title": "Apple acquired another company that could help build out its Creator Studio subscription",
-          "link": "https://www.engadget.com/2171141/apple-acquired-another-company-that-could-help-build-out-its-creator-studio-subscription/",
-          "summary": "The company behind color grading tool Color.io was acquired in January.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple acquired another company that could help build out its Creator Studio subscription"
-        },
-        {
-          "title": "Threads users are pissed they can't block Meta's new AI chatbot",
-          "link": "https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/",
-          "summary": "It's the top trending topic on the platform.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Threads users are pissed they can't block Meta's new AI chatbot"
+          "excerpt": "Google mission to add an extra layer of polish to its mobile OS continues with Android 17. Withlast year's update, the company focused on upgrading its notification experience and adding a big-screen desktop mode. Android 17, not surprisingly, willlean into more integration with Google's Gemini(including the nifty ability to create app automations). But if you're not into AI, there are still a few notable additions, especially when it comes to file sharing with iOS, 3D emojis and reining in addictive apps."
         },
         {
           "title": "Square Enix restarted development on Dragon Quest 12 and gave it a new name",
@@ -165,36 +189,12 @@
           "excerpt": "It's a big day for Dragon Quest, with May 27 marking 40 years since the iconic RPG series debuted on the NES. To celebrate, Square Enix put out a special anniversarylivestreamthat featured a number of announcements about past and future Dragon Quest games, the most noteworthy of which beingDragon Quest XII."
         },
         {
-          "title": "Everything announced at The Android Show: I/O 2026 edition",
-          "link": "https://www.engadget.com/2171038/everything-announced-at-android-show-google-io-2026/",
-          "summary": "Google had a whole lot of news to share, including on new laptops and Gemini Intelligence.",
+          "title": "Google won't rest until Gemini is everywhere in your home",
+          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
+          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google has largely shifted away from big annual operating system updates in favor of more frequent Pixel Drops. Still, the pre-I/O edition of The Android Show gives the company a chance to give you a peek at what's coming viaAndroid 17."
-        },
-        {
-          "title": "Google announces upcoming security tools for Android, including enhanced protection against banking scam calls",
-          "link": "https://www.engadget.com/2169750/google-announces-upcoming-security-tools-for-android/",
-          "summary": "The Live Threat Detection feature is also getting a major upgrade.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google just livestreamed theAndroid Show: I/O Edition, which is an event that takes place the week before thecompany's annual I/O conference. This gave us a peek at a bunch of new features coming to the Android operating system, and many of them focus on security."
-        },
-        {
-          "title": "Googlebooks are the Android-based evolution of the Chromebook",
-          "link": "https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/",
-          "summary": "Google's only giving us a tease of what it has planned for its new laptop lineup.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "After multiple years of rumors, Google today confirmed a new laptop-focused initiative called Googlebooks. ChromeOS, which launched more than 15 years ago, was built with the thought that most people do everything online now; Google says this new category of laptops is built for a Gemini-first world. The company only gave us a very brief preview of what makes up a Googlebook, with plans to more formally announce more details including hardware later this year."
-        },
-        {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
+          "excerpt": "Google won't rest until Gemini is everywhere in your home"
         }
       ]
     },
