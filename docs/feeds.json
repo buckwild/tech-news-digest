@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T02:00:28.127857-07:00",
-  "generated_at_display": "May 27, 2026 02:00 AM PT",
+  "generated_at": "2026-05-27T03:00:20.053121-07:00",
+  "generated_at_display": "May 27, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,44 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "DuckDuckGo reports a surge in installs after Google put more AI into Search",
+          "link": "https://www.engadget.com/2181849/duckduckgo-installs-surge-after-google-ai-search/",
+          "summary": "Search engine company DuckDuckGo says it experienced a 'sustained surge' of installs in the week that followed Google I/O.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Most of the new installs are on iPhones in the US."
+        },
+        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
-          "title": "You can now visit Amazon.com on big-screen Echo Show displays",
-          "link": "https://www.engadget.com/2171710/full-amazon-shop-echo-show/",
-          "summary": "The full Amazon experience is available on Echo Show 15 and 21.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You can now visit Amazon.com on big-screen Echo Show displays"
-        },
-        {
-          "title": "Amazon made a version of Alexa just for shopping",
-          "link": "https://www.engadget.com/2171806/amazon-made-a-version-of-alexa-just-for-shopping/",
-          "summary": "Alexa for Shopping is an 'agentic AI assistant' for Amazon purchases",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amazon made a version of Alexa just for shopping"
-        },
-        {
-          "title": "Sony's Xperia 1 VIII has bigger camera sensors and a new look",
-          "link": "https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign/",
-          "summary": "Once again, Sony doesn't have plans to release it in the US.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Sony's Xperia 1 VIII has bigger camera sensors and a new look"
-        },
-        {
-          "title": "Family sues OpenAI, alleging ChatGPT advice led to accidental overdose",
-          "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
-          "summary": "The complaint says ChatGPT started giving Sam Nelson advice about drug use with the launch of GPT-4o.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI is facing anotherwrongful death lawsuit. Leila Turner-Scott and Angus Scott filed a lawsuit against the company, alleging that it designed and distributed a \"defective product\" that led to the death of their son\u00a0Sam Nelson from an accidental overdose. Specifically, they're alleging that Sam died following the \"exact medical adviceGPT-4ohad provided and approved.\""
         },
         {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
@@ -203,6 +179,38 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
+        },
+        {
+          "title": "Family sues OpenAI, alleging ChatGPT advice led to accidental overdose",
+          "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
+          "summary": "The complaint says ChatGPT started giving Sam Nelson advice about drug use with the launch of GPT-4o.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI is facing anotherwrongful death lawsuit. Leila Turner-Scott and Angus Scott filed a lawsuit against the company, alleging that it designed and distributed a \"defective product\" that led to the death of their son\u00a0Sam Nelson from an accidental overdose. Specifically, they're alleging that Sam died following the \"exact medical adviceGPT-4ohad provided and approved.\""
+        },
+        {
+          "title": "Meta is facing another lawsuit over scam ads on Facebook and Instagram",
+          "link": "https://www.engadget.com/2171464/meta-is-facing-another-lawsuit-over-scam-ads-on-facebook-and-instagram/",
+          "summary": "The lawsuit claims Meta is not doing enough to protect senior citizens and other vulnerable groups.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Santa Clara County has become the latest entityto sue Metaover scam ads on Facebook and Instagram. The lawsuit, brought by County Counsel Tony LoPresti, alleges that the company has profited from \"a vast ecosystem of scam ads\" that have defrauded senior citizens and other vulnerable people."
+        },
+        {
+          "title": "Apple reportedly has a lot of changes planned for the Camera app",
+          "link": "https://www.engadget.com/2171448/apple-reportedly-has-a-lot-of-changes-planned-for-the-camera-app/",
+          "summary": "iOS 27 may integrate Visual Intelligence into the Camera and make it more customizable.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple reportedly has a lot of changes planned for the Camera app"
+        },
+        {
+          "title": "DOJ extracts $30m settlement from PayPal over minority-owned business program",
+          "link": "https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/",
+          "summary": "The federal retaliation against corporate DEI efforts marches on.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
         },
         {
           "title": "Airbnb expands into hotel bookings and even grocery deliveries",
