@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T05:00:27.293092-07:00",
-  "generated_at_display": "May 27, 2026 05:00 AM PT",
+  "generated_at": "2026-05-27T06:00:21.952730-07:00",
+  "generated_at_display": "May 27, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Erin Brockovich launches a crowdsourced AI data center map",
-          "link": "https://www.engadget.com/2181883/erin-brockovich-launches-a-crowdsourced-ai-data-center-map/",
-          "summary": "Erin Brockovich has launched a new project to give people 'a platform to speak up and voice concerns about AI data centers.'",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Erin Brockovich, the American environmental activist portrayed by Julia Roberts in the film named after her, haslauncheda new project that aims to give people \"a platform to speak up and voice concerns about AI data centers in their communities.\" The newBrockovich AI Data Center Reporting websitecenters on a map showing major operational AI data centers and facilities under construction in the US, along with projects reported by the community. Some of the reports could be for\u00a0rumored or proposed projects, so not every dot on the map represents a data center that's already running."
-        },
-        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
@@ -141,28 +133,12 @@
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
-          "title": "DOJ extracts $30m settlement from PayPal over minority-owned business program",
-          "link": "https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/",
-          "summary": "The federal retaliation against corporate DEI efforts marches on.",
+          "title": "Erin Brockovich launches a crowdsourced AI data center map",
+          "link": "https://www.engadget.com/2181883/erin-brockovich-launches-a-crowdsourced-ai-data-center-map/",
+          "summary": "Erin Brockovich has launched a new project to give people 'a platform to speak up and voice concerns about AI data centers.'",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
-        },
-        {
-          "title": "Tekken director Katsuhiro Harada is back with his own studio under SNK",
-          "link": "https://www.engadget.com/2171217/tekken-director-katsuhiro-harada-is-back-with-his-own-studio-under-snk/",
-          "summary": "Six months after leaving Bandai Namco, Harada is in charge of his own team.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Longtime Tekken director Katsuhiro Harada is back, and this time around he's in full control, leading a Tokyo-based team called VS Studio. Haradaleft Bandai Namcoin December after 30 years directing and serving as the hair-gelled, always-shady face of the Tekken franchise, and his departure came as a surprise to the fighting game community. While Harada is in charge of the vision and output at VS Studio, it's a subsidiary of SNK Corporation, Bandai's market rival in the world of fighting games. Scandalous, surely."
-        },
-        {
-          "title": "DuckDuckGo reports a surge in installs after Google put more AI into Search",
-          "link": "https://www.engadget.com/2181849/duckduckgo-installs-surge-after-google-ai-search/",
-          "summary": "Search engine company DuckDuckGo says it experienced a 'sustained surge' of installs in the week that followed Google I/O.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Most of the new installs are on iPhones in the US."
+          "excerpt": "Erin Brockovich, the American environmental activist portrayed by Julia Roberts in the film named after her, haslauncheda new project that aims to give people \"a platform to speak up and voice concerns about AI data centers in their communities.\" The newBrockovich AI Data Center Reporting websitecenters on a map showing major operational AI data centers and facilities under construction in the US, along with projects reported by the community. Some of the reports could be for\u00a0rumored or proposed projects, so not every dot on the map represents a data center that's already running."
         },
         {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
@@ -195,6 +171,30 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google won't rest until Gemini is everywhere in your home"
+        },
+        {
+          "title": "DOJ extracts $30m settlement from PayPal over minority-owned business program",
+          "link": "https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/",
+          "summary": "The federal retaliation against corporate DEI efforts marches on.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
+        },
+        {
+          "title": "Tekken director Katsuhiro Harada is back with his own studio under SNK",
+          "link": "https://www.engadget.com/2171217/tekken-director-katsuhiro-harada-is-back-with-his-own-studio-under-snk/",
+          "summary": "Six months after leaving Bandai Namco, Harada is in charge of his own team.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Longtime Tekken director Katsuhiro Harada is back, and this time around he's in full control, leading a Tokyo-based team called VS Studio. Haradaleft Bandai Namcoin December after 30 years directing and serving as the hair-gelled, always-shady face of the Tekken franchise, and his departure came as a surprise to the fighting game community. While Harada is in charge of the vision and output at VS Studio, it's a subsidiary of SNK Corporation, Bandai's market rival in the world of fighting games. Scandalous, surely."
+        },
+        {
+          "title": "DuckDuckGo reports a surge in installs after Google put more AI into Search",
+          "link": "https://www.engadget.com/2181849/duckduckgo-installs-surge-after-google-ai-search/",
+          "summary": "Search engine company DuckDuckGo says it experienced a 'sustained surge' of installs in the week that followed Google I/O.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Most of the new installs are on iPhones in the US."
         },
         {
           "title": "Are you really going to talk to Gemini like that?",
