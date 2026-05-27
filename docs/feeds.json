@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T06:00:21.952730-07:00",
-  "generated_at_display": "May 27, 2026 06:00 AM PT",
+  "generated_at": "2026-05-27T07:00:22.711395-07:00",
+  "generated_at_display": "May 27, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "DOJ extracts $30m settlement from PayPal over minority-owned business program",
+          "link": "https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/",
+          "summary": "The federal retaliation against corporate DEI efforts marches on.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
+        },
+        {
+          "title": "Tekken director Katsuhiro Harada is back with his own studio under SNK",
+          "link": "https://www.engadget.com/2171217/tekken-director-katsuhiro-harada-is-back-with-his-own-studio-under-snk/",
+          "summary": "Six months after leaving Bandai Namco, Harada is in charge of his own team.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Longtime Tekken director Katsuhiro Harada is back, and this time around he's in full control, leading a Tokyo-based team called VS Studio. Haradaleft Bandai Namcoin December after 30 years directing and serving as the hair-gelled, always-shady face of the Tekken franchise, and his departure came as a surprise to the fighting game community. While Harada is in charge of the vision and output at VS Studio, it's a subsidiary of SNK Corporation, Bandai's market rival in the world of fighting games. Scandalous, surely."
+        },
+        {
+          "title": "Google is reportedly considering working with SpaceX on orbital data centers",
+          "link": "https://www.engadget.com/2171194/google-is-reportedly-considering-working-with-spacex-on-orbital-data-centers/",
+          "summary": "The company has been working on the idea since the end of 2025.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is reportedly considering working with SpaceX on orbital data centers"
+        },
+        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
@@ -173,52 +197,12 @@
           "excerpt": "Google won't rest until Gemini is everywhere in your home"
         },
         {
-          "title": "DOJ extracts $30m settlement from PayPal over minority-owned business program",
-          "link": "https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/",
-          "summary": "The federal retaliation against corporate DEI efforts marches on.",
+          "title": "Apple acquired another company that could help build out its Creator Studio subscription",
+          "link": "https://www.engadget.com/2171141/apple-acquired-another-company-that-could-help-build-out-its-creator-studio-subscription/",
+          "summary": "The company behind color grading tool Color.io was acquired in January.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
-        },
-        {
-          "title": "Tekken director Katsuhiro Harada is back with his own studio under SNK",
-          "link": "https://www.engadget.com/2171217/tekken-director-katsuhiro-harada-is-back-with-his-own-studio-under-snk/",
-          "summary": "Six months after leaving Bandai Namco, Harada is in charge of his own team.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Longtime Tekken director Katsuhiro Harada is back, and this time around he's in full control, leading a Tokyo-based team called VS Studio. Haradaleft Bandai Namcoin December after 30 years directing and serving as the hair-gelled, always-shady face of the Tekken franchise, and his departure came as a surprise to the fighting game community. While Harada is in charge of the vision and output at VS Studio, it's a subsidiary of SNK Corporation, Bandai's market rival in the world of fighting games. Scandalous, surely."
-        },
-        {
-          "title": "DuckDuckGo reports a surge in installs after Google put more AI into Search",
-          "link": "https://www.engadget.com/2181849/duckduckgo-installs-surge-after-google-ai-search/",
-          "summary": "Search engine company DuckDuckGo says it experienced a 'sustained surge' of installs in the week that followed Google I/O.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Most of the new installs are on iPhones in the US."
-        },
-        {
-          "title": "Are you really going to talk to Gemini like that?",
-          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
-          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
-        },
-        {
-          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
-          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
-          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
-        },
-        {
-          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
-          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
-          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
+          "excerpt": "Apple acquired another company that could help build out its Creator Studio subscription"
         }
       ]
     },
@@ -236,6 +220,13 @@
         {
           "title": "WILL FACE-OFF AGAINST TALARICO",
           "link": "https://www.mediaite.com/media/news/talarico-denies-hes-vegan-says-hes-been-eating-barbecue-since-before-ken-paxtons-first-indictment/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republicans stare down inflation abyss...",
+          "link": "https://www.cnbc.com/2026/05/27/election-economy-congress-inflation-republicans.html",
           "summary": null,
           "published": null,
           "excerpt": null
