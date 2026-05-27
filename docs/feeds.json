@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T22:00:23.956401-07:00",
-  "generated_at_display": "May 26, 2026 10:00 PM PT",
+  "generated_at": "2026-05-26T23:00:21.823870-07:00",
+  "generated_at_display": "May 26, 2026 11:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,28 +125,44 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Elon Musk just can't stop (potentially) violating the Clean Air Act",
-          "link": "https://www.engadget.com/2172050/elon-musk-just-cant-stop-potentially-violating-the-clean-air-act/",
-          "summary": "xAI has reportedly added 19 more unpermitted methane gas turbines to its latest data center site.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Elon Musk just can't stop (potentially) violating the Clean Air Act"
-        },
-        {
-          "title": "WhatsApp users can soon have private conversations with Meta AI",
-          "link": "https://www.engadget.com/2171922/whatsapp-users-can-soon-have-private-conversations-with-meta-ai/",
-          "summary": "No one other than you will be able to read messages exchanged via Incognito Chat with Meta AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "WhatsApp users can soon have private conversations with Meta AI"
-        },
-        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
+        },
+        {
+          "title": "You can now visit Amazon.com on big-screen Echo Show displays",
+          "link": "https://www.engadget.com/2171710/full-amazon-shop-echo-show/",
+          "summary": "The full Amazon experience is available on Echo Show 15 and 21.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You can now visit Amazon.com on big-screen Echo Show displays"
+        },
+        {
+          "title": "Amazon made a version of Alexa just for shopping",
+          "link": "https://www.engadget.com/2171806/amazon-made-a-version-of-alexa-just-for-shopping/",
+          "summary": "Alexa for Shopping is an 'agentic AI assistant' for Amazon purchases",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon made a version of Alexa just for shopping"
+        },
+        {
+          "title": "Sony's Xperia 1 VIII has bigger camera sensors and a new look",
+          "link": "https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign/",
+          "summary": "Once again, Sony doesn't have plans to release it in the US.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Sony's Xperia 1 VIII has bigger camera sensors and a new look"
+        },
+        {
+          "title": "Family sues OpenAI, alleging ChatGPT advice led to accidental overdose",
+          "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
+          "summary": "The complaint says ChatGPT started giving Sam Nelson advice about drug use with the launch of GPT-4o.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI is facing anotherwrongful death lawsuit. Leila Turner-Scott and Angus Scott filed a lawsuit against the company, alleging that it designed and distributed a \"defective product\" that led to the death of their son\u00a0Sam Nelson from an accidental overdose. Specifically, they're alleging that Sam died following the \"exact medical adviceGPT-4ohad provided and approved.\""
         },
         {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
@@ -179,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google won't rest until Gemini is everywhere in your home"
-        },
-        {
-          "title": "SpaceX's Starlink will soon provide in-flight Wi-Fi for American Airlines",
-          "link": "https://www.engadget.com/2181390/spacexs-starlink-will-soon-provide-in-flight-wi-fi-for-american-airlines/",
-          "summary": "Starlink is coming to (some of) American Airline.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company has already won contracts with United, Southwest and other carriers."
         },
         {
           "title": "Are you really going to talk to Gemini like that?",
