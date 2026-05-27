@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T04:00:22.957436-07:00",
-  "generated_at_display": "May 27, 2026 04:00 AM PT",
+  "generated_at": "2026-05-27T05:00:27.293092-07:00",
+  "generated_at_display": "May 27, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,28 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Family sues OpenAI, alleging ChatGPT advice led to accidental overdose",
-          "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
-          "summary": "The complaint says ChatGPT started giving Sam Nelson advice about drug use with the launch of GPT-4o.",
+          "title": "Erin Brockovich launches a crowdsourced AI data center map",
+          "link": "https://www.engadget.com/2181883/erin-brockovich-launches-a-crowdsourced-ai-data-center-map/",
+          "summary": "Erin Brockovich has launched a new project to give people 'a platform to speak up and voice concerns about AI data centers.'",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "OpenAI is facing anotherwrongful death lawsuit. Leila Turner-Scott and Angus Scott filed a lawsuit against the company, alleging that it designed and distributed a \"defective product\" that led to the death of their son\u00a0Sam Nelson from an accidental overdose. Specifically, they're alleging that Sam died following the \"exact medical adviceGPT-4ohad provided and approved.\""
+          "excerpt": "Erin Brockovich, the American environmental activist portrayed by Julia Roberts in the film named after her, haslauncheda new project that aims to give people \"a platform to speak up and voice concerns about AI data centers in their communities.\" The newBrockovich AI Data Center Reporting websitecenters on a map showing major operational AI data centers and facilities under construction in the US, along with projects reported by the community. Some of the reports could be for\u00a0rumored or proposed projects, so not every dot on the map represents a data center that's already running."
         },
         {
-          "title": "Meta is facing another lawsuit over scam ads on Facebook and Instagram",
-          "link": "https://www.engadget.com/2171464/meta-is-facing-another-lawsuit-over-scam-ads-on-facebook-and-instagram/",
-          "summary": "The lawsuit claims Meta is not doing enough to protect senior citizens and other vulnerable groups.",
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Santa Clara County has become the latest entityto sue Metaover scam ads on Facebook and Instagram. The lawsuit, brought by County Counsel Tony LoPresti, alleges that the company has profited from \"a vast ecosystem of scam ads\" that have defrauded senior citizens and other vulnerable people."
-        },
-        {
-          "title": "Apple reportedly has a lot of changes planned for the Camera app",
-          "link": "https://www.engadget.com/2171448/apple-reportedly-has-a-lot-of-changes-planned-for-the-camera-app/",
-          "summary": "iOS 27 may integrate Visual Intelligence into the Camera and make it more customizable.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple reportedly has a lot of changes planned for the Camera app"
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
           "title": "DOJ extracts $30m settlement from PayPal over minority-owned business program",
@@ -157,20 +149,20 @@
           "excerpt": "DOJ extracts $30m settlement from PayPal over minority-owned business program"
         },
         {
+          "title": "Tekken director Katsuhiro Harada is back with his own studio under SNK",
+          "link": "https://www.engadget.com/2171217/tekken-director-katsuhiro-harada-is-back-with-his-own-studio-under-snk/",
+          "summary": "Six months after leaving Bandai Namco, Harada is in charge of his own team.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Longtime Tekken director Katsuhiro Harada is back, and this time around he's in full control, leading a Tokyo-based team called VS Studio. Haradaleft Bandai Namcoin December after 30 years directing and serving as the hair-gelled, always-shady face of the Tekken franchise, and his departure came as a surprise to the fighting game community. While Harada is in charge of the vision and output at VS Studio, it's a subsidiary of SNK Corporation, Bandai's market rival in the world of fighting games. Scandalous, surely."
+        },
+        {
           "title": "DuckDuckGo reports a surge in installs after Google put more AI into Search",
           "link": "https://www.engadget.com/2181849/duckduckgo-installs-surge-after-google-ai-search/",
           "summary": "Search engine company DuckDuckGo says it experienced a 'sustained surge' of installs in the week that followed Google I/O.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Most of the new installs are on iPhones in the US."
-        },
-        {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
@@ -211,6 +203,22 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
+        },
+        {
+          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
+          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
+          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
+        },
+        {
+          "title": "Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings",
+          "link": "https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/",
+          "summary": "The e-paper slate has a built-in voice recorder to save you having to take meeting minutes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I recently reviewedreMarkable's Paper Pure, an e-paper writing tablet designed to be used in business meetings. The company markets itself as an almost analog space to think, pushing against the use of AI and the distractions of the digital age. Think of Cuneflow, then, as a rebuke of that philosophy, as its namesake e-paper writing slate has a built-in voice recorder to transcribe and extract insights from those very same business meetings. Is that a big enough draw for you to plonk down your money when it launches on Kickstarter?"
         }
       ]
     },
