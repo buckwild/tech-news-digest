@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T10:00:30.204841-07:00",
-  "generated_at_display": "May 27, 2026 10:00 AM PT",
+  "generated_at": "2026-05-27T11:00:22.384072-07:00",
+  "generated_at_display": "May 27, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Square Enix restarted development on Dragon Quest 12 and gave it a new name",
-          "link": "https://www.engadget.com/2182185/square-enix-restarted-development-on-dragon-quest-12-and-gave-it-a-new-name/",
-          "summary": "Square Enix has rebooted its next mainline entry in the Dragon Quest series, which is now called Dragon Quest XII: Beyond Dreams.",
+          "title": "YouTube will automatically detect and label AI-generated videos",
+          "link": "https://www.engadget.com/2182197/youtube-will-automatically-detect-and-label-ai-generated-videos/",
+          "summary": "It should be easier to tell at a glance if a YouTube video will contain AI-generated gunk.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It's a big day for Dragon Quest, with May 27 marking 40 years since the iconic RPG series debuted on the NES. To celebrate, Square Enix put out a special anniversarylivestreamthat featured a number of announcements about past and future Dragon Quest games, the most noteworthy of which beingDragon Quest XII."
+          "excerpt": "It should be easier to tell at a glance if a YouTube video will contain AI-generated gunk."
         },
         {
           "title": "Google is reportedly considering working with SpaceX on orbital data centers",
@@ -157,20 +157,12 @@
           "excerpt": "Threads users are pissed they can't block Meta's new AI chatbot"
         },
         {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
+          "title": "Square Enix restarted development on Dragon Quest 12 and gave it a new name",
+          "link": "https://www.engadget.com/2182185/square-enix-restarted-development-on-dragon-quest-12-and-gave-it-a-new-name/",
+          "summary": "Square Enix has rebooted its next mainline entry in the Dragon Quest series, which is now called Dragon Quest XII: Beyond Dreams.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
-          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
-          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "VIDEO"
+          "excerpt": "It's a big day for Dragon Quest, with May 27 marking 40 years since the iconic RPG series debuted on the NES. To celebrate, Square Enix put out a special anniversarylivestreamthat featured a number of announcements about past and future Dragon Quest games, the most noteworthy of which beingDragon Quest XII."
         },
         {
           "title": "Everything announced at The Android Show: I/O 2026 edition",
@@ -195,6 +187,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "After multiple years of rumors, Google today confirmed a new laptop-focused initiative called Googlebooks. ChromeOS, which launched more than 15 years ago, was built with the thought that most people do everything online now; Google says this new category of laptops is built for a Gemini-first world. The company only gave us a very brief preview of what makes up a Googlebook, with plans to more formally announce more details including hardware later this year."
+        },
+        {
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         }
       ]
     },
