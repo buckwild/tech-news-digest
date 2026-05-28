@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T02:00:21.356408-07:00",
-  "generated_at_display": "May 28, 2026 02:00 AM PT",
+  "generated_at": "2026-05-28T03:00:21.377409-07:00",
+  "generated_at_display": "May 28, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,20 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Googlebooks are the Android-based evolution of the Chromebook",
-          "link": "https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/",
-          "summary": "Google's only giving us a tease of what it has planned for its new laptop lineup.",
+          "title": "Amazon Japan is now transporting packages on Shinkansen bullet trains",
+          "link": "https://www.engadget.com/2182715/amazon-japan-shinkansen-bullet-train-packages/",
+          "summary": "Amazon is moving packages in Japan on the Shinkansen as part of its efforts to have neutral carbon emissions.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "After multiple years of rumors, Google today confirmed a new laptop-focused initiative called Googlebooks. ChromeOS, which launched more than 15 years ago, was built with the thought that most people do everything online now; Google says this new category of laptops is built for a Gemini-first world. The company only gave us a very brief preview of what makes up a Googlebook, with plans to more formally announce more details including hardware later this year."
+          "excerpt": "It\u2019s part of Amazon\u2019s efforts to reach net-zero carbon across its operations in the coming years."
         },
         {
-          "title": "Lord of the Rings: The Rings of Power returns to Prime Video in November",
-          "link": "https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/",
-          "summary": "Season three of Amazon's Lord of the Rings show skips forward several years from the second season finale.",
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Lord of the Rings: The Rings of Power returns to Prime Video in November"
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
           "title": "Rivian is rolling out its AI-powered voice assistant",
@@ -147,14 +147,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Rivian is rolling out its AI-powered voice assistant"
-        },
-        {
-          "title": "Google employee accused of making $1 million from insider trading on Polymarket",
-          "link": "https://www.engadget.com/2182614/google-employee-accused-of-making-1-million-from-insider-trading-on-polymarket/",
-          "summary": "Who could have seen this coming?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Who could have seen this coming?"
         },
         {
           "title": "Amazon rolls out its new 30-minute delivery option in a number of cities across the US",
@@ -173,12 +165,28 @@
           "excerpt": "Meta has spent the last couple years giving its self-titled AI chatbot prominent placement in its apps and now it's Threads' turn. The company isstarting to test a new featurethat gives the Meta AI chatbot Grok-like functionality on Threads, with the ability to reply to posts with additional \"context.\""
         },
         {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
+          "title": "Google employee accused of making $1 million from insider trading on Polymarket",
+          "link": "https://www.engadget.com/2182614/google-employee-accused-of-making-1-million-from-insider-trading-on-polymarket/",
+          "summary": "Who could have seen this coming?",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
+          "excerpt": "Who could have seen this coming?"
+        },
+        {
+          "title": "The Steve Jobs $1 coin goes on sale today starting at $61 for a roll",
+          "link": "https://www.engadget.com/2170555/steve-jobs-coin-on-sale-today/",
+          "summary": "It features the Apple co-founder with the California landscape in the background.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Steve Jobs $1 coin goes on sale today starting at $61 for a roll"
+        },
+        {
+          "title": "Digg is back again, this time to aggregate AI news",
+          "link": "https://www.engadget.com/2170484/digg-ai-news-aggregator/",
+          "summary": "Kevin Rose says Digg will introduce new topics in the future.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Digg is back again, this time to aggregate AI news"
         }
       ]
     },
