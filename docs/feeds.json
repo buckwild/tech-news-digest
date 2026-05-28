@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T14:00:21.281228-07:00",
-  "generated_at_display": "May 28, 2026 02:00 PM PT",
+  "generated_at": "2026-05-28T15:00:20.930532-07:00",
+  "generated_at_display": "May 28, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "CFTC wants to reverse course on penalty against Winklevoss twins' crypto business",
+          "link": "https://www.engadget.com/2183352/cftc-wants-to-reverse-course-on-penalty-against-winklevoss-twins-crypto-business/",
+          "summary": "The Gemini exchange already paid a $5 million fine following the agency's lawsuit.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Gemini exchange already paid a $5 million fine following the agency\u2019s lawsuit."
+        },
+        {
           "title": "Blackmagic Camera hands-on: Apple Watch compatibility gives vloggers remote control",
           "link": "https://www.engadget.com/2167733/blackmagic-camera-hands-on-apple-watch-compatibility-gives-vloggers-remote-control/",
           "summary": "Capture high-quality Apple ProRes video with full stabilization.",
@@ -157,6 +165,22 @@
           "excerpt": "The Morning After: Google's new wearable doesn't have a screen"
         },
         {
+          "title": "Nintendo is raising Switch 2 prices as chip crisis bites",
+          "link": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
+          "summary": "It sold 19.86 million Switch 2s last year but forecasts a drop in sales next year.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Nintendo is raising Switch 2 prices as chip crisis bites"
+        },
+        {
+          "title": "Instructure hackers claim they stole data from nearly 9,000 schools",
+          "link": "https://www.engadget.com/2167627/instructure-hack-schools/",
+          "summary": "They also locked students out of Canvas and warned the company to negotiate with them by May 12.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Instructure hackers claim they stole data from nearly 9,000 schools"
+        },
+        {
           "title": "Microsoft debuts a more buttoned-up look for Copilot",
           "link": "https://www.engadget.com/2183246/microsoft-debuts-a-more-buttoned-up-look-for-copilot/",
           "summary": "Copilot will look a little more consistent, and lose a little personality",
@@ -187,38 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Deliveries are expected later in the year."
-        },
-        {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
-          "title": "Spotify adds playlist folders, bulk editing and background downloads",
-          "link": "https://www.engadget.com/2183106/spotify-adds-playlist-folders-bulk-editing-and-background-downloads/",
-          "summary": "Spotify's new features aren't AI slop for a change",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "After a week of AI slop, Spotify has something for playlist power users."
-        },
-        {
-          "title": "Nintendo is raising Switch 2 prices as chip crisis bites",
-          "link": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
-          "summary": "It sold 19.86 million Switch 2s last year but forecasts a drop in sales next year.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Nintendo is raising Switch 2 prices as chip crisis bites"
-        },
-        {
-          "title": "Instructure hackers claim they stole data from nearly 9,000 schools",
-          "link": "https://www.engadget.com/2167627/instructure-hack-schools/",
-          "summary": "They also locked students out of Canvas and warned the company to negotiate with them by May 12.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Instructure hackers claim they stole data from nearly 9,000 schools"
         }
       ]
     },
