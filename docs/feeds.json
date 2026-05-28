@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T18:00:21.693200-07:00",
-  "generated_at_display": "May 27, 2026 06:00 PM PT",
+  "generated_at": "2026-05-27T19:00:23.753634-07:00",
+  "generated_at_display": "May 27, 2026 07:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Google employee accused of making $1 million from insider trading on Polymarket",
-          "link": "https://www.engadget.com/2182614/google-employee-accused-of-making-1-million-from-insider-trading-on-polymarket/",
-          "summary": "Who could have seen this coming?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Who could have seen this coming?"
-        },
-        {
           "title": "Googlebooks are the Android-based evolution of the Chromebook",
           "link": "https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/",
           "summary": "Google's only giving us a tease of what it has planned for its new laptop lineup.",
@@ -149,20 +141,20 @@
           "excerpt": "Lord of the Rings: The Rings of Power returns to Prime Video in November"
         },
         {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
           "title": "Rivian is rolling out its AI-powered voice assistant",
           "link": "https://www.engadget.com/2170527/rivian-ai-voice-assistant/",
           "summary": "It will be available on all Rivian Gen 1 and Gen 2 vehicles, as well as on the R2 when it launches.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Rivian is rolling out its AI-powered voice assistant"
+        },
+        {
+          "title": "Google employee accused of making $1 million from insider trading on Polymarket",
+          "link": "https://www.engadget.com/2182614/google-employee-accused-of-making-1-million-from-insider-trading-on-polymarket/",
+          "summary": "Who could have seen this coming?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Who could have seen this coming?"
         },
         {
           "title": "Amazon rolls out its new 30-minute delivery option in a number of cities across the US",
@@ -181,12 +173,12 @@
           "excerpt": "Meta has spent the last couple years giving its self-titled AI chatbot prominent placement in its apps and now it's Threads' turn. The company isstarting to test a new featurethat gives the Meta AI chatbot Grok-like functionality on Threads, with the ability to reply to posts with additional \"context.\""
         },
         {
-          "title": "Google updates Gemini for Home with AI-powered camera automations",
-          "link": "https://www.engadget.com/2182342/google-updates-gemini-for-home-with-ai-powered-camera-automations/",
-          "summary": "Gemini can trigger smart home routines based on what your cameras see.",
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Gemini can trigger smart home routines based on what your cameras see."
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         }
       ]
     },
