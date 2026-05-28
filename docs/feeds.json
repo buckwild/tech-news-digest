@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T13:00:22.196039-07:00",
-  "generated_at_display": "May 28, 2026 01:00 PM PT",
+  "generated_at": "2026-05-28T14:00:21.281228-07:00",
+  "generated_at_display": "May 28, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,38 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Slate EV truck pre-orders will open on June 24",
-          "link": "https://www.engadget.com/2183143/slate-ev-truck-pre-orders-will-open-on-june-24/",
-          "summary": "Pre-orders are opening up for Slate, the Spirit Airlines of EV trucks",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Deliveries are expected later in the year."
-        },
-        {
-          "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
-          "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
-          "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
-        },
-        {
-          "title": "How to run a local AI chatbot on your iPhone",
-          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
-          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
-        },
-        {
-          "title": "Spotify adds playlist folders, bulk editing and background downloads",
-          "link": "https://www.engadget.com/2183106/spotify-adds-playlist-folders-bulk-editing-and-background-downloads/",
-          "summary": "Spotify's new features aren't AI slop for a change",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "After a week of AI slop, Spotify has something for playlist power users."
-        },
-        {
           "title": "Blackmagic Camera hands-on: Apple Watch compatibility gives vloggers remote control",
           "link": "https://www.engadget.com/2167733/blackmagic-camera-hands-on-apple-watch-compatibility-gives-vloggers-remote-control/",
           "summary": "Capture high-quality Apple ProRes video with full stabilization.",
@@ -189,12 +157,36 @@
           "excerpt": "The Morning After: Google's new wearable doesn't have a screen"
         },
         {
-          "title": "Ojai is Waymo's new driverless vehicle",
-          "link": "https://www.engadget.com/2183071/ojai-is-waymos-new-driverless-vehicle/",
-          "summary": "Waymo is debuting Ojai, its first purpose-built robotaxi",
+          "title": "Microsoft debuts a more buttoned-up look for Copilot",
+          "link": "https://www.engadget.com/2183246/microsoft-debuts-a-more-buttoned-up-look-for-copilot/",
+          "summary": "Copilot will look a little more consistent, and lose a little personality",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The pale blue vans have begun picking up passengers in California and Arizona."
+          "excerpt": "The AI assistant had its personality stripped in pursuit of a more consistent experience."
+        },
+        {
+          "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
+          "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
+          "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
+        },
+        {
+          "title": "How to run a local AI chatbot on your iPhone",
+          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
+          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
+        },
+        {
+          "title": "Slate EV truck pre-orders will open on June 24",
+          "link": "https://www.engadget.com/2183143/slate-ev-truck-pre-orders-will-open-on-june-24/",
+          "summary": "Pre-orders are opening up for Slate, the Spirit Airlines of EV trucks",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Deliveries are expected later in the year."
         },
         {
           "title": "Fitbit Air review: Health tracking for the AI generation",
@@ -205,12 +197,28 @@
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
-          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
-          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
+          "title": "Spotify adds playlist folders, bulk editing and background downloads",
+          "link": "https://www.engadget.com/2183106/spotify-adds-playlist-folders-bulk-editing-and-background-downloads/",
+          "summary": "Spotify's new features aren't AI slop for a change",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "VIDEO"
+          "excerpt": "After a week of AI slop, Spotify has something for playlist power users."
+        },
+        {
+          "title": "Nintendo is raising Switch 2 prices as chip crisis bites",
+          "link": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
+          "summary": "It sold 19.86 million Switch 2s last year but forecasts a drop in sales next year.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Nintendo is raising Switch 2 prices as chip crisis bites"
+        },
+        {
+          "title": "Instructure hackers claim they stole data from nearly 9,000 schools",
+          "link": "https://www.engadget.com/2167627/instructure-hack-schools/",
+          "summary": "They also locked students out of Canvas and warned the company to negotiate with them by May 12.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Instructure hackers claim they stole data from nearly 9,000 schools"
         }
       ]
     },
@@ -218,13 +226,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "Fed Inflation Gauge Remains Above Target...",
-          "link": "https://www.wsj.com/economy/central-banking/iran-war-keeps-feds-inflation-gauge-above-inflation-target-7b6926d1",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "More workers raiding 401(k)s...",
           "link": "https://www.cnbc.com/2026/05/28/fidelity-average-401k-balances-q1-2026.html",
