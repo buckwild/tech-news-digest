@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T10:00:23.372370-07:00",
-  "generated_at_display": "May 28, 2026 10:00 AM PT",
+  "generated_at": "2026-05-28T11:00:22.947372-07:00",
+  "generated_at_display": "May 28, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Ojai is Waymo's new driverless vehicle",
+          "link": "https://www.engadget.com/2183071/ojai-is-waymos-new-driverless-vehicle/",
+          "summary": "Waymo is debuting Ojai, its first purpose-built robotaxi",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The pale blue vans have begun picking up passengers in California and Arizona."
+        },
+        {
           "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
           "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
           "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
@@ -141,76 +149,44 @@
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         },
         {
+          "title": "Sony and Bandai get into bed with generative AI",
+          "link": "https://www.engadget.com/2167841/sony-and-bandai-get-into-bed-with-generative-ai/",
+          "summary": "The company also outlined AI's role in the future of PlayStation.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Sony is partnering with Bandai Namco Holdings Inc. (the parent company of Bandai Namco Entertainment) on a \"collaborative pilot initiative\" focused on generative AI and its role in the future of video production. AI was a big theme in the company's latest earnings and corporate strategypresentation, with Sony President and CEO Hiroki Totoki describing the technology as an \"amplifier of human imagination and a catalyst for new possibilities,\" while insisting that it won't replace artists or creators."
+        },
+        {
+          "title": "Blackmagic Camera hands-on: Apple Watch compatibility gives vloggers remote control",
+          "link": "https://www.engadget.com/2167733/blackmagic-camera-hands-on-apple-watch-compatibility-gives-vloggers-remote-control/",
+          "summary": "Capture high-quality Apple ProRes video with full stabilization.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We may receive a commission on purchases made from links."
+        },
+        {
+          "title": "ChatGPT can reach out to a friend if you're at risk of self-harm",
+          "link": "https://www.engadget.com/2167709/chatgpt-trusted-contact-openai/",
+          "summary": "You will now be able to nominate a Trusted Contact OpenAI can warn.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "ChatGPT can reach out to a friend if you're at risk of self-harm"
+        },
+        {
+          "title": "DJI teases the dual-camera Osmo Pocket 4P gimbal",
+          "link": "https://www.engadget.com/2167650/dji-teases-the-dual-camera-osmo-pocket-4p-gimbal/",
+          "summary": "The Osmo Pocket 4P will feature a main wide camera and 3x zoom lens.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "DJI teases the dual-camera Osmo Pocket 4P gimbal"
+        },
+        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
-          "title": "Proton Mail aims to make it easier for you to transition away from Gmail and ditch Google",
-          "link": "https://www.engadget.com/2182918/proton-mail-aims-to-make-it-easier-for-you-to-transition-away-from-gmail-and-ditch-google/",
-          "summary": "Proton claims that managing your Gmail messages through its service offers you more privacy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Proton claims that managing your Gmail messages through its service offers you more privacy."
-        },
-        {
-          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
-          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "VIDEO"
-        },
-        {
-          "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
-          "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
-          "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
-        },
-        {
-          "title": "Stan Lee's voice and likeness have been resurrected, thanks to AI",
-          "link": "https://www.engadget.com/2182892/stan-lee-voice-and-likeness-have-been-resurrected-thanks-to-ai/",
-          "summary": "ElevenLabs can now offer the late Marvel icon Stan Lee as part of its AI-generated voice portfolio.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Marvel Comics legend Stan Lee is the latest deceased celebrity icon who, thanks to theghoulishnesswonder of AI, can now keep entertaining fans from beyond the grave. Voice cloning specialist ElevenLabs has signed adealwith Stan Lee Universe that will allow it to use the X-Men and Spider-Man co-creator's voice and likeness in its apps and licensing platforms."
-        },
-        {
-          "title": "The Morning After: The biggest news from Google I/O 2026",
-          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
-          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
-        },
-        {
-          "title": "Google won't rest until Gemini is everywhere in your home",
-          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
-          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google won't rest until Gemini is everywhere in your home"
-        },
-        {
-          "title": "Are you really going to talk to Gemini like that?",
-          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
-          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
-        },
-        {
-          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
-          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
-          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         }
       ]
     },
