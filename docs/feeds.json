@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T05:00:20.398226-07:00",
-  "generated_at_display": "May 28, 2026 05:00 AM PT",
+  "generated_at": "2026-05-28T06:00:24.311209-07:00",
+  "generated_at_display": "May 28, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,46 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "YouTube now lets you offload your playlist curation to AI",
-          "link": "https://www.engadget.com/2182731/youtube-ai-generated-playlists/",
-          "summary": "After releasing a feature to detect and label AI-generated videos, YouTube has released a new feature that will let you curate videos using... AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "'Your custom feed' lets build personalized playlists simply by entering a prompt."
-        },
-        {
-          "title": "The Steve Jobs $1 coin goes on sale today starting at $61 for a roll",
-          "link": "https://www.engadget.com/2170555/steve-jobs-coin-on-sale-today/",
-          "summary": "It features the Apple co-founder with the California landscape in the background.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Steve Jobs $1 coin goes on sale today starting at $61 for a roll"
-        },
-        {
-          "title": "Digg is back again, this time to aggregate AI news",
-          "link": "https://www.engadget.com/2170484/digg-ai-news-aggregator/",
-          "summary": "Kevin Rose says Digg will introduce new topics in the future.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Digg is back again, this time to aggregate AI news"
-        },
-        {
-          "title": "Sony's new wearable air conditioner runs even cooler",
-          "link": "https://www.engadget.com/2169805/sony-reon-pocket-pro-plus-wearable-air-cooler/",
-          "summary": "And it should be more comfortable, too.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The development of Sony's wearable Reon cooling device started back in 2017and after acrowdfunding launch in 2019, it eventually went on sale in Asia and, in recent years, the West. It's time for an upgrade with the Reon Pocket Pro Plus, which will be available in the UK and Europe through Sony's own store and online retailers, including Amazon. (Sony wasn't able to confirm at time of writing whether the device would officially launch in the US, which likely means it won't.)"
-        },
-        {
-          "title": "Amazon Japan is now transporting packages on Shinkansen bullet trains",
-          "link": "https://www.engadget.com/2182715/amazon-japan-shinkansen-bullet-train-packages/",
-          "summary": "Amazon is moving packages in Japan on the Shinkansen as part of its efforts to have neutral carbon emissions.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s part of Amazon\u2019s efforts to reach net-zero carbon across its operations in the coming years."
-        },
-        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
@@ -173,20 +133,60 @@
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
-          "title": "Gemini for Google Home will no longer freak out if you ask it how to make a margarita",
-          "link": "https://www.engadget.com/2170470/gemini-google-home-cocktail-recipes-update/",
-          "summary": "Google has rolled out updates to make Gemini for Home faster and more useful.",
+          "title": "EU fines Temu $232 million for selling illegal products",
+          "link": "https://www.engadget.com/2182755/eu-fines-temu-232-million-illegal-product-sales/",
+          "summary": "The European Commission has slapped Temu with a \u20ac200 million ($232 million) fine for failing to prevent the sales of illegal products on its platform.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Gemini for Google Home will no longer freak out if you ask it how to make a margarita"
+          "excerpt": "There is a high risk for consumers to encounter illegal products like baby toys on the platform, the European Commission wrote."
         },
         {
-          "title": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
-          "link": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
-          "summary": "OpenAI has launched a cybersecurity initiative called Daybreak, powered by GPT-5.5 and Codex Security.",
+          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
+          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
+          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Daybreak is OpenAI's response to Anthropic's Claude Mythos"
+          "excerpt": "VIDEO"
+        },
+        {
+          "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
+          "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
+          "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
+        },
+        {
+          "title": "The Morning After: The biggest news from Google I/O 2026",
+          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
+          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
+        },
+        {
+          "title": "Google won't rest until Gemini is everywhere in your home",
+          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
+          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google won't rest until Gemini is everywhere in your home"
+        },
+        {
+          "title": "YouTube now lets you offload your playlist curation to AI",
+          "link": "https://www.engadget.com/2182731/youtube-ai-generated-playlists/",
+          "summary": "After releasing a feature to detect and label AI-generated videos, YouTube has released a new feature that will let you curate videos using... AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "'Your custom feed' lets build personalized playlists simply by entering a prompt."
+        },
+        {
+          "title": "OpenAI sued by spouse of FSU shooting victim",
+          "link": "https://www.engadget.com/2169656/openai-sued-by-spouse-of-fsu-shooting-victim/",
+          "summary": "Florida's attorney general also opened an investigation into ChatGPT recently on similar grounds.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI sued by spouse of FSU shooting victim"
         }
       ]
     },
