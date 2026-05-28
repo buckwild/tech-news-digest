@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T16:00:24.677413-07:00",
-  "generated_at_display": "May 27, 2026 04:00 PM PT",
+  "generated_at": "2026-05-27T17:00:23.328253-07:00",
+  "generated_at_display": "May 27, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
+          "title": "Google employee accused of making $1 million from insider trading on Polymarket",
+          "link": "https://www.engadget.com/2182614/google-employee-accused-of-making-1-million-from-insider-trading-on-polymarket/",
+          "summary": "Who could have seen this coming?",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
+          "excerpt": "Who could have seen this coming?"
         },
         {
           "title": "Googlebooks are the Android-based evolution of the Chromebook",
@@ -149,44 +149,44 @@
           "excerpt": "Lord of the Rings: The Rings of Power returns to Prime Video in November"
         },
         {
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
+        },
+        {
+          "title": "Rivian is rolling out its AI-powered voice assistant",
+          "link": "https://www.engadget.com/2170527/rivian-ai-voice-assistant/",
+          "summary": "It will be available on all Rivian Gen 1 and Gen 2 vehicles, as well as on the R2 when it launches.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Rivian is rolling out its AI-powered voice assistant"
+        },
+        {
+          "title": "Amazon rolls out its new 30-minute delivery option in a number of cities across the US",
+          "link": "https://www.engadget.com/2170754/amazon-rolls-out-its-new-30-minute-delivery-option-in-more-cities-across-the-us/",
+          "summary": "Amazon Now is coming to \"dozens\" of locations in 2026.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Prime not quite quick enough for you? Amazon isrolling outits ultra-fast delivery service, Amazon Now, in dozens of cities in the US, promising deliveries of groceries and \"household essentials\" in 30 minutes or less."
+        },
+        {
+          "title": "Hey @meta.ai is that true? Threads is testing a Grok-like AI feature",
+          "link": "https://www.engadget.com/2170387/hey-meta-ai-is-that-true-threads-is-testing-a-grok-like-ai-feature/",
+          "summary": "What could go wrong?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Meta has spent the last couple years giving its self-titled AI chatbot prominent placement in its apps and now it's Threads' turn. The company isstarting to test a new featurethat gives the Meta AI chatbot Grok-like functionality on Threads, with the ability to reply to posts with additional \"context.\""
+        },
+        {
           "title": "Google updates Gemini for Home with AI-powered camera automations",
           "link": "https://www.engadget.com/2182342/google-updates-gemini-for-home-with-ai-powered-camera-automations/",
           "summary": "Gemini can trigger smart home routines based on what your cameras see.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Gemini can trigger smart home routines based on what your cameras see."
-        },
-        {
-          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
-          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "VIDEO"
-        },
-        {
-          "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
-          "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
-          "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
-        },
-        {
-          "title": "The Morning After: The biggest news from Google I/O 2026",
-          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
-          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
-        },
-        {
-          "title": "Google won't rest until Gemini is everywhere in your home",
-          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
-          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google won't rest until Gemini is everywhere in your home"
         }
       ]
     },
