@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T09:00:20.549081-07:00",
-  "generated_at_display": "May 28, 2026 09:00 AM PT",
+  "generated_at": "2026-05-28T10:00:23.372370-07:00",
+  "generated_at_display": "May 28, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -141,14 +141,6 @@
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         },
         {
-          "title": "Proton Mail aims to make it easier for you to transition away from Gmail and ditch Google",
-          "link": "https://www.engadget.com/2182918/proton-mail-aims-to-make-it-easier-for-you-to-transition-away-from-gmail-and-ditch-google/",
-          "summary": "Proton claims that managing your Gmail messages through its service offers you more privacy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Proton claims that managing your Gmail messages through its service offers you more privacy."
-        },
-        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
@@ -157,12 +149,12 @@
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
-          "title": "Stan Lee's voice and likeness have been resurrected, thanks to AI",
-          "link": "https://www.engadget.com/2182892/stan-lee-voice-and-likeness-have-been-resurrected-thanks-to-ai/",
-          "summary": "ElevenLabs can now offer the late Marvel icon Stan Lee as part of its AI-generated voice portfolio.",
+          "title": "Proton Mail aims to make it easier for you to transition away from Gmail and ditch Google",
+          "link": "https://www.engadget.com/2182918/proton-mail-aims-to-make-it-easier-for-you-to-transition-away-from-gmail-and-ditch-google/",
+          "summary": "Proton claims that managing your Gmail messages through its service offers you more privacy.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Marvel Comics legend Stan Lee is the latest deceased celebrity icon who, thanks to theghoulishnesswonder of AI, can now keep entertaining fans from beyond the grave. Voice cloning specialist ElevenLabs has signed adealwith Stan Lee Universe that will allow it to use the X-Men and Spider-Man co-creator's voice and likeness in its apps and licensing platforms."
+          "excerpt": "Proton claims that managing your Gmail messages through its service offers you more privacy."
         },
         {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
@@ -181,12 +173,44 @@
           "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
         },
         {
-          "title": "Chainsaw carnage, lots of music-based titles and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2168204/chainsaw-carnage-lots-of-music-based-titles-and-other-new-indie-games/",
-          "summary": "Plus, make a mixtape with help from the folks behind Mixtape.",
+          "title": "Stan Lee's voice and likeness have been resurrected, thanks to AI",
+          "link": "https://www.engadget.com/2182892/stan-lee-voice-and-likeness-have-been-resurrected-thanks-to-ai/",
+          "summary": "ElevenLabs can now offer the late Marvel icon Stan Lee as part of its AI-generated voice portfolio.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "VIDEO"
+          "excerpt": "Marvel Comics legend Stan Lee is the latest deceased celebrity icon who, thanks to theghoulishnesswonder of AI, can now keep entertaining fans from beyond the grave. Voice cloning specialist ElevenLabs has signed adealwith Stan Lee Universe that will allow it to use the X-Men and Spider-Man co-creator's voice and likeness in its apps and licensing platforms."
+        },
+        {
+          "title": "The Morning After: The biggest news from Google I/O 2026",
+          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
+          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
+        },
+        {
+          "title": "Google won't rest until Gemini is everywhere in your home",
+          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
+          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google won't rest until Gemini is everywhere in your home"
+        },
+        {
+          "title": "Are you really going to talk to Gemini like that?",
+          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
+          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
+        },
+        {
+          "title": "Airbnb expands into hotel bookings and even grocery deliveries",
+          "link": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
+          "summary": "Airbnb is adding thousands of boutique hotels, new services and experiences to its app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Airbnb has beenexpandingbeyond rooms and homes for rent over the past decade. Now, it's adding more useful services for travelers in its app, including the ability to book \u2014 wait for it \u2014 hotels starting this summer.\u00a0I have personally booked apartment-style hotels and serviced apartments from Airbnb in the past, but this expansion will add thousands more boutique and independent hotels in major cities around the world, including New York, Paris, London, Madrid, Rome and Singapore, to its listings."
         }
       ]
     },
