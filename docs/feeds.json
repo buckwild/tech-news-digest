@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T06:00:24.311209-07:00",
-  "generated_at_display": "May 28, 2026 06:00 AM PT",
+  "generated_at": "2026-05-28T07:00:28.867269-07:00",
+  "generated_at_display": "May 28, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "How to run a local AI chatbot on your iPhone",
+          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
+          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
+        },
+        {
           "title": "Fitbit Air review: Health tracking for the AI generation",
           "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
           "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
@@ -133,12 +141,28 @@
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
-          "title": "EU fines Temu $232 million for selling illegal products",
-          "link": "https://www.engadget.com/2182755/eu-fines-temu-232-million-illegal-product-sales/",
-          "summary": "The European Commission has slapped Temu with a \u20ac200 million ($232 million) fine for failing to prevent the sales of illegal products on its platform.",
+          "title": "A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release",
+          "link": "https://www.engadget.com/2169030/a-new-subnautica-2-gameplay-trailer-just-dropped-ahead-of-its-early-access-release/",
+          "summary": "Subnautica 2 will be available in Early Access on May 14.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "There is a high risk for consumers to encounter illegal products like baby toys on the platform, the European Commission wrote."
+          "excerpt": "A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release"
+        },
+        {
+          "title": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander",
+          "link": "https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/",
+          "summary": "The space agency is planning to put astronauts on the moon in 2028.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander"
+        },
+        {
+          "title": "Porsche is discontinuing its performance e-bike division",
+          "link": "https://www.engadget.com/2168638/porsche-is-discontinuing-its-performance-ebike-division/",
+          "summary": "The German automaker said it would refocus on its \"core business.\"",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Porsche is discontinuing its performance e-bike division"
         },
         {
           "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
@@ -155,38 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
-        },
-        {
-          "title": "The Morning After: The biggest news from Google I/O 2026",
-          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
-          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
-        },
-        {
-          "title": "Google won't rest until Gemini is everywhere in your home",
-          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
-          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google won't rest until Gemini is everywhere in your home"
-        },
-        {
-          "title": "YouTube now lets you offload your playlist curation to AI",
-          "link": "https://www.engadget.com/2182731/youtube-ai-generated-playlists/",
-          "summary": "After releasing a feature to detect and label AI-generated videos, YouTube has released a new feature that will let you curate videos using... AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "'Your custom feed' lets build personalized playlists simply by entering a prompt."
-        },
-        {
-          "title": "OpenAI sued by spouse of FSU shooting victim",
-          "link": "https://www.engadget.com/2169656/openai-sued-by-spouse-of-fsu-shooting-victim/",
-          "summary": "Florida's attorney general also opened an investigation into ChatGPT recently on similar grounds.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI sued by spouse of FSU shooting victim"
         }
       ]
     },
@@ -195,8 +187,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "WHAT HAS HE DONE TO THE WHITE HOUSE NOW?!",
-          "link": "https://www.irishstar.com/sport/other-sports/gallery/white-house-ufc-construction-images-37211589",
+          "title": "Iran War Keeps Fed Inflation Gauge Above Target...",
+          "link": "https://www.wsj.com/economy/central-banking/iran-war-keeps-feds-inflation-gauge-above-inflation-target-7b6926d1",
           "summary": null,
           "published": null,
           "excerpt": null
