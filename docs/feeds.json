@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T03:00:21.377409-07:00",
-  "generated_at_display": "May 28, 2026 03:00 AM PT",
+  "generated_at": "2026-05-28T04:00:30.033718-07:00",
+  "generated_at_display": "May 28, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,20 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Amazon Japan is now transporting packages on Shinkansen bullet trains",
-          "link": "https://www.engadget.com/2182715/amazon-japan-shinkansen-bullet-train-packages/",
-          "summary": "Amazon is moving packages in Japan on the Shinkansen as part of its efforts to have neutral carbon emissions.",
+          "title": "YouTube now lets you offload your playlist curation to AI",
+          "link": "https://www.engadget.com/2182731/youtube-ai-generated-playlists/",
+          "summary": "After releasing a feature to detect and label AI-generated videos, YouTube has released a new feature that will let you curate videos using... AI.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It\u2019s part of Amazon\u2019s efforts to reach net-zero carbon across its operations in the coming years."
-        },
-        {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
+          "excerpt": "'Your custom feed' lets build personalized playlists simply by entering a prompt."
         },
         {
           "title": "Rivian is rolling out its AI-powered voice assistant",
@@ -165,12 +157,20 @@
           "excerpt": "Meta has spent the last couple years giving its self-titled AI chatbot prominent placement in its apps and now it's Threads' turn. The company isstarting to test a new featurethat gives the Meta AI chatbot Grok-like functionality on Threads, with the ability to reply to posts with additional \"context.\""
         },
         {
-          "title": "Google employee accused of making $1 million from insider trading on Polymarket",
-          "link": "https://www.engadget.com/2182614/google-employee-accused-of-making-1-million-from-insider-trading-on-polymarket/",
-          "summary": "Who could have seen this coming?",
+          "title": "Amazon Japan is now transporting packages on Shinkansen bullet trains",
+          "link": "https://www.engadget.com/2182715/amazon-japan-shinkansen-bullet-train-packages/",
+          "summary": "Amazon is moving packages in Japan on the Shinkansen as part of its efforts to have neutral carbon emissions.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Who could have seen this coming?"
+          "excerpt": "It\u2019s part of Amazon\u2019s efforts to reach net-zero carbon across its operations in the coming years."
+        },
+        {
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
           "title": "The Steve Jobs $1 coin goes on sale today starting at $61 for a roll",
@@ -194,27 +194,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "MAGA CLAIMS ANOTHER SCALP",
-          "link": "https://apnews.com/4fa609e7ddb93b47ac4e3398a12a472e",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "WILL FACE-OFF AGAINST TALARICO",
-          "link": "https://www.mediaite.com/media/news/talarico-denies-hes-vegan-says-hes-been-eating-barbecue-since-before-ken-paxtons-first-indictment/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Republicans stare down inflation abyss...",
-          "link": "https://www.cnbc.com/2026/05/27/election-economy-congress-inflation-republicans.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "WHAT HAS HE DONE TO THE WHITE HOUSE NOW?!",
           "link": "https://www.irishstar.com/sport/other-sports/gallery/white-house-ufc-construction-images-37211589",
