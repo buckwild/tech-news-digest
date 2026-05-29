@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T09:00:20.278699-07:00",
-  "generated_at_display": "May 29, 2026 09:00 AM PT",
+  "generated_at": "2026-05-29T10:00:22.479003-07:00",
+  "generated_at_display": "May 29, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,20 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Paramount+ used AI to make the ugliest Star Trek thumbnail ever",
+          "link": "https://www.engadget.com/2183719/paramount-used-ai-to-make-the-ugliest-star-trek-thumbnail-ever/",
+          "summary": "We've never seen Captain Kirk wearing an outfit quite like this one.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Paramount+ looks to have used generative AI to whip up a thumbnail forStar Trek II: The Wrath of Khan,according to a report byKotaku. The image shows Captain Kirk, as played by William Shatner, dressed in a business suit. Kirk never dons a business suit inWrath of Khan, or any other time throughout Shatner's decades of portraying the character. He did rock a flannel shirt and jeans once during a visit to 1930s Earth."
+        },
+        {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
           "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
           "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
-        },
-        {
-          "title": "The Acer Swift Air 14 looks like a cute and breezy Windows alternative to the MacBook Air",
-          "link": "https://www.engadget.com/2183276/the-acer-swift-air-14-looks-like-a-cute-and-breezy-windows-alternative-to-the-macbook-air/",
-          "summary": "There's also a new 360-degree convertible model, the Swift Spin 14 AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "There\u2019s also a new 360-degree convertible model, the Swift Spin 14 AI."
         },
         {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
@@ -149,68 +149,12 @@
           "excerpt": "WWDC is right around the corner."
         },
         {
-          "title": "Acer just announced a new budget laptop with Qualcomm's Snapdragon C chip",
-          "link": "https://www.engadget.com/2182399/acer-just-announced-a-new-budget-laptop-with-qualcomms-snapdragon-c-chip/",
-          "summary": "Acer's latest laptop feels like an answer to the MacBook Neo.",
+          "title": "The Acer Swift Air 14 looks like a cute and breezy Windows alternative to the MacBook Air",
+          "link": "https://www.engadget.com/2183276/the-acer-swift-air-14-looks-like-a-cute-and-breezy-windows-alternative-to-the-macbook-air/",
+          "summary": "There's also a new 360-degree convertible model, the Swift Spin 14 AI.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "This looks like the company's take on the MacBook Neo."
-        },
-        {
-          "title": "Spotify now lets AI agents like OpenClaw generate personal podcasts",
-          "link": "https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/",
-          "summary": "Rejoice, nerds.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify now lets AI agents like OpenClaw generate personal podcasts"
-        },
-        {
-          "title": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech",
-          "link": "https://www.engadget.com/2166994/qualcomm-reveals-two-new-affordable-phone-chips-with-smooth-motion-ui-tech/",
-          "summary": "The Snapdragon 6 Gen 5 promises next-gen AI camera features while the Snapdragon 4 Gen 5 offers a big boost in GPU performance.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech"
-        },
-        {
-          "title": "Spotify's AI-powered personal DJ expands to more languages and countries",
-          "link": "https://www.engadget.com/2166965/spotify-ai-powered-personal-dj-expands-to-more-languages-and-countries/",
-          "summary": "Premium users in more than 75 markets will now have access to it.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify's AI-powered personal DJ expands to more languages and countries"
-        },
-        {
-          "title": "Acer is making a companion handheld that pairs with its gaming PCs",
-          "link": "https://www.engadget.com/2183132/acer-is-making-a-companion-handheld-that-pairs-with-its-gaming-pcs/",
-          "summary": "Acer's upcoming Nitro Blaze Link is a companion handheld for gaming",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new Nitro Blaze Link lets you play your games over Wi-Fi."
-        },
-        {
-          "title": "Google is turning the Fitbit app into a unified portal for your health and fitness data",
-          "link": "https://www.engadget.com/2166841/google-unifies-health-fitness-apps-fitbit/",
-          "summary": "The new Health app is rolling out on May 19.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google is turning the Fitbit app into a unified portal for your health and fitness data"
-        },
-        {
-          "title": "The Google Fitbit Air is an AI-infused take on Whoop wearables",
-          "link": "https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/",
-          "summary": "It's basically a small Fitbit Inspire without a strap.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Whoop-like wearable thatGoogle teased in\u00a0Marchhas just been unveiled. Called the Google Fitbit Air, it's a screenless device that you can put in a wristband, chest strap or technically anywhere, really, depending on the accessory you choose. It's available for pre-order today for $100 and\u00a0is basically a Fitbit, freed from its band. But of course, with a name like Air, the new gadget is a lot smaller than its predecessors. According to the general manager for Google Health Rishi Chandra, the Fitbit Air is 25 percent smaller than theFitbit Luxeand 50 percent smaller thanthe Inspire 3."
-        },
-        {
-          "title": "Engadget Podcast: Diving into the Fitbit Air and the Pope's AI criticism",
-          "link": "https://www.engadget.com/2183506/engadget-podcast-the-fitbit-air-and-the-popes-ai-criticism/",
-          "summary": "This week on the Engadget podcast, we chat about our thoughts on the Fitbit Air, as well as Pope Leo's AI criticism with special guest Fr. Robert Ballecer.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We're joined by Fr. Robert Ballecer, AKA the Digital Jesuit"
+          "excerpt": "There\u2019s also a new 360-degree convertible model, the Swift Spin 14 AI."
         },
         {
           "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
@@ -227,6 +171,46 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
+        },
+        {
+          "title": "Acer just announced a new budget laptop with Qualcomm's Snapdragon C chip",
+          "link": "https://www.engadget.com/2182399/acer-just-announced-a-new-budget-laptop-with-qualcomms-snapdragon-c-chip/",
+          "summary": "Acer's latest laptop feels like an answer to the MacBook Neo.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This looks like the company's take on the MacBook Neo."
+        },
+        {
+          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
+          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
+          "summary": "The feature would allow users to get into a safe position or call for help.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
+        },
+        {
+          "title": "Acer is making a companion handheld that pairs with its gaming PCs",
+          "link": "https://www.engadget.com/2183132/acer-is-making-a-companion-handheld-that-pairs-with-its-gaming-pcs/",
+          "summary": "Acer's upcoming Nitro Blaze Link is a companion handheld for gaming",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new Nitro Blaze Link lets you play your games over Wi-Fi."
+        },
+        {
+          "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
+          "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
+          "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Canadian officials claim OpenAI violated federal and provincial privacy laws"
+        },
+        {
+          "title": "Snap's $400 million deal with Perplexity is dead",
+          "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
+          "summary": "The planned AI search feature for Snapchat never fully rolled out.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Snap's $400 million deal with Perplexity is dead"
         }
       ]
     },
@@ -234,6 +218,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "$300 BILLION SLUSH FUND FOR IRAN!",
+          "link": "https://www.timesofisrael.com/liveblog_entry/emerging-us-iran-mou-said-to-reference-possible-300b-postwar-investment-fund-to-aid-tehrans-reconstruction/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "A new US-Iran deal could be as useless as the last...",
           "link": "https://t.co/OFC44nTYIS",
@@ -244,13 +235,6 @@
         {
           "title": "Boat Strikes Have FAILED to Curb Flow of Cocaine to USA, Experts Say...",
           "link": "https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html?unlocked_article_code=1.mFA.ePjr.YnpwHiVg1JMz&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Secretive Billionaire Conquering World's Richest Sports Leagues...",
-          "link": "https://www.wsj.com/sports/soccer/stan-kroenke-arsenal-rams-champions-league-b00db776",
           "summary": null,
           "published": null,
           "excerpt": null
