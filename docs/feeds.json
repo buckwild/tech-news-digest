@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T17:00:21.012348-07:00",
-  "generated_at_display": "May 28, 2026 05:00 PM PT",
+  "generated_at": "2026-05-28T18:00:22.830194-07:00",
+  "generated_at_display": "May 28, 2026 06:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -220,6 +220,13 @@
         {
           "title": "White House Intervened to Get $620M Deal for Company Tied to Don Jr...",
           "link": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "New Intel Agency Targets AI data center Critics!",
+          "link": "https://open.substack.com/pub/kenklippenstein/p/exclusive-new-intel-agency-eyes-ai ",
           "summary": null,
           "published": null,
           "excerpt": null
