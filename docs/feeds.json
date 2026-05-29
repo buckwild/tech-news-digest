@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T12:00:23.054945-07:00",
-  "generated_at_display": "May 29, 2026 12:00 PM PT",
+  "generated_at": "2026-05-29T13:00:21.671144-07:00",
+  "generated_at_display": "May 29, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,20 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
-          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
-          "summary": "The feature would allow users to get into a safe position or call for help.",
+          "title": "Fable dodges GTA VI with another delay",
+          "link": "https://www.engadget.com/2183963/fable-dodges-gta-vi-with-another-delay/",
+          "summary": "Fable is delayed again, putting it outside the GTA blast radius.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
-        },
-        {
-          "title": "Paramount+ used AI to make the ugliest Star Trek thumbnail ever",
-          "link": "https://www.engadget.com/2183719/paramount-used-ai-to-make-the-ugliest-star-trek-thumbnail-ever/",
-          "summary": "We've never seen Captain Kirk wearing an outfit quite like this one.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Paramount+ looks to have used generative AI to whip up a thumbnail forStar Trek II: The Wrath of Khan,according to a report byKotaku. The image shows Captain Kirk, as played by William Shatner, dressed in a business suit. Kirk never dons a business suit inWrath of Khan, or any other time throughout Shatner's decades of portraying the character. He did rock a flannel shirt and jeans once during a visit to 1930s Earth."
+          "excerpt": "The reboot of the classic Xbox series is now coming out in February 2027."
         },
         {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
@@ -157,14 +149,6 @@
           "excerpt": "WWDC is right around the corner."
         },
         {
-          "title": "The Acer Swift Air 14 looks like a cute and breezy Windows alternative to the MacBook Air",
-          "link": "https://www.engadget.com/2183276/the-acer-swift-air-14-looks-like-a-cute-and-breezy-windows-alternative-to-the-macbook-air/",
-          "summary": "There's also a new 360-degree convertible model, the Swift Spin 14 AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "There\u2019s also a new 360-degree convertible model, the Swift Spin 14 AI."
-        },
-        {
           "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
           "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
           "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
@@ -181,28 +165,20 @@
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         },
         {
-          "title": "Acer just announced a new budget laptop with Qualcomm's Snapdragon C chip",
-          "link": "https://www.engadget.com/2182399/acer-just-announced-a-new-budget-laptop-with-qualcomms-snapdragon-c-chip/",
-          "summary": "Acer's latest laptop feels like an answer to the MacBook Neo.",
+          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
+          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
+          "summary": "The feature would allow users to get into a safe position or call for help.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "This looks like the company's take on the MacBook Neo."
+          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
         },
         {
-          "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
-          "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
-          "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
+          "title": "Paramount+ used AI to make the ugliest Star Trek thumbnail ever",
+          "link": "https://www.engadget.com/2183719/paramount-used-ai-to-make-the-ugliest-star-trek-thumbnail-ever/",
+          "summary": "We've never seen Captain Kirk wearing an outfit quite like this one.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Canadian officials claim OpenAI violated federal and provincial privacy laws"
-        },
-        {
-          "title": "Snap's $400 million deal with Perplexity is dead",
-          "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
-          "summary": "The planned AI search feature for Snapchat never fully rolled out.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Snap's $400 million deal with Perplexity is dead"
+          "excerpt": "Paramount+ looks to have used generative AI to whip up a thumbnail forStar Trek II: The Wrath of Khan,according to a report byKotaku. The image shows Captain Kirk, as played by William Shatner, dressed in a business suit. Kirk never dons a business suit inWrath of Khan, or any other time throughout Shatner's decades of portraying the character. He did rock a flannel shirt and jeans once during a visit to 1930s Earth."
         }
       ]
     },
