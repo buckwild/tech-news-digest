@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T05:00:28.340998-07:00",
-  "generated_at_display": "May 29, 2026 05:00 AM PT",
+  "generated_at": "2026-05-29T06:00:20.681226-07:00",
+  "generated_at_display": "May 29, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Engadget Podcast: Diving into the Fitbit Air and the Pope's AI criticism",
+          "link": "https://www.engadget.com/2183506/engadget-podcast-the-fitbit-air-and-the-popes-ai-criticism/",
+          "summary": "This week on the Engadget podcast, we chat about our thoughts on the Fitbit Air, as well as Pope Leo's AI criticism with special guest Fr. Robert Ballecer.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We're joined by Fr. Robert Ballecer, AKA the Digital Jesuit"
+        },
+        {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
           "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
           "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
@@ -139,6 +147,30 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
+        },
+        {
+          "title": "Spotify now lets AI agents like OpenClaw generate personal podcasts",
+          "link": "https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/",
+          "summary": "Rejoice, nerds.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify now lets AI agents like OpenClaw generate personal podcasts"
+        },
+        {
+          "title": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech",
+          "link": "https://www.engadget.com/2166994/qualcomm-reveals-two-new-affordable-phone-chips-with-smooth-motion-ui-tech/",
+          "summary": "The Snapdragon 6 Gen 5 promises next-gen AI camera features while the Snapdragon 4 Gen 5 offers a big boost in GPU performance.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech"
+        },
+        {
+          "title": "Spotify's AI-powered personal DJ expands to more languages and countries",
+          "link": "https://www.engadget.com/2166965/spotify-ai-powered-personal-dj-expands-to-more-languages-and-countries/",
+          "summary": "Premium users in more than 75 markets will now have access to it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify's AI-powered personal DJ expands to more languages and countries"
         },
         {
           "title": "How to run a local AI chatbot on your iPhone",
@@ -163,38 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "VIDEO"
-        },
-        {
-          "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
-          "link": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones/",
-          "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "On the Find X9 Ultra, the primary camera has a 200-megapixel 1/1.28-inch sensor. With a low f/1.5 aperture possible, this is an incredibly versatile camera, built to take in light and work well even in difficult shooting conditions. There's also a pair of telephoto cameras. The first has a 200MP sensor and can zoom up to 3x (70mm equivalent) for portrait photos and general-purpose shots, while the showstopper is an 'ultra' telephoto, capable of 10x zoom at 50MP."
-        },
-        {
-          "title": "The Morning After: The biggest news from Google I/O 2026",
-          "link": "https://www.engadget.com/2179217/the-morning-after-the-biggest-news-from-google-io-2026/",
-          "summary": "Google I/O 2026 kicked off this week and to no one's surprise, it was almost completely about AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google I/O 2026kicked off this week, and to no one's surprise,\u00a0it was almost completely about AI."
-        },
-        {
-          "title": "Google won't rest until Gemini is everywhere in your home",
-          "link": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
-          "summary": "The company is making it easier for manufacturers to make more Gemini-powered smart devices.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google won't rest until Gemini is everywhere in your home"
-        },
-        {
-          "title": "Are you really going to talk to Gemini like that?",
-          "link": "https://www.engadget.com/2178197/google-io-2026-opinion-are-you-really-going-to-talk-to-gemini-like-that/",
-          "summary": "Google's new AI features capitalize on the popularity of voice dictation, and a desire to leave the thinking to AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Over a decade ago, Amazon and Google taught the world how to speak to AI. ThroughAmazon AlexaandGoogle Assistant, wake words were learned and natural language prompts were practiced, all in the name of setting timers, asking for music, controlling your smart home and plumbing search results for information. Things are a bit different in 2026. If there is a theme atthis year's Google I/Ooutside of AI agents, it's that the way Google imagines we'll speak to AI is changing. Multiple new features the company showed off featured voice input \u2014 but in an unpolished form, where the onus fell on Gemini to interpret intent and act accordingly. The change could have unintended effects: Google wants users to ramble to AI to get things done, but in the process they might do a lot less thinking in general."
         }
       ]
     },
@@ -203,6 +203,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "Boat Strikes Have FAILED to Curb Flow of Cocaine to USA, Experts Say...",
+          "link": "https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html?unlocked_article_code=1.mFA.ePjr.YnpwHiVg1JMz&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "White House Intervened to Get $620M Deal for Company Tied to Don Jr...",
           "link": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
           "summary": null,
@@ -210,7 +217,7 @@
           "excerpt": null
         },
         {
-          "title": "The Secretive Billionaire Who's Conquering World's Richest Sports Leagues...",
+          "title": "Secretive Billionaire Conquering World's Richest Sports Leagues...",
           "link": "https://www.wsj.com/sports/soccer/stan-kroenke-arsenal-rams-champions-league-b00db776",
           "summary": null,
           "published": null,
