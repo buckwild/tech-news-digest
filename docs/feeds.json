@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T06:00:20.681226-07:00",
-  "generated_at_display": "May 29, 2026 06:00 AM PT",
+  "generated_at": "2026-05-29T07:00:23.126125-07:00",
+  "generated_at_display": "May 29, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,62 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Acer just announced a new budget laptop with Qualcomm's Snapdragon C chip",
+          "link": "https://www.engadget.com/2182399/acer-just-announced-a-new-budget-laptop-with-qualcomms-snapdragon-c-chip/",
+          "summary": "Acer's latest laptop feels like an answer to the MacBook Neo.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This looks like the company's take on the MacBook Neo."
+        },
+        {
+          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
+          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
+          "summary": "The feature would allow users to get into a safe position or call for help.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
+        },
+        {
+          "title": "Acer is making a companion handheld that pairs with its gaming PCs",
+          "link": "https://www.engadget.com/2183132/acer-is-making-a-companion-handheld-that-pairs-with-its-gaming-pcs/",
+          "summary": "Acer's upcoming Nitro Blaze Link is a companion handheld for gaming",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new Nitro Blaze Link lets you play your games over Wi-Fi."
+        },
+        {
+          "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
+          "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
+          "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Canadian officials claim OpenAI violated federal and provincial privacy laws"
+        },
+        {
+          "title": "Snap's $400 million deal with Perplexity is dead",
+          "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
+          "summary": "The planned AI search feature for Snapchat never fully rolled out.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Snap's $400 million deal with Perplexity is dead"
+        },
+        {
+          "title": "Google's AI search results will now turn to Reddit for expert advice",
+          "link": "https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/",
+          "summary": "AI responses now also recommend in-depth articles and links to sources you already subscribe to.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google isupdating AI Overviews and AI Mode, the AI-generated portions of its search engine, to highlight sources in new ways, and interestingly, more prominently feature first-hand accounts from social media, expert blogs and forums like Reddit."
+        },
+        {
+          "title": "Anthropic is doubling Claude Code rate limits after deal with SpaceX",
+          "link": "https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/",
+          "summary": "The company is also interested in SpaceX's planned orbital data centers.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic is doubling Claude Code rate limits after deal with SpaceX"
+        },
+        {
           "title": "Engadget Podcast: Diving into the Fitbit Air and the Pope's AI criticism",
           "link": "https://www.engadget.com/2183506/engadget-podcast-the-fitbit-air-and-the-popes-ai-criticism/",
           "summary": "This week on the Engadget podcast, we chat about our thoughts on the Fitbit Air, as well as Pope Leo's AI criticism with special guest Fr. Robert Ballecer.",
@@ -149,28 +205,12 @@
           "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
         },
         {
-          "title": "Spotify now lets AI agents like OpenClaw generate personal podcasts",
-          "link": "https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/",
-          "summary": "Rejoice, nerds.",
+          "title": "The Acer Swift Air 14 looks like a cute and breezy Windows alternative to the MacBook Air",
+          "link": "https://www.engadget.com/2183276/the-acer-swift-air-14-looks-like-a-cute-and-breezy-windows-alternative-to-the-macbook-air/",
+          "summary": "There's also a new 360-degree convertible model, the Swift Spin 14 AI.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Spotify now lets AI agents like OpenClaw generate personal podcasts"
-        },
-        {
-          "title": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech",
-          "link": "https://www.engadget.com/2166994/qualcomm-reveals-two-new-affordable-phone-chips-with-smooth-motion-ui-tech/",
-          "summary": "The Snapdragon 6 Gen 5 promises next-gen AI camera features while the Snapdragon 4 Gen 5 offers a big boost in GPU performance.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech"
-        },
-        {
-          "title": "Spotify's AI-powered personal DJ expands to more languages and countries",
-          "link": "https://www.engadget.com/2166965/spotify-ai-powered-personal-dj-expands-to-more-languages-and-countries/",
-          "summary": "Premium users in more than 75 markets will now have access to it.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify's AI-powered personal DJ expands to more languages and countries"
+          "excerpt": "There\u2019s also a new 360-degree convertible model, the Swift Spin 14 AI."
         },
         {
           "title": "How to run a local AI chatbot on your iPhone",
@@ -179,22 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
-        },
-        {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
-          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
-          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "VIDEO"
         }
       ]
     },
@@ -205,13 +229,6 @@
         {
           "title": "Boat Strikes Have FAILED to Curb Flow of Cocaine to USA, Experts Say...",
           "link": "https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html?unlocked_article_code=1.mFA.ePjr.YnpwHiVg1JMz&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "White House Intervened to Get $620M Deal for Company Tied to Don Jr...",
-          "link": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
           "summary": null,
           "published": null,
           "excerpt": null
