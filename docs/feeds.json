@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T07:00:23.126125-07:00",
-  "generated_at_display": "May 29, 2026 07:00 AM PT",
+  "generated_at": "2026-05-29T08:00:28.847508-07:00",
+  "generated_at_display": "May 29, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,68 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Acer just announced a new budget laptop with Qualcomm's Snapdragon C chip",
-          "link": "https://www.engadget.com/2182399/acer-just-announced-a-new-budget-laptop-with-qualcomms-snapdragon-c-chip/",
-          "summary": "Acer's latest laptop feels like an answer to the MacBook Neo.",
+          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "This looks like the company's take on the MacBook Neo."
+          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
-          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
-          "summary": "The feature would allow users to get into a safe position or call for help.",
+          "title": "The Acer Swift Air 14 looks like a cute and breezy Windows alternative to the MacBook Air",
+          "link": "https://www.engadget.com/2183276/the-acer-swift-air-14-looks-like-a-cute-and-breezy-windows-alternative-to-the-macbook-air/",
+          "summary": "There's also a new 360-degree convertible model, the Swift Spin 14 AI.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
-        },
-        {
-          "title": "Acer is making a companion handheld that pairs with its gaming PCs",
-          "link": "https://www.engadget.com/2183132/acer-is-making-a-companion-handheld-that-pairs-with-its-gaming-pcs/",
-          "summary": "Acer's upcoming Nitro Blaze Link is a companion handheld for gaming",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new Nitro Blaze Link lets you play your games over Wi-Fi."
-        },
-        {
-          "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
-          "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
-          "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Canadian officials claim OpenAI violated federal and provincial privacy laws"
-        },
-        {
-          "title": "Snap's $400 million deal with Perplexity is dead",
-          "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
-          "summary": "The planned AI search feature for Snapchat never fully rolled out.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Snap's $400 million deal with Perplexity is dead"
-        },
-        {
-          "title": "Google's AI search results will now turn to Reddit for expert advice",
-          "link": "https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/",
-          "summary": "AI responses now also recommend in-depth articles and links to sources you already subscribe to.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google isupdating AI Overviews and AI Mode, the AI-generated portions of its search engine, to highlight sources in new ways, and interestingly, more prominently feature first-hand accounts from social media, expert blogs and forums like Reddit."
-        },
-        {
-          "title": "Anthropic is doubling Claude Code rate limits after deal with SpaceX",
-          "link": "https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/",
-          "summary": "The company is also interested in SpaceX's planned orbital data centers.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic is doubling Claude Code rate limits after deal with SpaceX"
-        },
-        {
-          "title": "Engadget Podcast: Diving into the Fitbit Air and the Pope's AI criticism",
-          "link": "https://www.engadget.com/2183506/engadget-podcast-the-fitbit-air-and-the-popes-ai-criticism/",
-          "summary": "This week on the Engadget podcast, we chat about our thoughts on the Fitbit Air, as well as Pope Leo's AI criticism with special guest Fr. Robert Ballecer.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We're joined by Fr. Robert Ballecer, AKA the Digital Jesuit"
+          "excerpt": "There\u2019s also a new 360-degree convertible model, the Swift Spin 14 AI."
         },
         {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
@@ -197,20 +149,76 @@
           "excerpt": "WWDC is right around the corner."
         },
         {
+          "title": "Acer just announced a new budget laptop with Qualcomm's Snapdragon C chip",
+          "link": "https://www.engadget.com/2182399/acer-just-announced-a-new-budget-laptop-with-qualcomms-snapdragon-c-chip/",
+          "summary": "Acer's latest laptop feels like an answer to the MacBook Neo.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This looks like the company's take on the MacBook Neo."
+        },
+        {
+          "title": "Spotify now lets AI agents like OpenClaw generate personal podcasts",
+          "link": "https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/",
+          "summary": "Rejoice, nerds.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify now lets AI agents like OpenClaw generate personal podcasts"
+        },
+        {
+          "title": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech",
+          "link": "https://www.engadget.com/2166994/qualcomm-reveals-two-new-affordable-phone-chips-with-smooth-motion-ui-tech/",
+          "summary": "The Snapdragon 6 Gen 5 promises next-gen AI camera features while the Snapdragon 4 Gen 5 offers a big boost in GPU performance.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Qualcomm reveals two new affordable phone chips with Smooth Motion UI tech"
+        },
+        {
+          "title": "Spotify's AI-powered personal DJ expands to more languages and countries",
+          "link": "https://www.engadget.com/2166965/spotify-ai-powered-personal-dj-expands-to-more-languages-and-countries/",
+          "summary": "Premium users in more than 75 markets will now have access to it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spotify's AI-powered personal DJ expands to more languages and countries"
+        },
+        {
+          "title": "Acer is making a companion handheld that pairs with its gaming PCs",
+          "link": "https://www.engadget.com/2183132/acer-is-making-a-companion-handheld-that-pairs-with-its-gaming-pcs/",
+          "summary": "Acer's upcoming Nitro Blaze Link is a companion handheld for gaming",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new Nitro Blaze Link lets you play your games over Wi-Fi."
+        },
+        {
+          "title": "Google is turning the Fitbit app into a unified portal for your health and fitness data",
+          "link": "https://www.engadget.com/2166841/google-unifies-health-fitness-apps-fitbit/",
+          "summary": "The new Health app is rolling out on May 19.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is turning the Fitbit app into a unified portal for your health and fitness data"
+        },
+        {
+          "title": "The Google Fitbit Air is an AI-infused take on Whoop wearables",
+          "link": "https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/",
+          "summary": "It's basically a small Fitbit Inspire without a strap.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Whoop-like wearable thatGoogle teased in\u00a0Marchhas just been unveiled. Called the Google Fitbit Air, it's a screenless device that you can put in a wristband, chest strap or technically anywhere, really, depending on the accessory you choose. It's available for pre-order today for $100 and\u00a0is basically a Fitbit, freed from its band. But of course, with a name like Air, the new gadget is a lot smaller than its predecessors. According to the general manager for Google Health Rishi Chandra, the Fitbit Air is 25 percent smaller than theFitbit Luxeand 50 percent smaller thanthe Inspire 3."
+        },
+        {
+          "title": "Engadget Podcast: Diving into the Fitbit Air and the Pope's AI criticism",
+          "link": "https://www.engadget.com/2183506/engadget-podcast-the-fitbit-air-and-the-popes-ai-criticism/",
+          "summary": "This week on the Engadget podcast, we chat about our thoughts on the Fitbit Air, as well as Pope Leo's AI criticism with special guest Fr. Robert Ballecer.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We're joined by Fr. Robert Ballecer, AKA the Digital Jesuit"
+        },
+        {
           "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
           "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
           "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
-        },
-        {
-          "title": "The Acer Swift Air 14 looks like a cute and breezy Windows alternative to the MacBook Air",
-          "link": "https://www.engadget.com/2183276/the-acer-swift-air-14-looks-like-a-cute-and-breezy-windows-alternative-to-the-macbook-air/",
-          "summary": "There's also a new 360-degree convertible model, the Swift Spin 14 AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "There\u2019s also a new 360-degree convertible model, the Swift Spin 14 AI."
         },
         {
           "title": "How to run a local AI chatbot on your iPhone",
