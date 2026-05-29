@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T10:00:22.479003-07:00",
-  "generated_at_display": "May 29, 2026 10:00 AM PT",
+  "generated_at": "2026-05-29T11:00:26.306375-07:00",
+  "generated_at_display": "May 29, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
+          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
+          "summary": "The feature would allow users to get into a safe position or call for help.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
+        },
+        {
           "title": "Paramount+ used AI to make the ugliest Star Trek thumbnail ever",
           "link": "https://www.engadget.com/2183719/paramount-used-ai-to-make-the-ugliest-star-trek-thumbnail-ever/",
           "summary": "We've never seen Captain Kirk wearing an outfit quite like this one.",
@@ -181,22 +189,6 @@
           "excerpt": "This looks like the company's take on the MacBook Neo."
         },
         {
-          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
-          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
-          "summary": "The feature would allow users to get into a safe position or call for help.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
-        },
-        {
-          "title": "Acer is making a companion handheld that pairs with its gaming PCs",
-          "link": "https://www.engadget.com/2183132/acer-is-making-a-companion-handheld-that-pairs-with-its-gaming-pcs/",
-          "summary": "Acer's upcoming Nitro Blaze Link is a companion handheld for gaming",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new Nitro Blaze Link lets you play your games over Wi-Fi."
-        },
-        {
           "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
           "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
           "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
@@ -218,6 +210,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Tells lawmakers Ghislaine Maxwell should 'die in prison'...",
+          "link": "https://nypost.com/2026/05/29/us-news/former-ag-pam-bondi-tells-lawmakers-ghislaine-maxwell-should-die-in-prison",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "$300 BILLION SLUSH FUND FOR IRAN!",
           "link": "https://www.timesofisrael.com/liveblog_entry/emerging-us-iran-mou-said-to-reference-possible-300b-postwar-investment-fund-to-aid-tehrans-reconstruction/",
