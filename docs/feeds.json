@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T04:00:19.734800-07:00",
-  "generated_at_display": "May 30, 2026 04:00 AM PT",
+  "generated_at": "2026-05-30T05:00:23.423499-07:00",
+  "generated_at_display": "May 30, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -181,36 +181,20 @@
           "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
-          "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
-          "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
-          "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
+          "title": "Meta, other social networks will pay $27 million to settle Kentucky school district lawsuit",
+          "link": "https://www.engadget.com/2184229/meta-tiktok-snap-youtube-settle-kentucky-school-social-media-addiction-lawsuit/",
+          "summary": "The Kentucky school district that filed a social media addiction lawsuit against Meta and other companies is getting $27 million in settlement.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Canadian officials claim OpenAI violated federal and provincial privacy laws"
+          "excerpt": "Over 1,000 school districts in the US sued social media companies over 'addictive' products."
         },
         {
-          "title": "Snap's $400 million deal with Perplexity is dead",
-          "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
-          "summary": "The planned AI search feature for Snapchat never fully rolled out.",
+          "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
+          "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
+          "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Snap's $400 million deal with Perplexity is dead"
-        },
-        {
-          "title": "Google's AI search results will now turn to Reddit for expert advice",
-          "link": "https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/",
-          "summary": "AI responses now also recommend in-depth articles and links to sources you already subscribe to.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google isupdating AI Overviews and AI Mode, the AI-generated portions of its search engine, to highlight sources in new ways, and interestingly, more prominently feature first-hand accounts from social media, expert blogs and forums like Reddit."
-        },
-        {
-          "title": "Anthropic is doubling Claude Code rate limits after deal with SpaceX",
-          "link": "https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/",
-          "summary": "The company is also interested in SpaceX's planned orbital data centers.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic is doubling Claude Code rate limits after deal with SpaceX"
+          "excerpt": "VIDEO"
         }
       ]
     },
