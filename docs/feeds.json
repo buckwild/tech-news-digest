@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T09:00:21.198910-07:00",
-  "generated_at_display": "May 30, 2026 09:00 AM PT",
+  "generated_at": "2026-05-30T10:00:21.441262-07:00",
+  "generated_at_display": "May 30, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -133,14 +133,6 @@
           "excerpt": "The Fitbit Air has entered the chat."
         },
         {
-          "title": "Meta's employee mouse tracking program could reportedly violate EU privacy laws",
-          "link": "https://www.engadget.com/2184241/meta-mouse-tracking-employees-mci-eu-privacy-rules-gdpr/",
-          "summary": "Meta's mouse tracking tool for employees could capture non-US data and could violate the EU's privacy rules, according to Reuters.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "'Reuters' says the tracking tool could capture emails and chats by non-US employees."
-        },
-        {
           "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
           "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
           "summary": "A roundup of recent reviews published by Engadget.",
@@ -149,20 +141,52 @@
           "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
-          "title": "Meta, other social networks will pay $27 million to settle Kentucky school district lawsuit",
-          "link": "https://www.engadget.com/2184229/meta-tiktok-snap-youtube-settle-kentucky-school-social-media-addiction-lawsuit/",
-          "summary": "The Kentucky school district that filed a social media addiction lawsuit against Meta and other companies is getting $27 million in settlement.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Over 1,000 school districts in the US sued social media companies over 'addictive' products."
-        },
-        {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
           "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
           "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
+        },
+        {
+          "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
+          "link": "https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/",
+          "summary": "The proposed settlement is the result of a class action lawsuit filed in California.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time"
+        },
+        {
+          "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
+          "link": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
+          "summary": "This five-year deal is one of many circular agreements keeping the AI sector afloat.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access"
+        },
+        {
+          "title": "Xbox is ditching Microsoft's Copilot AI",
+          "link": "https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/",
+          "summary": "The AI assistant is no longer coming to consoles and will be removed from the Xbox mobile app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The AI assistant is no longer coming to consoles and will be removed from the Xbox mobile app."
+        },
+        {
+          "title": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store",
+          "link": "https://www.engadget.com/2165488/remakes-of-myst-and-riven-are-coming-to-playstation-xbox-and-the-microsoft-store/",
+          "summary": "Both remakes were already released on Steam and the macOS App Store.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store"
+        },
+        {
+          "title": "Meta's employee mouse tracking program could reportedly violate EU privacy laws",
+          "link": "https://www.engadget.com/2184241/meta-mouse-tracking-employees-mci-eu-privacy-rules-gdpr/",
+          "summary": "Meta's mouse tracking tool for employees could capture non-US data and could violate the EU's privacy rules, according to Reuters.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "'Reuters' says the tracking tool could capture emails and chats by non-US employees."
         },
         {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
@@ -181,36 +205,12 @@
           "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
         },
         {
-          "title": "Meta is reportedly working on an AI pendant and more smart glasses",
-          "link": "https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/",
-          "summary": "The company is hoping to sell 10 million wearables in the second half of 2026, according to 'The Information.'",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Meta is developing an AI pendant and will start testing it over the coming year, according toThe Information. In addition, the company is reportedly gearing up to release up to four more models of smart glasses before the year ends, as part of an aggressive plan to make up for the massive losses of its\u00a0Reality Labs division, which houses its hardware business."
-        },
-        {
           "title": "How to run a local AI chatbot on your iPhone",
           "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
           "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
-        },
-        {
-          "title": "Fable dodges GTA VI with another delay",
-          "link": "https://www.engadget.com/2183963/fable-dodges-gta-vi-with-another-delay/",
-          "summary": "Fable is delayed again, putting it outside the GTA blast radius.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The reboot of the classic Xbox series is now coming out in February 2027."
-        },
-        {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         }
       ]
     },
