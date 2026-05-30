@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T10:00:21.441262-07:00",
-  "generated_at_display": "May 30, 2026 10:00 AM PT",
+  "generated_at": "2026-05-30T11:00:20.552915-07:00",
+  "generated_at_display": "May 30, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -181,36 +181,28 @@
           "excerpt": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store"
         },
         {
-          "title": "Meta's employee mouse tracking program could reportedly violate EU privacy laws",
-          "link": "https://www.engadget.com/2184241/meta-mouse-tracking-employees-mci-eu-privacy-rules-gdpr/",
-          "summary": "Meta's mouse tracking tool for employees could capture non-US data and could violate the EU's privacy rules, according to Reuters.",
+          "title": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27",
+          "link": "https://www.engadget.com/2165451/apple-intelligence-will-reportedly-let-you-choose-third-party-ai-models-in-ios-27/",
+          "summary": "iPads and Macs are also expected to embrace external options for generative AI.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "'Reuters' says the tracking tool could capture emails and chats by non-US employees."
+          "excerpt": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27"
         },
         {
-          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
-          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
-          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
+          "title": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors",
+          "link": "https://www.engadget.com/2165373/pennsylvania-is-suing-characterai-over-chatbots-that-pretend-to-be-licensed-doctors/",
+          "summary": "State investigators found a chatbot that claimed it had a medical license and could write prescriptions.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "WWDC is right around the corner."
+          "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
         },
         {
-          "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
-          "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
-          "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
+          "title": "Google Home gains more Gemini-powered camera features",
+          "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
+          "summary": "The company also updated Gemini for Home for those in an early access program.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
-        },
-        {
-          "title": "How to run a local AI chatbot on your iPhone",
-          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
-          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
+          "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
         }
       ]
     },
