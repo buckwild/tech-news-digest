@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T03:00:21.674945-07:00",
-  "generated_at_display": "May 30, 2026 03:00 AM PT",
+  "generated_at": "2026-05-30T04:00:19.734800-07:00",
+  "generated_at_display": "May 30, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Fable dodges GTA VI with another delay",
-          "link": "https://www.engadget.com/2183963/fable-dodges-gta-vi-with-another-delay/",
-          "summary": "Fable is delayed again, putting it outside the GTA blast radius.",
+          "title": "Meta is reportedly working on an AI pendant and more smart glasses",
+          "link": "https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/",
+          "summary": "The company is hoping to sell 10 million wearables in the second half of 2026, according to 'The Information.'",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The reboot of the classic Xbox series is now coming out in February 2027."
+          "excerpt": "Meta is developing an AI pendant and will start testing it over the coming year, according toThe Information. In addition, the company is reportedly gearing up to release up to four more models of smart glasses before the year ends, as part of an aggressive plan to make up for the massive losses of its\u00a0Reality Labs division, which houses its hardware business."
         },
         {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
@@ -139,6 +139,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
+        },
+        {
+          "title": "Fable dodges GTA VI with another delay",
+          "link": "https://www.engadget.com/2183963/fable-dodges-gta-vi-with-another-delay/",
+          "summary": "Fable is delayed again, putting it outside the GTA blast radius.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The reboot of the classic Xbox series is now coming out in February 2027."
         },
         {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
@@ -165,20 +173,44 @@
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         },
         {
-          "title": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'",
-          "link": "https://www.engadget.com/2166756/samsung-says-galaxy-watch-can-predict-fainting-with-high-accuracy/",
-          "summary": "The feature would allow users to get into a safe position or call for help.",
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Samsung says its Galaxy Watch can predict fainting with 'high accuracy'"
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
         },
         {
-          "title": "Paramount+ used AI to make the ugliest Star Trek thumbnail ever",
-          "link": "https://www.engadget.com/2183719/paramount-used-ai-to-make-the-ugliest-star-trek-thumbnail-ever/",
-          "summary": "We've never seen Captain Kirk wearing an outfit quite like this one.",
+          "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
+          "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
+          "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Paramount+ looks to have used generative AI to whip up a thumbnail forStar Trek II: The Wrath of Khan,according to a report byKotaku. The image shows Captain Kirk, as played by William Shatner, dressed in a business suit. Kirk never dons a business suit inWrath of Khan, or any other time throughout Shatner's decades of portraying the character. He did rock a flannel shirt and jeans once during a visit to 1930s Earth."
+          "excerpt": "Canadian officials claim OpenAI violated federal and provincial privacy laws"
+        },
+        {
+          "title": "Snap's $400 million deal with Perplexity is dead",
+          "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
+          "summary": "The planned AI search feature for Snapchat never fully rolled out.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Snap's $400 million deal with Perplexity is dead"
+        },
+        {
+          "title": "Google's AI search results will now turn to Reddit for expert advice",
+          "link": "https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/",
+          "summary": "AI responses now also recommend in-depth articles and links to sources you already subscribe to.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google isupdating AI Overviews and AI Mode, the AI-generated portions of its search engine, to highlight sources in new ways, and interestingly, more prominently feature first-hand accounts from social media, expert blogs and forums like Reddit."
+        },
+        {
+          "title": "Anthropic is doubling Claude Code rate limits after deal with SpaceX",
+          "link": "https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/",
+          "summary": "The company is also interested in SpaceX's planned orbital data centers.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic is doubling Claude Code rate limits after deal with SpaceX"
         }
       ]
     },
