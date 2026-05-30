@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T14:00:20.116908-07:00",
-  "generated_at_display": "May 30, 2026 02:00 PM PT",
+  "generated_at": "2026-05-30T15:00:23.560649-07:00",
+  "generated_at_display": "May 30, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -133,20 +133,28 @@
           "excerpt": "The Fitbit Air has entered the chat."
         },
         {
-          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
-          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
-          "summary": "A roundup of recent reviews published by Engadget.",
+          "title": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff",
+          "link": "https://www.engadget.com/2166238/mindseye-developer-build-a-rocket-boy-has-reportedly-laid-off-even-more-staff/",
+          "summary": "Around 170 roles are said to be affected.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "A roundup of recent reviews published by Engadget."
+          "excerpt": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff"
         },
         {
-          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
-          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
-          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+          "title": "Chrome downloads a 4GB AI file without user consent, researcher alleges",
+          "link": "https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/",
+          "summary": "At least there's a toggle to easily turn this off.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
+          "excerpt": "If you've paid any attention to Google lately, you know that it wants us using its AI tools. So much so that Chrome apparently downloads a 4GB file containing details for running Gemini Nano, Google's on-device LLM. Computer scientist Alexander Hanffpublished the detailsearlier this week on his website The Privacy Guy and goes into extreme detail on why this isn't a good look for Google."
+        },
+        {
+          "title": "Pornhub is unblocking UK users who verify their age with Apple",
+          "link": "https://www.engadget.com/2165805/pornhub-uk-verify-age-apple-ios/",
+          "summary": "Its parent company Aylo says age-verified iOS users in the UK will now be able to fully access the adult website.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Pornhub is unblocking UK users who verify their age with Apple"
         },
         {
           "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
-        },
-        {
-          "title": "Google Home gains more Gemini-powered camera features",
-          "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
-          "summary": "The company also updated Gemini for Home for those in an early access program.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
         }
       ]
     },
