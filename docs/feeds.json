@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T13:00:22.783261-07:00",
-  "generated_at_display": "May 31, 2026 01:00 PM PT",
+  "generated_at": "2026-05-31T14:00:21.481239-07:00",
+  "generated_at_display": "May 31, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "MSI's Claw 8 EX AI+ handheld comes out on June 23",
+          "link": "https://www.engadget.com/2184461/msi-claw-8-ex-ai-handheld-comes-out-on-june-23/",
+          "summary": "The premium gaming handheld's price is expected to be around $1,500.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The premium gaming handheld\u2019s price is expected to be around $1,500."
+        },
+        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
@@ -147,14 +155,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
-        },
-        {
-          "title": "Apple's smart glasses reportedly won't make their debut until end of 2027",
-          "link": "https://www.engadget.com/2184438/apple-smart-glasses-reportedly-wont-make-their-debut-until-end-of-2027/",
-          "summary": "Apple's smart glasses reportedly won't make their debut until end of 2027",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple's smart glasses reportedly won't make their debut until end of 2027"
         },
         {
           "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
@@ -189,12 +189,12 @@
           "excerpt": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store"
         },
         {
-          "title": "A new Apple TV and HomePod mini could arrive in the fall",
-          "link": "https://www.engadget.com/2184409/a-new-apple-tv-and-homepod-mini-could-arrive-in-the-fall/",
-          "summary": "These refreshed devices are waiting on the debut of the revamped Siri.",
+          "title": "Apple's smart glasses reportedly won't make their debut until end of 2027",
+          "link": "https://www.engadget.com/2184438/apple-smart-glasses-reportedly-wont-make-their-debut-until-end-of-2027/",
+          "summary": "Apple's smart glasses reportedly won't make their debut until end of 2027",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "These refreshed devices are waiting on the debut of the revamped Siri."
+          "excerpt": "Apple's smart glasses reportedly won't make their debut until end of 2027"
         },
         {
           "title": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27",
