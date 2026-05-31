@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T12:00:22.947296-07:00",
-  "generated_at_display": "May 31, 2026 12:00 PM PT",
+  "generated_at": "2026-05-31T13:00:22.783261-07:00",
+  "generated_at_display": "May 31, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Apple's smart glasses reportedly won't make their debut until end of 2027",
-          "link": "https://www.engadget.com/2184438/apple-smart-glasses-reportedly-wont-make-their-debut-until-end-of-2027/",
-          "summary": "Apple's smart glasses reportedly won't make their debut until end of 2027",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple's smart glasses reportedly won't make their debut until end of 2027"
-        },
-        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
@@ -157,12 +149,12 @@
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "A new Apple TV and HomePod mini could arrive in the fall",
-          "link": "https://www.engadget.com/2184409/a-new-apple-tv-and-homepod-mini-could-arrive-in-the-fall/",
-          "summary": "These refreshed devices are waiting on the debut of the revamped Siri.",
+          "title": "Apple's smart glasses reportedly won't make their debut until end of 2027",
+          "link": "https://www.engadget.com/2184438/apple-smart-glasses-reportedly-wont-make-their-debut-until-end-of-2027/",
+          "summary": "Apple's smart glasses reportedly won't make their debut until end of 2027",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "These refreshed devices are waiting on the debut of the revamped Siri."
+          "excerpt": "Apple's smart glasses reportedly won't make their debut until end of 2027"
         },
         {
           "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
@@ -195,6 +187,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store"
+        },
+        {
+          "title": "A new Apple TV and HomePod mini could arrive in the fall",
+          "link": "https://www.engadget.com/2184409/a-new-apple-tv-and-homepod-mini-could-arrive-in-the-fall/",
+          "summary": "These refreshed devices are waiting on the debut of the revamped Siri.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "These refreshed devices are waiting on the debut of the revamped Siri."
         },
         {
           "title": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27",
