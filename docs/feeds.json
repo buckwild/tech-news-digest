@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T10:00:21.314096-07:00",
-  "generated_at_display": "May 31, 2026 10:00 AM PT",
+  "generated_at": "2026-05-31T11:00:21.167204-07:00",
+  "generated_at_display": "May 31, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "A new Apple TV and HomePod mini could arrive in the fall",
+          "link": "https://www.engadget.com/2184409/a-new-apple-tv-and-homepod-mini-could-arrive-in-the-fall/",
+          "summary": "These refreshed devices are waiting on the debut of the revamped Siri.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "These refreshed devices are waiting on the debut of the revamped Siri."
+        },
+        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
@@ -133,12 +141,12 @@
           "excerpt": "The Fitbit Air has entered the chat."
         },
         {
-          "title": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff",
-          "link": "https://www.engadget.com/2166238/mindseye-developer-build-a-rocket-boy-has-reportedly-laid-off-even-more-staff/",
-          "summary": "Around 170 roles are said to be affected.",
+          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
+          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
+          "summary": "A roundup of recent reviews published by Engadget.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "MindsEye developer Build a Rocket Boy has reportedly laid off even more staff"
+          "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
           "title": "Chrome downloads a 4GB AI file without user consent, researcher alleges",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27"
-        },
-        {
-          "title": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors",
-          "link": "https://www.engadget.com/2165373/pennsylvania-is-suing-characterai-over-chatbots-that-pretend-to-be-licensed-doctors/",
-          "summary": "State investigators found a chatbot that claimed it had a medical license and could write prescriptions.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
         }
       ]
     },
@@ -210,13 +210,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "TINA BROWN:  WARNING TO DEMOCRATS!",
-          "link": "https://tinabrown.substack.com/p/trumps-sweet-vengeance",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "AI Company Paying Random People $2,000 Per Month to Crank the Hog...",
           "link": "https://futurism.com/artificial-intelligence/ai-company-cranking-hog",
