@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T07:00:23.186408-07:00",
-  "generated_at_display": "May 31, 2026 07:00 AM PT",
+  "generated_at": "2026-05-31T08:00:18.922558-07:00",
+  "generated_at_display": "May 31, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -213,6 +213,13 @@
         {
           "title": "CONSCIOUS AI TO CONQUER THE COSMOSTECH OVERLORDS' GRAND PLAN",
           "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "AI Company Paying Random People $2,000 Per Month to Crank the Hog...",
+          "link": "https://futurism.com/artificial-intelligence/ai-company-cranking-hog",
           "summary": null,
           "published": null,
           "excerpt": null
