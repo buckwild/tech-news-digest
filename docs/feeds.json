@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T03:00:18.953233-07:00",
-  "generated_at_display": "May 31, 2026 03:00 AM PT",
+  "generated_at": "2026-05-31T04:00:22.093583-07:00",
+  "generated_at_display": "May 31, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -210,13 +210,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "White House Releases Results of Trump Physical...Gained 14 Pounds...",
-          "link": "https://www.wsj.com/politics/trump-remains-in-excellent-physical-health-white-house-doctor-report-says-0dbe4a0b",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "Trump cleared skies above Mar-a-Lago. His rich neighbors paid the price...",
           "link": "https://www.telegraph.co.uk/us/news/2026/05/30/trump-mar-a-lago-aeroplane-noise-palm-beach/",
