@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T02:00:22.699612-07:00",
-  "generated_at_display": "Jun 01, 2026 02:00 AM PT",
+  "generated_at": "2026-06-01T03:00:21.424406-07:00",
+  "generated_at_display": "Jun 01, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,28 +125,28 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
+          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
+          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Fitbit Air has entered the chat."
+        },
+        {
+          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
+          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
+          "summary": "A roundup of recent reviews published by Engadget.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A roundup of recent reviews published by Engadget."
+        },
+        {
           "title": "The Surface Laptop Ultra is the most powerful Surface yet, thanks to NVIDIA's RTX Spark",
           "link": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
           "summary": "Microsoft's Surface Laptop Ultra is basically a MacBook Pro clone (that's powered by NVIDIA's RTX Spark).",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Microsoft's latest Surface is basically a MacBook Pro clone."
-        },
-        {
-          "title": "Xbox is ditching Microsoft's Copilot AI",
-          "link": "https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/",
-          "summary": "The AI assistant is no longer coming to consoles and will be removed from the Xbox mobile app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The AI assistant is no longer coming to consoles and will be removed from the Xbox mobile app."
-        },
-        {
-          "title": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store",
-          "link": "https://www.engadget.com/2165488/remakes-of-myst-and-riven-are-coming-to-playstation-xbox-and-the-microsoft-store/",
-          "summary": "Both remakes were already released on Steam and the macOS App Store.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store"
         },
         {
           "title": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27",
@@ -165,6 +165,14 @@
           "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
         },
         {
+          "title": "Google Home gains more Gemini-powered camera features",
+          "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
+          "summary": "The company also updated Gemini for Home for those in an early access program.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
+        },
+        {
           "title": "NVIDIA's RTX Spark is an AI \"superchip\" that will power Windows laptops and desktops",
           "link": "https://www.engadget.com/2184558/nvidia-rtx-spark-chip-windows-pcs/",
           "summary": "NVIDIA claims the new RTX Spark chip for PCs will offer 1 petaflop of AI computing power.",
@@ -173,28 +181,20 @@
           "excerpt": "It was only a matter of time before NVIDIA released a powerful system-on-a-chip (SOC) to take onAMD's Ryzen AI MaxandQualcomm's latest Snapdragon X2 chips. At Computex today, NVIDIA unveiled the RTX Spark, a \"superchip\" meant to give both laptops and small desktops fast AI and graphics performance. You can think of it as a portable sibling to thecompany's $3,999 DGX spark AI mini-desktop, except it's built for Windows instead of Linux. RTX Spark will powering new laptops including the Surface Surface Laptop Ultra and Dell XPS 16, as well as systems from \"every single major OEM,\" according to NVIDIA."
         },
         {
-          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
-          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
-          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
+          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The Fitbit Air has entered the chat."
+          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
-          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
-          "summary": "A roundup of recent reviews published by Engadget.",
+          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
+          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
+          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "A roundup of recent reviews published by Engadget."
-        },
-        {
-          "title": "Google Home gains more Gemini-powered camera features",
-          "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
-          "summary": "The company also updated Gemini for Home for those in an early access program.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
+          "excerpt": "WWDC is right around the corner."
         },
         {
           "title": "ChatGPT's new default model is more factual and better at personalization",
@@ -211,30 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Book publishers accuse Meta and Mark Zuckerberg of copyright infringement"
-        },
-        {
-          "title": "Alexa+ is now available on a bunch of Bose speakers",
-          "link": "https://www.engadget.com/2165222/alexa-is-now-available-on-a-bunch-of-bose-speakers/",
-          "summary": "This is the upgraded smart assistant's debut on a non-Amazon device.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Alexa+ is now available on a bunch of Bose speakers"
-        },
-        {
-          "title": "AMD's Radeon RX 9070 GRE graphics card is now available to purchase",
-          "link": "https://www.engadget.com/2183855/amds-radeon-rx-9070-gre-graphics-card-is-now-available-to-purchase/",
-          "summary": "The Radeon RX 9070 GRE is finally available outside of China",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "AMD just released the Radeon RX 9070 GRE graphics card globally after it came out in China last year. The GRE stands for \"Golden Rabbit Edition,\"though sometimes it's referred to asthe \"Great Radeon Edition.\" This mid-range GPU costs $549."
-        },
-        {
-          "title": "Google will livestream The Android Show: I/O Edition on May 12",
-          "link": "https://www.engadget.com/2164379/google-will-livestream-the-android-show-io-edition-on-may-12/",
-          "summary": "The virtual event will showcase some of the biggest changes to the OS in years.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google will livestream The Android Show: I/O Edition on May 12"
         }
       ]
     },
