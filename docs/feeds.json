@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T16:00:28.617476-07:00",
-  "generated_at_display": "May 31, 2026 04:00 PM PT",
+  "generated_at": "2026-05-31T17:00:22.319370-07:00",
+  "generated_at_display": "May 31, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "The new XPS 13 is Dell's answer to the MacBook Neo",
-          "link": "https://www.engadget.com/2184021/the-new-xps-13-is-dell-s-answer-to-the-macbook-neo/",
-          "summary": "It starts at just $599 for students or $699 for everyone else.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "TheXPS 13wasDell'smost well-known flagship laptop for more than a decade. However, after brieflykilling off the XPS brand last year, the company is now bringing back its iconic ultraportable as a very affordable but still premium Windows-based alternative to theMacBook Neo."
-        },
-        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
@@ -149,44 +141,36 @@
           "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
+          "title": "The new XPS 13 is Dell's answer to the MacBook Neo",
+          "link": "https://www.engadget.com/2184021/the-new-xps-13-is-dell-s-answer-to-the-macbook-neo/",
+          "summary": "It starts at just $599 for students or $699 for everyone else.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "TheXPS 13wasDell'smost well-known flagship laptop for more than a decade. However, after brieflykilling off the XPS brand last year, the company is now bringing back its iconic ultraportable as a very affordable but still premium Windows-based alternative to theMacBook Neo."
+        },
+        {
+          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
+        },
+        {
+          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
+          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
+          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "WWDC is right around the corner."
+        },
+        {
           "title": "MSI's Claw 8 EX AI+ handheld comes out on June 23",
           "link": "https://www.engadget.com/2184461/msi-claw-8-ex-ai-handheld-comes-out-on-june-23/",
           "summary": "The premium gaming handheld's price is expected to be around $1,500.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "The premium gaming handheld\u2019s price is expected to be around $1,500."
-        },
-        {
-          "title": "Chrome downloads a 4GB AI file without user consent, researcher alleges",
-          "link": "https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/",
-          "summary": "At least there's a toggle to easily turn this off.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "If you've paid any attention to Google lately, you know that it wants us using its AI tools. So much so that Chrome apparently downloads a 4GB file containing details for running Gemini Nano, Google's on-device LLM. Computer scientist Alexander Hanffpublished the detailsearlier this week on his website The Privacy Guy and goes into extreme detail on why this isn't a good look for Google."
-        },
-        {
-          "title": "Pornhub is unblocking UK users who verify their age with Apple",
-          "link": "https://www.engadget.com/2165805/pornhub-uk-verify-age-apple-ios/",
-          "summary": "Its parent company Aylo says age-verified iOS users in the UK will now be able to fully access the adult website.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Pornhub is unblocking UK users who verify their age with Apple"
-        },
-        {
-          "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
-          "link": "https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/",
-          "summary": "The proposed settlement is the result of a class action lawsuit filed in California.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time"
-        },
-        {
-          "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
-          "link": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
-          "summary": "This five-year deal is one of many circular agreements keeping the AI sector afloat.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access"
         },
         {
           "title": "Xbox is ditching Microsoft's Copilot AI",
@@ -205,20 +189,28 @@
           "excerpt": "Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store"
         },
         {
-          "title": "Apple's smart glasses reportedly won't make their debut until end of 2027",
-          "link": "https://www.engadget.com/2184438/apple-smart-glasses-reportedly-wont-make-their-debut-until-end-of-2027/",
-          "summary": "Apple's smart glasses reportedly won't make their debut until end of 2027",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple's smart glasses reportedly won't make their debut until end of 2027"
-        },
-        {
           "title": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27",
           "link": "https://www.engadget.com/2165451/apple-intelligence-will-reportedly-let-you-choose-third-party-ai-models-in-ios-27/",
           "summary": "iPads and Macs are also expected to embrace external options for generative AI.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27"
+        },
+        {
+          "title": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors",
+          "link": "https://www.engadget.com/2165373/pennsylvania-is-suing-characterai-over-chatbots-that-pretend-to-be-licensed-doctors/",
+          "summary": "State investigators found a chatbot that claimed it had a medical license and could write prescriptions.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
+        },
+        {
+          "title": "Google Home gains more Gemini-powered camera features",
+          "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
+          "summary": "The company also updated Gemini for Home for those in an early access program.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
         }
       ]
     },
