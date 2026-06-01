@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T08:00:21.605619-07:00",
-  "generated_at_display": "Jun 01, 2026 08:00 AM PT",
+  "generated_at": "2026-06-01T09:00:22.507393-07:00",
+  "generated_at_display": "Jun 01, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "How to watch Microsoft Build 2026",
-          "link": "https://www.engadget.com/2183873/how-to-watch-microsoft-build-2026/",
-          "summary": "Here's how to watch Microsoft Build 2026.",
+          "title": "Meta is using AI bone structure analysis to detect and remove underaged users",
+          "link": "https://www.engadget.com/2164981/meta-is-using-ai-bone-structure-analysis-to-detect-and-remove-underaged-users/",
+          "summary": "The company is also expanding its teen account detection systems to Facebook.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "More AI and new hardware could be in store at Microsoft's developer conference."
+          "excerpt": "Meta is using AI bone structure analysis to detect and remove underaged users"
+        },
+        {
+          "title": "Google, Microsoft and xAI agree to provide US government with early AI model access",
+          "link": "https://www.engadget.com/2164870/google-microsoft-and-xai-agree-to-provide-us-government-with-early-ai-model-access/",
+          "summary": "The Commerce Department will use the access to conduct security evaluations.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google, Microsoft and xAI agree to provide US government with early AI model access"
         },
         {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
@@ -149,20 +157,20 @@
           "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
+          "title": "How to watch Microsoft Build 2026",
+          "link": "https://www.engadget.com/2183873/how-to-watch-microsoft-build-2026/",
+          "summary": "Here's how to watch Microsoft Build 2026.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "More AI and new hardware could be in store at Microsoft's developer conference."
+        },
+        {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
           "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
           "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
-        },
-        {
-          "title": "Google is opening its first flagship store outside of the US",
-          "link": "https://www.engadget.com/2184684/google-is-opening-its-first-international-flagship-store-japan/",
-          "summary": "Google announced it will open a flagship store in Tokyo this summer, the first of its kind outside of the United States.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Google Store Omotesando should open this summer in Japan."
         },
         {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
@@ -187,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
-        },
-        {
-          "title": "Fitbit Air review: Health tracking for the AI generation",
-          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
-          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
-        },
-        {
-          "title": "The Surface Laptop Ultra is the most powerful Surface yet, thanks to NVIDIA's RTX Spark",
-          "link": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
-          "summary": "Microsoft's Surface Laptop Ultra is basically a MacBook Pro clone (that's powered by NVIDIA's RTX Spark).",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Microsoft's latest Surface is basically a MacBook Pro clone."
         }
       ]
     },
@@ -210,6 +202,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "IRAN THREATENS NEW STRIKES ON ISRAEL",
+          "link": "https://www.express.co.uk/news/world/2212128/iran-issues-horror-threat-attack",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "President Melts Down at 'Unpatriotic' Republicans in 1AM Rage Post...",
           "link": "https://www.thedailybeast.com/manic-trump-79-melts-down-at-unpatriotic-republicans-in-1am-ragepost/",
