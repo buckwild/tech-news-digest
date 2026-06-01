@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T09:00:22.507393-07:00",
-  "generated_at_display": "Jun 01, 2026 09:00 AM PT",
+  "generated_at": "2026-06-01T10:00:32.069417-07:00",
+  "generated_at_display": "Jun 01, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,20 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Meta is using AI bone structure analysis to detect and remove underaged users",
-          "link": "https://www.engadget.com/2164981/meta-is-using-ai-bone-structure-analysis-to-detect-and-remove-underaged-users/",
-          "summary": "The company is also expanding its teen account detection systems to Facebook.",
+          "title": "PlayStation's wireless fight stick and new gaming monitor arrive in August",
+          "link": "https://www.engadget.com/2184938/playstation-wireless-fight-stick-and-new-gaming-monitor-arrive-in-august/",
+          "summary": "The new PlayStation monitor and fight stick arrive this summer, but you'll have to wait until later in the year to snag the Pulse Elevate wireless speakers.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Meta is using AI bone structure analysis to detect and remove underaged users"
-        },
-        {
-          "title": "Google, Microsoft and xAI agree to provide US government with early AI model access",
-          "link": "https://www.engadget.com/2164870/google-microsoft-and-xai-agree-to-provide-us-government-with-early-ai-model-access/",
-          "summary": "The Commerce Department will use the access to conduct security evaluations.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google, Microsoft and xAI agree to provide US government with early AI model access"
+          "excerpt": "You'll have to wait until later in the year to snag the Pulse Elevate Wireless Speakers."
         },
         {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
@@ -157,12 +149,28 @@
           "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
-          "title": "How to watch Microsoft Build 2026",
-          "link": "https://www.engadget.com/2183873/how-to-watch-microsoft-build-2026/",
-          "summary": "Here's how to watch Microsoft Build 2026.",
+          "title": "Google, Microsoft and xAI agree to provide US government with early AI model access",
+          "link": "https://www.engadget.com/2164870/google-microsoft-and-xai-agree-to-provide-us-government-with-early-ai-model-access/",
+          "summary": "The Commerce Department will use the access to conduct security evaluations.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "More AI and new hardware could be in store at Microsoft's developer conference."
+          "excerpt": "Google, Microsoft and xAI agree to provide US government with early AI model access"
+        },
+        {
+          "title": "Bose's new Lifestyle home audio lineup includes a speaker, soundbar and subwoofer",
+          "link": "https://www.engadget.com/2164255/bose-new-lifestyle-home-audio-lineup-includes-a-speaker-soundbar-and-subwoofer/",
+          "summary": "The new speakers will be available May 15.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Bose's new Lifestyle home audio lineup includes a speaker, soundbar and subwoofer"
+        },
+        {
+          "title": "Google's Pentagon AI deal reportedly drove the DeepMind team to unionize",
+          "link": "https://www.engadget.com/2164765/google-us-military-deepmind-union/",
+          "summary": "DeepMind workers in the UK have voted to unionize.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google\u2019s Pentagon AI deal reportedly drove the DeepMind team to unionize"
         },
         {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
@@ -189,12 +197,20 @@
           "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
         },
         {
-          "title": "How to run a local AI chatbot on your iPhone",
-          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
-          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
+          "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
+          "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
+          "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
+          "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
+        },
+        {
+          "title": "Anthropic is set to go public after filing paperwork with the SEC",
+          "link": "https://www.engadget.com/2184970/anthropic-is-set-to-go-public-after-filing-paperwork-with-the-sec/",
+          "summary": "The company behind Claude says it confidentially submitted a draft version of its S-1 form.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company behind Claude says it confidentially submitted a draft version of its S-1 form."
         }
       ]
     },
@@ -218,7 +234,7 @@
         },
         {
           "title": "White House Is the New Green Zone...",
-          "link": "https://archive.ph/IR6bi#selection-609.0-614.0",
+          "link": "https://dnyuz.com/2026/06/01/the-white-house-is-the-new-green-zone/",
           "summary": null,
           "published": null,
           "excerpt": null
