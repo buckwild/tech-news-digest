@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T06:00:20.579048-07:00",
-  "generated_at_display": "Jun 01, 2026 06:00 AM PT",
+  "generated_at": "2026-06-01T07:00:23.412465-07:00",
+  "generated_at_display": "Jun 01, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "How to watch Microsoft Build 2026",
+          "link": "https://www.engadget.com/2183873/how-to-watch-microsoft-build-2026/",
+          "summary": "Here's how to watch Microsoft Build 2026.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "More AI and new hardware could be in store at Microsoft's developer conference."
+        },
+        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
@@ -141,20 +149,20 @@
           "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
-          "title": "Google is opening its first flagship store outside of the US",
-          "link": "https://www.engadget.com/2184684/google-is-opening-its-first-international-flagship-store-japan/",
-          "summary": "Google announced it will open a flagship store in Tokyo this summer, the first of its kind outside of the United States.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Google Store Omotesando should open this summer in Japan."
-        },
-        {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
           "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
           "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
+        },
+        {
+          "title": "Google is opening its first flagship store outside of the US",
+          "link": "https://www.engadget.com/2184684/google-is-opening-its-first-international-flagship-store-japan/",
+          "summary": "Google announced it will open a flagship store in Tokyo this summer, the first of its kind outside of the United States.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Google Store Omotesando should open this summer in Japan."
         },
         {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
@@ -181,28 +189,20 @@
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         },
         {
+          "title": "Fitbit Air review: Health tracking for the AI generation",
+          "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
+          "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google unveiledthe AI Coach and a redesign of the Fitbit app in August,but this month announced it will completelyreplace its existing wellness apps with Google Health. That means that those who use Google Fit will be asked to install the new app and migrate their data, while those who currently have the Fitbit app will see a rebrand. Since the interface is quite different from even the fairly recentredesign in 2023and the August overhaul is just now coming out of public preview, I thought I would evaluate its performance."
+        },
+        {
           "title": "The Surface Laptop Ultra is the most powerful Surface yet, thanks to NVIDIA's RTX Spark",
           "link": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
           "summary": "Microsoft's Surface Laptop Ultra is basically a MacBook Pro clone (that's powered by NVIDIA's RTX Spark).",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Microsoft's latest Surface is basically a MacBook Pro clone."
-        },
-        {
-          "title": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors",
-          "link": "https://www.engadget.com/2165373/pennsylvania-is-suing-characterai-over-chatbots-that-pretend-to-be-licensed-doctors/",
-          "summary": "State investigators found a chatbot that claimed it had a medical license and could write prescriptions.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors"
-        },
-        {
-          "title": "Google Home gains more Gemini-powered camera features",
-          "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
-          "summary": "The company also updated Gemini for Home for those in an early access program.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
         }
       ]
     },
@@ -213,6 +213,13 @@
         {
           "title": "President Melts Down at 'Unpatriotic' Republicans in 1AM Rage Post...",
           "link": "https://www.thedailybeast.com/manic-trump-79-melts-down-at-unpatriotic-republicans-in-1am-ragepost/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "White House Is the New Green Zone...",
+          "link": "https://archive.ph/IR6bi#selection-609.0-614.0",
           "summary": null,
           "published": null,
           "excerpt": null
