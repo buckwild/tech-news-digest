@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T10:00:32.069417-07:00",
-  "generated_at_display": "Jun 01, 2026 10:00 AM PT",
+  "generated_at": "2026-06-01T11:00:22.203057-07:00",
+  "generated_at_display": "Jun 01, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,76 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "PlayStation's wireless fight stick and new gaming monitor arrive in August",
-          "link": "https://www.engadget.com/2184938/playstation-wireless-fight-stick-and-new-gaming-monitor-arrive-in-august/",
-          "summary": "The new PlayStation monitor and fight stick arrive this summer, but you'll have to wait until later in the year to snag the Pulse Elevate wireless speakers.",
+          "title": "How to watch Sony's State of Play showcase on June 2 at 5PM ET",
+          "link": "https://www.engadget.com/2185076/how-to-watch-playstation-state-of-play-june-2-2026/",
+          "summary": "Sony will deliver more than an hour of trailers and game news this week.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "You'll have to wait until later in the year to snag the Pulse Elevate Wireless Speakers."
-        },
-        {
-          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
-          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
-          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Fitbit Air has entered the chat."
-        },
-        {
-          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
-          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
-          "summary": "A roundup of recent reviews published by Engadget.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A roundup of recent reviews published by Engadget."
-        },
-        {
-          "title": "Google, Microsoft and xAI agree to provide US government with early AI model access",
-          "link": "https://www.engadget.com/2164870/google-microsoft-and-xai-agree-to-provide-us-government-with-early-ai-model-access/",
-          "summary": "The Commerce Department will use the access to conduct security evaluations.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google, Microsoft and xAI agree to provide US government with early AI model access"
-        },
-        {
-          "title": "Bose's new Lifestyle home audio lineup includes a speaker, soundbar and subwoofer",
-          "link": "https://www.engadget.com/2164255/bose-new-lifestyle-home-audio-lineup-includes-a-speaker-soundbar-and-subwoofer/",
-          "summary": "The new speakers will be available May 15.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Bose's new Lifestyle home audio lineup includes a speaker, soundbar and subwoofer"
-        },
-        {
-          "title": "Google's Pentagon AI deal reportedly drove the DeepMind team to unionize",
-          "link": "https://www.engadget.com/2164765/google-us-military-deepmind-union/",
-          "summary": "DeepMind workers in the UK have voted to unionize.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google\u2019s Pentagon AI deal reportedly drove the DeepMind team to unionize"
-        },
-        {
-          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
-          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
-          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
-        },
-        {
-          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
-          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
-          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "WWDC is right around the corner."
-        },
-        {
-          "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
-          "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
-          "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
+          "excerpt": "Expect more than an hour of trailers and reveals."
         },
         {
           "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
@@ -205,12 +141,76 @@
           "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
         },
         {
+          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
+          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
+          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Fitbit Air has entered the chat."
+        },
+        {
+          "title": "Google's Pentagon AI deal reportedly drove the DeepMind team to unionize",
+          "link": "https://www.engadget.com/2164765/google-us-military-deepmind-union/",
+          "summary": "DeepMind workers in the UK have voted to unionize.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google\u2019s Pentagon AI deal reportedly drove the DeepMind team to unionize"
+        },
+        {
+          "title": "Apple said to be talking to Intel and Samsung about building key device processors",
+          "link": "https://www.engadget.com/2164681/apple-said-to-be-talking-to-intel-and-samsung-about-building-key-device-processors/",
+          "summary": "Apple is concerned about its lack of supply chain flexibility.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple has reportedly approached Samsung and Intel about building \"main device chips\" in a bid to reduce its dependence on TSMC,Bloomberghas reported. The iPhone maker is said to have had early-stage talks with Intel and recently visited a Samsung chip plant currently under development in Texas. No orders have been placed so far and talks with both suppliers are still preliminary, according to sources familiar with the matter."
+        },
+        {
+          "title": "The White House is considering tighter regulation of new AI models",
+          "link": "https://www.engadget.com/2164390/the-white-house-is-considering-tighter-regulation-of-new-ai-models/",
+          "summary": "A working group could vet new models before they're publicly released.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The White House is considering tighter regulation of new AI models"
+        },
+        {
+          "title": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android",
+          "link": "https://www.engadget.com/2164303/ios-26-5-will-add-end-to-end-encryption-for-rcs-messages/",
+          "summary": "Keep those private conversations truly private.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android"
+        },
+        {
           "title": "Anthropic is set to go public after filing paperwork with the SEC",
           "link": "https://www.engadget.com/2184970/anthropic-is-set-to-go-public-after-filing-paperwork-with-the-sec/",
           "summary": "The company behind Claude says it confidentially submitted a draft version of its S-1 form.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "The company behind Claude says it confidentially submitted a draft version of its S-1 form."
+        },
+        {
+          "title": "Instagram is testing optional 'AI creator' labels",
+          "link": "https://www.engadget.com/2162426/instagram-is-testing-optional-ai-creator-labels/",
+          "summary": "The company is encouraging accounts that frequently post Gen AI content to use the feature, but isn't requiring it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Instagram is testing optional 'AI creator' labels"
+        },
+        {
+          "title": "PlayStation's wireless fight stick and new gaming monitor arrive in August",
+          "link": "https://www.engadget.com/2184938/playstation-wireless-fight-stick-and-new-gaming-monitor-arrive-in-august/",
+          "summary": "The new PlayStation monitor and fight stick arrive this summer, but you'll have to wait until later in the year to snag the Pulse Elevate wireless speakers.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You'll have to wait until later in the year to snag the Pulse Elevate Wireless Speakers."
+        },
+        {
+          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
+          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
+          "summary": "A roundup of recent reviews published by Engadget.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A roundup of recent reviews published by Engadget."
         }
       ]
     },
