@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T05:00:29.633266-07:00",
-  "generated_at_display": "Jun 01, 2026 05:00 AM PT",
+  "generated_at": "2026-06-01T06:00:20.579048-07:00",
+  "generated_at_display": "Jun 01, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Google is opening its first flagship store outside of the US",
-          "link": "https://www.engadget.com/2184684/google-is-opening-its-first-international-flagship-store-japan/",
-          "summary": "Google announced it will open a flagship store in Tokyo this summer, the first of its kind outside of the United States.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Google Store Omotesando should open this summer in Japan."
-        },
-        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
@@ -147,6 +139,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A roundup of recent reviews published by Engadget."
+        },
+        {
+          "title": "Google is opening its first flagship store outside of the US",
+          "link": "https://www.engadget.com/2184684/google-is-opening-its-first-international-flagship-store-japan/",
+          "summary": "Google announced it will open a flagship store in Tokyo this summer, the first of its kind outside of the United States.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Google Store Omotesando should open this summer in Japan."
         },
         {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
@@ -173,6 +173,14 @@
           "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
         },
         {
+          "title": "How to run a local AI chatbot on your iPhone",
+          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
+          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
+        },
+        {
           "title": "The Surface Laptop Ultra is the most powerful Surface yet, thanks to NVIDIA's RTX Spark",
           "link": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
           "summary": "Microsoft's Surface Laptop Ultra is basically a MacBook Pro clone (that's powered by NVIDIA's RTX Spark).",
@@ -195,30 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google is continuing to revamp its smart home app and the latest change includes an update to the camera experience. Among other things, the company says that it hasrefreshed the user interfaceof Google Home to allow for faster navigation and smoother scrubbing through videos, with the aim of giving you a look at the broader picture of what your cameras pick up."
-        },
-        {
-          "title": "ChatGPT's new default model is more factual and better at personalization",
-          "link": "https://www.engadget.com/2165298/chatgpts-new-default-model-is-more-factual-and-better-at-personalization/",
-          "summary": "OpenAI is deploying GPT-5.5 Instant to all users starting today.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "ChatGPT's new default model is more factual and better at personalization"
-        },
-        {
-          "title": "NVIDIA's RTX Spark is an AI \"superchip\" that will power Windows laptops and desktops",
-          "link": "https://www.engadget.com/2184558/nvidia-rtx-spark-chip-windows-pcs/",
-          "summary": "NVIDIA claims the new RTX Spark chip for PCs will offer 1 petaflop of AI computing power.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It was only a matter of time before NVIDIA released a powerful system-on-a-chip (SOC) to take onAMD's Ryzen AI MaxandQualcomm's latest Snapdragon X2 chips. At Computex today, NVIDIA unveiled the RTX Spark, a \"superchip\" meant to give both laptops and small desktops fast AI and graphics performance. You can think of it as a portable sibling to thecompany's $3,999 DGX spark AI mini-desktop, except it's built for Windows instead of Linux. RTX Spark will powering new laptops including the Surface Surface Laptop Ultra and Dell XPS 16, as well as systems from \"every single major OEM,\" according to NVIDIA."
-        },
-        {
-          "title": "How to run a local AI chatbot on your iPhone",
-          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
-          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         }
       ]
     },
