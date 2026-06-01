@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T12:00:31.376466-07:00",
-  "generated_at_display": "Jun 01, 2026 12:00 PM PT",
+  "generated_at": "2026-06-01T13:00:25.310955-07:00",
+  "generated_at_display": "Jun 01, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "How to watch Sony's State of Play showcase on June 2 at 5PM ET",
-          "link": "https://www.engadget.com/2185076/how-to-watch-playstation-state-of-play-june-2-2026/",
-          "summary": "Sony will deliver more than an hour of trailers and game news this week.",
+          "title": "Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts",
+          "link": "https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts/",
+          "summary": "Meta says it's working on securing accounts that were affected by a hack.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Expect more than an hour of trailers and reveals."
+          "excerpt": "The company says it's working on securing affected accounts."
         },
         {
           "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
@@ -149,30 +149,6 @@
           "excerpt": "The Fitbit Air has entered the chat."
         },
         {
-          "title": "Anthropic is set to go public after filing paperwork with the SEC",
-          "link": "https://www.engadget.com/2184970/anthropic-is-set-to-go-public-after-filing-paperwork-with-the-sec/",
-          "summary": "The company behind Claude says it confidentially submitted a draft version of its S-1 form.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company behind Claude says it confidentially submitted a draft version of its S-1 form."
-        },
-        {
-          "title": "The White House is considering tighter regulation of new AI models",
-          "link": "https://www.engadget.com/2164390/the-white-house-is-considering-tighter-regulation-of-new-ai-models/",
-          "summary": "A working group could vet new models before they're publicly released.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The White House is considering tighter regulation of new AI models"
-        },
-        {
-          "title": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android",
-          "link": "https://www.engadget.com/2164303/ios-26-5-will-add-end-to-end-encryption-for-rcs-messages/",
-          "summary": "Keep those private conversations truly private.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android"
-        },
-        {
           "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
           "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
           "summary": "A roundup of recent reviews published by Engadget.",
@@ -189,20 +165,52 @@
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "PlayStation's wireless fight stick and new gaming monitor arrive in August",
-          "link": "https://www.engadget.com/2184938/playstation-wireless-fight-stick-and-new-gaming-monitor-arrive-in-august/",
-          "summary": "The new PlayStation monitor and fight stick arrive this summer, but you'll have to wait until later in the year to snag the Pulse Elevate wireless speakers.",
+          "title": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler",
+          "link": "https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/",
+          "summary": "RIP to the original AI search bot.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "You'll have to wait until later in the year to snag the Pulse Elevate Wireless Speakers."
+          "excerpt": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler"
         },
         {
-          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
-          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
-          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
+          "title": "OpenAI introduces AI-generated pets for its Codex app",
+          "link": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
+          "summary": "It's like Microsoft's Clippy, but useful.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "WWDC is right around the corner."
+          "excerpt": "OpenAI introduces AI-generated pets for its Codex app"
+        },
+        {
+          "title": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever",
+          "link": "https://www.engadget.com/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/",
+          "summary": "The cars made at the Giga Shanghai factory start at $39,490 CAD, or roughly $29,000 in USD for a Model 3 Premium Rear-Wheel Drive variant.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever"
+        },
+        {
+          "title": "Meta acquires robotics AI startup as it makes the push into humanoid machines",
+          "link": "https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/",
+          "summary": "The company has purchased Assured Robot Intelligence, whose staff is joining Meta's Superintelligence Labs.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Meta acquires robotics AI startup as it makes the push into humanoid machines"
+        },
+        {
+          "title": "The Streets of Rage movie has new writers and a director",
+          "link": "https://www.engadget.com/2185186/streets-of-rage-movie-has-new-writers-and-a-director/",
+          "summary": "Pat Casey and Josh Miller, the pair behind the Sonic the Hedgehog trilogy, are penning the script for the Streets of Rage movie.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Pat Casey and Josh Miller, the pair behind the Sonic the Hedgehog trilogy, are penning the script."
+        },
+        {
+          "title": "AI performances and screenplays won't be eligible for Oscars",
+          "link": "https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/",
+          "summary": "Will that stop them from taking over?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "AI performances and screenplays won't be eligible for Oscars"
         }
       ]
     },
@@ -218,8 +226,22 @@
           "excerpt": null
         },
         {
+          "title": "Senate Majority Leader Thune: Ditch It...",
+          "link": "https://thehill.com/homenews/5904547",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "President Melts Down at 'Unpatriotic' Republicans in 1AM Rage Post...",
           "link": "https://www.thedailybeast.com/manic-trump-79-melts-down-at-unpatriotic-republicans-in-1am-ragepost/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Health report sparks alarm as vascular surgeon makes ominous claim...",
+          "link": "https://www.dailymail.com/news/article-15864813/",
           "summary": null,
           "published": null,
           "excerpt": null
