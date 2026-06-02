@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T02:00:22.930357-07:00",
-  "generated_at_display": "Jun 02, 2026 02:00 AM PT",
+  "generated_at": "2026-06-02T03:00:21.086301-07:00",
+  "generated_at_display": "Jun 02, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Amazon Prime members in the US can watch Spider-Man: Brand New Day two days early",
-          "link": "https://www.engadget.com/2185485/amazon-prime-us-spider-man-brand-new-day-advanced-screening-july-29/",
-          "summary": "Amazon Prime members will be able to buy July 29 tickets for Spider-Man: Brand New Day.",
+          "title": "Amazon Prime Day 2026 will run earlier this year from June 23 to 26",
+          "link": "https://www.engadget.com/2185503/amazon-prime-day-2026-june-23-26/",
+          "summary": "Amazon has announced that its Prime Day event will take place this year from June 23 to June 26, a couple of weeks earlier than it happened last year.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It will be available in select theaters for Prime members on July 29."
+          "excerpt": "The four day shopping bonanza takes place earlier this year."
         },
         {
           "title": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler",
@@ -165,6 +165,38 @@
           "excerpt": "Meta acquires robotics AI startup as it makes the push into humanoid machines"
         },
         {
+          "title": "Amazon Prime members in the US can watch Spider-Man: Brand New Day two days early",
+          "link": "https://www.engadget.com/2185485/amazon-prime-us-spider-man-brand-new-day-advanced-screening-july-29/",
+          "summary": "Amazon Prime members will be able to buy July 29 tickets for Spider-Man: Brand New Day.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It will be available in select theaters for Prime members on July 29."
+        },
+        {
+          "title": "AI performances and screenplays won't be eligible for Oscars",
+          "link": "https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/",
+          "summary": "Will that stop them from taking over?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "AI performances and screenplays won't be eligible for Oscars"
+        },
+        {
+          "title": "Apple appears to have discontinued its cheapest Mac mini",
+          "link": "https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/",
+          "summary": "The compact desktop Mac now starts at $799 and comes with 512GB of storage.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple appears to have discontinued its cheapest Mac mini"
+        },
+        {
+          "title": "LG's 2026 Gram laptop lineup starts at $1,150",
+          "link": "https://www.engadget.com/2162125/lg-2026-gram-laptop-lineup-starts-at-1150/",
+          "summary": "They're available today from LG's website.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "ManyCES product announcementsleave us hanging for a while on pricing and availability. Today, one of this year's updated laptop series finally has official pricing and release info. LG's 2026 Gram models are now available, starting at $1,150 for the base model."
+        },
+        {
           "title": "Blue Origin CEO says New Glenn will fly again before the year ends",
           "link": "https://www.engadget.com/2185458/blue-origin-new-glenn-launchpad-explosion-repair-update/",
           "summary": "In a post on X, Blue Origin CEO Dave Limp provided an update on the investigation into the New Glenn launchpad explosion.",
@@ -195,30 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A roundup of recent reviews published by Engadget."
-        },
-        {
-          "title": "AMD Radeon RX 9070 GRE review: A cheaper GPU for a wildly expensive era",
-          "link": "https://www.engadget.com/2185302/amd-radeon-rx-9070-gre-review/",
-          "summary": "AMD's Radeon RX 9070 GRE is finally available globally, and it's a solid performer for $549.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "If you haven't noticed yet, it's a pretty bad time to buy hardware, PCs and anything that needs RAM. You can thank the AI companies for that. AMD has one potential fix for gamers, though: offer older gear. At Computex this year, the company revealed that it'll bring back its popularRyzen 7 5800X3Dchip, and also make theRadeon RX 9070 GRE cardavailable globally after launching in China last year. With a suggested retail price of $549, it's currently more affordable than last year'sRX 9070, which launched at the same price but now sells for upwards of $600."
-        },
-        {
-          "title": "Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts",
-          "link": "https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts/",
-          "summary": "Meta says it's working on securing accounts that were affected by a hack.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company says it's working on securing affected accounts."
-        },
-        {
-          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
-          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
-          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         }
       ]
     },
