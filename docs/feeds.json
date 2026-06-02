@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T05:00:27.065115-07:00",
-  "generated_at_display": "Jun 02, 2026 05:00 AM PT",
+  "generated_at": "2026-06-02T06:00:21.545853-07:00",
+  "generated_at_display": "Jun 02, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -149,28 +149,28 @@
           "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
-          "title": "Meta acquires robotics AI startup as it makes the push into humanoid machines",
-          "link": "https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/",
-          "summary": "The company has purchased Assured Robot Intelligence, whose staff is joining Meta's Superintelligence Labs.",
+          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Meta acquires robotics AI startup as it makes the push into humanoid machines"
+          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "AI performances and screenplays won't be eligible for Oscars",
-          "link": "https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/",
-          "summary": "Will that stop them from taking over?",
+          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
+          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
+          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "AI performances and screenplays won't be eligible for Oscars"
+          "excerpt": "WWDC is right around the corner."
         },
         {
-          "title": "Apple appears to have discontinued its cheapest Mac mini",
-          "link": "https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/",
-          "summary": "The compact desktop Mac now starts at $799 and comes with 512GB of storage.",
+          "title": "Microsoft's Xbox mode starts making its way to Windows 11 PCs",
+          "link": "https://www.engadget.com/2161816/microsoft-xbox-mode-windows-11-rollout/",
+          "summary": "Xbox mode brings a console-like interface to Windows 11.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Apple appears to have discontinued its cheapest Mac mini"
+          "excerpt": "Microsoft's Xbox mode starts making its way to Windows 11 PCs"
         },
         {
           "title": "Amazon Prime Day 2026 will run earlier this year from June 23 to 26",
@@ -179,46 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The four day shopping bonanza takes place earlier this year."
-        },
-        {
-          "title": "LG's 2026 Gram laptop lineup starts at $1,150",
-          "link": "https://www.engadget.com/2162125/lg-2026-gram-laptop-lineup-starts-at-1150/",
-          "summary": "They're available today from LG's website.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "ManyCES product announcementsleave us hanging for a while on pricing and availability. Today, one of this year's updated laptop series finally has official pricing and release info. LG's 2026 Gram models are now available, starting at $1,150 for the base model."
-        },
-        {
-          "title": "It's Bandcamp Friday again",
-          "link": "https://www.engadget.com/2162117/its-bandcamp-friday-again/",
-          "summary": "What are you buying today?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's Bandcamp Friday again"
-        },
-        {
-          "title": "Oura adds more detailed hormonal health insights to its Series 3 and 4 rings",
-          "link": "https://www.engadget.com/2162066/oura-adds-more-detailed-hormonal-health-insights-to-its-series-3-and-4-rings/",
-          "summary": "The system will track potential side effects of various birth control methods.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Oura adds more detailed hormonal health insights to its Series 3 and 4 rings"
-        },
-        {
-          "title": "Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon",
-          "link": "https://www.engadget.com/2161995/amazon-web-services-microsoft-and-nvidia-will-provide-ai-tech-to-pentagon/",
-          "summary": "They join Google, OpenAI and xAI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon"
-        },
-        {
-          "title": "Amazon Prime members in the US can watch Spider-Man: Brand New Day two days early",
-          "link": "https://www.engadget.com/2185485/amazon-prime-us-spider-man-brand-new-day-advanced-screening-july-29/",
-          "summary": "Amazon Prime members will be able to buy July 29 tickets for Spider-Man: Brand New Day.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It will be available in select theaters for Prime members on July 29."
         }
       ]
     },
