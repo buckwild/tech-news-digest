@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T11:00:24.688749-07:00",
-  "generated_at_display": "Jun 02, 2026 11:00 AM PT",
+  "generated_at": "2026-06-02T12:00:25.278126-07:00",
+  "generated_at_display": "Jun 02, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "The European Parliament may be ditching Google as its default search engine",
-          "link": "https://www.engadget.com/2185957/the-european-parliament-may-be-ditching-google-as-its-default-search-engine/",
-          "summary": "The EU's moves towards digital sovereignty might include its Parliament ditching Google.",
+          "title": "Android will now warn you if a caller is impersonating someone you know",
+          "link": "https://www.engadget.com/2184125/android-will-now-warn-you-if-a-caller-is-impersonating-someone-you-know/",
+          "summary": "Google Photos and Google Play Books are also getting new AI-powered updates.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "EU officials are trying to decrease the bloc's dependency on foreign tech."
+          "excerpt": "Google Photos and Google Play Books are also getting new AI-powered updates."
         },
         {
           "title": "Trump signs scaled-back AI cybersecurity order",
@@ -141,6 +141,14 @@
           "excerpt": "On Tuesday, President Trumpsigned an executive ordercalling for the creation of a framework designed to give the federal government the capability to evaluate AI models. The order tasks theOffice of the National Cyber Director, which is responsible for advising the president on cybersecurity matters, with developing a process that would allow the US to share information about software vulnerabilities identified by AI systems likeClaude Mythoswith operators of critical infrastructure, including banks, local utilities and hospitals, before those models are made publicly available."
         },
         {
+          "title": "The European Parliament may be ditching Google as its default search engine",
+          "link": "https://www.engadget.com/2185957/the-european-parliament-may-be-ditching-google-as-its-default-search-engine/",
+          "summary": "The EU's moves towards digital sovereignty might include its Parliament ditching Google.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "EU officials are trying to decrease the bloc's dependency on foreign tech."
+        },
+        {
           "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
           "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
           "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
@@ -149,36 +157,20 @@
           "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
         },
         {
-          "title": "The upcoming Resident Evil movie looks legit scary in its first trailer",
-          "link": "https://www.engadget.com/2161212/the-upcoming-resident-evil-movie-looks-legit-scary-in-its-first-trailer/",
-          "summary": "Zach Cregger's take on the video game source material hits theaters on September 18.",
+          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
+          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
+          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The upcoming Resident Evil movie looks legit scary in its first trailer"
+          "excerpt": "The Fitbit Air has entered the chat."
         },
         {
-          "title": "Even Realities' G2 smart glasses will keep an eye on your AI agent",
-          "link": "https://www.engadget.com/2161082/even-realities-terminal-mode-ai-agent/",
-          "summary": "It's designed to keep you appraised of what your coding agent is doing, even when you're not at your desk.",
+          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
+          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
+          "summary": "A roundup of recent reviews published by Engadget.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Even Realities\u2019 G2 smart glasses will keep an eye on your AI agent"
-        },
-        {
-          "title": "Spotify's new verification badge shows that music is not AI-generated",
-          "link": "https://www.engadget.com/2161028/spotifys-new-verification-badge-shows-that-music-is-not-ai-generated/",
-          "summary": "\"Verified by Spotify\" will start rolling out over the coming weeks.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spotify's new verification badge shows that music is not AI-generated"
-        },
-        {
-          "title": "Microsoft announces Project Solara, its take on an AI agent platform",
-          "link": "https://www.engadget.com/2185941/microsoft-announces-project-solara-its-take-on-an-ai-agent-platform/",
-          "summary": "The company demoed Solara on an Echo Show-style smart display and a smart key badge.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company demoed Solara on an Echo Show-style smart display and a smart key badge."
+          "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
           "title": "YouTube's picture-in-picture mode is rolling out to all users worldwide",
@@ -205,12 +197,20 @@
           "excerpt": "Gemini can now generate files, including Microsoft Word and LaTeX documents"
         },
         {
-          "title": "Humanoid robots will work as baggage handlers at Tokyo airport",
-          "link": "https://www.engadget.com/2160602/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/",
-          "summary": "Has nobody watched Terminator?",
+          "title": "Microsoft announces Project Solara, its take on an AI agent platform",
+          "link": "https://www.engadget.com/2185941/microsoft-announces-project-solara-its-take-on-an-ai-agent-platform/",
+          "summary": "The company demoed Solara on an Echo Show-style smart display and a smart key badge.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Humanoid robots will work as baggage handlers at Tokyo airport"
+          "excerpt": "Microsofthas announcedthat it's building a platform for AI agents. It's called Project Solara, and atBuild 2026the company showed it powering two different reference devices, a smart display and a smart key badge. Like many other companies, Microsoft believes the next platform shift is from apps to AI agents, and it wants Solara to be the platform the coming wave of AI-first devices run on."
+        },
+        {
+          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         }
       ]
     },
@@ -218,6 +218,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Republicans demand proof it's dead...",
+          "link": "https://www.washingtonpost.com/politics/2026/06/02/trump-retreated-his-payout-fund-some-republicans-want-proof-its-dead/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "White House Seeks to Impose Political Test on Billions in Federal Grants...",
           "link": "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html?unlocked_article_code=1.nFA.RE26.BCsJY5fmjIFJ&smid=url-share",
