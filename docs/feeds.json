@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T07:00:24.971103-07:00",
-  "generated_at_display": "Jun 02, 2026 07:00 AM PT",
+  "generated_at": "2026-06-02T08:00:24.528668-07:00",
+  "generated_at_display": "Jun 02, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,36 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Microsoft Build 2026: Live updates from Satya Nadella's keynote including Windows, Copilot and more",
-          "link": "https://www.engadget.com/2185601/microsoft-build-2026-live-blog-copilot-windows-news/",
-          "summary": "The company's CEO is expected to present for two and a half hours and cover a lot of ground, and we believe Windows and Copilot will be on the agenda.",
+          "title": "ASUS's NVIDIA RTX Spark laptops could give the MacBook Pro some competition",
+          "link": "https://www.engadget.com/2185697/asus-nvidia-rtx-spark-laptops-could-give-the-macbook-pro-some-competitoin/",
+          "summary": "ASUS was one of the launch customers for NVIDIA's new RTX Spark ARM \"superchip\" and it's laptops look like the most interesting ones for creators.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "We're expecting the presentation to last two and a half hours and cover a lot of ground."
-        },
-        {
-          "title": "Prime Video will stream three Duke basketball games next season",
-          "link": "https://www.engadget.com/2161567/prime-video-will-stream-three-duke-basketball-games-next-season/",
-          "summary": "This marks Amazon's first streaming deal with a college team.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Prime Video will stream three Duke basketball games next season"
-        },
-        {
-          "title": "You can now choose which games use Quick Resume on Xbox",
-          "link": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox/",
-          "summary": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You can now choose which games use Quick Resume on Xbox"
-        },
-        {
-          "title": "Anbernic's swiveling retro handheld will be available May 11",
-          "link": "https://www.engadget.com/2161434/anbernics-swiveling-retro-handheld-will-be-available-may-11/",
-          "summary": "The RG Rotate starts at just $88.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anbernic's swiveling retro handheld will be available May 11"
+          "excerpt": "The 128GB of unified memory, RTX 5070-level graphics and 1,600-nit OLED display should appeal to creators."
         },
         {
           "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
@@ -173,6 +149,14 @@
           "excerpt": "The Fitbit Air has entered the chat."
         },
         {
+          "title": "Google's parent company is raising $80 billion to fuel its AI ambitions",
+          "link": "https://www.engadget.com/2185672/googles-parent-company-is-raising-80-billion-to-fuel-its-ai-ambitions/",
+          "summary": "Not even Alphabet has enough cash to meet its AI goals.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Not even Alphabet has enough cash to meet its AI goals."
+        },
+        {
           "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
           "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
           "summary": "A roundup of recent reviews published by Engadget.",
@@ -189,12 +173,36 @@
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
-          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
-          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
+          "title": "Microsoft Build 2026: Live updates from Satya Nadella's keynote including Windows, Copilot and more",
+          "link": "https://www.engadget.com/2185601/microsoft-build-2026-live-blog-copilot-windows-news/",
+          "summary": "The company's CEO is expected to present for two and a half hours and cover a lot of ground, and we believe Windows and Copilot will be on the agenda.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "WWDC is right around the corner."
+          "excerpt": "We're expecting the presentation to last two and a half hours and cover a lot of ground."
+        },
+        {
+          "title": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live",
+          "link": "https://www.engadget.com/2161381/microsoft-flight-simulator-2024-support-for-playstation-vr2-is-now-live/",
+          "summary": "Asobo Studio says it also improved the game's performance with the latest update.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live"
+        },
+        {
+          "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
+          "link": "https://www.engadget.com/2161370/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/",
+          "summary": "It's a rare moment of working across the aisle.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Senate Judiciary Committee unanimously approves AI chatbot age verification"
+        },
+        {
+          "title": "Amazon's AI-generated shopping experts now let you ask questions",
+          "link": "https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/",
+          "summary": "It's an expansion of the mobile app's \"Hear the Highlights\" feature.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon's AI-generated shopping experts now let you ask questions"
         }
       ]
     },
@@ -202,6 +210,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "White House Seeks to Impose Political Test on Billions in Federal Grants...",
+          "link": "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html?unlocked_article_code=1.nFA.RE26.BCsJY5fmjIFJ&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Musk Laid Out 602 Goals. How Many Did He Hit?",
           "link": "https://www.nytimes.com/interactive/2026/06/02/technology/elon-musk-promises-spacex-ipo.html?unlocked_article_code=1.nFA.8jVn._9lRCZiXpFP6&smid=url-share",
