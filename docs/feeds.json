@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T00:00:30.891255-07:00",
-  "generated_at_display": "Jun 02, 2026 12:00 AM PT",
+  "generated_at": "2026-06-02T01:00:20.954493-07:00",
+  "generated_at_display": "Jun 02, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,46 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon Prime members in the US can watch Spider-Man: Brand New Day two days early",
+          "link": "https://www.engadget.com/2185485/amazon-prime-us-spider-man-brand-new-day-advanced-screening-july-29/",
+          "summary": "Amazon Prime members will be able to buy July 29 tickets for Spider-Man: Brand New Day.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It will be available in select theaters for Prime members on July 29."
+        },
+        {
+          "title": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler",
+          "link": "https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/",
+          "summary": "RIP to the original AI search bot.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler"
+        },
+        {
+          "title": "OpenAI introduces AI-generated pets for its Codex app",
+          "link": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
+          "summary": "It's like Microsoft's Clippy, but useful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI introduces AI-generated pets for its Codex app"
+        },
+        {
+          "title": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever",
+          "link": "https://www.engadget.com/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/",
+          "summary": "The cars made at the Giga Shanghai factory start at $39,490 CAD, or roughly $29,000 in USD for a Model 3 Premium Rear-Wheel Drive variant.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever"
+        },
+        {
+          "title": "Meta acquires robotics AI startup as it makes the push into humanoid machines",
+          "link": "https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/",
+          "summary": "The company has purchased Assured Robot Intelligence, whose staff is joining Meta's Superintelligence Labs.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Meta acquires robotics AI startup as it makes the push into humanoid machines"
+        },
+        {
           "title": "Blue Origin CEO says New Glenn will fly again before the year ends",
           "link": "https://www.engadget.com/2185458/blue-origin-new-glenn-launchpad-explosion-repair-update/",
           "summary": "In a post on X, Blue Origin CEO Dave Limp provided an update on the investigation into the New Glenn launchpad explosion.",
@@ -179,30 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
-        },
-        {
-          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
-          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
-          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "WWDC is right around the corner."
-        },
-        {
-          "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
-          "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
-          "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
-        },
-        {
-          "title": "How to run a local AI chatbot on your iPhone",
-          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
-          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         }
       ]
     },
