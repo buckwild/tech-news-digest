@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T08:00:24.528668-07:00",
-  "generated_at_display": "Jun 02, 2026 08:00 AM PT",
+  "generated_at": "2026-06-02T09:00:21.315206-07:00",
+  "generated_at_display": "Jun 02, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,44 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "ASUS's NVIDIA RTX Spark laptops could give the MacBook Pro some competition",
-          "link": "https://www.engadget.com/2185697/asus-nvidia-rtx-spark-laptops-could-give-the-macbook-pro-some-competitoin/",
-          "summary": "ASUS was one of the launch customers for NVIDIA's new RTX Spark ARM \"superchip\" and it's laptops look like the most interesting ones for creators.",
+          "title": "Silo's season 3 trailer promises chaos and time jumps",
+          "link": "https://www.engadget.com/2185795/silo-season-3-trailer-promises-chaos-and-time-jumps/",
+          "summary": "Season 3 of Silo premieres on July 3.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The 128GB of unified memory, RTX 5070-level graphics and 1,600-nit OLED display should appeal to creators."
+          "excerpt": "New episodes premiere on July 3."
+        },
+        {
+          "title": "Amazon's AI-generated shopping experts now let you ask questions",
+          "link": "https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/",
+          "summary": "It's an expansion of the mobile app's \"Hear the Highlights\" feature.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon's AI-generated shopping experts now let you ask questions"
+        },
+        {
+          "title": "ChatGPT developed a goblin obsession after OpenAI tried to make it nerdy",
+          "link": "https://www.engadget.com/2161234/chatgpt-developed-a-goblin-obsession-after-openai-tried-to-make-it-nerdy/",
+          "summary": "A warning for all you nerds out there.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Following therelease of GPT-5.5 last week, people noticed something funny about OpenAI's latest model. In itsCodex coding app, the company left a system prompt instructing GPT 5.5 to avoid mention of goblins, gremlins and other creatures. Yes, you read that right. \"Never talk about goblins, gremlins, racoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query,\" the prompt reads."
+        },
+        {
+          "title": "The upcoming Resident Evil movie looks legit scary in its first trailer",
+          "link": "https://www.engadget.com/2161212/the-upcoming-resident-evil-movie-looks-legit-scary-in-its-first-trailer/",
+          "summary": "Zach Cregger's take on the video game source material hits theaters on September 18.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The upcoming Resident Evil movie looks legit scary in its first trailer"
+        },
+        {
+          "title": "Nintendo Music just got a big update with support for Apple CarPlay and Android Auto",
+          "link": "https://www.engadget.com/2185783/nintendo-music-just-got-a-big-update-with-support-for-apple-carplay-and-android-auto/",
+          "summary": "Nintendo's music app works in a lot more places now.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s also getting new tablet and web browser versions too."
         },
         {
           "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
@@ -149,14 +181,6 @@
           "excerpt": "The Fitbit Air has entered the chat."
         },
         {
-          "title": "Google's parent company is raising $80 billion to fuel its AI ambitions",
-          "link": "https://www.engadget.com/2185672/googles-parent-company-is-raising-80-billion-to-fuel-its-ai-ambitions/",
-          "summary": "Not even Alphabet has enough cash to meet its AI goals.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Not even Alphabet has enough cash to meet its AI goals."
-        },
-        {
           "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
           "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
           "summary": "A roundup of recent reviews published by Engadget.",
@@ -173,36 +197,12 @@
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "Microsoft Build 2026: Live updates from Satya Nadella's keynote including Windows, Copilot and more",
-          "link": "https://www.engadget.com/2185601/microsoft-build-2026-live-blog-copilot-windows-news/",
-          "summary": "The company's CEO is expected to present for two and a half hours and cover a lot of ground, and we believe Windows and Copilot will be on the agenda.",
+          "title": "Anthropic expands its Claude Mythos preview to more partners",
+          "link": "https://www.engadget.com/2185709/anthropic-expands-its-claude-mythos-preview-to-more-partners/",
+          "summary": "Anthropic has invited approximately 150 more organizations to Project Glasswing.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "We're expecting the presentation to last two and a half hours and cover a lot of ground."
-        },
-        {
-          "title": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live",
-          "link": "https://www.engadget.com/2161381/microsoft-flight-simulator-2024-support-for-playstation-vr2-is-now-live/",
-          "summary": "Asobo Studio says it also improved the game's performance with the latest update.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live"
-        },
-        {
-          "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
-          "link": "https://www.engadget.com/2161370/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/",
-          "summary": "It's a rare moment of working across the aisle.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Senate Judiciary Committee unanimously approves AI chatbot age verification"
-        },
-        {
-          "title": "Amazon's AI-generated shopping experts now let you ask questions",
-          "link": "https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/",
-          "summary": "It's an expansion of the mobile app's \"Hear the Highlights\" feature.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amazon's AI-generated shopping experts now let you ask questions"
+          "excerpt": "The company has invited approximately 150 more organizations to Project Glasswing."
         }
       ]
     },
