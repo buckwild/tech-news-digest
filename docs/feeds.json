@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T06:00:21.545853-07:00",
-  "generated_at_display": "Jun 02, 2026 06:00 AM PT",
+  "generated_at": "2026-06-02T07:00:24.971103-07:00",
+  "generated_at_display": "Jun 02, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,38 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Microsoft Build 2026: Live updates from Satya Nadella's keynote including Windows, Copilot and more",
+          "link": "https://www.engadget.com/2185601/microsoft-build-2026-live-blog-copilot-windows-news/",
+          "summary": "The company's CEO is expected to present for two and a half hours and cover a lot of ground, and we believe Windows and Copilot will be on the agenda.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We're expecting the presentation to last two and a half hours and cover a lot of ground."
+        },
+        {
+          "title": "Prime Video will stream three Duke basketball games next season",
+          "link": "https://www.engadget.com/2161567/prime-video-will-stream-three-duke-basketball-games-next-season/",
+          "summary": "This marks Amazon's first streaming deal with a college team.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Prime Video will stream three Duke basketball games next season"
+        },
+        {
+          "title": "You can now choose which games use Quick Resume on Xbox",
+          "link": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox/",
+          "summary": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You can now choose which games use Quick Resume on Xbox"
+        },
+        {
+          "title": "Anbernic's swiveling retro handheld will be available May 11",
+          "link": "https://www.engadget.com/2161434/anbernics-swiveling-retro-handheld-will-be-available-may-11/",
+          "summary": "The RG Rotate starts at just $88.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anbernic's swiveling retro handheld will be available May 11"
+        },
+        {
           "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
           "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
           "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
@@ -163,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "WWDC is right around the corner."
-        },
-        {
-          "title": "Microsoft's Xbox mode starts making its way to Windows 11 PCs",
-          "link": "https://www.engadget.com/2161816/microsoft-xbox-mode-windows-11-rollout/",
-          "summary": "Xbox mode brings a console-like interface to Windows 11.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Microsoft's Xbox mode starts making its way to Windows 11 PCs"
-        },
-        {
-          "title": "Amazon Prime Day 2026 will run earlier this year from June 23 to 26",
-          "link": "https://www.engadget.com/2185503/amazon-prime-day-2026-june-23-26/",
-          "summary": "Amazon has announced that its Prime Day event will take place this year from June 23 to June 26, a couple of weeks earlier than it happened last year.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The four day shopping bonanza takes place earlier this year."
         }
       ]
     },
