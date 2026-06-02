@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T09:00:21.315206-07:00",
-  "generated_at_display": "Jun 02, 2026 09:00 AM PT",
+  "generated_at": "2026-06-02T10:00:24.036603-07:00",
+  "generated_at_display": "Jun 02, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,28 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Silo's season 3 trailer promises chaos and time jumps",
-          "link": "https://www.engadget.com/2185795/silo-season-3-trailer-promises-chaos-and-time-jumps/",
-          "summary": "Season 3 of Silo premieres on July 3.",
+          "title": "Microsoft's Surface RTX Spark Dev Box will handle tougher AI workloads",
+          "link": "https://www.engadget.com/2185865/microsoft-surface-rtx-spark-dev-box/",
+          "summary": "Microsoft is making a Surface AI dev desktop for people who don't want a laptop.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "New episodes premiere on July 3."
+          "excerpt": "It's an AI Surface dev box for people who don't want a laptop."
         },
         {
-          "title": "Amazon's AI-generated shopping experts now let you ask questions",
-          "link": "https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/",
-          "summary": "It's an expansion of the mobile app's \"Hear the Highlights\" feature.",
+          "title": "Trump signs scaled-back AI cybersecurity order",
+          "link": "https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/",
+          "summary": "AI models can voluntarily submitted to the government for review 30 days before release under Trump's new executive order.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Amazon's AI-generated shopping experts now let you ask questions"
-        },
-        {
-          "title": "ChatGPT developed a goblin obsession after OpenAI tried to make it nerdy",
-          "link": "https://www.engadget.com/2161234/chatgpt-developed-a-goblin-obsession-after-openai-tried-to-make-it-nerdy/",
-          "summary": "A warning for all you nerds out there.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Following therelease of GPT-5.5 last week, people noticed something funny about OpenAI's latest model. In itsCodex coding app, the company left a system prompt instructing GPT 5.5 to avoid mention of goblins, gremlins and other creatures. Yes, you read that right. \"Never talk about goblins, gremlins, racoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query,\" the prompt reads."
+          "excerpt": "On Tuesday, President Trumpsigned an executive ordercalling for the creation of a framework designed to give the federal government the capability to evaluate AI models. The order tasks theOffice of the National Cyber Director, which is responsible for advising the president on cybersecurity matters, with developing a process that would allow the US to share information about software vulnerabilities identified by AI systems likeClaude Mythoswith operators of critical infrastructure, including banks, local utilities and hospitals, before those models are made publicly available."
         },
         {
           "title": "The upcoming Resident Evil movie looks legit scary in its first trailer",
@@ -157,52 +149,68 @@
           "excerpt": "The upcoming Resident Evil movie looks legit scary in its first trailer"
         },
         {
-          "title": "Nintendo Music just got a big update with support for Apple CarPlay and Android Auto",
-          "link": "https://www.engadget.com/2185783/nintendo-music-just-got-a-big-update-with-support-for-apple-carplay-and-android-auto/",
-          "summary": "Nintendo's music app works in a lot more places now.",
+          "title": "Even Realities' G2 smart glasses will keep an eye on your AI agent",
+          "link": "https://www.engadget.com/2161082/even-realities-terminal-mode-ai-agent/",
+          "summary": "It's designed to keep you appraised of what your coding agent is doing, even when you're not at your desk.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "It\u2019s also getting new tablet and web browser versions too."
+          "excerpt": "Even Realities\u2019 G2 smart glasses will keep an eye on your AI agent"
         },
         {
-          "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
-          "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
-          "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
+          "title": "Spotify's new verification badge shows that music is not AI-generated",
+          "link": "https://www.engadget.com/2161028/spotifys-new-verification-badge-shows-that-music-is-not-ai-generated/",
+          "summary": "\"Verified by Spotify\" will start rolling out over the coming weeks.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
+          "excerpt": "Spotify's new verification badge shows that music is not AI-generated"
         },
         {
-          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
-          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
-          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
+          "title": "YouTube's picture-in-picture mode is rolling out to all users worldwide",
+          "link": "https://www.engadget.com/2160942/youtube-picture-in-picture-rolling-out-worldwide/",
+          "summary": "It will be available to everyone, not just Premium users.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The Fitbit Air has entered the chat."
+          "excerpt": "YouTube's picture-in-picture mode is rolling out to all users worldwide"
         },
         {
-          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
-          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
-          "summary": "A roundup of recent reviews published by Engadget.",
+          "title": "Mark Zuckerberg says Meta is working on AI agents for personal and business use",
+          "link": "https://www.engadget.com/2160792/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/",
+          "summary": "The CEO wants to make an agent so easy even his mom can use it.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "A roundup of recent reviews published by Engadget."
+          "excerpt": "Mark Zuckerberg says Meta is working on AI agents for personal and business use"
         },
         {
-          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
-          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
-          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+          "title": "Silo's season 3 trailer promises chaos and time jumps",
+          "link": "https://www.engadget.com/2185795/silo-season-3-trailer-promises-chaos-and-time-jumps/",
+          "summary": "Season 3 of Silo premieres on July 3.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
+          "excerpt": "New episodes premiere on July 3."
         },
         {
-          "title": "Anthropic expands its Claude Mythos preview to more partners",
-          "link": "https://www.engadget.com/2185709/anthropic-expands-its-claude-mythos-preview-to-more-partners/",
-          "summary": "Anthropic has invited approximately 150 more organizations to Project Glasswing.",
+          "title": "Gemini can now generate files, including Microsoft Word and LaTeX documents",
+          "link": "https://www.engadget.com/2160619/gemini-can-now-generate-files-including-microsoft-word-and-latex-documents/",
+          "summary": "No need to copy and paste Gemini's outputs anymore.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The company has invited approximately 150 more organizations to Project Glasswing."
+          "excerpt": "Gemini can now generate files, including Microsoft Word and LaTeX documents"
+        },
+        {
+          "title": "Humanoid robots will work as baggage handlers at Tokyo airport",
+          "link": "https://www.engadget.com/2160602/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/",
+          "summary": "Has nobody watched Terminator?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Humanoid robots will work as baggage handlers at Tokyo airport"
+        },
+        {
+          "title": "Families of Tumbler Ridge shooting victims sue OpenAI",
+          "link": "https://www.engadget.com/2160596/families-of-tumbler-ridge-shooting-victims-sue-openai/",
+          "summary": "Sam Altman apologized for not notifying local authorities last week.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Just days after OpenAI CEO Sam Altmanwrote a public apologyto people of Tumbler Ridge, British Columbia in the aftermath of the town's deadly February 10 school shooting, the families of the victims of the traumatic event are suing OpenAI for negligence."
         }
       ]
     },
