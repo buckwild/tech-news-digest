@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T13:00:32.335156-07:00",
-  "generated_at_display": "Jun 02, 2026 01:00 PM PT",
+  "generated_at": "2026-06-02T14:00:21.731658-07:00",
+  "generated_at_display": "Jun 02, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon Luna adds Hollow Knight to its catalog for June",
+          "link": "https://www.engadget.com/2186131/amazon-luna-adds-hollow-knight-to-its-catalog-for-june/",
+          "summary": "Hollow Knight joins the Amazon Luna game catalog this month.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s also offering Mafia III and some remastered Tomb Raider as free PC titles."
+        },
+        {
           "title": "YouTube's picture-in-picture mode is rolling out to all users worldwide",
           "link": "https://www.engadget.com/2160942/youtube-picture-in-picture-rolling-out-worldwide/",
           "summary": "It will be available to everyone, not just Premium users.",
@@ -147,14 +155,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Gemini can now generate files, including Microsoft Word and LaTeX documents"
-        },
-        {
-          "title": "Amazon, Ring sued for alleged privacy violations from facial recognition tools",
-          "link": "https://www.engadget.com/2186039/amazon-ring-sued-for-alleged-privacy-violations-from-facial-recognition-tools/",
-          "summary": "Ring is the source of a new lawsuit that claims one of its features can capture facial data from passers by without their knowledge.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Familiar Faces feature may store biometrics without people\u2019s knowledge."
         },
         {
           "title": "Humanoid robots will work as baggage handlers at Tokyo airport",
@@ -181,6 +181,14 @@
           "excerpt": "The Google TV platform will soon display YouTube Shorts videos directly on the home page"
         },
         {
+          "title": "Amazon, Ring sued for alleged privacy violations from facial recognition tools",
+          "link": "https://www.engadget.com/2186039/amazon-ring-sued-for-alleged-privacy-violations-from-facial-recognition-tools/",
+          "summary": "Ring is the source of a new lawsuit that claims one of its features can capture facial data from passers by without their knowledge.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Familiar Faces feature may store biometrics without people\u2019s knowledge."
+        },
+        {
           "title": "Google Photos Wardrobe will scan your pictures to compile a digital version of your closet",
           "link": "https://www.engadget.com/2160407/google-photos-wardrobe-scan-pictures-clothes-build-digital-closet/",
           "summary": "At least now you can figure out what to wear without physically going to your closet?",
@@ -189,36 +197,36 @@
           "excerpt": "Google Photos Wardrobe will scan your pictures to compile a digital version of your closet"
         },
         {
+          "title": "Vine reboot app Divine arrives with a ban on AI slop",
+          "link": "https://www.engadget.com/2160396/vine-reboot-app-divine-arrives-with-a-ban-on-ai-slop/",
+          "summary": "Do it for Divine all over again.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Vine reboot app Divine arrives with a ban on AI slop"
+        },
+        {
+          "title": "YouTube TV gets a fully customizable multiview feature, with availability for all channels",
+          "link": "https://www.engadget.com/2160303/youtube-tv-gets-a-fully-customizable-multiview-feature/",
+          "summary": "Only live content is supported right now.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "YouTube TV gets a fully customizable multiview feature, with availability for all channels"
+        },
+        {
+          "title": "It runs Doom: AI chatbot edition",
+          "link": "https://www.engadget.com/2160249/it-runs-doom-ai-chatbot-edition/",
+          "summary": "The latest answer to the always-relevant question: \"Can it run Doom?\"",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It runs Doom: AI chatbot edition"
+        },
+        {
           "title": "Android will now warn you if a caller is impersonating someone you know",
           "link": "https://www.engadget.com/2184125/android-will-now-warn-you-if-a-caller-is-impersonating-someone-you-know/",
           "summary": "Google Photos and Google Play Books are also getting new AI-powered updates.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google Photos and Google Play Books are also getting new AI-powered updates."
-        },
-        {
-          "title": "Trump signs scaled-back AI cybersecurity order",
-          "link": "https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/",
-          "summary": "AI models can voluntarily submitted to the government for review 30 days before release under Trump's new executive order.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "On Tuesday, President Trumpsigned an executive ordercalling for the creation of a framework designed to give the federal government the capability to evaluate AI models. The order tasks theOffice of the National Cyber Director, which is responsible for advising the president on cybersecurity matters, with developing a process that would allow the US to share information about software vulnerabilities identified by AI systems likeClaude Mythoswith operators of critical infrastructure, including banks, local utilities and hospitals, before those models are made publicly available."
-        },
-        {
-          "title": "The European Parliament may be ditching Google as its default search engine",
-          "link": "https://www.engadget.com/2185957/the-european-parliament-may-be-ditching-google-as-its-default-search-engine/",
-          "summary": "The EU's moves towards digital sovereignty might include its Parliament ditching Google.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "EU officials are trying to decrease the bloc's dependency on foreign tech."
-        },
-        {
-          "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
-          "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
-          "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
         }
       ]
     },
@@ -243,13 +251,6 @@
         {
           "title": "New Date Set for White House Correspondents' Dinner...",
           "link": "https://www.mediaite.com/media/news/just-in-new-date-set-for-white-house-correspondents-dinner/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Musk Laid Out 602 Goals. How Many Did He Hit?",
-          "link": "https://www.nytimes.com/interactive/2026/06/02/technology/elon-musk-promises-spacex-ipo.html?unlocked_article_code=1.nFA.8jVn._9lRCZiXpFP6&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
