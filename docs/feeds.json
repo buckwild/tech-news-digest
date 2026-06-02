@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T18:00:25.563996-07:00",
-  "generated_at_display": "Jun 01, 2026 06:00 PM PT",
+  "generated_at": "2026-06-01T19:00:24.722616-07:00",
+  "generated_at_display": "Jun 01, 2026 07:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
+          "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
+          "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
+        },
+        {
           "title": "AMD Radeon RX 9070 GRE review: A cheaper GPU for a wildly expensive era",
           "link": "https://www.engadget.com/2185302/amd-radeon-rx-9070-gre-review/",
           "summary": "AMD's Radeon RX 9070 GRE is finally available globally, and it's a solid performer for $549.",
@@ -139,14 +147,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The company says it's working on securing affected accounts."
-        },
-        {
-          "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
-          "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
-          "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
         },
         {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
@@ -173,6 +173,22 @@
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
+          "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
+          "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
+          "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "WWDC is right around the corner."
+        },
+        {
+          "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
+          "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
+          "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
+        },
+        {
           "title": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler",
           "link": "https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/",
           "summary": "RIP to the original AI search bot.",
@@ -187,30 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAI introduces AI-generated pets for its Codex app"
-        },
-        {
-          "title": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever",
-          "link": "https://www.engadget.com/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/",
-          "summary": "The cars made at the Giga Shanghai factory start at $39,490 CAD, or roughly $29,000 in USD for a Model 3 Premium Rear-Wheel Drive variant.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever"
-        },
-        {
-          "title": "Meta acquires robotics AI startup as it makes the push into humanoid machines",
-          "link": "https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/",
-          "summary": "The company has purchased Assured Robot Intelligence, whose staff is joining Meta's Superintelligence Labs.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Meta acquires robotics AI startup as it makes the push into humanoid machines"
-        },
-        {
-          "title": "The Streets of Rage movie has new writers and a director",
-          "link": "https://www.engadget.com/2185186/streets-of-rage-movie-has-new-writers-and-a-director/",
-          "summary": "Pat Casey and Josh Miller, the pair behind the Sonic the Hedgehog trilogy, are penning the script for the Streets of Rage movie.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Pat Casey and Josh Miller, the pair behind the Sonic the Hedgehog trilogy, are penning the script."
         }
       ]
     },
