@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T22:00:21.783160-07:00",
-  "generated_at_display": "Jun 01, 2026 10:00 PM PT",
+  "generated_at": "2026-06-01T23:00:25.081846-07:00",
+  "generated_at_display": "Jun 01, 2026 11:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,28 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Blue Origin CEO says New Glenn will fly again before the year ends",
+          "link": "https://www.engadget.com/2185458/blue-origin-new-glenn-launchpad-explosion-repair-update/",
+          "summary": "In a post on X, Blue Origin CEO Dave Limp provided an update on the investigation into the New Glenn launchpad explosion.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "But NASA's Jared Isaacman believes the launchpad, which exploded on May 28, may not be fixed until 2028."
+        },
+        {
           "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
           "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
           "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
-        },
-        {
-          "title": "AMD Radeon RX 9070 GRE review: A cheaper GPU for a wildly expensive era",
-          "link": "https://www.engadget.com/2185302/amd-radeon-rx-9070-gre-review/",
-          "summary": "AMD's Radeon RX 9070 GRE is finally available globally, and it's a solid performer for $549.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "If you haven't noticed yet, it's a pretty bad time to buy hardware, PCs and anything that needs RAM. You can thank the AI companies for that. AMD has one potential fix for gamers, though: offer older gear. At Computex this year, the company revealed that it'll bring back its popularRyzen 7 5800X3Dchip, and also make theRadeon RX 9070 GRE cardavailable globally after launching in China last year. With a suggested retail price of $549, it's currently more affordable than last year'sRX 9070, which launched at the same price but now sells for upwards of $600."
-        },
-        {
-          "title": "Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts",
-          "link": "https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts/",
-          "summary": "Meta says it's working on securing accounts that were affected by a hack.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company says it's working on securing affected accounts."
         },
         {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
@@ -163,6 +155,22 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A roundup of recent reviews published by Engadget."
+        },
+        {
+          "title": "AMD Radeon RX 9070 GRE review: A cheaper GPU for a wildly expensive era",
+          "link": "https://www.engadget.com/2185302/amd-radeon-rx-9070-gre-review/",
+          "summary": "AMD's Radeon RX 9070 GRE is finally available globally, and it's a solid performer for $549.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "If you haven't noticed yet, it's a pretty bad time to buy hardware, PCs and anything that needs RAM. You can thank the AI companies for that. AMD has one potential fix for gamers, though: offer older gear. At Computex this year, the company revealed that it'll bring back its popularRyzen 7 5800X3Dchip, and also make theRadeon RX 9070 GRE cardavailable globally after launching in China last year. With a suggested retail price of $549, it's currently more affordable than last year'sRX 9070, which launched at the same price but now sells for upwards of $600."
+        },
+        {
+          "title": "Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts",
+          "link": "https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts/",
+          "summary": "Meta says it's working on securing accounts that were affected by a hack.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company says it's working on securing affected accounts."
         },
         {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
@@ -189,20 +197,12 @@
           "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
         },
         {
-          "title": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler",
-          "link": "https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/",
-          "summary": "RIP to the original AI search bot.",
+          "title": "How to run a local AI chatbot on your iPhone",
+          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
+          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler"
-        },
-        {
-          "title": "OpenAI introduces AI-generated pets for its Codex app",
-          "link": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
-          "summary": "It's like Microsoft's Clippy, but useful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI introduces AI-generated pets for its Codex app"
+          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         }
       ]
     },
