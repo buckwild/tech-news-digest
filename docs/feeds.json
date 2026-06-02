@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T03:00:21.086301-07:00",
-  "generated_at_display": "Jun 02, 2026 03:00 AM PT",
+  "generated_at": "2026-06-02T04:00:23.139463-07:00",
+  "generated_at_display": "Jun 02, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Amazon Prime Day 2026 will run earlier this year from June 23 to 26",
-          "link": "https://www.engadget.com/2185503/amazon-prime-day-2026-june-23-26/",
-          "summary": "Amazon has announced that its Prime Day event will take place this year from June 23 to June 26, a couple of weeks earlier than it happened last year.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The four day shopping bonanza takes place earlier this year."
-        },
-        {
           "title": "Ask.com has shut down, marking the official farewell to the Internet's favorite butler",
           "link": "https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/",
           "summary": "RIP to the original AI search bot.",
@@ -157,20 +149,20 @@
           "excerpt": "Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever"
         },
         {
+          "title": "Amazon Prime Day 2026 will run earlier this year from June 23 to 26",
+          "link": "https://www.engadget.com/2185503/amazon-prime-day-2026-june-23-26/",
+          "summary": "Amazon has announced that its Prime Day event will take place this year from June 23 to June 26, a couple of weeks earlier than it happened last year.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The four day shopping bonanza takes place earlier this year."
+        },
+        {
           "title": "Meta acquires robotics AI startup as it makes the push into humanoid machines",
           "link": "https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/",
           "summary": "The company has purchased Assured Robot Intelligence, whose staff is joining Meta's Superintelligence Labs.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "Meta acquires robotics AI startup as it makes the push into humanoid machines"
-        },
-        {
-          "title": "Amazon Prime members in the US can watch Spider-Man: Brand New Day two days early",
-          "link": "https://www.engadget.com/2185485/amazon-prime-us-spider-man-brand-new-day-advanced-screening-july-29/",
-          "summary": "Amazon Prime members will be able to buy July 29 tickets for Spider-Man: Brand New Day.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It will be available in select theaters for Prime members on July 29."
         },
         {
           "title": "AI performances and screenplays won't be eligible for Oscars",
@@ -197,36 +189,36 @@
           "excerpt": "ManyCES product announcementsleave us hanging for a while on pricing and availability. Today, one of this year's updated laptop series finally has official pricing and release info. LG's 2026 Gram models are now available, starting at $1,150 for the base model."
         },
         {
-          "title": "Blue Origin CEO says New Glenn will fly again before the year ends",
-          "link": "https://www.engadget.com/2185458/blue-origin-new-glenn-launchpad-explosion-repair-update/",
-          "summary": "In a post on X, Blue Origin CEO Dave Limp provided an update on the investigation into the New Glenn launchpad explosion.",
+          "title": "Amazon Prime members in the US can watch Spider-Man: Brand New Day two days early",
+          "link": "https://www.engadget.com/2185485/amazon-prime-us-spider-man-brand-new-day-advanced-screening-july-29/",
+          "summary": "Amazon Prime members will be able to buy July 29 tickets for Spider-Man: Brand New Day.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "But NASA's Jared Isaacman believes the launchpad, which exploded on May 28, may not be fixed until 2028."
+          "excerpt": "It will be available in select theaters for Prime members on July 29."
         },
         {
-          "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
-          "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
-          "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
+          "title": "It's Bandcamp Friday again",
+          "link": "https://www.engadget.com/2162117/its-bandcamp-friday-again/",
+          "summary": "What are you buying today?",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
+          "excerpt": "It's Bandcamp Friday again"
         },
         {
-          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
-          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
-          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
+          "title": "Oura adds more detailed hormonal health insights to its Series 3 and 4 rings",
+          "link": "https://www.engadget.com/2162066/oura-adds-more-detailed-hormonal-health-insights-to-its-series-3-and-4-rings/",
+          "summary": "The system will track potential side effects of various birth control methods.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The Fitbit Air has entered the chat."
+          "excerpt": "Oura adds more detailed hormonal health insights to its Series 3 and 4 rings"
         },
         {
-          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
-          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
-          "summary": "A roundup of recent reviews published by Engadget.",
+          "title": "Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon",
+          "link": "https://www.engadget.com/2161995/amazon-web-services-microsoft-and-nvidia-will-provide-ai-tech-to-pentagon/",
+          "summary": "They join Google, OpenAI and xAI.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "A roundup of recent reviews published by Engadget."
+          "excerpt": "Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon"
         }
       ]
     },
@@ -237,34 +229,6 @@
         {
           "title": "IRAN THREATENS NEW STRIKES ON ISRAEL",
           "link": "https://www.express.co.uk/news/2212128",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Senate Majority Leader Thune: Ditch It...",
-          "link": "https://thehill.com/homenews/5904547",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "President Melts Down at 'Unpatriotic' Republicans in 1AM Rage Post...",
-          "link": "https://www.thedailybeast.com/manic-trump-79-melts-down-at-unpatriotic-republicans-in-1am-ragepost/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Health report sparks alarm as vascular surgeon makes ominous claim...",
-          "link": "https://www.dailymail.com/news/article-15864813/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "White House Is the New Green Zone...",
-          "link": "https://dnyuz.com/2026/06/01/the-white-house-is-the-new-green-zone/",
           "summary": null,
           "published": null,
           "excerpt": null
