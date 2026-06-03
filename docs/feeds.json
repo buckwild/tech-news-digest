@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T02:00:21.904656-07:00",
-  "generated_at_display": "Jun 03, 2026 02:00 AM PT",
+  "generated_at": "2026-06-03T03:00:29.131153-07:00",
+  "generated_at_display": "Jun 03, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,20 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
-          "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
-          "summary": "Google has released 2D CAD drawings of the Fitbit Air.",
+          "title": "Researchers show how AI-powered worms could wreak havoc on the internet",
+          "link": "https://www.engadget.com/2186363/researchers-show-how-ai-powered-worms-could-wreak-havoc-on-the-internet/",
+          "summary": "Researchers created an AI-powered worm that that can spread through networks with no human intervention.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The company released key measurements to encourage third-party add-ons."
-        },
-        {
-          "title": "Insomniac Games' Wolverine looks comically violent",
-          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
-          "summary": "The first gameplay trailer shows off bloody melee combat.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The first gameplay trailer shows off bloody melee combat."
+          "excerpt": "We've seen how AI can be used tofind flawsin apps and websites, but researchers have now demonstrated how it could be weaponized to exploit those vulnerabilities. A team from theUniversity of Torontoused\u00a0publicly accessible AI models to power a prototype worm capable of exploiting any known computer flaw. Such worms could then spread through networks and cause chaos across the internet."
         },
         {
           "title": "Trump signs scaled-back AI cybersecurity order",
@@ -157,12 +149,20 @@
           "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
         },
         {
-          "title": "Google will allow websites to exclude themselves from AI search results",
-          "link": "https://www.engadget.com/2186257/google-will-allow-websites-to-exclude-themselves-from-ai-search-results/",
-          "summary": "The company says opting out won't impact placement in regular searches.",
+          "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
+          "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
+          "summary": "Google has released 2D CAD drawings of the Fitbit Air.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The company says opting out won't impact placement in regular searches."
+          "excerpt": "The company released key measurements to encourage third-party add-ons."
+        },
+        {
+          "title": "Insomniac Games' Wolverine looks comically violent",
+          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
+          "summary": "The first gameplay trailer shows off bloody melee combat.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The first gameplay trailer shows off bloody melee combat."
         },
         {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
@@ -179,6 +179,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A roundup of recent reviews published by Engadget."
+        },
+        {
+          "title": "Google will allow websites to exclude themselves from AI search results",
+          "link": "https://www.engadget.com/2186257/google-will-allow-websites-to-exclude-themselves-from-ai-search-results/",
+          "summary": "The company says opting out won't impact placement in regular searches.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "More than three years after it began rolling outAI Overviewsand a year after thedebut of AI Mode, Google is giving webmasters the option to exclude their domains from its AI-generated search results. In ablog postpublished early Wednesday morning, the company said it would begin testing a new toggle inside of its Search Console designed to allow website owners to decide if their webpages appear in and help ground the company's latest AI search features, including AI Overviews and AI Mode. The company plans to first test the toggle with a small subset of domain owners in the UK before rolling it out globally."
         },
         {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
-        },
-        {
-          "title": "How to run a local AI chatbot on your iPhone",
-          "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
-          "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
         }
       ]
     },
