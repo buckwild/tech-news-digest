@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T07:00:20.520515-07:00",
-  "generated_at_display": "Jun 03, 2026 07:00 AM PT",
+  "generated_at": "2026-06-03T08:00:28.116174-07:00",
+  "generated_at_display": "Jun 03, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Claude AI: What's free in 2026 and what isn't?",
-          "link": "https://www.engadget.com/2185772/claude-ai-free-2026-limits-workarounds/",
-          "summary": "Making sense of what you get from Claude AI at the free tier, especially as limits are vague and keep shifting.",
+          "title": "Insomniac Games' Wolverine looks comically violent",
+          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
+          "summary": "The first gameplay trailer shows off bloody melee combat.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Before I get to Anthropic's specific policies, let's talk about why AI rate limits exist in the first place. When you type a prompt into a chatbot, a process called inference occurs. Behind the scenes, a large language model is applying the patterns it learned in training to an input it hasn't seen before. Inference is computationally expensive and, more importantly, there's no natural ceiling in terms of cost. As an AI company, you have a love-hate relationship with your most engaged users because, without putting restrictions on them, they can cost you thousands of dollars in processing costs."
+          "excerpt": "The first gameplay trailer shows off bloody melee combat."
         },
         {
           "title": "Trump signs scaled-back AI cybersecurity order",
@@ -139,6 +139,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "On Tuesday, President Trumpsigned an executive ordercalling for the creation of a framework designed to give the federal government the capability to evaluate AI models. The order tasks theOffice of the National Cyber Director, which is responsible for advising the president on cybersecurity matters, with developing a process that would allow the US to share information about software vulnerabilities identified by AI systems likeClaude Mythoswith operators of critical infrastructure, including banks, local utilities and hospitals, before those models are made publicly available."
+        },
+        {
+          "title": "Claude AI: What's free in 2026 and what isn't?",
+          "link": "https://www.engadget.com/2185772/claude-ai-free-2026-limits-workarounds/",
+          "summary": "Making sense of what you get from Claude AI at the free tier, especially as limits are vague and keep shifting.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Before I get to Anthropic's specific policies, let's talk about why AI rate limits exist in the first place. When you type a prompt into a chatbot, a process called inference occurs. Behind the scenes, a large language model is applying the patterns it learned in training to an input it hasn't seen before. Inference is computationally expensive and, more importantly, there's no natural ceiling in terms of cost. As an AI company, you have a love-hate relationship with your most engaged users because, without putting restrictions on them, they can cost you thousands of dollars in processing costs."
         },
         {
           "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
@@ -181,14 +189,6 @@
           "excerpt": "There were concerns that it would only appeal to hardcore fans."
         },
         {
-          "title": "Insomniac Games' Wolverine looks comically violent",
-          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
-          "summary": "The first gameplay trailer shows off bloody melee combat.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The first gameplay trailer shows off bloody melee combat."
-        },
-        {
           "title": "Meta took down over a million scam accounts in joint operation with Microsoft, SpaceX and DOJ",
           "link": "https://www.engadget.com/2186397/meta-took-down-over-a-million-scam-accounts-in-joint-operation-with-microsoft-spacex-and-doj/",
           "summary": "Meta, Microsoft, SpaceX, Coinbase, the DOJ and international law enforcement partners collaborated in an operation that focused on scam networks in SE Asia.",
@@ -205,28 +205,12 @@
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "Researchers show how AI-powered worms could wreak havoc on the internet",
-          "link": "https://www.engadget.com/2186363/researchers-show-how-ai-powered-worms-could-wreak-havoc-on-the-internet/",
-          "summary": "Researchers created an AI-powered worm that that can spread through networks with no human intervention.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We've seen how AI can be used tofind flawsin apps and websites, but researchers have now demonstrated how it could be weaponized to exploit those vulnerabilities. A team from theUniversity of Torontoused\u00a0publicly accessible AI models to power a prototype worm capable of exploiting any known computer flaw. Such worms could then spread through networks and cause chaos across the internet."
-        },
-        {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
           "link": "https://www.engadget.com/2183477/engadget-newsletter-apples-dramatic-siri-overhaul-is-coming-and-it-might-look-like-this/",
           "summary": "The biggest news stories of the week: An early look at the new version of Siri, reviews of Google's new wearable, GoPro's newest action cam and more!",
           "published": "iso",
           "published_display": "display",
           "excerpt": "WWDC is right around the corner."
-        },
-        {
-          "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
-          "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
-          "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
         }
       ]
     },
@@ -242,7 +226,7 @@
           "excerpt": null
         },
         {
-          "title": "Kuwait Says Iranian Attack Has Damaged Its Main Airport...",
+          "title": "Kuwait Says Iran Attack Damaged Main Airport...",
           "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon?unlocked_article_code=1.nVA.npe9.mePOLp-Eeojk&smid=url-share",
           "summary": null,
           "published": null,
