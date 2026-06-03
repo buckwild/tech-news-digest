@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T10:00:23.015136-07:00",
-  "generated_at_display": "Jun 03, 2026 10:00 AM PT",
+  "generated_at": "2026-06-03T11:00:21.257042-07:00",
+  "generated_at_display": "Jun 03, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Insomniac Games' Wolverine looks comically violent",
+          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
+          "summary": "The first gameplay trailer shows off bloody melee combat.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The first gameplay trailer shows off bloody melee combat."
+        },
+        {
           "title": "The European Union reveals details of its tech sovereignty package",
           "link": "https://www.engadget.com/2186709/the-european-union-reveals-details-of-its-tech-sovereignity-package/",
           "summary": "New proposals will see the EU further invest in European startups and companies as it looks to strengthen its homegrown tech footprint.",
@@ -139,14 +147,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Before I get to Anthropic's specific policies, let's talk about why AI rate limits exist in the first place. When you type a prompt into a chatbot, a process called inference occurs. Behind the scenes, a large language model is applying the patterns it learned in training to an input it hasn't seen before. Inference is computationally expensive and, more importantly, there's no natural ceiling in terms of cost. As an AI company, you have a love-hate relationship with your most engaged users because, without putting restrictions on them, they can cost you thousands of dollars in processing costs."
-        },
-        {
-          "title": "Insomniac Games' Wolverine looks comically violent",
-          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
-          "summary": "The first gameplay trailer shows off bloody melee combat.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The first gameplay trailer shows off bloody melee combat."
         },
         {
           "title": "Trump signs scaled-back AI cybersecurity order",
