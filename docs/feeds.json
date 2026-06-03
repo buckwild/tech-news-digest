@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T06:00:30.529798-07:00",
-  "generated_at_display": "Jun 03, 2026 06:00 AM PT",
+  "generated_at": "2026-06-03T07:00:20.520515-07:00",
+  "generated_at_display": "Jun 03, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,12 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Google pledges to replenish more water than it uses at data centers by 2030",
-          "link": "https://www.engadget.com/2186418/google-pledges-to-replenish-water-data-centers-by-2030/",
-          "summary": "Google has expanded its water stewardship projects in the midst of growing unrest over data centers' water usage.",
+          "title": "Claude AI: What's free in 2026 and what isn't?",
+          "link": "https://www.engadget.com/2185772/claude-ai-free-2026-limits-workarounds/",
+          "summary": "Making sense of what you get from Claude AI at the free tier, especially as limits are vague and keep shifting.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Google isexpandingits\u00a0water stewardship commitments, including investments in replenishment projects, to provide more water than it consumes at its data centers by 2030. The company now has\u00a0165 stewardship projects across 97 watersheds, which are expected to replenish 19 billion gallons a year by 2030. Google says that's more than double its consumption for 2024 and would allow the company to use more water over the coming years and still achieve its goal."
+          "excerpt": "Before I get to Anthropic's specific policies, let's talk about why AI rate limits exist in the first place. When you type a prompt into a chatbot, a process called inference occurs. Behind the scenes, a large language model is applying the patterns it learned in training to an input it hasn't seen before. Inference is computationally expensive and, more importantly, there's no natural ceiling in terms of cost. As an AI company, you have a love-hate relationship with your most engaged users because, without putting restrictions on them, they can cost you thousands of dollars in processing costs."
         },
         {
           "title": "Trump signs scaled-back AI cybersecurity order",
@@ -147,6 +147,30 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
+        },
+        {
+          "title": "Google pledges to replenish more water than it uses at data centers by 2030",
+          "link": "https://www.engadget.com/2186418/google-pledges-to-replenish-water-data-centers-by-2030/",
+          "summary": "Google has expanded its water stewardship projects in the midst of growing unrest over data centers' water usage.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google isexpandingits\u00a0water stewardship commitments, including investments in replenishment projects, to provide more water than it consumes at its data centers by 2030. The company now has\u00a0165 stewardship projects across 97 watersheds, which are expected to replenish 19 billion gallons a year by 2030. Google says that's more than double its consumption for 2024 and would allow the company to use more water over the coming years and still achieve its goal."
+        },
+        {
+          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
+          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
+          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Fitbit Air has entered the chat."
+        },
+        {
+          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
+          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
+          "summary": "A roundup of recent reviews published by Engadget.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
           "title": "Amazon kills plans for Stargate series reboot",
@@ -173,30 +197,6 @@
           "excerpt": "Meta worked with the DOJ, along with\u00a0Microsoft, Coinbase, Starlink and international law enforcement agencies to bust online scams and identify the criminal syndicates behind them. The company has been getting a lot of flak for letting scammers run rampant on its platforms andthenreportedlymaking billions of dollarsyearly from ad marketing scams. This particular operation focuses on\u00a0criminal networks operating out of Southeast Asia, which target Americans with romance scams, \"pig butchering\" schemes and law enforcement impersonation. They also offer fake jobs to fellow Southeast Asians, who find themselves forced to work in scam compounds."
         },
         {
-          "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
-          "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
-          "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Fitbit Air has entered the chat."
-        },
-        {
-          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
-          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
-          "summary": "A roundup of recent reviews published by Engadget.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A roundup of recent reviews published by Engadget."
-        },
-        {
-          "title": "Researchers show how AI-powered worms could wreak havoc on the internet",
-          "link": "https://www.engadget.com/2186363/researchers-show-how-ai-powered-worms-could-wreak-havoc-on-the-internet/",
-          "summary": "Researchers created an AI-powered worm that that can spread through networks with no human intervention.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We've seen how AI can be used tofind flawsin apps and websites, but researchers have now demonstrated how it could be weaponized to exploit those vulnerabilities. A team from theUniversity of Torontoused\u00a0publicly accessible AI models to power a prototype worm capable of exploiting any known computer flaw. Such worms could then spread through networks and cause chaos across the internet."
-        },
-        {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
           "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
           "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
@@ -205,12 +205,12 @@
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
-          "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
-          "summary": "Google has released 2D CAD drawings of the Fitbit Air.",
+          "title": "Researchers show how AI-powered worms could wreak havoc on the internet",
+          "link": "https://www.engadget.com/2186363/researchers-show-how-ai-powered-worms-could-wreak-havoc-on-the-internet/",
+          "summary": "Researchers created an AI-powered worm that that can spread through networks with no human intervention.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The company released key measurements to encourage third-party add-ons."
+          "excerpt": "We've seen how AI can be used tofind flawsin apps and websites, but researchers have now demonstrated how it could be weaponized to exploit those vulnerabilities. A team from theUniversity of Torontoused\u00a0publicly accessible AI models to power a prototype worm capable of exploiting any known computer flaw. Such worms could then spread through networks and cause chaos across the internet."
         },
         {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
@@ -235,8 +235,22 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "IRAN NUKE RISK HIGHER THAN BEFORE WAR",
+          "link": "https://financialpost.com/pmn/business-pmn/iran-nuclear-risk-seen-higher-than-before-trump-attacks-began",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Kuwait Says Iranian Attack Has Damaged Its Main Airport...",
           "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon?unlocked_article_code=1.nVA.npe9.mePOLp-Eeojk&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Library claims it can't find his social media DMs despite evidence they exist...",
+          "link": "https://www.msn.com/en-us/news/politics/trump-library-says-no-twitter-dms-can-be-found-despite-evidence-he-sent-them/ar-AA24I7O4",
           "summary": null,
           "published": null,
           "excerpt": null
