@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T05:00:22.469347-07:00",
-  "generated_at_display": "Jun 03, 2026 05:00 AM PT",
+  "generated_at": "2026-06-03T06:00:30.529798-07:00",
+  "generated_at_display": "Jun 03, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google pledges to replenish more water than it uses at data centers by 2030",
+          "link": "https://www.engadget.com/2186418/google-pledges-to-replenish-water-data-centers-by-2030/",
+          "summary": "Google has expanded its water stewardship projects in the midst of growing unrest over data centers' water usage.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google isexpandingits\u00a0water stewardship commitments, including investments in replenishment projects, to provide more water than it consumes at its data centers by 2030. The company now has\u00a0165 stewardship projects across 97 watersheds, which are expected to replenish 19 billion gallons a year by 2030. Google says that's more than double its consumption for 2024 and would allow the company to use more water over the coming years and still achieve its goal."
+        },
+        {
+          "title": "Trump signs scaled-back AI cybersecurity order",
+          "link": "https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/",
+          "summary": "AI models can voluntarily submitted to the government for review 30 days before release under Trump's new executive order.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "On Tuesday, President Trumpsigned an executive ordercalling for the creation of a framework designed to give the federal government the capability to evaluate AI models. The order tasks theOffice of the National Cyber Director, which is responsible for advising the president on cybersecurity matters, with developing a process that would allow the US to share information about software vulnerabilities identified by AI systems likeClaude Mythoswith operators of critical infrastructure, including banks, local utilities and hospitals, before those models are made publicly available."
+        },
+        {
+          "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
+          "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
+          "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
+        },
+        {
           "title": "Amazon kills plans for Stargate series reboot",
           "link": "https://www.engadget.com/2186409/amazon-kills-plans-for-stargate-series-reboot/",
           "summary": "Amazon's Stargate series greenlit last year has been cancelled.",
@@ -149,30 +173,6 @@
           "excerpt": "Meta worked with the DOJ, along with\u00a0Microsoft, Coinbase, Starlink and international law enforcement agencies to bust online scams and identify the criminal syndicates behind them. The company has been getting a lot of flak for letting scammers run rampant on its platforms andthenreportedlymaking billions of dollarsyearly from ad marketing scams. This particular operation focuses on\u00a0criminal networks operating out of Southeast Asia, which target Americans with romance scams, \"pig butchering\" schemes and law enforcement impersonation. They also offer fake jobs to fellow Southeast Asians, who find themselves forced to work in scam compounds."
         },
         {
-          "title": "Trump signs scaled-back AI cybersecurity order",
-          "link": "https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/",
-          "summary": "AI models can voluntarily submitted to the government for review 30 days before release under Trump's new executive order.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "On Tuesday, President Trumpsigned an executive ordercalling for the creation of a framework designed to give the federal government the capability to evaluate AI models. The order tasks theOffice of the National Cyber Director, which is responsible for advising the president on cybersecurity matters, with developing a process that would allow the US to share information about software vulnerabilities identified by AI systems likeClaude Mythoswith operators of critical infrastructure, including banks, local utilities and hospitals, before those models are made publicly available."
-        },
-        {
-          "title": "Researchers show how AI-powered worms could wreak havoc on the internet",
-          "link": "https://www.engadget.com/2186363/researchers-show-how-ai-powered-worms-could-wreak-havoc-on-the-internet/",
-          "summary": "Researchers created an AI-powered worm that that can spread through networks with no human intervention.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We've seen how AI can be used tofind flawsin apps and websites, but researchers have now demonstrated how it could be weaponized to exploit those vulnerabilities. A team from theUniversity of Torontoused\u00a0publicly accessible AI models to power a prototype worm capable of exploiting any known computer flaw. Such worms could then spread through networks and cause chaos across the internet."
-        },
-        {
-          "title": "Florida sues OpenAI and Sam Altman over alleged 'exploitation of users'",
-          "link": "https://www.engadget.com/2184976/florida-sues-openai-and-sam-altman-over-alleged-exploitation-of-users/",
-          "summary": "Florida's lawsuit against OpenAI comes after a mass shooter at FSU reportedly consulted ChatGPT to plan the attack.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
-        },
-        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
@@ -189,12 +189,12 @@
           "excerpt": "A roundup of recent reviews published by Engadget."
         },
         {
-          "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
-          "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
-          "summary": "Google has released 2D CAD drawings of the Fitbit Air.",
+          "title": "Researchers show how AI-powered worms could wreak havoc on the internet",
+          "link": "https://www.engadget.com/2186363/researchers-show-how-ai-powered-worms-could-wreak-havoc-on-the-internet/",
+          "summary": "Researchers created an AI-powered worm that that can spread through networks with no human intervention.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The company released key measurements to encourage third-party add-ons."
+          "excerpt": "We've seen how AI can be used tofind flawsin apps and websites, but researchers have now demonstrated how it could be weaponized to exploit those vulnerabilities. A team from theUniversity of Torontoused\u00a0publicly accessible AI models to power a prototype worm capable of exploiting any known computer flaw. Such worms could then spread through networks and cause chaos across the internet."
         },
         {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
@@ -205,12 +205,12 @@
           "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
-          "title": "Google will allow websites to exclude themselves from AI search results",
-          "link": "https://www.engadget.com/2186257/google-will-allow-websites-to-exclude-themselves-from-ai-search-results/",
-          "summary": "The company says opting out won't impact placement in regular searches.",
+          "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
+          "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
+          "summary": "Google has released 2D CAD drawings of the Fitbit Air.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "More than three years after it began rolling outAI Overviewsand a year after thedebut of AI Mode, Google is giving webmasters the option to exclude their domains from its AI-generated search results. In ablog postpublished early Wednesday morning, the company said it would begin testing a new toggle inside of its Search Console designed to allow website owners to decide if their webpages appear in and help ground the company's latest AI search features, including AI Overviews and AI Mode. The company plans to first test the toggle with a small subset of domain owners in the UK before rolling it out globally."
+          "excerpt": "The company released key measurements to encourage third-party add-ons."
         },
         {
           "title": "The Morning After: Apple's dramatic Siri overhaul is coming and it might look like this",
@@ -219,6 +219,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "WWDC is right around the corner."
+        },
+        {
+          "title": "Here's what Apple's Siri overhaul for iOS 27 could look like",
+          "link": "https://www.engadget.com/2182861/heres-what-apples-siri-overhaul-for-ios-27-could-look-like/",
+          "summary": "Apple is reportedly redesigning the iPhone's interface around the new Siri.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Afternearly two years of delaysand a$250 million settlement along the way, Apple is preparing to reintroduce the new Siri atWWDC 2026.Bloomberg'sMark Gurmanhas published an early preview of the update with illustrations that provide a glimpse of how Apple has redesigned the iPhone's interface to put theGemini-powered AI agentfront and center. \"The company often tests multiple designs of features internally, and the final version set to be introduced to the public in June could differ,\" Gurman warns, before stating Apple could release the new Siri as early as this September."
         }
       ]
     },
@@ -229,6 +237,13 @@
         {
           "title": "Kuwait Says Iranian Attack Has Damaged Its Main Airport...",
           "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon?unlocked_article_code=1.nVA.npe9.mePOLp-Eeojk&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Revolutionary War's chief villain being rehabilitated just in time for celebration...",
+          "link": "https://apnews.com/article/america-britain-250-king-george-charles-aa35e4148824db039cf0b616b0cb977c",
           "summary": null,
           "published": null,
           "excerpt": null
