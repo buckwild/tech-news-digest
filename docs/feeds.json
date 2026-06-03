@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T01:00:22.871107-07:00",
-  "generated_at_display": "Jun 03, 2026 01:00 AM PT",
+  "generated_at": "2026-06-03T02:00:21.904656-07:00",
+  "generated_at_display": "Jun 03, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
+          "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
+          "summary": "Google has released 2D CAD drawings of the Fitbit Air.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company released key measurements to encourage third-party add-ons."
+        },
+        {
+          "title": "Insomniac Games' Wolverine looks comically violent",
+          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
+          "summary": "The first gameplay trailer shows off bloody melee combat.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The first gameplay trailer shows off bloody melee combat."
+        },
+        {
           "title": "Trump signs scaled-back AI cybersecurity order",
           "link": "https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/",
           "summary": "AI models can voluntarily submitted to the government for review 30 days before release under Trump's new executive order.",
@@ -195,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
-        },
-        {
-          "title": "Insomniac Games' Wolverine looks comically violent",
-          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
-          "summary": "The first gameplay trailer shows off bloody melee combat.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The first gameplay trailer shows off bloody melee combat."
         }
       ]
     },
