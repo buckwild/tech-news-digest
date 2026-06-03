@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T16:00:28.986873-07:00",
-  "generated_at_display": "Jun 02, 2026 04:00 PM PT",
+  "generated_at": "2026-06-02T17:00:25.517355-07:00",
+  "generated_at_display": "Jun 02, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,14 +125,6 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "Insomniac Games' Wolverine looks comically violent",
-          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
-          "summary": "The first gameplay trailer shows off bloody melee combat.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The first gameplay trailer shows off bloody melee combat."
-        },
-        {
           "title": "Trump signs scaled-back AI cybersecurity order",
           "link": "https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/",
           "summary": "AI models can voluntarily submitted to the government for review 30 days before release under Trump's new executive order.",
@@ -149,12 +141,36 @@
           "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
         },
         {
+          "title": "Insomniac Games' Wolverine looks comically violent",
+          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
+          "summary": "The first gameplay trailer shows off bloody melee combat.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The first gameplay trailer shows off bloody melee combat."
+        },
+        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Fitbit Air has entered the chat."
+        },
+        {
+          "title": "Engadget review recap: ASUS ROG Zephyrus Duo, Fitbit Air, GoPro Mission 1 and more",
+          "link": "https://www.engadget.com/2183681/engadget-review-recap-asus-rog-zephyrus-duo-fitbit-air-gopro-mission-1/",
+          "summary": "A roundup of recent reviews published by Engadget.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A roundup of recent reviews published by Engadget."
+        },
+        {
+          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+          "link": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The upgrades to sound and ANC come nearly four years after the Momentum 4."
         },
         {
           "title": "The Google TV platform will soon display YouTube Shorts videos directly on the home page",
@@ -179,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Vine reboot app Divine arrives with a ban on AI slop"
-        },
-        {
-          "title": "YouTube TV gets a fully customizable multiview feature, with availability for all channels",
-          "link": "https://www.engadget.com/2160303/youtube-tv-gets-a-fully-customizable-multiview-feature/",
-          "summary": "Only live content is supported right now.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "YouTube TV gets a fully customizable multiview feature, with availability for all channels"
-        },
-        {
-          "title": "It runs Doom: AI chatbot edition",
-          "link": "https://www.engadget.com/2160249/it-runs-doom-ai-chatbot-edition/",
-          "summary": "The latest answer to the always-relevant question: \"Can it run Doom?\"",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It runs Doom: AI chatbot edition"
         }
       ]
     },
