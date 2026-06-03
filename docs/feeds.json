@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T14:00:23.880274-07:00",
-  "generated_at_display": "Jun 03, 2026 02:00 PM PT",
+  "generated_at": "2026-06-03T15:00:27.328624-07:00",
+  "generated_at_display": "Jun 03, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -202,6 +202,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "HOUSE VOTES TO END IRAN WAR",
+          "link": "https://www.nbcnews.com/politics/rcna348281",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "President suggests he won't take down UFC 'Claw' on White House lawn...",
           "link": "https://www.msn.com/en-us/news/politics/ar-AA24JE6q",
