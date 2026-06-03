@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T22:00:25.285845-07:00",
-  "generated_at_display": "Jun 02, 2026 10:00 PM PT",
+  "generated_at": "2026-06-02T23:00:22.650205-07:00",
+  "generated_at_display": "Jun 02, 2026 11:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -141,6 +141,14 @@
           "excerpt": "Florida's Attorney General has sued OpenAI and CEO Sam Altman,according to a report byNBC News. The suit accuses the company of pushing a product it knew could harm users. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs,\" the complaint reads."
         },
         {
+          "title": "Google will allow websites to exclude themselves from AI search results",
+          "link": "https://www.engadget.com/2186257/google-will-allow-websites-to-exclude-themselves-from-ai-search-results/",
+          "summary": "The company says opting out won't impact placement in regular searches.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company says opting out won't impact placement in regular searches."
+        },
+        {
           "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
           "link": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
           "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
@@ -155,14 +163,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A roundup of recent reviews published by Engadget."
-        },
-        {
-          "title": "Insomniac Games' Wolverine looks comically violent",
-          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
-          "summary": "The first gameplay trailer shows off bloody melee combat.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The first gameplay trailer shows off bloody melee combat."
         },
         {
           "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
@@ -195,6 +195,14 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "For a lot of people, the most appealing reason to use a local chatbot will be the amount of money you can save. Right now, running a local model on your iPhone involves, at most, a one-time purchase of $5."
+        },
+        {
+          "title": "Insomniac Games' Wolverine looks comically violent",
+          "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
+          "summary": "The first gameplay trailer shows off bloody melee combat.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The first gameplay trailer shows off bloody melee combat."
         }
       ]
     },
