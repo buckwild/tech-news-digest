@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T14:00:24.506458-07:00",
-  "generated_at_display": "Jun 04, 2026 02:00 PM PT",
+  "generated_at": "2026-06-04T15:00:23.896388-07:00",
+  "generated_at_display": "Jun 04, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -130,7 +130,7 @@
           "summary": "Meta was previously reported to be exploring facial recognition for its smart glasses.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Meta was previously reported to be exploring facial recognition for its smart glasses."
+          "excerpt": "Code for a facial recognition feature that can run on Meta smart glasses is buried in the company's Meta AI app,according to a new report fromWired. While not currently enabled, accessible to customers or part of a formerly announced feature, the code appears to be further evidence that Meta is considering how facial recognition could work with its smart glasses, asThe New York Timesfirst reported in February."
         },
         {
           "title": "ChatGPT's memory is getting better, especially if you're on the free tier",
@@ -256,13 +256,6 @@
         {
           "title": "The four Republicans who now face his wrath...",
           "link": "https://www.washingtonpost.com/politics/2026/06/04/4-republicans-who-voted-iran-war-powers-resolution-breaking-with-trump/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Administration quietly planning for AI doctors...",
-          "link": "https://www.washingtonpost.com/technology/2026/06/04/inside-trump-backed-push-bring-ai-doctors-into-american-medicine/",
           "summary": null,
           "published": null,
           "excerpt": null
