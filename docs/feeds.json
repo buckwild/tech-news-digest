@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T06:00:20.671924-07:00",
-  "generated_at_display": "Jun 04, 2026 06:00 AM PT",
+  "generated_at": "2026-06-04T07:00:23.437163-07:00",
+  "generated_at_display": "Jun 04, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon's new Proteus warehouse robot is fully autonomous",
+          "link": "https://www.engadget.com/2187338/amazons-new-proteus-warehouse-robot-is-fully-autonomous/",
+          "summary": "Amazon's AI-upgraded Proteus robot can now be controlled using plain language.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We may receive a commission on purchases made from links."
+        },
+        {
           "title": "How to watch Apple's WWDC 2026 keynote",
           "link": "https://www.engadget.com/2186944/how-to-watch-apple-wwdc-2026-keynote/",
           "summary": "Apple CEO Tim Cook will take part in his last WWDC presentation on June 8.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "xAI is under investigation in the EU, UK and California because of its freewheeling AI image generator."
-        },
-        {
-          "title": "The European Union reveals details of its tech sovereignty package",
-          "link": "https://www.engadget.com/2186709/the-european-union-reveals-details-of-its-tech-sovereignity-package/",
-          "summary": "New proposals will see the EU further invest in European startups and companies as it looks to strengthen its homegrown tech footprint.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The European Commission hasannounceda new European Technological Sovereignty Package, designed to further reduce its reliance on foreign tech. The EU wants to focus on building out Europe's capacity in areas such as semiconductors, AI, cloud computing and open-source projects."
         }
       ]
     },
