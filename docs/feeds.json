@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T01:00:23.409015-07:00",
-  "generated_at_display": "Jun 04, 2026 01:00 AM PT",
+  "generated_at": "2026-06-04T02:00:21.994130-07:00",
+  "generated_at_display": "Jun 04, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google Wallet ID passes will be available in select EU states this summer",
+          "link": "https://www.engadget.com/2186977/google-wallet-id-passes-will-be-available-in-select-eu-states-this-summer/",
+          "summary": "The company is also introducing a new age verification process in partnership with a European bank.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company is also introducing a new age verification process in partnership with a European bank."
+        },
+        {
+          "title": "You can now use Ask Gemini in Drive to rummage through your Gmail",
+          "link": "https://www.engadget.com/2187268/ask-gemini-gmail-search/",
+          "summary": "Slogging through emails to find stuff can be a chore, but Google AI subscribers can now get Gemini to do it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The feature is now available to eligible Google Workspace, AI Pro and Ultra subscribers."
+        },
+        {
           "title": "Shokz says its clip-on OpenDots 2 earbuds focus on improved volume and bass",
           "link": "https://www.engadget.com/2186840/shokz-says-its-opendots-2-earbuds-focus-on-improved-volume-and-bass/",
           "summary": "The flagship OpenDots 2 earbuds are joined by the mid-range OpenDots Air.",
@@ -163,30 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Before I get to Anthropic's specific policies, let's talk about why AI rate limits exist in the first place. When you type a prompt into a chatbot, a process called inference occurs. Behind the scenes, a large language model is applying the patterns it learned in training to an input it hasn't seen before. Inference is computationally expensive and, more importantly, there's no natural ceiling in terms of cost. As an AI company, you have a love-hate relationship with your most engaged users because, without putting restrictions on them, they can cost you thousands of dollars in processing costs."
-        },
-        {
-          "title": "Google pledges to replenish more water than it uses at data centers by 2030",
-          "link": "https://www.engadget.com/2186418/google-pledges-to-replenish-water-data-centers-by-2030/",
-          "summary": "Google has expanded its water stewardship projects in the midst of growing unrest over data centers' water usage.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google isexpandingits\u00a0water stewardship commitments, including investments in replenishment projects, to provide more water than it consumes at its data centers by 2030. The company now has\u00a0165 stewardship projects across 97 watersheds, which are expected to replenish 19 billion gallons a year by 2030. Google says that's more than double its consumption for 2024 and would allow the company to use more water over the coming years and still achieve its goal."
-        },
-        {
-          "title": "Amazon kills plans for Stargate series reboot",
-          "link": "https://www.engadget.com/2186409/amazon-kills-plans-for-stargate-series-reboot/",
-          "summary": "Amazon's Stargate series greenlit last year has been cancelled.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "There were concerns that it would only appeal to hardcore fans."
-        },
-        {
-          "title": "Meta took down over a million scam accounts in joint operation with Microsoft, SpaceX and DOJ",
-          "link": "https://www.engadget.com/2186397/meta-took-down-over-a-million-scam-accounts-in-joint-operation-with-microsoft-spacex-and-doj/",
-          "summary": "Meta, Microsoft, SpaceX, Coinbase, the DOJ and international law enforcement partners collaborated in an operation that focused on scam networks in SE Asia.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Meta worked with the DOJ, along with\u00a0Microsoft, Coinbase, Starlink and international law enforcement agencies to bust online scams and identify the criminal syndicates behind them. The company has been getting a lot of flak for letting scammers run rampant on its platforms andthenreportedlymaking billions of dollarsyearly from ad marketing scams. This particular operation focuses on\u00a0criminal networks operating out of Southeast Asia, which target Americans with romance scams, \"pig butchering\" schemes and law enforcement impersonation. They also offer fake jobs to fellow Southeast Asians, who find themselves forced to work in scam compounds."
         }
       ]
     },
