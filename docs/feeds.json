@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T03:00:21.344802-07:00",
-  "generated_at_display": "Jun 04, 2026 03:00 AM PT",
+  "generated_at": "2026-06-04T04:00:21.415171-07:00",
+  "generated_at_display": "Jun 04, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Samsung's updated Health app unsurprisingly comes with new AI-powered features",
+          "link": "https://www.engadget.com/2187297/samsung-updates-health-app-with-gen-ai/",
+          "summary": "Samsung will roll out an update for its Health app before launching its new Galaxy Watches.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new app was designed to showcase the upcoming Galaxy Watches\u2019 capabilities."
+        },
+        {
           "title": "SpaceX expects its IPO to raise $74.4 billion",
           "link": "https://www.engadget.com/2187282/spacex-ipo-target/",
           "summary": "SpaceX expects to become a trillion-dollar company when it goes public.",
@@ -194,22 +202,15 @@
           "excerpt": null
         },
         {
-          "title": "Iran Attacks Gulf Nations, Further Straining 'Cease-Fire'...",
-          "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon?unlocked_article_code=1.nVA.npe9.mePOLp-Eeojk&smid=url-share",
+          "title": "UN:  IRAN NUKE RISK HIGHER THAN BEFORE WAR...",
+          "link": "https://financialpost.com/pmn/business-pmn/iran-nuclear-risk-seen-higher-than-before-trump-attacks-began",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Revolutionary War villain being rehabilitated in time for celebration...",
-          "link": "https://apnews.com/aa35e4148824db039cf0b616b0cb977c",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "The billionaire's plan B: Where ultrarich lining up passports, second homes...",
-          "link": "https://www.businessinsider.com/where-billionaires-peter-thiel-second-passports-residences-2026-6",
+          "title": "Bezos Funding Wild Hunt for Brain's 'Core Algorithm'...",
+          "link": "https://archive.ph/2KBJ1",
           "summary": null,
           "published": null,
           "excerpt": null
