@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T12:00:32.930385-07:00",
-  "generated_at_display": "Jun 04, 2026 12:00 PM PT",
+  "generated_at": "2026-06-04T13:00:22.044031-07:00",
+  "generated_at_display": "Jun 04, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Canada Prime Minister Mark Carney announces questionable national AI strategy",
+          "link": "https://www.engadget.com/2187720/canada-prime-minister-mark-carney-announces-questionable-national-ai-strategy/",
+          "summary": "Canada's \"AI for All\" plan prioritizes strengthening data protections and increasing AI adoption.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new \"AI for All\" plan prioritizes strengthening data protections and increasing AI adoption."
+        },
         {
           "title": "Meta's latest AI tool gives creators a 'brainstorming partner'",
           "link": "https://www.engadget.com/2187615/meta-creator-assistant/",
