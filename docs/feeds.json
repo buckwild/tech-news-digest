@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T05:00:22.806717-07:00",
-  "generated_at_display": "Jun 04, 2026 05:00 AM PT",
+  "generated_at": "2026-06-04T06:00:20.671924-07:00",
+  "generated_at_display": "Jun 04, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "How to watch Apple's WWDC 2026 keynote",
+          "link": "https://www.engadget.com/2186944/how-to-watch-apple-wwdc-2026-keynote/",
+          "summary": "Apple CEO Tim Cook will take part in his last WWDC presentation on June 8.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We have big expectations for this year\u2019s event."
+        },
+        {
+          "title": "How to watch the Summer Game Fest showcase",
+          "link": "https://www.engadget.com/2187292/how-to-watch-summer-game-fest-2026/",
+          "summary": "Summer Game Fest's main showcase is streaming live on June 5 at 2PM PT.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You'll see updates and announcements for numerous games across all platforms."
+        },
+        {
           "title": "Samsung's updated Health app unsurprisingly comes with new AI-powered features",
           "link": "https://www.engadget.com/2187297/samsung-updates-health-app-with-gen-ai/",
           "summary": "Samsung will roll out an update for its Health app before launching its new Galaxy Watches.",
@@ -204,6 +220,13 @@
         {
           "title": "Administration quietly planning for AI doctors...",
           "link": "https://www.washingtonpost.com/technology/2026/06/04/inside-trump-backed-push-bring-ai-doctors-into-american-medicine/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Inside the UFC's $60 Million Made-For-TV White House Gambit...",
+          "link": "https://www.hollywoodreporter.com/business/business-news/inside-ufc-white-house-fight-dana-white-details-1236611686/",
           "summary": null,
           "published": null,
           "excerpt": null
