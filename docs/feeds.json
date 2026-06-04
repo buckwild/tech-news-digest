@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T23:00:26.939133-07:00",
-  "generated_at_display": "Jun 03, 2026 11:00 PM PT",
+  "generated_at": "2026-06-04T00:00:23.990743-07:00",
+  "generated_at_display": "Jun 04, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "We've seen how AI can be used tofind flawsin apps and websites, but researchers have now demonstrated how it could be weaponized to exploit those vulnerabilities. A team from theUniversity of Torontoused\u00a0publicly accessible AI models to power a prototype worm capable of exploiting any known computer flaw. Such worms could then spread through networks and cause chaos across the internet."
-        },
-        {
-          "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
-          "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
-          "summary": "Google has released 2D CAD drawings of the Fitbit Air.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company released key measurements to encourage third-party add-ons."
         }
       ]
     },
