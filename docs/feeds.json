@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T04:00:24.774442-07:00",
-  "generated_at_display": "Jun 05, 2026 04:00 AM PT",
+  "generated_at": "2026-06-05T05:00:21.621125-07:00",
+  "generated_at_display": "Jun 05, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Morning After: NVIDIA thinks its new chip will revolutionize PCs",
+          "link": "https://www.engadget.com/2188063/engadget-newsletter-nvidia-rtx-spark/",
+          "summary": "NVIDIA launches a powerful AI-ready notebook chip, NASA ends a Mars mission and Meta's still looking into glasses-based facial recognition.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Plus, NASA ends a Mars mission and Meta\u2019s still being creepy."
+        },
+        {
           "title": "Google experiments with sending Chrome searches straight to AI",
           "link": "https://www.engadget.com/2188080/chrome-canary-reportedly-sending-search-straight-to-ai/",
           "summary": "Google seems to be testing a new feature that will take you to AI Mode by default when you do a search in Chrome.",
@@ -227,6 +235,13 @@
         {
           "title": "The next four Republicans who now face Don's wrath...",
           "link": "https://www.washingtonpost.com/politics/2026/06/04/4-republicans-who-voted-iran-war-powers-resolution-breaking-with-trump/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Americans on GLP-1s Overwhelming Retailers With Nonstop Returns...",
+          "link": "https://www.wsj.com/business/retail/americans-on-glp-1s-are-overwhelming-retailers-with-their-nonstop-returns-9c512caf",
           "summary": null,
           "published": null,
           "excerpt": null
