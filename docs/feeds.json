@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T15:00:22.456688-07:00",
-  "generated_at_display": "Jun 05, 2026 03:00 PM PT",
+  "generated_at": "2026-06-05T16:00:23.660385-07:00",
+  "generated_at_display": "Jun 05, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Virtua Fighter Crossroads is coming in 2027",
+          "link": "https://www.engadget.com/2188739/virtua-fighter-crossroads-is-coming-in-2027/",
+          "summary": "More details on the sixth Virtua Fighter game are coming in a dedicated showcase stream.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "More details on the sixth Virtua Fighter game are coming in a dedicated showcase stream."
+        },
+        {
           "title": "Alien Isolation 2's first trailer takes the horror to a colony planet",
           "link": "https://www.engadget.com/2188687/alien-isolation-2-s-first-trailer-takes-the-horror-to-a-colony-planet/",
           "summary": "The abbreviated name, \"AI 2,\" is the scariest thing about it so far.",
@@ -195,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Plus, NASA ends a Mars mission and Meta\u2019s still being creepy."
-        },
-        {
-          "title": "Google experiments with sending Chrome searches straight to AI",
-          "link": "https://www.engadget.com/2188080/chrome-canary-reportedly-sending-search-straight-to-ai/",
-          "summary": "Google seems to be testing a new feature that will take you to AI Mode by default when you do a search in Chrome.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google appeared to be mulling the idea of giving you the option to go straight to AI Mode for search queries.Windows Reporthas discovered a new hidden\u00a0hidden flag in Chrome Canary, the browser's most experimental variant meant for developers and early adopters, that will take you to AI Mode by default. The publication has confirmed that the test feature works when enabled and has noted that it looks a lot more complete and ready to ship than typical prototypes."
-        },
-        {
-          "title": "Anthropic proposes a global slowdown of AI development",
-          "link": "https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/",
-          "summary": "Anthropic warns that AIs will soon be able to build their own successor, and it's suggesting that companies may have to slow down development.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic says AI is developing so fast, the trend points towards systems becoming capable of developing their own successor. We're not there yet, but it believes it \"could come sooner than most institutions are prepared for.\" In ablog post, Anthropic explains that AI that can build itself could \"bring enormous good for the world\" in the fields of science and healthcare, among others.\u00a0However, it might also \"increase the risks of humans losing control over AI systems.\" So how can humanity prevent Skynet from becoming a real thing? Anthropic is suggesting that the answer is the global slowdown or the temporary pause of AI development \"to enable societal structures and alignment research to keep up with the advance of the technology.\""
         }
       ]
     },
