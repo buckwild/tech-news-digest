@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T08:00:22.625657-07:00",
-  "generated_at_display": "Jun 05, 2026 08:00 AM PT",
+  "generated_at": "2026-06-05T09:00:20.536960-07:00",
+  "generated_at_display": "Jun 05, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "ISS astronauts had to shelter in place in the SpaceX Dragon capsule because of an air leak",
+          "link": "https://www.engadget.com/2188304/iss-astronauts-had-to-shelter-in-place-due-to-air-leak/",
+          "summary": "We're waiting to learn more about what happened aboard the International Space Station.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Russian cosmonauts attempted a repair, but that has since been put on hold."
+        },
+        {
           "title": "The University of Cambridge says it successfully tested a vaccine with an AI-designed antigen",
           "link": "https://www.engadget.com/2188241/university-of-cambridge-successfully-tests-vaccine-with-ai-designed-antigen/",
           "summary": "It's the first instance of an vaccine antigen designed exclusively by artificial intelligence.",
@@ -240,8 +248,8 @@
           "excerpt": null
         },
         {
-          "title": "The next four Republicans who now face Don's wrath...",
-          "link": "https://www.washingtonpost.com/politics/2026/06/04/4-republicans-who-voted-iran-war-powers-resolution-breaking-with-trump/",
+          "title": "White House Explodes Over Viral Video of Dozy Don...",
+          "link": "https://www.yahoo.com/news/politics/articles/white-house-explodes-over-viral-040814154.html",
           "summary": null,
           "published": null,
           "excerpt": null
