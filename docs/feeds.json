@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T02:00:26.597825-07:00",
-  "generated_at_display": "Jun 05, 2026 02:00 AM PT",
+  "generated_at": "2026-06-05T03:00:22.022051-07:00",
+  "generated_at_display": "Jun 05, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Anthropic proposes a global slowdown of AI development",
+          "link": "https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/",
+          "summary": "Anthropic warns that AIs will soon be able to build their own successor, and it's suggesting that companies may have to slow down development.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic says AI is developing so fast, the trend points towards systems becoming capable of developing their own successor. We're not there yet, but it believes it \"could come sooner than most institutions are prepared for.\" In ablog post, Anthropic explains that AI that can build itself could \"bring enormous good for the world\" in the fields of science and healthcare, among others.\u00a0However, it might also \"increase the risks of humans losing control over AI systems.\" So how can humanity prevent Skynet from becoming a real thing? Anthropic is suggesting that the answer is the global slowdown or the temporary pause of AI development \"to enable societal structures and alignment research to keep up with the advance of the technology.\""
+        },
+        {
           "title": "Wired found code for an unreleased facial recognition feature in Meta's AI app",
           "link": "https://www.engadget.com/2187824/wired-found-code-for-an-unreleased-facial-recognition-feature-in-meta-s-ai-app/",
           "summary": "Meta was previously reported to be exploring facial recognition for its smart glasses.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The new app was designed to showcase the upcoming Galaxy Watches\u2019 capabilities."
-        },
-        {
-          "title": "SpaceX expects its IPO to raise $74.4 billion",
-          "link": "https://www.engadget.com/2187282/spacex-ipo-target/",
-          "summary": "SpaceX expects to become a trillion-dollar company when it goes public.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Valuing the company at $1.75 trillion."
         }
       ]
     },
