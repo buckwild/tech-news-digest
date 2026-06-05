@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T05:00:21.621125-07:00",
-  "generated_at_display": "Jun 05, 2026 05:00 AM PT",
+  "generated_at": "2026-06-05T06:00:22.111631-07:00",
+  "generated_at_display": "Jun 05, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "OpenAI will let the US government review its AI models before release",
+          "link": "https://www.engadget.com/2188124/openai-will-let-us-government-review-its-models/",
+          "summary": "The company said this week it would comply with President Trump's voluntary AI executive order.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company said it would comply with President Trump's (voluntary) AI executive order."
+        },
+        {
+          "title": "NVIDIA's RTX Spark chip could give Windows its true Apple Silicon moment",
+          "link": "https://www.engadget.com/2187889/nvidia-rtx-spark-chip-could-give-windows-its-true-apple-silicon-moment/",
+          "summary": "Arm CPU cores, a powerful GPU and gobs of unified RAM? That sounds familiar!",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "There's a lot we still don't know about NVIDIA's RTX Spark AI chip\u00a0\u2014 we're still waiting on deeper technical details and pricing for the first batch of systems \u2014 but it has a decent shot of changing the way we think of Windows PCs entirely. RTX Spark should offer the raw performance that the first batch of Copilot+ systems lacked, and it will also push Microsoft to make the Windows experience even better for Arm CPUs (something I argued was thereal highlight of the whole Copilot+ initiative, more so than AI support)."
+        },
+        {
           "title": "The Morning After: NVIDIA thinks its new chip will revolutionize PCs",
           "link": "https://www.engadget.com/2188063/engadget-newsletter-nvidia-rtx-spark/",
           "summary": "NVIDIA launches a powerful AI-ready notebook chip, NASA ends a Mars mission and Meta's still looking into glasses-based facial recognition.",
@@ -187,30 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Banish any memories of Ferrari's2004 venture into laptops. Coinciding with the Monaco Grand Prix, and with HP in tow, Ferrari is charging at the world of laptops again with a product that has an eye-watering,Tifosi-baiting price of $5,599."
-        },
-        {
-          "title": "Amazon's new Proteus warehouse robot is fully autonomous",
-          "link": "https://www.engadget.com/2187338/amazons-new-proteus-warehouse-robot-is-fully-autonomous/",
-          "summary": "Amazon's AI-upgraded Proteus robot can now be controlled using plain language.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We may receive a commission on purchases made from links."
-        },
-        {
-          "title": "How to watch Apple's WWDC 2026 keynote",
-          "link": "https://www.engadget.com/2186944/how-to-watch-apple-wwdc-2026-keynote/",
-          "summary": "Apple CEO Tim Cook will take part in his last WWDC presentation on June 8.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We have big expectations for this year\u2019s event."
-        },
-        {
-          "title": "How to watch the Summer Game Fest showcase",
-          "link": "https://www.engadget.com/2187292/how-to-watch-summer-game-fest-2026/",
-          "summary": "Summer Game Fest's main showcase is streaming live on June 5 at 2PM PT.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You'll see updates and announcements for numerous games across all platforms."
         }
       ]
     },
