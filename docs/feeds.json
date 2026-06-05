@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T14:00:27.485661-07:00",
-  "generated_at_display": "Jun 05, 2026 02:00 PM PT",
+  "generated_at": "2026-06-05T15:00:22.456688-07:00",
+  "generated_at_display": "Jun 05, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Alien Isolation 2's first trailer takes the horror to a colony planet",
+          "link": "https://www.engadget.com/2188687/alien-isolation-2-s-first-trailer-takes-the-horror-to-a-colony-planet/",
+          "summary": "The abbreviated name, \"AI 2,\" is the scariest thing about it so far.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The abbreviated name, \"AI 2,\" is the scariest thing about it so far."
+        },
+        {
           "title": "OpenAI rolls out a Lockdown Mode for extra protection against prompt injection attacks",
           "link": "https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/",
           "summary": "OpenAI has announced more robust security features for the small set of users who might need them.",
@@ -203,30 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Anthropic says AI is developing so fast, the trend points towards systems becoming capable of developing their own successor. We're not there yet, but it believes it \"could come sooner than most institutions are prepared for.\" In ablog post, Anthropic explains that AI that can build itself could \"bring enormous good for the world\" in the fields of science and healthcare, among others.\u00a0However, it might also \"increase the risks of humans losing control over AI systems.\" So how can humanity prevent Skynet from becoming a real thing? Anthropic is suggesting that the answer is the global slowdown or the temporary pause of AI development \"to enable societal structures and alignment research to keep up with the advance of the technology.\""
-        },
-        {
-          "title": "Wired found code for an unreleased facial recognition feature in Meta's AI app",
-          "link": "https://www.engadget.com/2187824/wired-found-code-for-an-unreleased-facial-recognition-feature-in-meta-s-ai-app/",
-          "summary": "Meta was previously reported to be exploring facial recognition for its smart glasses.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Code for a facial recognition feature that can run on Meta smart glasses is buried in the company's Meta AI app,according to a new report fromWired. While not currently enabled, accessible to customers or part of a formerly announced feature, the code appears to be further evidence that Meta is considering how facial recognition could work with its smart glasses, asThe New York Timesfirst reported in February."
-        },
-        {
-          "title": "ChatGPT's memory is getting better, especially if you're on the free tier",
-          "link": "https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/",
-          "summary": "OpenAI has significantly improved the chatbot's \"dreaming\" architecture.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI isrolling out some significant enhancementsto ChatGPT's memory feature, particularly if you've been using the chatbot through a free account. Before getting to those improvements, a quick recap will help set the stage for what to expect: OpenAI shipped its first memory feature in April 2024. By the company's own admission, this early implementation, then known as saved memories, was basic. It depended on strong cues from user, such as a direct prompt telling ChatGPT to remember a fact. People also found the chatbot's memories became less relevant over time. So over the next year, OpenAI began working on the first version of a feature it would end up calling dreaming."
-        },
-        {
-          "title": "Canada Prime Minister Mark Carney announces questionable national AI strategy",
-          "link": "https://www.engadget.com/2187720/canada-prime-minister-mark-carney-announces-questionable-national-ai-strategy/",
-          "summary": "Canada's \"AI for All\" plan prioritizes strengthening data protections and increasing AI adoption.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new \"AI for All\" plan prioritizes strengthening data protections and increasing AI adoption."
         }
       ]
     },
@@ -243,7 +227,7 @@
         },
         {
           "title": "BARI GETS A BREAK:  Three remaining '60 MINS' correspondents announce they'll STAY...",
-          "link": "https://www.nbcnews.com/business/media/60-minutes-lesley-stahl-bill-whitaker-jon-wertheim-stay-rcna348676",
+          "link": "https://www.nbcnews.com/business/rcna348676",
           "summary": null,
           "published": null,
           "excerpt": null
