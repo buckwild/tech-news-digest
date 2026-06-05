@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T17:00:26.870472-07:00",
-  "generated_at_display": "Jun 04, 2026 05:00 PM PT",
+  "generated_at": "2026-06-04T18:00:22.913285-07:00",
+  "generated_at_display": "Jun 04, 2026 06:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -246,8 +246,15 @@
           "excerpt": null
         },
         {
-          "title": "The four Republicans who now face his wrath...",
+          "title": "The next four Republicans who now face Don's wrath...",
           "link": "https://www.washingtonpost.com/politics/2026/06/04/4-republicans-who-voted-iran-war-powers-resolution-breaking-with-trump/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Administration quietly planning for AI doctors...",
+          "link": "https://www.washingtonpost.com/technology/2026/06/04/inside-trump-backed-push-bring-ai-doctors-into-american-medicine/",
           "summary": null,
           "published": null,
           "excerpt": null
