@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T03:00:22.022051-07:00",
-  "generated_at_display": "Jun 05, 2026 03:00 AM PT",
+  "generated_at": "2026-06-05T04:00:24.774442-07:00",
+  "generated_at_display": "Jun 05, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google experiments with sending Chrome searches straight to AI",
+          "link": "https://www.engadget.com/2188080/chrome-canary-reportedly-sending-search-straight-to-ai/",
+          "summary": "Google seems to be testing a new feature that will take you to AI Mode by default when you do a search in Chrome.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company is reportedly bypassing classic search results in its testing browser."
+        },
+        {
           "title": "Anthropic proposes a global slowdown of AI development",
           "link": "https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/",
           "summary": "Anthropic warns that AIs will soon be able to build their own successor, and it's suggesting that companies may have to slow down development.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "You'll see updates and announcements for numerous games across all platforms."
-        },
-        {
-          "title": "Samsung's updated Health app unsurprisingly comes with new AI-powered features",
-          "link": "https://www.engadget.com/2187297/samsung-updates-health-app-with-gen-ai/",
-          "summary": "Samsung will roll out an update for its Health app before launching its new Galaxy Watches.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new app was designed to showcase the upcoming Galaxy Watches\u2019 capabilities."
         }
       ]
     },
@@ -218,29 +218,8 @@
           "excerpt": null
         },
         {
-          "title": "Bezos Funding Hunt for Brain's 'Core Algorithm'...",
-          "link": "https://archive.ph/2KBJ1",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "AMAZON tops WALMART on Fortune 500...",
-          "link": "https://www.geekwire.com/2026/amazon-knocks-walmart-from-the-top-spot-on-fortune-500-for-the-first-time-in-13-years/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Trump says he could meet Iran's supreme leader 'to make deal'...",
-          "link": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Disappearing Hair-Loss Drug Fuels Fresh Health Mystery...",
-          "link": "https://www.washingtonpost.com/politics/2026/06/04/trump-took-hair-loss-drug-years-its-no-longer-his-medical-records/",
+          "title": "Senate Passes $70 Billion Border Bill WITHOUT Killing 'Slush Fund'...",
+          "link": "https://www.wsj.com/politics/policy/gop-senators-fight-over-trump-fund-spills-onto-floor-4de6b204",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -248,13 +227,6 @@
         {
           "title": "The next four Republicans who now face Don's wrath...",
           "link": "https://www.washingtonpost.com/politics/2026/06/04/4-republicans-who-voted-iran-war-powers-resolution-breaking-with-trump/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Administration quietly planning for AI doctors...",
-          "link": "https://www.washingtonpost.com/technology/2026/06/04/inside-trump-backed-push-bring-ai-doctors-into-american-medicine/",
           "summary": null,
           "published": null,
           "excerpt": null
