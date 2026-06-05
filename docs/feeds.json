@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T07:00:22.813646-07:00",
-  "generated_at_display": "Jun 05, 2026 07:00 AM PT",
+  "generated_at": "2026-06-05T08:00:22.625657-07:00",
+  "generated_at_display": "Jun 05, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The University of Cambridge says it successfully tested a vaccine with an AI-designed antigen",
+          "link": "https://www.engadget.com/2188241/university-of-cambridge-successfully-tests-vaccine-with-ai-designed-antigen/",
+          "summary": "It's the first instance of an vaccine antigen designed exclusively by artificial intelligence.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The \u201csuper-antigen\u201d could provide long-term protection against a wide range of diseases spread by humans."
+        },
+        {
           "title": "How to watch the Xbox Games Showcase",
           "link": "https://www.engadget.com/2187783/how-to-watch-the-xbox-games-showcase/",
           "summary": "Microsoft has two livestreams planned for this Sunday.",
@@ -211,8 +219,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "GLADIATOR WHITE HOUSE SPECTACLE",
-          "link": "https://www.hollywoodreporter.com/business/business-news/inside-ufc-white-house-fight-dana-white-details-1236611686/",
+          "title": "Space Station astronauts given evacuation order over air leak... Developing...",
+          "link": "https://www.telegraph.co.uk/world-news/2026/06/05/astronauts-told-prepare-iss-evacuation-over-air-leak/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "AI ESCAPING HUMAN CONTROL",
+          "link": "https://www.yahoo.com/news/science/articles/anthropic-calls-pause-global-ai-223531016.html",
           "summary": null,
           "published": null,
           "excerpt": null
