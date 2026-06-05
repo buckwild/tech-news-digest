@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T09:00:20.536960-07:00",
-  "generated_at_display": "Jun 05, 2026 09:00 AM PT",
+  "generated_at": "2026-06-05T10:00:23.457203-07:00",
+  "generated_at_display": "Jun 05, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google shuts down the AI image app Pixel Studio",
+          "link": "https://www.engadget.com/2188377/google-shuts-down-the-ai-image-app-pixel-studio/",
+          "summary": "Google's AI app Pixel Studio launched less than two years ago, but is now being shut down.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It launched less than two years ago."
+        },
+        {
           "title": "ISS astronauts had to shelter in place in the SpaceX Dragon capsule because of an air leak",
           "link": "https://www.engadget.com/2188304/iss-astronauts-had-to-shelter-in-place-due-to-air-leak/",
           "summary": "We're waiting to learn more about what happened aboard the International Space Station.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The new \"AI for All\" plan prioritizes strengthening data protections and increasing AI adoption."
-        },
-        {
-          "title": "Meta's latest AI tool gives creators a 'brainstorming partner'",
-          "link": "https://www.engadget.com/2187615/meta-creator-assistant/",
-          "summary": "Meta's Creator Assistant AI can analyze your past posts to help with future content plans.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Creator Assistant can generate content ideas based on recent viral trends."
         }
       ]
     },
@@ -227,8 +227,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Space Station astronauts given evacuation order over air leak... Developing...",
-          "link": "https://www.telegraph.co.uk/world-news/2026/06/05/astronauts-told-prepare-iss-evacuation-over-air-leak/",
+          "title": "AIR LEAK...",
+          "link": "https://www.dailymail.com/sciencetech/article-15877373/NASA-astronauts-ISS-air-leak.html",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -236,6 +236,13 @@
         {
           "title": "AI ESCAPING HUMAN CONTROL",
           "link": "https://www.yahoo.com/news/science/articles/anthropic-calls-pause-global-ai-223531016.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "BARI GETS A BREAK:  Three remaining '60 MINS' correspondents announce they'll STAY...",
+          "link": "https://www.nbcnews.com/business/media/60-minutes-lesley-stahl-bill-whitaker-jon-wertheim-stay-rcna348676",
           "summary": null,
           "published": null,
           "excerpt": null
