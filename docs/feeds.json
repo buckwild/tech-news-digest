@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T17:00:23.661542-07:00",
-  "generated_at_display": "Jun 05, 2026 05:00 PM PT",
+  "generated_at": "2026-06-05T18:00:25.214154-07:00",
+  "generated_at_display": "Jun 05, 2026 06:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Stellar Blade's slick-looking sequel is officially called Blood Rain",
+          "link": "https://www.engadget.com/2188798/stellar-blade-slick-looking-sequel-is-officially-called-blood-rain/",
+          "summary": "It's raining blood, hallelujah.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's raining blood, hallelujah."
+        },
         {
           "title": "Party with your grandma and prevent her murder in Apple Crumble, out this year",
           "link": "https://www.engadget.com/2188459/party-with-your-grandma-and-prevent-her-murder-in-apple-crumble/",
