@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T11:00:28.297738-07:00",
-  "generated_at_display": "Jun 06, 2026 11:00 AM PT",
+  "generated_at": "2026-06-06T12:00:21.301439-07:00",
+  "generated_at_display": "Jun 06, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,22 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Trump's latest memo puts 'most advanced AI in the world' into the military's hands",
+          "link": "https://www.engadget.com/2188929/trump-latest-memo-puts-most-advanced-ai-in-the-world-into-military-hands/",
+          "summary": "The memo also prevents companies from altering AI models being used by the military without prior approval.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The memo also prevents companies from altering AI models being used by the military without prior approval."
+        },
+        {
+          "title": "Burn-9 makes an entire game out of Metal Gear's Codec scenes",
+          "link": "https://www.engadget.com/2186956/burn-9-makes-an-entire-game-out-of-metal-gear-s-codec-scenes/",
+          "summary": "Plus, check out the new trailer for the cosmic horror game Penguin Colony.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Plus, check out the new trailer for the cosmic horror game Penguin Colony."
+        },
         {
           "title": "The big budget Avatar: The Last Airbender RPG is no longer in production",
           "link": "https://www.engadget.com/2188916/the-big-budget-avatar-the-last-airbender-rpg-is-no-longer-in-production/",
