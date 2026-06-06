@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T09:00:20.965747-07:00",
-  "generated_at_display": "Jun 06, 2026 09:00 AM PT",
+  "generated_at": "2026-06-06T10:00:23.010437-07:00",
+  "generated_at_display": "Jun 06, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The big budget Avatar: The Last Airbender RPG is no longer in production",
+          "link": "https://www.engadget.com/2188916/the-big-budget-avatar-the-last-airbender-rpg-is-no-longer-in-production/",
+          "summary": "The Avatar RPG has been put in an iceberg.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Avatar RPG has been put in an iceberg."
+        },
+        {
           "title": "The best Kindle alternatives for those looking to ditch Amazon",
           "link": "https://www.engadget.com/2188542/kindle-alternatives-subscription-costs-compared/",
           "summary": "Whether you hate subscriptions like Kindle Unlimited or simply want to get away from Amazon for whatever reason, you'll find plenty of solid options available.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Tenebris Somniais a retro survival-horror game with one terrifying twist: Its cutscenes are live-action set pieces crafted by an expert in disturbing cinema.Tenebris Somniais set to hit PC, PlayStation 4, PS5, Switch, Switch 2 and Xbox Series X/S on October 16, as announced during the Day of the Devs summer showcase. That leaves plenty of time to adjust your Halloween costume."
-        },
-        {
-          "title": "Virtua Fighter Crossroads is coming in 2027",
-          "link": "https://www.engadget.com/2188739/virtua-fighter-crossroads-is-coming-in-2027/",
-          "summary": "More details on the sixth Virtua Fighter game are coming in a dedicated showcase stream.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It features a blend of narrative adventure and fighting game."
         }
       ]
     },
