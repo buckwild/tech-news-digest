@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T12:00:21.301439-07:00",
-  "generated_at_display": "Jun 06, 2026 12:00 PM PT",
+  "generated_at": "2026-06-06T13:00:23.737484-07:00",
+  "generated_at_display": "Jun 06, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Trump administration is reportedly in talks about taking a stake in OpenAI",
+          "link": "https://www.engadget.com/2188942/the-trump-administration-is-reportedly-in-talks-about-taking-a-stake-in-openai/",
+          "summary": "Details for a potential deal haven't been finalized yet.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Details for a potential deal haven\u2019t been finalized yet."
+        },
+        {
+          "title": "Hand-drawn interactive searching game Hidden Folks 2 is coming next year",
+          "link": "https://www.engadget.com/2188936/hand-drawn-interactive-searching-game-hidden-folks-2-is-coming-next-year/",
+          "summary": "It'll be available for PC and mobile, and maybe Nintendo Switch down the line.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019ll be available for PC and mobile, and maybe Nintendo Switch down the line."
+        },
+        {
           "title": "Trump's latest memo puts 'most advanced AI in the world' into the military's hands",
           "link": "https://www.engadget.com/2188929/trump-latest-memo-puts-most-advanced-ai-in-the-world-into-military-hands/",
           "summary": "The memo also prevents companies from altering AI models being used by the military without prior approval.",
@@ -187,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Duck Detective studio Happy Broccoli is back with a creepy-cute mystery."
-        },
-        {
-          "title": "Tenebris Somnia adds live-action horror to a retro survival game on October 16",
-          "link": "https://www.engadget.com/2187861/tenebris-somnia-adds-live-action-horror-to-a-retro-survival-game-on-october-16/",
-          "summary": "Airdorf and Andr\u00e9s Borghi are making one nightmare with two styles of terror.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Tenebris Somniais a retro survival-horror game with one terrifying twist: Its cutscenes are live-action set pieces crafted by an expert in disturbing cinema.Tenebris Somniais set to hit PC, PlayStation 4, PS5, Switch, Switch 2 and Xbox Series X/S on October 16, as announced during the Day of the Devs summer showcase. That leaves plenty of time to adjust your Halloween costume."
         }
       ]
     },
