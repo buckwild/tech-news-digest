@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T06:00:23.225517-07:00",
-  "generated_at_display": "Jun 06, 2026 06:00 AM PT",
+  "generated_at": "2026-06-06T07:00:21.927312-07:00",
+  "generated_at_display": "Jun 06, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The best Kindle alternatives for those looking to ditch Amazon",
+          "link": "https://www.engadget.com/2188542/kindle-alternatives-subscription-costs-compared/",
+          "summary": "Whether you hate subscriptions like Kindle Unlimited or simply want to get away from Amazon for whatever reason, you'll find plenty of solid options available.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "No matter what your reason for wanting to get away from the tech giant is, there are many options available."
+        },
+        {
           "title": "Google will pay SpaceX $920 million a month to use xAI's data centers",
           "link": "https://www.engadget.com/2188862/google-spacex-xai-data-center-deal-gemini/",
           "summary": "Google has just signed a $30 billion AI computing power deal with SpaceX.",
@@ -186,22 +194,15 @@
           "excerpt": null
         },
         {
-          "title": "Senate Passes $70 Billion Border Bill WITHOUT Killing 'Slush Fund'...",
-          "link": "https://www.wsj.com/politics/policy/gop-senators-fight-over-trump-fund-spills-onto-floor-4de6b204",
+          "title": "ICE Says Detainees Are 'Worst of the Worst.' Government Data Disagrees...",
+          "link": "https://www.nytimes.com/2026/06/06/nyregion/delaney-hall-ice-detainees.html?unlocked_article_code=1.oFA.yWMx.T7YelWaLMCUZ&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "White House Explodes Over Viral Video of Dozy Don...",
-          "link": "https://www.yahoo.com/news/politics/articles/white-house-explodes-over-viral-040814154.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Republicans 'Past the Boiling Point'...",
-          "link": "https://www.notus.org/congress/senate-republicans-are-past-the-boiling-point-with-trump",
+          "title": "Mexico Starting to Push Back Against Trump's Pressure Campaign...",
+          "link": "https://www.msn.com/en-us/politics/government/mexico-is-starting-to-push-back-against-trump-s-pressure-campaign/ar-AA24WMai",
           "summary": null,
           "published": null,
           "excerpt": null
