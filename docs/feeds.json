@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T23:00:21.107538-07:00",
-  "generated_at_display": "Jun 05, 2026 11:00 PM PT",
+  "generated_at": "2026-06-06T00:00:25.814501-07:00",
+  "generated_at_display": "Jun 06, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "EA's Star Wars Zero Company drops August 27",
+          "link": "https://www.engadget.com/2188845/star-wars-zero-company-release-date-august-27/",
+          "summary": "Star Wars Zero Company's developers released a gameplay trailer, which features a short appearance by Anakin Skywalker.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Its new gameplay trailer gives us a glimpse of Anakin Skywalker."
+        },
+        {
           "title": "Stellar Blade's slick-looking sequel is officially called Blood Rain",
           "link": "https://www.engadget.com/2188798/stellar-blade-slick-looking-sequel-is-officially-called-blood-rain/",
           "summary": "It's raining blood, hallelujah.",
@@ -163,14 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The abbreviated name, \"AI 2,\" is the scariest thing about it so far."
-        },
-        {
-          "title": "OpenAI rolls out a Lockdown Mode for extra protection against prompt injection attacks",
-          "link": "https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/",
-          "summary": "OpenAI has announced more robust security features for the small set of users who might need them.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI has begunrolling out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks. For the unfamiliar, prompt injection is a form of social engineering that is specific to conversational chatbots. As AI systems have become better at pulling information from the internet, people have begun hiding malicious instructions on webpages and other places to try and trick those systems."
         }
       ]
     },
