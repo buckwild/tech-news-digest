@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T10:00:22.448746-07:00",
-  "generated_at_display": "Jun 07, 2026 10:00 AM PT",
+  "generated_at": "2026-06-07T11:00:22.482252-07:00",
+  "generated_at_display": "Jun 07, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Crazy Taxi World Tour reboots the series in 2027",
+          "link": "https://www.engadget.com/2189054/crazy-taxi-world-tour-reboots-the-series-in-2027/",
+          "summary": "Get ready to yell \"Yah yah yah yah yah\" all over again.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Get ready to yell \"Yah yah yah yah yah\" all over again."
+        },
+        {
+          "title": "Halo: Campaign Evolved hits PS5, Xbox and PC on July 28",
+          "link": "https://www.engadget.com/2189052/halo-campaign-evolved-hits-ps5-xbox-and-pc-on-july-28/",
+          "summary": "Take a peek at the new missions in the refreshed Halo.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Take a peek at the new missions in the refreshed Halo."
+        },
+        {
+          "title": "Gears of War E-Day arrives October 6 as an Xbox and PC exclusive",
+          "link": "https://www.engadget.com/2189049/gears-of-war-e-day-arrives-october-6-as-an-xbox-and-pc-exclusive/",
+          "summary": "One of Microsoft's biggest gaming franchises is sticking with Xbox.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's no longer coming to the PS5."
+        },
+        {
           "title": "OpenAI reportedly has a major ChatGPT overhaul in store",
           "link": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
           "summary": "The revamped AI tool will roll out in the coming weeks, according to The Financial Times.",
@@ -187,22 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The company needs extra computing power for Gemini Enterprise."
-        },
-        {
-          "title": "EA's Star Wars Zero Company drops August 27",
-          "link": "https://www.engadget.com/2188845/star-wars-zero-company-release-date-august-27/",
-          "summary": "Star Wars Zero Company's developers released a gameplay trailer, which features a short appearance by Anakin Skywalker.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Its new gameplay trailer gives us a glimpse of Anakin Skywalker."
-        },
-        {
-          "title": "Stellar Blade's slick-looking sequel is officially called Blood Rain",
-          "link": "https://www.engadget.com/2188798/stellar-blade-slick-looking-sequel-is-officially-called-blood-rain/",
-          "summary": "It's raining blood, hallelujah.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's raining blood, hallelujah."
         }
       ]
     },
