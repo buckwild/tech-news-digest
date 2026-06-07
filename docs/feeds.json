@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T11:00:22.482252-07:00",
-  "generated_at_display": "Jun 07, 2026 11:00 AM PT",
+  "generated_at": "2026-06-07T12:00:21.218755-07:00",
+  "generated_at_display": "Jun 07, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Persona 4 Revival gets an official release date for February 2027",
+          "link": "https://www.engadget.com/2189066/persona-4-revival-gets-an-official-release-date-for-february-2027/",
+          "summary": "The pre-order trailer also revealed new voice actors.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The pre-order trailer also revealed new voice actors."
+        },
+        {
+          "title": "Persona 6 is coming with graveyard visuals and a toxic green color scheme",
+          "link": "https://www.engadget.com/2189059/persona-6-is-coming-with-graveyard-visuals-and-a-toxic-green-color-scheme/",
+          "summary": "The teaser trailer for P6 is filled with headstones and eerie vibes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The teaser trailer for P6 is filled with headstones and eerie vibes."
+        },
+        {
           "title": "Crazy Taxi World Tour reboots the series in 2027",
           "link": "https://www.engadget.com/2189054/crazy-taxi-world-tour-reboots-the-series-in-2027/",
           "summary": "Get ready to yell \"Yah yah yah yah yah\" all over again.",
@@ -195,22 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Avatar RPG has been put in an iceberg."
-        },
-        {
-          "title": "The best Kindle alternatives for those looking to ditch Amazon",
-          "link": "https://www.engadget.com/2188542/kindle-alternatives-subscription-costs-compared/",
-          "summary": "Whether you hate subscriptions like Kindle Unlimited or simply want to get away from Amazon for whatever reason, you'll find plenty of solid options available.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "No matter what your reason for wanting to get away from the tech giant is, there are many options available."
-        },
-        {
-          "title": "Google will pay SpaceX $920 million a month to use xAI's data centers",
-          "link": "https://www.engadget.com/2188862/google-spacex-xai-data-center-deal-gemini/",
-          "summary": "Google has just signed a $30 billion AI computing power deal with SpaceX.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company needs extra computing power for Gemini Enterprise."
         }
       ]
     },
