@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T12:00:21.218755-07:00",
-  "generated_at_display": "Jun 07, 2026 12:00 PM PT",
+  "generated_at": "2026-06-07T13:00:24.865802-07:00",
+  "generated_at_display": "Jun 07, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Undead Labs finally shows off State of Decay 3 gameplay in new trailer",
+          "link": "https://www.engadget.com/2189069/undead-labs-finally-shows-off-state-of-decay-3-gameplay-in-new-trailer/",
+          "summary": "The game is slated for release in 2027.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The game is slated for release in 2027."
+        },
         {
           "title": "Persona 4 Revival gets an official release date for February 2027",
           "link": "https://www.engadget.com/2189066/persona-4-revival-gets-an-official-release-date-for-february-2027/",
