@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T09:00:22.423254-07:00",
-  "generated_at_display": "Jun 07, 2026 09:00 AM PT",
+  "generated_at": "2026-06-07T10:00:22.448746-07:00",
+  "generated_at_display": "Jun 07, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "OpenAI reportedly has a major ChatGPT overhaul in store",
+          "link": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
+          "summary": "The revamped AI tool will roll out in the coming weeks, according to The Financial Times.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The revamped AI tool will roll out in the coming weeks, according to The Financial Times."
+        },
+        {
           "title": "The Trump administration is reportedly in talks about taking a stake in OpenAI",
           "link": "https://www.engadget.com/2188942/the-trump-administration-is-reportedly-in-talks-about-taking-a-stake-in-openai/",
           "summary": "Details for a potential deal haven't been finalized yet.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's raining blood, hallelujah."
-        },
-        {
-          "title": "Party with your grandma and prevent her murder in Apple Crumble, out this year",
-          "link": "https://www.engadget.com/2188459/party-with-your-grandma-and-prevent-her-murder-in-apple-crumble/",
-          "summary": "Duck Detective studio Happy Broccoli is back with a creepy-cute mystery called Apple Crumble.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Duck Detective studio Happy Broccoli is back with a creepy-cute mystery."
         }
       ]
     },
@@ -210,6 +210,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Greatest hits against 'MEET THE PRESS' host...",
+          "link": "https://www.usatoday.com/story/news/politics/2026/06/07/donald-trump-meet-the-press-interview-kristen-welker/90446748007/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "White House cage fight event snubbed by A-listers...",
           "link": "https://www.the-independent.com/b2991019.html",
@@ -220,13 +227,6 @@
         {
           "title": "ICE Says Detainees Are 'Worst of the Worst.' Government Data Disagrees...",
           "link": "https://www.nytimes.com/2026/06/06/nyregion/delaney-hall-ice-detainees.html?unlocked_article_code=1.oFA.yWMx.T7YelWaLMCUZ&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Erika Speech Interrupted by Heckler Claiming She 'Protects Pedophiles'...",
-          "link": "https://www.thewrap.com/culture-lifestyle/culture/erika-kirk-heckled-by-claim-she-protects-pedophiles-video/",
           "summary": null,
           "published": null,
           "excerpt": null
