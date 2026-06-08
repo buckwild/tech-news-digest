@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T12:00:25.873615-07:00",
-  "generated_at_display": "Jun 08, 2026 12:00 PM PT",
+  "generated_at": "2026-06-08T13:00:30.098373-07:00",
+  "generated_at_display": "Jun 08, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,38 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Reminder: macOS 27 won't work on Intel Macs",
+          "link": "https://www.engadget.com/2189939/reminder-macos-27-won-t-work-on-intel-macs/",
+          "summary": "You'll need to be running Apple silicon to use the latest operating system.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You\u2019ll need to be running Apple silicon to use the latest operating system."
+        },
+        {
+          "title": "The first iOS, iPadOS and macOS 27 developer betas are available now",
+          "link": "https://www.engadget.com/2189933/the-first-ios-ipados-and-macos-27-developer-betas-are-available-now/",
+          "summary": "Developer betas are available now for Apple's upcoming suit of OSes.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Public betas will follow later this year."
+        },
+        {
+          "title": "Siri AI for iPhones and iPads will be delayed indefinitely in the EU",
+          "link": "https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/",
+          "summary": "European Union and Chinese citizens will have to wait even longer before getting their hands on Apple's hotly-anticipated iOS 27 and iPadOS 27 with the new Siri.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple also said that Siri AI and new Apple Intelligence features will not be available at all in China."
+        },
+        {
+          "title": "watchOS 27 gets a Siri upgrade and perimenopause features",
+          "link": "https://www.engadget.com/2189896/watchos-27-gets-a-siri-upgrade-and-perimenopause-features/",
+          "summary": "watchOS snuck in some new health features amid that deluge of AI additions and minor improvements.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The updated OS arrives this fall."
+        },
+        {
           "title": "visionOS 27 brings the new Siri to Apple's headset",
           "link": "https://www.engadget.com/2189857/visionos-27-brings-the-new-siri-to-apples-headset/",
           "summary": "Apple's $3,500 headset is also getting an AI upgrade.",
@@ -211,29 +243,13 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's rolling back those contentious corners too."
-        },
-        {
-          "title": "WWDC 2026: Live updates from Apple Park on Siri, iOS 27, Apple Intelligence and more",
-          "link": "https://www.engadget.com/2189169/apple-wwdc-2026-live-blog-siri-ai-ios-27/",
-          "summary": "Come join us as we report live from the company's \"All systems glow\" event.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We're covering the news live from the company's \"All systems glow\" event."
         }
       ]
     },
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": [
-        {
-          "title": "Drive to Find Conspiracy Against Trump Rocks DOJ...",
-          "link": "https://www.nytimes.com/2026/06/08/us/politics/justice-department-trump-patel-conspiracy.html?unlocked_article_code=1.olA.kAj5.95CU0NvotHYE&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        }
-      ]
+      "entries": []
     }
   ]
 }
