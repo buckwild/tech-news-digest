@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T14:00:25.261396-07:00",
-  "generated_at_display": "Jun 08, 2026 02:00 PM PT",
+  "generated_at": "2026-06-08T15:00:29.673197-07:00",
+  "generated_at_display": "Jun 08, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,30 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "OpenAI files SEC paperwork to go public",
+          "link": "https://www.engadget.com/2190079/openai-files-sec-paperwork-to-go-public/",
+          "summary": "\"We expect it to leak so we're just announcing it.\"",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "\"We expect it to leak so we're just announcing it.\""
+        },
+        {
+          "title": "Google cuts the price of its AI Plus plan and doubles the storage",
+          "link": "https://www.engadget.com/2190039/google-cuts-the-price-of-its-ai-plus-plan-and-doubles-the-storage/",
+          "summary": "The AI subscription now starts at $5 per month.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The subscription now starts at $5 per month."
+        },
+        {
+          "title": "Apple is dropping support for some pretty modern Watch models",
+          "link": "https://www.engadget.com/2190035/apple-is-dropping-support-for-some-pretty-modern-watch-models/",
+          "summary": "Three smartwatch models from 2022 and 2023 won't run watchOS 27.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Two smartwatch models from 2022 won\u2019t run watchOS 27."
+        },
         {
           "title": "iOS 27 can run on phones as old as the iPhone 11",
           "link": "https://www.engadget.com/2189977/ios-27-can-run-on-phones-as-old-as-the-iphone-11/",
