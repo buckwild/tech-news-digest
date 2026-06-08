@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T07:00:33.202535-07:00",
-  "generated_at_display": "Jun 08, 2026 07:00 AM PT",
+  "generated_at": "2026-06-08T08:00:27.536992-07:00",
+  "generated_at_display": "Jun 08, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -68,7 +68,7 @@
           "summary": "Microsoft co-founder and philanthropist Bill Gates talks to Fareed about how AI can improve millions of people's lives through innovations in health care and education.",
           "published": null,
           "published_display": null,
-          "excerpt": null
+          "excerpt": "Published\n          5:31 PM EST, Sun January 28, 2024"
         },
         {
           "title": "",
@@ -187,22 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The revamped AI tool will roll out in the coming weeks, according to The Financial Times."
-        },
-        {
-          "title": "The Trump administration is reportedly in talks about taking a stake in OpenAI",
-          "link": "https://www.engadget.com/2188942/the-trump-administration-is-reportedly-in-talks-about-taking-a-stake-in-openai/",
-          "summary": "Details for a potential deal haven't been finalized yet.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Details for a potential deal haven\u2019t been finalized yet."
-        },
-        {
-          "title": "Hand-drawn interactive searching game Hidden Folks 2 is coming next year",
-          "link": "https://www.engadget.com/2188936/hand-drawn-interactive-searching-game-hidden-folks-2-is-coming-next-year/",
-          "summary": "It'll be available for PC and mobile, and maybe Nintendo Switch down the line.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019ll be available for PC and mobile, and maybe Nintendo Switch down the line."
         }
       ]
     },
@@ -234,13 +218,6 @@
         {
           "title": "Drive to Find Conspiracy Against Trump Rocks DOJ...",
           "link": "https://www.nytimes.com/2026/06/08/us/politics/justice-department-trump-patel-conspiracy.html?unlocked_article_code=1.olA.kAj5.95CU0NvotHYE&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "China beats Musk to launch first commercial brain chip...",
-          "link": "https://nypost.com/2026/06/07/tech/china-beats-elon-musk-to-launch-worlds-first-commercial-brain-chip/",
           "summary": null,
           "published": null,
           "excerpt": null
