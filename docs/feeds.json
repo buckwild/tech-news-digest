@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T13:00:30.098373-07:00",
-  "generated_at_display": "Jun 08, 2026 01:00 PM PT",
+  "generated_at": "2026-06-08T14:00:25.261396-07:00",
+  "generated_at_display": "Jun 08, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "iOS 27 can run on phones as old as the iPhone 11",
+          "link": "https://www.engadget.com/2189977/ios-27-can-run-on-phones-as-old-as-the-iphone-11/",
+          "summary": "Apple's focus on efficiency and performance improvements is good news for older iPhones.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple's focus on efficiency and performance improvements is good news for older iPhones."
+        },
         {
           "title": "Reminder: macOS 27 won't work on Intel Macs",
           "link": "https://www.engadget.com/2189939/reminder-macos-27-won-t-work-on-intel-macs/",
