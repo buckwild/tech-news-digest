@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T02:00:22.765529-07:00",
-  "generated_at_display": "Jun 09, 2026 02:00 AM PT",
+  "generated_at": "2026-06-09T03:00:22.370561-07:00",
+  "generated_at_display": "Jun 09, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple is making it easier to create Genmoji in iOS 27",
+          "link": "https://www.engadget.com/2190263/apple-making-genmoji-creation-easier-ios27/",
+          "summary": "MacRumors has discovered a new and easier Genmoji creation experience in iOS 27.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new creation experience will let you edit results to get your perfect emoji, according to MacRumors."
+        },
+        {
+          "title": "FCC relaxes Amazon's satellite internet deadline",
+          "link": "https://www.engadget.com/2190255/fcc-relaxes-amazon-leo-satellite-launch-deadline/",
+          "summary": "The FCC has given Amazon an extension to a key milestone for its Leo satellite internet deployment.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The US Federal Communications Commission (FCC) has granted Amazon an extension on itsLeosatellite internet deployment, according to aruling released on June 5. Amazon was supposed to launch over 1,600 Leo satellites, half of its planned constellation, by July 30th. However, the companyrequestedan extension in January due to rocket capacity issues and changes to its satellite design."
+        },
+        {
           "title": "The iOS 27 beta pretty much confirms that an Apple foldable is happening",
           "link": "https://www.engadget.com/2190131/the-ios-27-beta-pretty-much-confirms-that-an-apple-foldable-is-happening/",
           "summary": "Can't a multi-trillion-dollar company have secrets any more?",
@@ -235,14 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple Intelligence can customize Safari, update your passwords, and more."
-        },
-        {
-          "title": "macOS Golden Gate puts Siri AI into Spotlight",
-          "link": "https://www.engadget.com/2189760/macos-golden-gate-puts-siri-ai-into-spotlight/",
-          "summary": "macOS Golden Gate will add Siri AI into Spotlight.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "And it'll include some new Liquid Glass customization"
         }
       ]
     },
