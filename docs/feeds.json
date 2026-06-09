@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T23:00:22.956766-07:00",
-  "generated_at_display": "Jun 08, 2026 11:00 PM PT",
+  "generated_at": "2026-06-09T00:00:24.887906-07:00",
+  "generated_at_display": "Jun 09, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -243,14 +243,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "And it'll include some new Liquid Glass customization"
-        },
-        {
-          "title": "Apple reintroduces the AI-powered Siri it announced at WWDC 2024",
-          "link": "https://www.engadget.com/2189744/apple-reintroduces-the-ai-powered-siri-it-announced-at-wwdc-2024/",
-          "summary": "At WWDC 2026, Apple resurrected its AI-powered voice assistant, now named Siri AI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "After going MIA for two years, Apple's redesigned Siri has finally resurfaced. At WWDC 2026, the company showed off a new version of the AI-powered Siri we first saw in 2024, now called Siri AI.\u00a0As announced at the start of the year, Apple haspartnered with Googleto rebuild Apple Intelligence and Siri on top of its rival's Gemini models."
         }
       ]
     },
