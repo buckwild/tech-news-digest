@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T11:00:22.904316-07:00",
-  "generated_at_display": "Jun 09, 2026 11:00 AM PT",
+  "generated_at": "2026-06-09T12:00:26.233373-07:00",
+  "generated_at_display": "Jun 09, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,6 +203,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "White House will be closed to reporters during fight...",
+          "link": "https://www.washingtonpost.com/business/2026/06/09/white-house-will-be-closed-reporters-during-ufc-fight-unless-ufc-lets-them/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "TRUMP:  Iran responsible for downing American helicopter. USA MUST respond...",
           "link": "https://abc7.com/19261063",
           "summary": null,
@@ -226,13 +233,6 @@
         {
           "title": "Claim of 'stolen' votes is taste of things to come...",
           "link": "https://www.thetimes.com/us/american-politics/article/donald-trump-claim-stolen-votes-california-7mdxzlh9c",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "MAGA leaders want 'traditional families' -- but can't stop having affairs!",
-          "link": "https://inews.co.uk/news/world/maga-traditional-american-families-cant-stop-having-affairs-4439687?utm_campaign=PNIlFs3pHsli4pc&ito=gifted_article&data-target=gifted_article&utm_source=XJPLeh5koSHChZEU",
           "summary": null,
           "published": null,
           "excerpt": null
