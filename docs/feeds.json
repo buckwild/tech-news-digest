@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T16:00:23.139990-07:00",
-  "generated_at_display": "Jun 08, 2026 04:00 PM PT",
+  "generated_at": "2026-06-08T17:00:27.345120-07:00",
+  "generated_at_display": "Jun 08, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "The iOS 27 beta pretty much confirms that an Apple foldable is happening",
+          "link": "https://www.engadget.com/2190131/the-ios-27-beta-pretty-much-confirms-that-an-apple-foldable-is-happening/",
+          "summary": "Can't a multi-trillion-dollar company have secrets any more?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Can\u2019t a multi-trillion-dollar company have secrets any more?"
+        },
         {
           "title": "OpenAI files SEC paperwork to go public",
           "link": "https://www.engadget.com/2190079/openai-files-sec-paperwork-to-go-public/",
@@ -251,21 +259,21 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Kids can now ask to browse specific websites and contact specific people."
-        },
-        {
-          "title": "Apple's new OSes are getting a massive speed boost",
-          "link": "https://www.engadget.com/2189714/apples-new-oses-are-getting-a-massive-speed-boost/",
-          "summary": "App launches, AirDrop and other features are getting a massive speed boost on Apple's new OSes.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Airdrop will be up to 80 percent faster"
         }
       ]
     },
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": []
+      "entries": [
+        {
+          "title": "Leaders want 'traditional American families; --  but can't stop having affairs...",
+          "link": "https://inews.co.uk/news/world/maga-traditional-american-families-cant-stop-having-affairs-4439687?utm_campaign=PNIlFs3pHsli4pc&ito=gifted_article&data-target=gifted_article&utm_source=XJPLeh5koSHChZEU",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        }
+      ]
     }
   ]
 }
