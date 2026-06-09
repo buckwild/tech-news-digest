@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T09:00:24.299954-07:00",
-  "generated_at_display": "Jun 09, 2026 09:00 AM PT",
+  "generated_at": "2026-06-09T10:00:25.533104-07:00",
+  "generated_at_display": "Jun 09, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,38 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Kingdom Hearts IV gets a surprise Nintendo Direct trailer drop",
+          "link": "https://www.engadget.com/2190645/kingdom-hearts-iv-gets-a-surprise-nintendo-direct-trailer-drop/",
+          "summary": "Out of nowhere, we have a new trailer for Kingdom Hearts IV.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Sora battles his way through the city of Quadratum."
+        },
+        {
+          "title": "Siri AI first look: How Apple's rebuilt AI-powered assistant behaves across iPhone, iPad and Mac",
+          "link": "https://www.engadget.com/2190638/siri-ai-first-look-how-apples-rebuilt-ai-powered-assistant-behaves-across-iphone-ipad-and-mac/",
+          "summary": "Here's your first look at Siri AI, and how it works across Apple's devices.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "One of the main differences is the new onscreen gesture you can use to invoke Siri. While methods like long-pressing the power button or saying \"Hey Siri\" remain, how you tap or swipe on the screen to bring up the assistant has changed. Instead of double tapping the bottom of the display to type to Siri, you now swipe down from the top center, just as you would have to pull down Spotlight search in the past."
+        },
+        {
+          "title": "Big Walk is an oddball blend of Peak and Escape Academy, and it's out August 4",
+          "link": "https://www.engadget.com/2190596/big-walk-is-an-oddball-blend-of-peak-and-escape-academy-and-its-out-august-4/",
+          "summary": "Big Walk, from the creators of Untitled Goose Game, will be available August 4.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Grab your boots, fill up your water bottle and get ready for aBig Walk.House House, the studio best known forUntitled Goose Game, revealed the release date for its next title during Tuesday's Nintendo Direct:Big Walkis coming toPC, Switch 2 and PlayStation 5 on August 4."
+        },
+        {
+          "title": "Xenoblade Genesis, the next mainline entry in the action RPG franchise, launches in 2027",
+          "link": "https://www.engadget.com/2190537/xenoblade-genesis-the-next-mainline-entry-in-the-action-rpg-franchise-launches-in-2027/",
+          "summary": "Nintendo dropped a lot of news for Xenoblade fans this morning.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Nintendo is also releasing Switch 2 versions of the older Xenoblade games"
+        },
+        {
           "title": "The French government's internal messaging service was compromised in a security breach",
           "link": "https://www.engadget.com/2190489/the-french-governments-internal-messaging-service-was-compromised-by-a-security-breach/",
           "summary": "A threat actor has claimed responsibility for an attack on the France's encrypted Tchap messaging platform.",
@@ -163,30 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "How to sign up for the developer beta for the iPhone, iPad, Mac and more."
-        },
-        {
-          "title": "Pentagon adds Alibaba and Baidu to list of firms linked to Chinese military",
-          "link": "https://www.engadget.com/2190294/pentagon-adds-alibaba-baidu-list-of-china-linked-firms/",
-          "summary": "The Defense Department has released an updating list of companies linked to the Chinese military, and it now includes Alibaba and Baidu.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Tech's international relations haven\u2019t thawed despite Trump\u2019s meeting with Xi Jinping."
-        },
-        {
-          "title": "Apple is making it easier to create Genmoji in iOS 27",
-          "link": "https://www.engadget.com/2190263/apple-making-genmoji-creation-easier-ios27/",
-          "summary": "MacRumors has discovered a new and easier Genmoji creation experience in iOS 27.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new creation experience will let you edit results to get your perfect emoji, according to MacRumors."
-        },
-        {
-          "title": "FCC relaxes Amazon's satellite internet deadline",
-          "link": "https://www.engadget.com/2190255/fcc-relaxes-amazon-leo-satellite-launch-deadline/",
-          "summary": "The FCC has given Amazon an extension to a key milestone for its Leo satellite internet deployment.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The US Federal Communications Commission (FCC) has granted Amazon an extension on itsLeosatellite internet deployment, according to aruling released on June 5. Amazon was supposed to launch over 1,600 Leo satellites, half of its planned constellation, by July 30th. However, the companyrequestedan extension in January due to rocket capacity issues and changes to its satellite design."
         }
       ]
     },
