@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T19:00:25.917891-07:00",
-  "generated_at_display": "Jun 08, 2026 07:00 PM PT",
+  "generated_at": "2026-06-08T20:00:25.081037-07:00",
+  "generated_at_display": "Jun 08, 2026 08:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -251,14 +251,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "After going MIA for two years, Apple's redesigned Siri has finally resurfaced. At WWDC 2026, the company showed off a new version of the AI-powered Siri we first saw in 2024, now called Siri AI.\u00a0As announced at the start of the year, Apple haspartnered with Googleto rebuild Apple Intelligence and Siri on top of its rival's Gemini models."
-        },
-        {
-          "title": "Apple expands parental controls to include automatic image filtering",
-          "link": "https://www.engadget.com/2189728/apple-expands-parental-controls-to-include-automatic-image-filtering/",
-          "summary": "Apple is beefing up parental controls to address concerns about child protection.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Kids can now ask to browse specific websites and contact specific people."
         }
       ]
     },
