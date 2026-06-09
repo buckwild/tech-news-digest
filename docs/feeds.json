@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T13:00:28.663453-07:00",
-  "generated_at_display": "Jun 09, 2026 01:00 PM PT",
+  "generated_at": "2026-06-09T14:00:22.551825-07:00",
+  "generated_at_display": "Jun 09, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Anthropic's Fable AI brings the capabilities of its unreleased Mythos model to regular users",
+          "link": "https://www.engadget.com/2190934/anthropic-fable-ai-brings-the-capabilities-of-its-unreleased-mythos-model-to-regular-users/",
+          "summary": "Claude subscribers can try the model until June 22 without spending usage credits.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic has just announcedFable, the start of a new family of models that brings many of the capabilities of its Mythos system to the public. As a refresher, Mythos is the state-of-the-art model Anthropic debuted at the start of April throughProject Glasswing. The project saw Anthropic share access to the model with select partners, including Apple and NVIDIA, with the aim of helping those organizations harden their software against AI cyberattacks. Glasswing also prompted the White House torethink its policy on AI regulation. Last week, Anthropicsaidit was working as quickly as possible to release a Mythos-capable model with \"highly robust safeguards\" to the public, and today it's doing exactly that with Fable."
+        },
+        {
           "title": "Kingdom Hearts IV gets a surprise Nintendo Direct trailer drop",
           "link": "https://www.engadget.com/2190645/kingdom-hearts-iv-gets-a-surprise-nintendo-direct-trailer-drop/",
           "summary": "Out of nowhere, we have a new trailer for Kingdom Hearts IV.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Continuing a strong resurgence for the Silent Hill series, Konami and Screen Burn Interactive are bringing anotherdifferent takeon the dark horror series. The latter is best known for their narrative-led titlesStories UntoldandObservationand they decided to set their horror scenario in the early '90s, on a remote isle off the coast of northern Scotland. Anyone who's been to the rugged beauty of Scotland can attest: it's an area that can make its own thick, mysterious fog. Ideal, then, for a Silent Hill chapter."
-        },
-        {
-          "title": "iOS 27 beta has arrived: Here's how to get it on your iPhone",
-          "link": "https://www.engadget.com/2190122/ios-27-beta-has-arrived-here-s-how-to-get-it-on-your-iphone/",
-          "summary": "Beta versions of iOS, iPadOS and watchOS are available to download if you have a developer account.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "How to sign up for the developer beta for the iPhone, iPad, Mac and more."
         }
       ]
     },
@@ -212,13 +212,6 @@
         {
           "title": "TRUMP:  Iran responsible for downing American helicopter. USA MUST respond...",
           "link": "https://abc7.com/19261063",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Claims peace deal imminent --  for 38th time...",
-          "link": "https://www.themirror.com/news/politics/trump-claims-iran-peace-deal-1877723",
           "summary": null,
           "published": null,
           "excerpt": null
