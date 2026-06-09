@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T05:00:20.450040-07:00",
-  "generated_at_display": "Jun 09, 2026 05:00 AM PT",
+  "generated_at": "2026-06-09T06:00:24.118407-07:00",
+  "generated_at_display": "Jun 09, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Pentagon adds Alibaba and Baidu to list of firms linked to Chinese military",
+          "link": "https://www.engadget.com/2190294/pentagon-adds-alibaba-baidu-list-of-china-linked-firms/",
+          "summary": "The Defense Department has released an updating list of companies linked to the Chinese military, and it now includes Alibaba and Baidu.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tech's international relations haven\u2019t thawed despite Trump\u2019s meeting with Xi Jinping."
+        },
+        {
           "title": "Apple is making it easier to create Genmoji in iOS 27",
           "link": "https://www.engadget.com/2190263/apple-making-genmoji-creation-easier-ios27/",
           "summary": "MacRumors has discovered a new and easier Genmoji creation experience in iOS 27.",
@@ -227,30 +235,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Users will be able to adjust highs, mids and lows in the AirPods settings."
-        },
-        {
-          "title": "iOS 27 gets new AI photo editing tools",
-          "link": "https://www.engadget.com/2189828/ios-27-gets-new-ai-photo-editing-tools/",
-          "summary": "iOS 27 will add a slew of new AI photo editing tools.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spatial reframing will allow you to change perspective after shooting."
-        },
-        {
-          "title": "Apple Intelligence is coming to the Shortcuts app",
-          "link": "https://www.engadget.com/2189795/apple-intelligence-is-coming-to-the-shortcuts-app/",
-          "summary": "Home and Shortcuts are not immune to Apple's AI upgrades.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Home app also got the AI treatment at WWDC 2026."
-        },
-        {
-          "title": "Apple is adding Apple Intelligence across its default apps",
-          "link": "https://www.engadget.com/2189789/apple-is-adding-apple-intelligence-across-its-default-apps/",
-          "summary": "Apple Intelligence will soon be able to watch browser tabs and update passwords.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple Intelligence can customize Safari, update your passwords, and more."
         }
       ]
     },
@@ -261,6 +245,13 @@
         {
           "title": "MAGA leaders want 'traditional families' -- but can't stop having affairs!",
           "link": "https://inews.co.uk/news/world/maga-traditional-american-families-cant-stop-having-affairs-4439687?utm_campaign=PNIlFs3pHsli4pc&ito=gifted_article&data-target=gifted_article&utm_source=XJPLeh5koSHChZEU",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Platner, amid controversies, looks to advance in Maine Senate primary...",
+          "link": "https://abcnews.com/Politics/graham-platner-amid-controversies-advance-maine-democratic-senate/story?id=133594129",
           "summary": null,
           "published": null,
           "excerpt": null
