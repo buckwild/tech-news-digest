@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T06:00:24.118407-07:00",
-  "generated_at_display": "Jun 09, 2026 06:00 AM PT",
+  "generated_at": "2026-06-09T07:00:30.672332-07:00",
+  "generated_at_display": "Jun 09, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -219,22 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The updated OS arrives this fall."
-        },
-        {
-          "title": "visionOS 27 brings the new Siri to Apple's headset",
-          "link": "https://www.engadget.com/2189857/visionos-27-brings-the-new-siri-to-apples-headset/",
-          "summary": "Apple's $3,500 headset is also getting an AI upgrade.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Siri knows what you\u2019re looking at and can respond accordingly."
-        },
-        {
-          "title": "AirPods are getting a customizable EQ in iOS 27",
-          "link": "https://www.engadget.com/2189850/airpods-are-getting-a-customizable-eq-in-ios-27/",
-          "summary": "If you've wanted to tweak your AirPods sound, you'll soon get your chance.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Users will be able to adjust highs, mids and lows in the AirPods settings."
         }
       ]
     },
@@ -242,6 +226,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Claim of 'stolen' votes is taste of things to come...",
+          "link": "https://www.thetimes.com/us/american-politics/article/donald-trump-claim-stolen-votes-california-7mdxzlh9c",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "MAGA leaders want 'traditional families' -- but can't stop having affairs!",
           "link": "https://inews.co.uk/news/world/maga-traditional-american-families-cant-stop-having-affairs-4439687?utm_campaign=PNIlFs3pHsli4pc&ito=gifted_article&data-target=gifted_article&utm_source=XJPLeh5koSHChZEU",
