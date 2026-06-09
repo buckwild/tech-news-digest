@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T15:00:26.169914-07:00",
-  "generated_at_display": "Jun 09, 2026 03:00 PM PT",
+  "generated_at": "2026-06-09T16:00:29.760000-07:00",
+  "generated_at_display": "Jun 09, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Conan O'Brien is hosting educational videos for an AI cybersecurity company",
+          "link": "https://www.engadget.com/2191051/conan-o-brien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/",
+          "summary": "At long last, a corporate training you might actually enjoy.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "At long last, a corporate training you might actually enjoy."
+        },
+        {
           "title": "Anthropic's Fable AI brings the capabilities of its unreleased Mythos model to regular users",
           "link": "https://www.engadget.com/2190934/anthropic-fable-ai-brings-the-capabilities-of-its-unreleased-mythos-model-to-regular-users/",
           "summary": "Claude subscribers can try the model until June 22 without spending usage credits.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The diving update is free and launches this August."
-        },
-        {
-          "title": "Engadget Podcast: Recapping Apple's Siri AI WWDC 2026 keynote",
-          "link": "https://www.engadget.com/2190426/engadget-podcast-recapping-apples-siri-ai-wwdc-2026-keynote/",
-          "summary": "Will Siri AI actually be useful, or is it more AI marketing fluff? We chat about that, and everything else Apple announced at its WWDC 2026 keynote, on the Engadget Podcast.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "And we answer some listener questions."
         }
       ]
     },
