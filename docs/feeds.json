@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T03:00:23.062622-07:00",
-  "generated_at_display": "Jun 10, 2026 03:00 AM PT",
+  "generated_at": "2026-06-10T04:00:25.523299-07:00",
+  "generated_at_display": "Jun 10, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A threat actor has since claimed responsibility for the attack on the encrypted Tchap platform."
-        },
-        {
-          "title": "Pok\u00e9mon Pokopia is getting underwater mechanics and a bunch of paid DLC",
-          "link": "https://www.engadget.com/2190443/pokemon-pokopia-is-getting-underwater-mechanics-and-a-bunch-of-paid-dlc/",
-          "summary": "A free Pok\u00e9mon Pokopia update arrives in August.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The diving update is free and launches this August."
         }
       ]
     },
@@ -195,6 +187,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "DEMS GAMBLE ON TRUMP PLAYBOOK TO FLIP SENATE SEAT",
+          "link": "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html?unlocked_article_code=1.pFA.BdC1.9Y0aatf_EC9Q&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "White House will be closed to reporters during fight...",
           "link": "https://www.washingtonpost.com/business/2026/06/09/white-house-will-be-closed-reporters-during-ufc-fight-unless-ufc-lets-them/",
           "summary": null,
@@ -202,22 +201,15 @@
           "excerpt": null
         },
         {
-          "title": "DEMS GAMBLE ON TRUMP PLAYBOOK TO FLIP SENATE SEAT",
-          "link": "https://www.yahoo.com/news/politics/articles/democrats-gamble-trump-playbook-flip-191321837.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "U.S. Strikes Iran in Response to Downed Apache Helicopter...",
+          "title": "USA Strikes Iran in Response to Downed Helicopter...",
           "link": "https://www.wsj.com/world/middle-east/apache-helicopter-crash-coast-oman-4de26c6d",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Indian Billionaire Targeted. Then He Poured Money Into Startup Secretly Backed by Don Jr...",
-          "link": "https://www.propublica.org/article/trump-ambani-reliance-industries-america-first-refining-texas",
+          "title": "NYT: Inside White House Freakout Over Epstein Files...",
+          "link": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html?unlocked_article_code=1.pFA.O9yw.7LCM36hpZAuR&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
