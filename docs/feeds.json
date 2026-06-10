@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T15:00:23.558874-07:00",
-  "generated_at_display": "Jun 10, 2026 03:00 PM PT",
+  "generated_at": "2026-06-10T16:00:29.611658-07:00",
+  "generated_at_display": "Jun 10, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Canada announces bill banning social media for anyone under 16",
+          "link": "https://www.engadget.com/2191879/canada-announces-bill-banning-social-media-for-anyone-under-16/",
+          "summary": "The regulation also imposes new safety expectations on 'AI chatbot services.'",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The regulation also imposes new safety expectations on 'AI chatbot services.'"
+        },
         {
           "title": "Alien: Isolation 2 keeps the classic horror game's uncompromising approach to raising tension",
           "link": "https://www.engadget.com/2191756/alien-isolation-2-keeps-the-classic-horror-game-s-uncompromising-approach-to-raising-tension/",
