@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T08:00:24.950185-07:00",
-  "generated_at_display": "Jun 10, 2026 08:00 AM PT",
+  "generated_at": "2026-06-10T09:00:28.845099-07:00",
+  "generated_at_display": "Jun 10, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -171,22 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Anthropic has just announcedFable, the start of a new family of models that brings many of the capabilities of its Mythos system to the public. As a refresher, Mythos is the state-of-the-art model Anthropic debuted at the start of April throughProject Glasswing. The project saw Anthropic share access to the model with select partners, including Apple and NVIDIA, with the aim of helping those organizations harden their software against AI cyberattacks. Glasswing also prompted the White House torethink its policy on AI regulation. Last week, Anthropicsaidit was working as quickly as possible to release a Mythos-capable model with \"highly robust safeguards\" to the public, and today it's doing exactly that with Fable."
-        },
-        {
-          "title": "Kingdom Hearts IV gets a surprise Nintendo Direct trailer drop",
-          "link": "https://www.engadget.com/2190645/kingdom-hearts-iv-gets-a-surprise-nintendo-direct-trailer-drop/",
-          "summary": "Out of nowhere, we have a new trailer for Kingdom Hearts IV.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Sora battles his way through the city of Quadratum."
-        },
-        {
-          "title": "Siri AI first look: How Apple's rebuilt AI-powered assistant behaves across iPhone, iPad and Mac",
-          "link": "https://www.engadget.com/2190638/siri-ai-first-look-how-apples-rebuilt-ai-powered-assistant-behaves-across-iphone-ipad-and-mac/",
-          "summary": "Here's your first look at Siri AI, and how it works across Apple's devices.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "One of the main differences is the new onscreen gesture you can use to invoke Siri. While methods like long-pressing the power button or saying \"Hey Siri\" remain, how you tap or swipe on the screen to bring up the assistant has changed. Instead of double tapping the bottom of the display to type to Siri, you now swipe down from the top center, just as you would have to pull down Spotlight search in the past."
         }
       ]
     },
@@ -195,6 +179,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "BOOK:  Inside White House Freakout Over Epstein Files... MORE",
+          "link": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html?unlocked_article_code=1.pFA.O9yw.7LCM36hpZAuR&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Three Days of Clashes Show Iran Conflict Entering Dangerous New Phase...",
           "link": "https://www.wsj.com/world/middle-east/three-days-of-clashes-show-the-iran-conflict-is-entering-a-dangerous-new-phase-0b677422",
           "summary": null,
@@ -202,21 +193,14 @@
           "excerpt": null
         },
         {
-          "title": "White House will be closed to reporters during fight...",
-          "link": "https://www.washingtonpost.com/business/2026/06/09/white-house-will-be-closed-reporters-during-ufc-fight-unless-ufc-lets-them/",
+          "title": "SCATHING TRAILER...",
+          "link": "https://variety.com/2026/film/news/social-reckoning-trailer-jeremy-strong-mark-zuckerberg-1236626411/",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "NYT: Inside White House Freakout Over Epstein Files...",
-          "link": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html?unlocked_article_code=1.pFA.O9yw.7LCM36hpZAuR&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "US power use to smash record highs as AI use surges...",
+          "title": "Power use to smash records as AI use surges...",
           "link": "https://www.usnews.com/news/top-news/articles/2026-01-13/us-power-use-to-beat-record-highs-in-2026-and-2027-eia-says",
           "summary": null,
           "published": null,
