@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T04:00:25.523299-07:00",
-  "generated_at_display": "Jun 10, 2026 04:00 AM PT",
+  "generated_at": "2026-06-10T05:00:23.086999-07:00",
+  "generated_at_display": "Jun 10, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "EU orders Meta to stop blocking rival AI chatbots on WhatsApp",
+          "link": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/",
+          "summary": "Meta has to open up WhatsApp to third-party AI chatbots again, the European Commission says.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s an interim measure while the European Commission investigates the ban."
+        },
+        {
+          "title": "NordVPN's Saily eSIM offers a US phone number for $1 a month",
+          "link": "https://www.engadget.com/2191190/nordvpns-saily-esim-us-phone-number/",
+          "summary": "You now can get a US phone number with NordVPN's Saily eSIM app.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": null
+        },
+        {
           "title": "Conan O'Brien is hosting educational videos for an AI cybersecurity company",
           "link": "https://www.engadget.com/2191051/conan-o-brien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/",
           "summary": "At long last, a corporate training you might actually enjoy.",
@@ -171,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Nintendo is also releasing Switch 2 versions of the older Xenoblade games"
-        },
-        {
-          "title": "The French government's internal messaging service was compromised in a security breach",
-          "link": "https://www.engadget.com/2190489/the-french-governments-internal-messaging-service-was-compromised-by-a-security-breach/",
-          "summary": "A threat actor has claimed responsibility for an attack on the France's encrypted Tchap messaging platform.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A threat actor has since claimed responsibility for the attack on the encrypted Tchap platform."
         }
       ]
     },
@@ -194,15 +202,15 @@
           "excerpt": null
         },
         {
-          "title": "White House will be closed to reporters during fight...",
-          "link": "https://www.washingtonpost.com/business/2026/06/09/white-house-will-be-closed-reporters-during-ufc-fight-unless-ufc-lets-them/",
+          "title": "Three Days of Clashes Show Iran Conflict Entering Dangerous New Phase...",
+          "link": "https://www.wsj.com/world/middle-east/three-days-of-clashes-show-the-iran-conflict-is-entering-a-dangerous-new-phase-0b677422",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "USA Strikes Iran in Response to Downed Helicopter...",
-          "link": "https://www.wsj.com/world/middle-east/apache-helicopter-crash-coast-oman-4de26c6d",
+          "title": "White House will be closed to reporters during fight...",
+          "link": "https://www.washingtonpost.com/business/2026/06/09/white-house-will-be-closed-reporters-during-ufc-fight-unless-ufc-lets-them/",
           "summary": null,
           "published": null,
           "excerpt": null
