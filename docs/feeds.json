@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T11:00:21.166794-07:00",
-  "generated_at_display": "Jun 10, 2026 11:00 AM PT",
+  "generated_at": "2026-06-10T12:00:24.385167-07:00",
+  "generated_at_display": "Jun 10, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Take a deep look at Halo: Campaign Evolved before it launches next month",
+          "link": "https://www.engadget.com/2191709/take-a-deep-look-at-halo-campaign-evolved-before-it-launches-next-month/",
+          "summary": "This remake of the first Halo game's hits consoles on July 28.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This remake of the first game's story hits consoles on July 28."
+        },
+        {
+          "title": "You can personalize your Instagram algorithm now \u2014 unless you want to see more posts from accounts you follow",
+          "link": "https://www.engadget.com/2191695/you-can-personalize-your-instagram-algorithm-now/",
+          "summary": "Instagram has expanded its algorithm personalization features to its main feed.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The app expanded its algorithm personalization features to its main feed."
+        },
+        {
+          "title": "Ubisoft reportedly shuts down more studios and lays off staff in Barcelona and San Francisco",
+          "link": "https://www.engadget.com/2191677/ubisoft-reportedly-shuts-down-more-studios-and-lays-off-staff-in-barcelona-and-san-francisco/",
+          "summary": "Ubisoft is reportedly trying to cut costs without leaving key franchises like Rainbow Six: Siege in the lurch with a new round of layoffs.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The French publisher is reportedly trying to cut costs without leaving key franchises like Rainbow Six: Siege in the lurch."
+        },
+        {
           "title": "Engadget Podcast: WWDC 2026 thoughts from Apple Park",
           "link": "https://www.engadget.com/2191473/engadget-podcast-wwdc-2026-thoughts-from-apple-park/",
           "summary": "We dive into our initial thoughts on Siri AI and Tim Cook's legacy.",
@@ -171,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": null
-        },
-        {
-          "title": "Conan O'Brien is hosting educational videos for an AI cybersecurity company",
-          "link": "https://www.engadget.com/2191051/conan-o-brien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/",
-          "summary": "At long last, a corporate training you might actually enjoy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "At long last, a corporate training you might actually enjoy."
         }
       ]
     },
@@ -210,13 +226,6 @@
         {
           "title": "CLAIMS HE WAS BEING BLACKMAILED...",
           "link": "https://www.the-sun.com/news/16479635",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Power use to smash records as AI use surges...",
-          "link": "https://www.usnews.com/news/top-news/articles/2026-01-13/us-power-use-to-beat-record-highs-in-2026-and-2027-eia-says",
           "summary": null,
           "published": null,
           "excerpt": null
