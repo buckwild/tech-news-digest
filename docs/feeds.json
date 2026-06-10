@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T12:00:24.385167-07:00",
-  "generated_at_display": "Jun 10, 2026 12:00 PM PT",
+  "generated_at": "2026-06-10T13:00:23.501401-07:00",
+  "generated_at_display": "Jun 10, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon's 'Story So Far' feature is finally rolling out to Kindles",
+          "link": "https://www.engadget.com/2191716/amazon-story-so-far-feature-is-finally-rolling-out-to-kindles/",
+          "summary": "Amazon's \"Story So Far\" feature is hitting Kindle hardware and the iOS app, but sadly not the Android version just yet.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's also headed to the Kindle app on iOS, but sadly not the Android version just yet."
+        },
+        {
           "title": "Take a deep look at Halo: Campaign Evolved before it launches next month",
           "link": "https://www.engadget.com/2191709/take-a-deep-look-at-halo-campaign-evolved-before-it-launches-next-month/",
           "summary": "This remake of the first Halo game's hits consoles on July 28.",
@@ -219,13 +227,6 @@
         {
           "title": "SCATHING TRAILER...",
           "link": "https://variety.com/2026/film/news/social-reckoning-trailer-jeremy-strong-mark-zuckerberg-1236626411/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "CLAIMS HE WAS BEING BLACKMAILED...",
-          "link": "https://www.the-sun.com/news/16479635",
           "summary": null,
           "published": null,
           "excerpt": null
