@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T13:00:23.501401-07:00",
-  "generated_at_display": "Jun 10, 2026 01:00 PM PT",
+  "generated_at": "2026-06-10T14:00:28.720944-07:00",
+  "generated_at_display": "Jun 10, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Alien: Isolation 2 keeps the classic horror game's uncompromising approach to raising tension",
+          "link": "https://www.engadget.com/2191756/alien-isolation-2-keeps-the-classic-horror-game-s-uncompromising-approach-to-raising-tension/",
+          "summary": "We played the opening prologue of the horror sequel, and it's still got ways to bring the scares.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "I got a feel of this new approach from the game's prologue, which acted as an extended tutorial. As Blake, I had to maneuver through the dead woodland area of the planet to reach the crashed module. Compared to the eerie silence of Sevastopol Station, the colony is loud and chaotic, with limited visibility into the world beyond. With the clock ticking to reach the module before a flood came in, I had to carefully maneuver through the debris field to reach the crash site."
+        },
+        {
           "title": "Amazon's 'Story So Far' feature is finally rolling out to Kindles",
           "link": "https://www.engadget.com/2191716/amazon-story-so-far-feature-is-finally-rolling-out-to-kindles/",
           "summary": "Amazon's \"Story So Far\" feature is hitting Kindle hardware and the iOS app, but sadly not the Android version just yet.",
@@ -187,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The follow-up to The Social Network focuses on the fallout of some of Meta's secrets being exposed."
-        },
-        {
-          "title": "EU orders Meta to stop blocking rival AI chatbots on WhatsApp",
-          "link": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/",
-          "summary": "Meta has to open up WhatsApp to third-party AI chatbots again, the European Commission says.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s an interim measure while the European Commission investigates the ban."
-        },
-        {
-          "title": "NordVPN's Saily eSIM offers a US phone number for $1 a month",
-          "link": "https://www.engadget.com/2191190/nordvpns-saily-esim-us-phone-number/",
-          "summary": "You now can get a US phone number with NordVPN's Saily eSIM app.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": null
         }
       ]
     },
@@ -220,13 +212,6 @@
         {
           "title": "US Taking Millions of Barrels of Oil From Iran?",
           "link": "https://www.yahoo.com/news/politics/articles/trump-us-took-millions-barrels-161818948.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "SCATHING TRAILER...",
-          "link": "https://variety.com/2026/film/news/social-reckoning-trailer-jeremy-strong-mark-zuckerberg-1236626411/",
           "summary": null,
           "published": null,
           "excerpt": null
