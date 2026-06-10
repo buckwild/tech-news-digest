@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T07:00:20.837427-07:00",
-  "generated_at_display": "Jun 10, 2026 07:00 AM PT",
+  "generated_at": "2026-06-10T08:00:24.950185-07:00",
+  "generated_at_display": "Jun 10, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Microsoft Office 2019 for Mac will become read-only next month",
+          "link": "https://www.engadget.com/2191349/microsoft-office-2019-for-mac-will-become-read-only-next-month/",
+          "summary": "Microsoft Office 2019 for Mac will effectively become useless next month.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Microsoft hasannouncedthat Office 2019 for Mac will become almost useless next month, with the company blaming an expiring digital license. Starting July 13, Mac users running older versions of Word, Excel, PowerPoint, Outlook and OneNote will only be able to open and print files, effectively rendering them as read-only \"productivity\" apps."
+        },
+        {
+          "title": "The Social Reckoning trailer features Jeremy Strong as a defiant Mark Zuckerberg",
+          "link": "https://www.engadget.com/2191331/the-social-reckoning-trailer-features-jeremy-strong-as-a-defiant-mark-zuckerberg/",
+          "summary": "Who's ready for Zuckcession?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The follow-up to The Social Network focuses on the fallout of some of Meta's secrets being exposed."
+        },
+        {
           "title": "EU orders Meta to stop blocking rival AI chatbots on WhatsApp",
           "link": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/",
           "summary": "Meta has to open up WhatsApp to third-party AI chatbots again, the European Commission says.",
@@ -171,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "One of the main differences is the new onscreen gesture you can use to invoke Siri. While methods like long-pressing the power button or saying \"Hey Siri\" remain, how you tap or swipe on the screen to bring up the assistant has changed. Instead of double tapping the bottom of the display to type to Siri, you now swipe down from the top center, just as you would have to pull down Spotlight search in the past."
-        },
-        {
-          "title": "Big Walk is an oddball blend of Peak and Escape Academy, and it's out August 4",
-          "link": "https://www.engadget.com/2190596/big-walk-is-an-oddball-blend-of-peak-and-escape-academy-and-its-out-august-4/",
-          "summary": "Big Walk, from the creators of Untitled Goose Game, will be available August 4.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Grab your boots, fill up your water bottle and get ready for aBig Walk.House House, the studio best known forUntitled Goose Game, revealed the release date for its next title during Tuesday's Nintendo Direct:Big Walkis coming toPC, Switch 2 and PlayStation 5 on August 4."
         }
       ]
     },
