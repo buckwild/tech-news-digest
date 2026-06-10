@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T09:00:28.845099-07:00",
-  "generated_at_display": "Jun 10, 2026 09:00 AM PT",
+  "generated_at": "2026-06-10T10:00:23.821520-07:00",
+  "generated_at_display": "Jun 10, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Engadget Podcast: WWDC 2026 thoughts from Apple Park",
+          "link": "https://www.engadget.com/2191473/engadget-podcast-wwdc-2026-thoughts-from-apple-park/",
+          "summary": "We dive into our initial thoughts on Siri AI and Tim Cook's legacy.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We dive into our initial thoughts on Siri AI and Tim Cook's legacy."
+        },
+        {
+          "title": "German court holds Google liable for false AI Overview answers",
+          "link": "https://www.engadget.com/2191469/german-court-holds-google-liable-for-false-ai-overview-answers/",
+          "summary": "A recent study found that Google's AI Overviews regularly provide incorrect information and contain facts not supported by cited sources.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A German court has ruled that Google is directly liable for incorrect information presented by its AI Overviews platform,according to a report byThe Decoder. The country has laws in place that protect search engine operators from liability, but the court ruled that this doesn't apply to AI overviews. It has classified Google as a direct infringer because the AI Overview is its own content and not just a list of search results."
+        },
+        {
           "title": "Microsoft Office 2019 for Mac will become read-only next month",
           "link": "https://www.engadget.com/2191349/microsoft-office-2019-for-mac-will-become-read-only-next-month/",
           "summary": "Microsoft Office 2019 for Mac will effectively become useless next month.",
@@ -163,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "At long last, a corporate training you might actually enjoy."
-        },
-        {
-          "title": "Anthropic's Fable AI brings the capabilities of its unreleased Mythos model to regular users",
-          "link": "https://www.engadget.com/2190934/anthropic-fable-ai-brings-the-capabilities-of-its-unreleased-mythos-model-to-regular-users/",
-          "summary": "Claude subscribers can try the model until June 22 without spending usage credits.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic has just announcedFable, the start of a new family of models that brings many of the capabilities of its Mythos system to the public. As a refresher, Mythos is the state-of-the-art model Anthropic debuted at the start of April throughProject Glasswing. The project saw Anthropic share access to the model with select partners, including Apple and NVIDIA, with the aim of helping those organizations harden their software against AI cyberattacks. Glasswing also prompted the White House torethink its policy on AI regulation. Last week, Anthropicsaidit was working as quickly as possible to release a Mythos-capable model with \"highly robust safeguards\" to the public, and today it's doing exactly that with Fable."
         }
       ]
     },
@@ -195,6 +203,13 @@
         {
           "title": "SCATHING TRAILER...",
           "link": "https://variety.com/2026/film/news/social-reckoning-trailer-jeremy-strong-mark-zuckerberg-1236626411/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "CLAIMS HE WAS BEING BLACKMAILED...",
+          "link": "https://www.the-sun.com/news/15887383/melinda-gates-breaks-silence-on-bill-std-claims-epstein-files/",
           "summary": null,
           "published": null,
           "excerpt": null
