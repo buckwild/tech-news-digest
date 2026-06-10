@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T05:00:23.086999-07:00",
-  "generated_at_display": "Jun 10, 2026 05:00 AM PT",
+  "generated_at": "2026-06-10T06:00:28.056770-07:00",
+  "generated_at_display": "Jun 10, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -194,13 +194,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "DEMS GAMBLE ON TRUMP PLAYBOOK TO FLIP SENATE SEAT",
-          "link": "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html?unlocked_article_code=1.pFA.BdC1.9Y0aatf_EC9Q&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "Three Days of Clashes Show Iran Conflict Entering Dangerous New Phase...",
           "link": "https://www.wsj.com/world/middle-east/three-days-of-clashes-show-the-iran-conflict-is-entering-a-dangerous-new-phase-0b677422",
