@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T05:00:22.853365-07:00",
-  "generated_at_display": "Jun 11, 2026 05:00 AM PT",
+  "generated_at": "2026-06-11T06:00:28.978906-07:00",
+  "generated_at_display": "Jun 11, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "We dive into our initial thoughts on Siri AI and Tim Cook's legacy."
-        },
-        {
-          "title": "German court holds Google liable for false AI Overview answers",
-          "link": "https://www.engadget.com/2191469/german-court-holds-google-liable-for-false-ai-overview-answers/",
-          "summary": "A recent study found that Google's AI Overviews regularly provide incorrect information and contain facts not supported by cited sources.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A German court has ruled that Google is directly liable for incorrect information presented by its AI Overviews platform,according to a report byThe Decoder. The country has laws in place that protect search engine operators from liability, but the court ruled that this doesn't apply to AI overviews. It has classified Google as a direct infringer because the AI Overview is its own content and not just a list of search results."
         }
       ]
     },
@@ -218,6 +210,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Iran threatens Musk companies in Middle East...",
+          "link": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "$60M and 7 federal agencies required to stage UFC fight at White House...",
           "link": "https://apnews.com/article/trump-ufc-costs-federal-agencies-lawsuit-5bd8382d8d106d7685b024508a178748",
@@ -242,13 +241,6 @@
         {
           "title": "CLAIMS HE WAS BEING BLACKMAILED...",
           "link": "https://www.the-sun.com/news/16479635",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Iran responds to second day of US strikes by firing at Gulf states and Jordan...",
-          "link": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
           "summary": null,
           "published": null,
           "excerpt": null
