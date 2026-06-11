@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T08:00:24.202830-07:00",
-  "generated_at_display": "Jun 11, 2026 08:00 AM PT",
+  "generated_at": "2026-06-11T09:00:22.974117-07:00",
+  "generated_at_display": "Jun 11, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Summer Game Fest 2026 roundup: All the shows, trailers, news and reviews",
+          "link": "https://www.engadget.com/2192216/summer-game-fest-2026-roundup-all-the-shows-trailers-news-and-reviews/",
+          "summary": "So long and thanks for all the cool new video games.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "So long and thanks for all the cool new video games."
+        },
+        {
+          "title": "Spyro: A Realm Beyond sees the '90s purple dragon make a big comeback",
+          "link": "https://www.engadget.com/2191068/spyro-a-realm-beyond-sees-the-90s-purple-dragon-make-a-big-comeback/",
+          "summary": "We learned some new details about the upcoming revival for the classic 3D platformer.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Spyro the Dragonis one of the most enduring 3D action-platformers of the '90s, and it's now making a comeback in adventure. Announced during the 2026 Xbox Games Showcase,Spyro: A Realm Beyondwill see the plucky purple dragon in a new game from developer Toys For Bob, the creative team behind theSpyro: Reignited Trilogy, which remastered the originals, andCrash Bandicoot 4: It's About Time."
+        },
+        {
           "title": "I'm glad Apple isn't hyping up agentic AI (yet)",
           "link": "https://www.engadget.com/2192124/im-glad-apple-isnt-hyping-up-agentic-ai-yet/",
           "summary": "Apple is more focused on delivering usable features with Siri AI, instead of hyping up agentic AI. That's a good thing.",
@@ -179,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "I got a feel of this new approach from the game's prologue, which acted as an extended tutorial. As Blake, I had to maneuver through the dead woodland area of the planet to reach the crashed module. Compared to the eerie silence of Sevastopol Station, the colony is loud and chaotic, with limited visibility into the world beyond. With the clock ticking to reach the module before a flood came in, I had to carefully maneuver through the debris field to reach the crash site."
-        },
-        {
-          "title": "Amazon's 'Story So Far' feature is finally rolling out to Kindles",
-          "link": "https://www.engadget.com/2191716/amazon-story-so-far-feature-is-finally-rolling-out-to-kindles/",
-          "summary": "Amazon's \"Story So Far\" feature is hitting Kindle hardware and the iOS app, but sadly not the Android version just yet.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's also headed to the Kindle app on iOS, but sadly not the Android version just yet."
-        },
-        {
-          "title": "Take a deep look at Halo: Campaign Evolved before it launches next month",
-          "link": "https://www.engadget.com/2191709/take-a-deep-look-at-halo-campaign-evolved-before-it-launches-next-month/",
-          "summary": "This remake of the first Halo game's hits consoles on July 28.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "This remake of the first game's story hits consoles on July 28."
         }
       ]
     },
@@ -203,7 +203,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Iran will consider Musk companies military targets...",
+          "title": "Iran says Musk companies military targets...",
           "link": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
           "summary": null,
           "published": null,
@@ -219,20 +219,6 @@
         {
           "title": "90-Degree Heat -- And Rain?",
           "link": "https://www.yahoo.com/news/politics/articles/trump-says-ufc-arena-could-131736039.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "BOOK:  Inside White House Freakout Over Epstein Files... MORE",
-          "link": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html?unlocked_article_code=1.pFA.O9yw.7LCM36hpZAuR&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "BILL GATES CLAIMS HE WAS BEING BLACKMAILED...",
-          "link": "https://www.the-sun.com/news/16479635",
           "summary": null,
           "published": null,
           "excerpt": null
