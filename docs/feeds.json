@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T12:00:24.650087-07:00",
-  "generated_at_display": "Jun 11, 2026 12:00 PM PT",
+  "generated_at": "2026-06-11T13:00:26.708462-07:00",
+  "generated_at_display": "Jun 11, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,6 +187,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "Claims war settled 'subject to finalization,' expects signing in 'next few days'...",
+          "link": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Iran says Musk companies military targets...",
           "link": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
           "summary": null,
@@ -203,13 +210,6 @@
         {
           "title": "After Senate Loss, Cornyn Predicts 'Miserable' Final Two Years...",
           "link": "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html?unlocked_article_code=1.pVA.t7sJ.kAQ6Ihjoj6UA&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "90-Degree Heat -- And Rain?",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-says-ufc-arena-could-131736039.html",
           "summary": null,
           "published": null,
           "excerpt": null
