@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T11:00:21.589807-07:00",
-  "generated_at_display": "Jun 11, 2026 11:00 AM PT",
+  "generated_at": "2026-06-11T12:00:24.650087-07:00",
+  "generated_at_display": "Jun 11, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Another parent has filed a wrongful death suit against OpenAI",
+          "link": "https://www.engadget.com/2192493/another-parent-has-filed-a-wrongful-death-suit-against-openai/",
+          "summary": "Yet another parent is suing OpenAI, claiming its chatbot did not do enough to prevent their child's death by suicide.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s the latest case to raise alarms about ChatGPT\u2019s lack of safeguards for suicidal behavior."
+        },
+        {
           "title": "Summer Game Fest 2026 roundup: All the shows, trailers, news and reviews",
           "link": "https://www.engadget.com/2192216/summer-game-fest-2026-roundup-all-the-shows-trailers-news-and-reviews/",
           "summary": "So long and thanks for all the cool new video games.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It wasn't a good look for a company that prides itself on working closely with the academic community."
-        },
-        {
-          "title": "OpenAI says fake accounts from China tried to turn Americans against data centers",
-          "link": "https://www.engadget.com/2191966/openai-china-influence-campaigns-against-data-centers-report/",
-          "summary": "OpenAI has published a report detailing how China-linked influence campaigns against data centers used ChatGPT.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAIhaspublisheda report about ChatGPT users, who it says were likely based in China,\u00a0that used the chatbot to plan a campaign designed to sway Americans' opinions about AI data centers. It divided the users into two clusters, the first of which it had designated the \"Data Center Bandwagon\" group. Accounts categorized in the group allegedly asked ChatGPT to generate English-language talking points and images, such as comic strips, which focus on how AI data centers drive up demand in electricity and how that leads to higher bills for consumers."
         }
       ]
     },
@@ -196,6 +196,13 @@
         {
           "title": "Oil execs warn White House gas prices will get WORSE...",
           "link": "https://www.washingtonpost.com/politics/2026/06/11/oil-executives-warn-white-house-that-gas-prices-will-get-worse/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "After Senate Loss, Cornyn Predicts 'Miserable' Final Two Years...",
+          "link": "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html?unlocked_article_code=1.pVA.t7sJ.kAQ6Ihjoj6UA&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
