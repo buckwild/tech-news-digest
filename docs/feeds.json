@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T07:00:22.148875-07:00",
-  "generated_at_display": "Jun 11, 2026 07:00 AM PT",
+  "generated_at": "2026-06-11T08:00:24.202830-07:00",
+  "generated_at_display": "Jun 11, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "This remake of the first game's story hits consoles on July 28."
-        },
-        {
-          "title": "You can personalize your Instagram algorithm now \u2014 unless you want to see more posts from accounts you follow",
-          "link": "https://www.engadget.com/2191695/you-can-personalize-your-instagram-algorithm-now/",
-          "summary": "Instagram has expanded its algorithm personalization features to its main feed.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The app expanded its algorithm personalization features to its main feed."
         }
       ]
     },
@@ -225,13 +217,6 @@
           "excerpt": null
         },
         {
-          "title": "$60M and 7 federal agencies required to stage UFC fight at White House...",
-          "link": "https://apnews.com/article/trump-ufc-costs-federal-agencies-lawsuit-5bd8382d8d106d7685b024508a178748",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "90-Degree Heat -- And Rain?",
           "link": "https://www.yahoo.com/news/politics/articles/trump-says-ufc-arena-could-131736039.html",
           "summary": null,
@@ -246,7 +231,7 @@
           "excerpt": null
         },
         {
-          "title": "CLAIMS HE WAS BEING BLACKMAILED...",
+          "title": "BILL GATES CLAIMS HE WAS BEING BLACKMAILED...",
           "link": "https://www.the-sun.com/news/16479635",
           "summary": null,
           "published": null,
