@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:00:28.978906-07:00",
-  "generated_at_display": "Jun 11, 2026 06:00 AM PT",
+  "generated_at": "2026-06-11T07:00:22.148875-07:00",
+  "generated_at_display": "Jun 11, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "I'm glad Apple isn't hyping up agentic AI (yet)",
+          "link": "https://www.engadget.com/2192124/im-glad-apple-isnt-hyping-up-agentic-ai-yet/",
+          "summary": "Apple is more focused on delivering usable features with Siri AI, instead of hyping up agentic AI. That's a good thing.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "If you were to take a shot every time someone mentioned \"agentic\" AI at the most recent tech keynotes \u2014Google I/O,Microsoft BuildandNVIDIA's Computex blowout\u2014 you'd be sick in no time. It's the industry's latest buzzword, describingAI agentsthat can do work on your behalf without any direct input, like automatically adding meetings to your calendar based on your emails. It's as if the tech world can't wait to sit back and let AI take the wheel. We'll probably see impressive agentic AI within a decade or so, but I worry about leaping into a world of agents with our current batch of AI models, which can still hallucinate and aren't entirely trustworthy. The idea of letting current AI agents act entirely on their own seems like sheer insanity."
+        },
+        {
+          "title": "Tomb Raider: Legacy of Atlantis is a vivid, high-pace remake of a classic",
+          "link": "https://www.engadget.com/2189096/tomb-raider-legacy-of-atlantis-is-a-vivid-high-pace-remake-of-a-classic/",
+          "summary": "Lara get your gun(s).",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tomb Raider is back. Again. Lara Croft is back. Yet again. This time, her character is positioned between the \"Survivor\" trilogy of the last decade and her iconic debut in 1996. Yes, 30 years ago."
+        },
+        {
           "title": "Deezer now helps users find AI music on other streaming platforms",
           "link": "https://www.engadget.com/2192024/deezer-ai-music-detector/",
           "summary": "Deezer will now help you find AI slop in your music playlists even if you're on another platform.",
@@ -187,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The app expanded its algorithm personalization features to its main feed."
-        },
-        {
-          "title": "Ubisoft reportedly shuts down more studios and lays off staff in Barcelona and San Francisco",
-          "link": "https://www.engadget.com/2191677/ubisoft-reportedly-shuts-down-more-studios-and-lays-off-staff-in-barcelona-and-san-francisco/",
-          "summary": "Ubisoft is reportedly trying to cut costs without leaving key franchises like Rainbow Six: Siege in the lurch with a new round of layoffs.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The French publisher is reportedly trying to cut costs without leaving key franchises like Rainbow Six: Siege in the lurch."
-        },
-        {
-          "title": "Engadget Podcast: WWDC 2026 thoughts from Apple Park",
-          "link": "https://www.engadget.com/2191473/engadget-podcast-wwdc-2026-thoughts-from-apple-park/",
-          "summary": "We dive into our initial thoughts on Siri AI and Tim Cook's legacy.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We dive into our initial thoughts on Siri AI and Tim Cook's legacy."
         }
       ]
     },
@@ -211,8 +211,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Iran threatens Musk companies in Middle East...",
+          "title": "Iran will consider Musk companies military targets...",
           "link": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Oil execs warn White House gas prices will get WORSE...",
+          "link": "https://www.washingtonpost.com/politics/2026/06/11/oil-executives-warn-white-house-that-gas-prices-will-get-worse/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -241,13 +248,6 @@
         {
           "title": "CLAIMS HE WAS BEING BLACKMAILED...",
           "link": "https://www.the-sun.com/news/16479635",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "SCATHING TRAILER...",
-          "link": "https://variety.com/2026/film/news/social-reckoning-trailer-jeremy-strong-mark-zuckerberg-1236626411/",
           "summary": null,
           "published": null,
           "excerpt": null
