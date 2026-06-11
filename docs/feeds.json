@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T10:00:24.041570-07:00",
-  "generated_at_display": "Jun 11, 2026 10:00 AM PT",
+  "generated_at": "2026-06-11T11:00:21.589807-07:00",
+  "generated_at_display": "Jun 11, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAIhaspublisheda report about ChatGPT users, who it says were likely based in China,\u00a0that used the chatbot to plan a campaign designed to sway Americans' opinions about AI data centers. It divided the users into two clusters, the first of which it had designated the \"Data Center Bandwagon\" group. Accounts categorized in the group allegedly asked ChatGPT to generate English-language talking points and images, such as comic strips, which focus on how AI data centers drive up demand in electricity and how that leads to higher bills for consumers."
-        },
-        {
-          "title": "Canada announces bill banning social media for anyone under 16",
-          "link": "https://www.engadget.com/2191879/canada-announces-bill-banning-social-media-for-anyone-under-16/",
-          "summary": "The regulation also imposes new safety expectations on 'AI chatbot services.'",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The regulation also imposes new safety expectations on 'AI chatbot services.'"
         }
       ]
     },
