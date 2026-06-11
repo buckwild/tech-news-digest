@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T15:00:23.695136-07:00",
-  "generated_at_display": "Jun 11, 2026 03:00 PM PT",
+  "generated_at": "2026-06-11T16:00:26.290770-07:00",
+  "generated_at_display": "Jun 11, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Researchers are developing textiles that can produce drinking water from the air",
+          "link": "https://www.engadget.com/2192755/researchers-are-developing-textiles-that-can-produce-drinking-water-from-the-air/",
+          "summary": "How very Dune.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "There are existing methods to collect water from the ambient air, but most of them are large or cumbersome. Recent research by the University of Texas at Austin is taking that concept and transforming it something you could have on hand at all times. Or more literally, on your back at all times. In a study published inScientific Advances, the team used a special textile to create a jacket capable of atmospheric water harvesting."
+        },
+        {
           "title": "Another parent has filed a wrongful death suit against OpenAI",
           "link": "https://www.engadget.com/2192493/another-parent-has-filed-a-wrongful-death-suit-against-openai/",
           "summary": "Yet another parent is suing OpenAI, claiming its chatbot did not do enough to prevent their child's death by suicide.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It will scan playlists from rival music services to identify AI slop."
-        },
-        {
-          "title": "Anthropic backtracks on policy that 'sabotaged' researchers' work",
-          "link": "https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/",
-          "summary": "Anthropic is walking back a hidden policy that researchers say sabotaged their work.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It wasn't a good look for a company that prides itself on working closely with the academic community."
         }
       ]
     },
