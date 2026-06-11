@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T04:00:21.255243-07:00",
-  "generated_at_display": "Jun 11, 2026 04:00 AM PT",
+  "generated_at": "2026-06-11T05:00:22.853365-07:00",
+  "generated_at_display": "Jun 11, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -218,6 +218,20 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "$60M and 7 federal agencies required to stage UFC fight at White House...",
+          "link": "https://apnews.com/article/trump-ufc-costs-federal-agencies-lawsuit-5bd8382d8d106d7685b024508a178748",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "90-Degree Heat -- And Rain?",
+          "link": "https://www.yahoo.com/news/politics/articles/trump-says-ufc-arena-could-131736039.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "BOOK:  Inside White House Freakout Over Epstein Files... MORE",
           "link": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html?unlocked_article_code=1.pFA.O9yw.7LCM36hpZAuR&smid=url-share",
