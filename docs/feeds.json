@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T23:00:25.742040-07:00",
-  "generated_at_display": "Jun 10, 2026 11:00 PM PT",
+  "generated_at": "2026-06-11T00:00:24.800585-07:00",
+  "generated_at_display": "Jun 11, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "OpenAI says fake accounts from China tried to turn Americans against data centers",
+          "link": "https://www.engadget.com/2191966/openai-china-influence-campaigns-against-data-centers-report/",
+          "summary": "OpenAI has published a report detailing how China-linked influence campaigns against data centers used ChatGPT.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAIhaspublisheda report about ChatGPT users, who it says were likely based in China,\u00a0that used the chatbot to plan a campaign designed to sway Americans' opinions about AI data centers. It divided the users into two clusters, the first of which it had designated the \"Data Center Bandwagon\" group. Accounts categorized in the group allegedly asked ChatGPT to generate English-language talking points and images, such as comic strips, which focus on how AI data centers drive up demand in electricity and how that leads to higher bills for consumers."
+        },
         {
           "title": "Canada announces bill banning social media for anyone under 16",
           "link": "https://www.engadget.com/2191879/canada-announces-bill-banning-social-media-for-anyone-under-16/",
