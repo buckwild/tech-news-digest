@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T01:00:27.056980-07:00",
-  "generated_at_display": "Jun 11, 2026 01:00 AM PT",
+  "generated_at": "2026-06-11T02:00:21.657286-07:00",
+  "generated_at_display": "Jun 11, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Microsoft hasannouncedthat Office 2019 for Mac will become almost useless next month, with the company blaming an expiring digital license. Starting July 13, Mac users running older versions of Word, Excel, PowerPoint, Outlook and OneNote will only be able to open and print files, effectively rendering them as read-only \"productivity\" apps."
-        },
-        {
-          "title": "The Social Reckoning trailer features Jeremy Strong as a defiant Mark Zuckerberg",
-          "link": "https://www.engadget.com/2191331/the-social-reckoning-trailer-features-jeremy-strong-as-a-defiant-mark-zuckerberg/",
-          "summary": "Who's ready for Zuckcession?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The follow-up to The Social Network focuses on the fallout of some of Meta's secrets being exposed."
         }
       ]
     },
