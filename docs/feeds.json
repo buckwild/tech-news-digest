@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T03:00:22.076837-07:00",
-  "generated_at_display": "Jun 11, 2026 03:00 AM PT",
+  "generated_at": "2026-06-11T04:00:21.255243-07:00",
+  "generated_at_display": "Jun 11, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Deezer now helps users find AI music on other streaming platforms",
+          "link": "https://www.engadget.com/2192024/deezer-ai-music-detector/",
+          "summary": "Deezer will now help you find AI slop in your music playlists even if you're on another platform.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It will scan playlists from rival music services to identify AI slop."
+        },
+        {
           "title": "Anthropic backtracks on policy that 'sabotaged' researchers' work",
           "link": "https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/",
           "summary": "Anthropic is walking back a hidden policy that researchers say sabotaged their work.",
@@ -218,8 +226,15 @@
           "excerpt": null
         },
         {
-          "title": "USA Strikes Iran Again... Developing...",
-          "link": "https://www.wsj.com/world/middle-east/trump-warns-of-ramping-up-attacks-on-iran-after-exchange-of-strikes-ae2f7a67",
+          "title": "CLAIMS HE WAS BEING BLACKMAILED...",
+          "link": "https://www.the-sun.com/news/16479635",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Iran responds to second day of US strikes by firing at Gulf states and Jordan...",
+          "link": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
           "summary": null,
           "published": null,
           "excerpt": null
