@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T11:00:25.465588-07:00",
-  "generated_at_display": "Jun 12, 2026 11:00 AM PT",
+  "generated_at": "2026-06-12T12:00:23.323915-07:00",
+  "generated_at_display": "Jun 12, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Congress lets decades-old spying law lapse amid Trump's controversial DNI nomination",
+          "link": "https://www.engadget.com/2193338/congress-lets-decades-old-spying-law-lapse-amid-trumps-controversial-dni-nomination/",
+          "summary": "Congress, afraid of empowering Bill Pulte, has allowed a decades-old spying law to lapse.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Congress failed to extend a key surveillance law on Thursday night,according to a report byPolitico. This effectively means that Section 702 of the Foreign Intelligence Surveillance Act (FISA) will expire for the first time since 2008, as the House isn't expected to vote again until June 23."
+        },
+        {
           "title": "Gemini can now adjust your picture settings on Google TV",
           "link": "https://www.engadget.com/2192907/gemini-can-now-adjust-your-picture-settings-on-google-tv/",
           "summary": "Gemini can - at least on some TCL models - adjust your TV's picture settings.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "So long and thanks for all the cool new video games."
-        },
-        {
-          "title": "Spyro: A Realm Beyond sees the '90s purple dragon make a big comeback",
-          "link": "https://www.engadget.com/2191068/spyro-a-realm-beyond-sees-the-90s-purple-dragon-make-a-big-comeback/",
-          "summary": "We learned some new details about the upcoming revival for the classic 3D platformer.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Spyro the Dragonis one of the most enduring 3D action-platformers of the '90s, and it's now making a comeback in adventure. Announced during the 2026 Xbox Games Showcase,Spyro: A Realm Beyondwill see the plucky purple dragon in a new game from developer Toys For Bob, the creative team behind theSpyro: Reignited Trilogy, which remastered the originals, andCrash Bandicoot 4: It's About Time."
         }
       ]
     },
@@ -204,6 +204,13 @@
         {
           "title": "WHO WANTS TO BE A TRILLIONAIRE?",
           "link": "https://apnews.com/article/musk-spacex-tesla-ipo-trillionaire-billionaire-worth-rockets-7723f82b6063a9a17c194e25982cd66d",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "America has credit card problem. 2008 all over again?",
+          "link": "https://www.msn.com/en-us/money/personalfinance/ar-AA25smYb",
           "summary": null,
           "published": null,
           "excerpt": null
