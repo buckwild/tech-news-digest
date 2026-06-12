@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T03:00:24.057454-07:00",
-  "generated_at_display": "Jun 12, 2026 03:00 AM PT",
+  "generated_at": "2026-06-12T04:00:30.723376-07:00",
+  "generated_at_display": "Jun 12, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google sues Chinese scammers using Gemini AI for fraud",
+          "link": "https://www.engadget.com/2192873/google-injunction-chinese-ai-scams/",
+          "summary": "Google sued a Chinese cybercrime network for using its Gemini AI in a 'massive' scam operation.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company is also promoting legislation to fight the potential of AI to create 'massive' scams."
+        },
+        {
           "title": "Researchers are developing textiles that can produce drinking water from the air",
           "link": "https://www.engadget.com/2192755/researchers-are-developing-textiles-that-can-produce-drinking-water-from-the-air/",
           "summary": "How very Dune.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Tomb Raider is back. Again. Lara Croft is back. Yet again. This time, her character is positioned between the \"Survivor\" trilogy of the last decade and her iconic debut in 1996. Yes, 30 years ago."
-        },
-        {
-          "title": "Deezer now helps users find AI music on other streaming platforms",
-          "link": "https://www.engadget.com/2192024/deezer-ai-music-detector/",
-          "summary": "Deezer will now help you find AI slop in your music playlists even if you're on another platform.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It will scan playlists from rival music services to identify AI slop."
         }
       ]
     },
@@ -187,43 +187,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "MUSK TRILLIONAIRE",
+          "title": "MUSK FIRST 'TRILLIONAIRE'",
           "link": "https://www.washingtonpost.com/technology/2026/06/11/elon-musk-is-worlds-first-trillionaire-paper-thanks-spacex-ipo/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "CANCELS IRAN STRIKES...",
-          "link": "https://www.express.co.uk/news/2216364/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Claims war settled 'subject to finalization,' expects signing in 'next few days'...",
-          "link": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Oil execs warn White House gas prices will get WORSE...",
-          "link": "https://www.washingtonpost.com/politics/2026/06/11/oil-executives-warn-white-house-that-gas-prices-will-get-worse/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "After Senate Loss, Cornyn Predicts 'Miserable' Final Two Years...",
-          "link": "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html?unlocked_article_code=1.pVA.t7sJ.kAQ6Ihjoj6UA&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "90-Degree Heat -- And Rain?",
-          "link": "https://www.yahoo.com/news/politics/articles/trump-says-ufc-arena-could-131736039.html",
           "summary": null,
           "published": null,
           "excerpt": null
