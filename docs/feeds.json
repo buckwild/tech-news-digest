@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T07:00:23.280687-07:00",
-  "generated_at_display": "Jun 12, 2026 07:00 AM PT",
+  "generated_at": "2026-06-12T08:00:21.748820-07:00",
+  "generated_at_display": "Jun 12, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Spyro the Dragonis one of the most enduring 3D action-platformers of the '90s, and it's now making a comeback in adventure. Announced during the 2026 Xbox Games Showcase,Spyro: A Realm Beyondwill see the plucky purple dragon in a new game from developer Toys For Bob, the creative team behind theSpyro: Reignited Trilogy, which remastered the originals, andCrash Bandicoot 4: It's About Time."
-        },
-        {
-          "title": "I'm glad Apple isn't hyping up agentic AI (yet)",
-          "link": "https://www.engadget.com/2192124/im-glad-apple-isnt-hyping-up-agentic-ai-yet/",
-          "summary": "Apple is more focused on delivering usable features with Siri AI, instead of hyping up agentic AI. That's a good thing.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "If you were to take a shot every time someone mentioned \"agentic\" AI at the most recent tech keynotes \u2014Google I/O,Microsoft BuildandNVIDIA's Computex blowout\u2014 you'd be sick in no time. It's the industry's latest buzzword, describingAI agentsthat can do work on your behalf without any direct input, like automatically adding meetings to your calendar based on your emails. It's as if the tech world can't wait to sit back and let AI take the wheel. We'll probably see impressive agentic AI within a decade or so, but I worry about leaping into a world of agents with our current batch of AI models, which can still hallucinate and aren't entirely trustworthy. The idea of letting current AI agents act entirely on their own seems like sheer insanity."
         }
       ]
     },
@@ -204,7 +196,7 @@
       "entries": [
         {
           "title": "MUSK 'TRILLIONAIRE'",
-          "link": "https://www.washingtonpost.com/technology/2026/06/11/elon-musk-is-worlds-first-trillionaire-paper-thanks-spacex-ipo/",
+          "link": "https://apnews.com/article/musk-spacex-tesla-ipo-trillionaire-billionaire-worth-rockets-7723f82b6063a9a17c194e25982cd66d",
           "summary": null,
           "published": null,
           "excerpt": null
