@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T04:00:30.723376-07:00",
-  "generated_at_display": "Jun 12, 2026 04:00 AM PT",
+  "generated_at": "2026-06-12T05:00:21.970224-07:00",
+  "generated_at_display": "Jun 12, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Morning After: Apple's quest to make AI useful to its users",
+          "link": "https://www.engadget.com/2192866/engadget-newsletter-apple-wwdc-2026/",
+          "summary": "Apple's WWDC saw the company look to tidy up its existing work and make AI useful rather than throw a thousand eye-catching features at users.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Plus, Summer Fame Fest and plenty of phone news."
+        },
+        {
+          "title": "Apple says Siri AI won't suck up to you",
+          "link": "https://www.engadget.com/2192877/apple-says-siri-ai-will-not-flatter-or-romance-you/",
+          "summary": "In an interview, Apple's SVP of engineering explains how the new Siri wasn't designed to be sycophantic.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Craig Federighi, Apple\u2019s SVP of engineering, said the new Siri will resist attempts at romance."
+        },
+        {
           "title": "Google sues Chinese scammers using Gemini AI for fraud",
           "link": "https://www.engadget.com/2192873/google-injunction-chinese-ai-scams/",
           "summary": "Google sued a Chinese cybercrime network for using its Gemini AI in a 'massive' scam operation.",
@@ -187,8 +203,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "MUSK FIRST 'TRILLIONAIRE'",
+          "title": "MUSK 'TRILLIONAIRE'",
           "link": "https://www.washingtonpost.com/technology/2026/06/11/elon-musk-is-worlds-first-trillionaire-paper-thanks-spacex-ipo/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Behind veneer of normalcy in Dubai, war fatigue and sense of uncertainty...",
+          "link": "https://www.washingtonpost.com/world/2026/06/12/iran-war-drags-some-fear-dubais-oasis-aura-will-be-lost-forever/",
           "summary": null,
           "published": null,
           "excerpt": null
