@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T05:00:21.970224-07:00",
-  "generated_at_display": "Jun 12, 2026 05:00 AM PT",
+  "generated_at": "2026-06-12T06:00:23.457000-07:00",
+  "generated_at_display": "Jun 12, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Gemini can now adjust your picture settings on Google TV",
+          "link": "https://www.engadget.com/2192907/gemini-can-now-adjust-your-picture-settings-on-google-tv/",
+          "summary": "Gemini can - at least on some TCL models - adjust your TV's picture settings.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Modern TV-watching is as much about anxiously messing around with settings to make sure the picture doesn't look terrible as it is about actually enjoying a show. Happily, Google TV now lets you offload all the hassle onto Gemini."
+        },
+        {
           "title": "The Morning After: Apple's quest to make AI useful to its users",
           "link": "https://www.engadget.com/2192866/engadget-newsletter-apple-wwdc-2026/",
           "summary": "Apple's WWDC saw the company look to tidy up its existing work and make AI useful rather than throw a thousand eye-catching features at users.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "If you were to take a shot every time someone mentioned \"agentic\" AI at the most recent tech keynotes \u2014Google I/O,Microsoft BuildandNVIDIA's Computex blowout\u2014 you'd be sick in no time. It's the industry's latest buzzword, describingAI agentsthat can do work on your behalf without any direct input, like automatically adding meetings to your calendar based on your emails. It's as if the tech world can't wait to sit back and let AI take the wheel. We'll probably see impressive agentic AI within a decade or so, but I worry about leaping into a world of agents with our current batch of AI models, which can still hallucinate and aren't entirely trustworthy. The idea of letting current AI agents act entirely on their own seems like sheer insanity."
-        },
-        {
-          "title": "Tomb Raider: Legacy of Atlantis is a vivid, high-pace remake of a classic",
-          "link": "https://www.engadget.com/2189096/tomb-raider-legacy-of-atlantis-is-a-vivid-high-pace-remake-of-a-classic/",
-          "summary": "Lara get your gun(s).",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Tomb Raider is back. Again. Lara Croft is back. Yet again. This time, her character is positioned between the \"Survivor\" trilogy of the last decade and her iconic debut in 1996. Yes, 30 years ago."
         }
       ]
     },
