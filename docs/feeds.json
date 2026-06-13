@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T21:00:22.855211-07:00",
-  "generated_at_display": "Jun 12, 2026 09:00 PM PT",
+  "generated_at": "2026-06-12T22:00:24.470667-07:00",
+  "generated_at_display": "Jun 12, 2026 10:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Anthropic blocks all customers' access to Fable 5 and Mythos 5",
+          "link": "https://www.engadget.com/2193656/anthropic-blocks-access-fable-5-mythos-5/",
+          "summary": "Anthropic has suspended all access to its new AI models Fable 5 and Mythos 5 to comply with a government order citing national security concerns.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It's to ensure compliance with a government directive citing national security concerns."
+        },
         {
           "title": "Congress lets decades-old spying law lapse amid Trump's controversial DNI nomination",
           "link": "https://www.engadget.com/2193338/congress-lets-decades-old-spying-law-lapse-amid-trumps-controversial-dni-nomination/",
