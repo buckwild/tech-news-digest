@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T08:00:23.416706-07:00",
-  "generated_at_display": "Jun 13, 2026 08:00 AM PT",
+  "generated_at": "2026-06-13T09:00:23.671516-07:00",
+  "generated_at_display": "Jun 13, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Why your cardiologist might tell you to skip AirPods",
+          "link": "https://www.engadget.com/2193554/airpods-pacemakers-magnet-interference/",
+          "summary": "The magnetic fields emitted by your headphones will need to be used a safe distance away from your CIDs.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Next time you visit your grandparents, you might want to put your headphones away. Cardiologists have long warned about the risks smartphones, headphones and other consumer devices pose towards cardiovascular implantable devices (CIDs). Concerns revolve around the magnetic fields these devices emit, which can inadvertentlytrigger a magnet-safe modeon defibrillators and pacemakers that potentially prevents them from\u00a0detecting tachycardia or other cardiovascular irregularities."
+        },
+        {
           "title": "How to use AirPods to control your iPhone camera",
           "link": "https://www.engadget.com/2193237/airpods-control-iphone-camera-how-to/",
           "summary": "You can use your AirPods as a remote control for your iPhone's camera. Here's how.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Craig Federighi, Apple\u2019s SVP of engineering, said the new Siri will resist attempts at romance."
-        },
-        {
-          "title": "Google sues Chinese scammers using Gemini AI for fraud",
-          "link": "https://www.engadget.com/2192873/google-injunction-chinese-ai-scams/",
-          "summary": "Google sued a Chinese cybercrime network for using its Gemini AI in a 'massive' scam operation.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company is also promoting legislation to fight the potential of AI to create 'massive' scams."
         }
       ]
     },
@@ -205,6 +205,13 @@
         {
           "title": "The Don's Blood Lust Takes Center Stage at White House Cage Match...",
           "link": "https://www.msn.com/en-us/news/world/opinion-trump-s-blood-lust-takes-center-stage-at-white-house-cage-match/ar-AA25ye1V",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "CURTAINS: Kennedy Center Removes Trump Name From Facade...",
+          "link": "https://www.cnn.com/2026/06/12/politics/trump-kennedy-center-name-change-deadline",
           "summary": null,
           "published": null,
           "excerpt": null
