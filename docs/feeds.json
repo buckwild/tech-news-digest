@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T07:00:24.572495-07:00",
-  "generated_at_display": "Jun 13, 2026 07:00 AM PT",
+  "generated_at": "2026-06-13T08:00:23.416706-07:00",
+  "generated_at_display": "Jun 13, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "How to use AirPods to control your iPhone camera",
+          "link": "https://www.engadget.com/2193237/airpods-control-iphone-camera-how-to/",
+          "summary": "You can use your AirPods as a remote control for your iPhone's camera. Here's how.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "If you don't own an Apple Watch, this is another way you can control your iPhone's camera."
+        },
+        {
           "title": "A report on the benefits of AI was reportedly full of AI hallucinations",
           "link": "https://www.engadget.com/2193679/kpmg-paper-ai-hallucinations/",
           "summary": "KPMG published a paper about the benefits of AI last year. An investigation found that it was full of AI hallucinations.",
@@ -195,15 +203,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "WHO WANTS TO BE A TRILLIONAIRE?",
-          "link": "https://apnews.com/7723f82b6063a9a17c194e25982cd66d",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "White House Ring Girls Outfits Flag Code Breach...",
-          "link": "https://www.newsweek.com/ring-girls-outfits-trumps-ufc-fight-revealed-flag-code-breach-12063530",
+          "title": "The Don's Blood Lust Takes Center Stage at White House Cage Match...",
+          "link": "https://www.msn.com/en-us/news/world/opinion-trump-s-blood-lust-takes-center-stage-at-white-house-cage-match/ar-AA25ye1V",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -211,6 +212,13 @@
         {
           "title": "DOWD: Epstein Haunts the White House...",
           "link": "https://www.nytimes.com/2026/06/13/opinion/epstein-trump-white-house.html?unlocked_article_code=1.p1A.vsiW.SCB8saa_4LPO&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "WHO WANTS TO BE A TRILLIONAIRE?",
+          "link": "https://apnews.com/7723f82b6063a9a17c194e25982cd66d",
           "summary": null,
           "published": null,
           "excerpt": null
