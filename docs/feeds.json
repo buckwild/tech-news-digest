@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T04:00:24.389221-07:00",
-  "generated_at_display": "Jun 14, 2026 04:00 AM PT",
+  "generated_at": "2026-06-14T05:00:29.584029-07:00",
+  "generated_at_display": "Jun 14, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -194,6 +194,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Over-the-top White House bash...Bruised hands, swollen ankles escalate health fears...",
+          "link": "https://www.dailymail.com/news/article-15886931",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Trump Claims Iran 'Deal' Being Signed Today After Raging at Negotiators... Developing...",
           "link": "https://www.mediaite.com/media/news/just-in-trump-claims-iran-deal-being-signed-tomorrow-in-new-rant-after-raging-at-dishonorable-negotiators/",
