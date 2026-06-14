@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T11:00:22.806605-07:00",
-  "generated_at_display": "Jun 14, 2026 11:00 AM PT",
+  "generated_at": "2026-06-14T12:00:26.398116-07:00",
+  "generated_at_display": "Jun 14, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple reportedly has three more iOS 27 features coming in the fall",
+          "link": "https://www.engadget.com/2193891/apple-reportedly-has-three-more-ios-27-features-coming-in-the-fall/",
+          "summary": "Apple is still holding some of its iOS 27 cards close to its chest.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple is still holding some of its iOS 27 cards close to its chest."
+        },
+        {
           "title": "Your Kindle could unlock thousands of free books: These are the best places to find them",
           "link": "https://www.engadget.com/2192697/kindle-free-books-guide/",
           "summary": "Our self-proclaimed Scroogian (cheapskate) book-loving writer has put together a guide on finding free books for your Kindle.",
@@ -205,6 +213,13 @@
         {
           "title": "Over-the-top White House bash...Bruised hands, swollen ankles escalate health fears...",
           "link": "https://www.dailymail.com/news/article-15886931",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "80 most unhinged things he has said...",
+          "link": "https://www.themirror.com/news/us-news/donald-trump-80-unhinged-things-1886258",
           "summary": null,
           "published": null,
           "excerpt": null
