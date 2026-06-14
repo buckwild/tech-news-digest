@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T12:00:26.398116-07:00",
-  "generated_at_display": "Jun 14, 2026 12:00 PM PT",
+  "generated_at": "2026-06-14T13:00:28.490055-07:00",
+  "generated_at_display": "Jun 14, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It's to ensure compliance with a government directive citing national security concerns."
-        },
-        {
-          "title": "Congress lets decades-old spying law lapse amid Trump's controversial DNI nomination",
-          "link": "https://www.engadget.com/2193338/congress-lets-decades-old-spying-law-lapse-amid-trumps-controversial-dni-nomination/",
-          "summary": "Congress, afraid of empowering Bill Pulte, has allowed a decades-old spying law to lapse.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Congress failed to extend a key surveillance law on Thursday night,according to a report byPolitico. This effectively means that Section 702 of the Foreign Intelligence Surveillance Act (FISA) will expire for the first time since 2008, as the House isn't expected to vote again until June 23."
         }
       ]
     },
@@ -218,7 +210,7 @@
           "excerpt": null
         },
         {
-          "title": "80 most unhinged things he has said...",
+          "title": "80 most unhinged things he's said...",
           "link": "https://www.themirror.com/news/us-news/donald-trump-80-unhinged-things-1886258",
           "summary": null,
           "published": null,
@@ -232,22 +224,8 @@
           "excerpt": null
         },
         {
-          "title": "From 'Human Cockfighting' to White House Lawn...",
-          "link": "https://www.notus.org/sports/ufc-trump-white-house",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "Fighters paid in Trump company crypto...",
           "link": "https://www.theguardian.com/us-news/2026/jun/14/white-house-ufc-fighters-crypto",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "CURTAINS: Kennedy Center Removes Trump Name From Facade...",
-          "link": "https://www.cnn.com/2026/06/12/politics/trump-kennedy-center-name-change-deadline",
           "summary": null,
           "published": null,
           "excerpt": null
