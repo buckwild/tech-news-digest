@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T09:00:24.991558-07:00",
-  "generated_at_display": "Jun 14, 2026 09:00 AM PT",
+  "generated_at": "2026-06-14T10:00:28.547017-07:00",
+  "generated_at_display": "Jun 14, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Your Kindle could unlock thousands of free books: These are the best places to find them",
+          "link": "https://www.engadget.com/2192697/kindle-free-books-guide/",
+          "summary": "Our self-proclaimed Scroogian (cheapskate) book-loving writer has put together a guide on finding free books for your Kindle.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "If it feels like books are a luxury right now, here are some tips on finding some free ones."
+        },
         {
           "title": "Apple TV 4K multiview: How to watch four live sports feeds at once",
           "link": "https://www.engadget.com/2192442/apple-tv-4k-multiview-sports-live-events/",
