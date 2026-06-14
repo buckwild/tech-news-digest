@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T06:00:22.066606-07:00",
-  "generated_at_display": "Jun 14, 2026 06:00 AM PT",
+  "generated_at": "2026-06-14T07:00:24.383261-07:00",
+  "generated_at_display": "Jun 14, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple TV 4K multiview: How to watch four live sports feeds at once",
+          "link": "https://www.engadget.com/2192442/apple-tv-4k-multiview-sports-live-events/",
+          "summary": "Our expert sports fan made a detailed guide on what sports you can watch on Apple TV in multiview and how to do so. Plus, some tips for non-Apple TV users too.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The multiview features on Apple TV 4K work similarly for all sports. However, because MLB baseball is a lot more limited in the number of games/streams available, the method of access is slightly different there. In general, you'll need to select one stream you'll want in the grouping and the multiview options will appear in the playback controls or in-stream menu. Selecting those will give you the ability to build your multiview from a menu of currently available games and shows. Once again, you'll be able to watch up to four streams simultaneously \u2014 with the exception of baseball."
+        },
+        {
+          "title": "Apple Watch alternatives that will last for 7 days on a charge",
+          "link": "https://www.engadget.com/2192635/apple-watch-alternatives-7-day-battery/",
+          "summary": "Here are some wearables that will last longer than a mere two days while offering some of the features you might be looking for.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Apple Watch is themost popular smartwatchglobally for a reason. Not only do they look great and offer comprehensive health-tracking and safety features, but they're also extremely well-integrated with iPhones, making them helpful companion devices. However, all of this tech demands one significant trade-off. The battery life kind of sucks. The Apple Watch 11 finallyhit the 24 hour threshold, but real-world results will absolutely vary. This means that consumers will have to charge the watch at least every day, and twice each day for power users. Even the beefyApple Watch Ultramaxes out at around three days of use in low power mode."
+        },
+        {
           "title": "Why your cardiologist might tell you to skip AirPods",
           "link": "https://www.engadget.com/2193554/airpods-pacemakers-magnet-interference/",
           "summary": "The magnetic fields emitted by your headphones will need to be used a safe distance away from your CIDs.",
@@ -171,22 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Congress failed to extend a key surveillance law on Thursday night,according to a report byPolitico. This effectively means that Section 702 of the Foreign Intelligence Surveillance Act (FISA) will expire for the first time since 2008, as the House isn't expected to vote again until June 23."
-        },
-        {
-          "title": "Gemini can now adjust your picture settings on Google TV",
-          "link": "https://www.engadget.com/2192907/gemini-can-now-adjust-your-picture-settings-on-google-tv/",
-          "summary": "Gemini can - at least on some TCL models - adjust your TV's picture settings.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Modern TV-watching is as much about anxiously messing around with settings to make sure the picture doesn't look terrible as it is about actually enjoying a show. Happily, Google TV now lets you offload all the hassle onto Gemini."
-        },
-        {
-          "title": "The Morning After: Apple's quest to make AI useful to its users",
-          "link": "https://www.engadget.com/2192866/engadget-newsletter-apple-wwdc-2026/",
-          "summary": "Apple's WWDC saw the company look to tidy up its existing work and make AI useful rather than throw a thousand eye-catching features at users.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Plus, Summer Fame Fest and plenty of phone news."
         }
       ]
     },
@@ -209,7 +209,14 @@
           "excerpt": null
         },
         {
-          "title": "UFC to pay White House fighters in crypto issued by Trump company...",
+          "title": "From 'Human Cockfighting' to White House Lawn...",
+          "link": "https://www.notus.org/sports/ufc-trump-white-house",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Fighters paid in Trump company crypto...",
           "link": "https://www.theguardian.com/us-news/2026/jun/14/white-house-ufc-fighters-crypto",
           "summary": null,
           "published": null,
@@ -218,13 +225,6 @@
         {
           "title": "CURTAINS: Kennedy Center Removes Trump Name From Facade...",
           "link": "https://www.cnn.com/2026/06/12/politics/trump-kennedy-center-name-change-deadline",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "DOWD: Epstein Haunts the White House...",
-          "link": "https://www.nytimes.com/2026/06/13/opinion/epstein-trump-white-house.html?unlocked_article_code=1.p1A.vsiW.SCB8saa_4LPO&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
