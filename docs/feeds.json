@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T11:00:22.937033-07:00",
-  "generated_at_display": "Jun 15, 2026 11:00 AM PT",
+  "generated_at": "2026-06-15T12:00:24.506300-07:00",
+  "generated_at_display": "Jun 15, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Anthropic hit with lawsuit over its Claude Max usage limits",
+          "link": "https://www.engadget.com/2194626/anthropic-hit-with-lawsuit-over-its-claude-max-usage-limits/",
+          "summary": "Anthropic is being sued over Claude Max usage limits",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A Claude subscriber has sued Anthropic, alleging the company mislead consumers about the usage limits of itsMax plans. PerTheWall Street Journal, Karl Kahn, a Washington DC-based resident, filed a federal lawsuit on Monday accusing Anthropic of overselling how much he could use Claude. The lawsuit claims that the actual usage caps of Anthropic's Max 5x and Max 20x tiers are hard to determine and appear lower than the limits the company advertises on itswebsiteand elsewhere."
+        },
+        {
+          "title": "xAI's lawsuit accusing OpenAI of stealing trade secrets has been thrown out",
+          "link": "https://www.engadget.com/2194592/xai-lawsuit-accusing-openai-of-stealing-trade-secrets-has-been-thrown-out/",
+          "summary": "A federal judge decided to dismiss an xAI lawsuit against OpenAI with prejudice.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The federal judge\u2019s final decision is to dismiss the case with prejudice."
+        },
+        {
           "title": "Facebook's new AI tools offer more of the same, with photo-editing and question-answering capabilities",
           "link": "https://www.engadget.com/2194509/facebooks-new-ai-tools-offer-more-of-the-same-with-photo-editing-and-question-answering-capabilities/",
           "summary": "Don't worry, there's yet another chatbot you can ask for restaurant recommendations.",
@@ -187,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Apple Watch is themost popular smartwatchglobally for a reason. Not only do they look great and offer comprehensive health-tracking and safety features, but they're also extremely well-integrated with iPhones, making them helpful companion devices. However, all of this tech demands one significant trade-off. The battery life kind of sucks. The Apple Watch 11 finallyhit the 24 hour threshold, but real-world results will absolutely vary. This means that consumers will have to charge the watch at least every day, and twice each day for power users. Even the beefyApple Watch Ultramaxes out at around three days of use in low power mode."
-        },
-        {
-          "title": "Why your cardiologist might tell you to skip AirPods",
-          "link": "https://www.engadget.com/2193554/airpods-pacemakers-magnet-interference/",
-          "summary": "The magnetic fields emitted by your headphones will need to be used a safe distance away from your CIDs.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Next time you visit your grandparents, you might want to put your headphones away. Cardiologists have long warned about the risks smartphones, headphones and other consumer devices pose towards cardiovascular implantable devices (CIDs). Concerns revolve around the magnetic fields these devices emit, which can inadvertentlytrigger a magnet-safe modeon defibrillators and pacemakers that potentially prevents them from\u00a0detecting tachycardia or other cardiovascular irregularities."
-        },
-        {
-          "title": "How to use AirPods to control your iPhone camera",
-          "link": "https://www.engadget.com/2193237/airpods-control-iphone-camera-how-to/",
-          "summary": "You can use your AirPods as a remote control for your iPhone's camera. Here's how.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "If you don't own an Apple Watch, this is another way you can control your iPhone's camera."
         }
       ]
     },
@@ -227,13 +227,6 @@
         {
           "title": "Epstein paid Palm Beach deputy to get special treatment in jail, ex-aide says...",
           "link": "https://www.miamiherald.com/news/local/crime/article316022826.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "AI Deepfakes Getting Weirder and Harder to Spot in Midterms...",
-          "link": "https://www.wsj.com/politics/elections/ai-deepfakes-are-getting-weirder-and-harder-to-spot-in-the-midterms-88b4f7ad",
           "summary": null,
           "published": null,
           "excerpt": null
