@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T08:00:23.299990-07:00",
-  "generated_at_display": "Jun 15, 2026 08:00 AM PT",
+  "generated_at": "2026-06-15T09:00:22.754438-07:00",
+  "generated_at_display": "Jun 15, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Xbox Game Studios chief reportedly steps down as layoffs loom",
+          "link": "https://www.engadget.com/2194295/xbox-game-studios-chief-reportedly-steps-down-as-layoffs-loom/",
+          "summary": "Things continue to look grim for Xbox as layoffs loom and Craig Duncan steps down.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Craig Duncan took charge of Xbox Game Studios in October 2024."
+        },
+        {
           "title": "If you're already watching YouTube daily, this subscription swap just makes sense",
           "link": "https://www.engadget.com/2192543/if-you-re-already-watching-youtube-daily-this-subscription-swap-just-makes-sense/",
           "summary": "Is it time to double down on red?",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "If you don't own an Apple Watch, this is another way you can control your iPhone's camera."
-        },
-        {
-          "title": "A report on the benefits of AI was reportedly full of AI hallucinations",
-          "link": "https://www.engadget.com/2193679/kpmg-paper-ai-hallucinations/",
-          "summary": "KPMG published a paper about the benefits of AI last year. An investigation found that it was full of AI hallucinations.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It was published by KPMG, one of the world's 'Big Four' accounting firms."
         }
       ]
     },
@@ -203,29 +203,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Trump celebrates his 80th birthday with peace deal and  cage fight at White House...",
-          "link": "https://apnews.com/article/iran-us-war-ceasefire-deal-e0a9e4e1152ea8da10ea066ad174a23a",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "The Don settles for a truce of convenience with Iran...",
-          "link": "https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "'Worse than gaining nothing'...",
-          "link": "https://www.rawstory.com/trump-peace-agreement-military-expert/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Israel Counts the Ways Netanyahu's Strategy Failed...",
-          "link": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html?unlocked_article_code=1.qVA.k1X9.84aqywB904jH&smid=url-share",
+          "title": "TRUMP MAKES IRAN GREAT AGAIN",
+          "link": "https://metro.co.uk/2026/06/15/iran-us-strike-a-deal-will-last-28783448/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -238,8 +217,15 @@
           "excerpt": null
         },
         {
-          "title": "80 most unhinged things he's said...",
-          "link": "https://www.themirror.com/news/us-news/donald-trump-80-unhinged-things-1886258",
+          "title": "Epstein paid Palm Beach deputy to get special treatment in jail, ex-aide says...",
+          "link": "https://www.miamiherald.com/news/local/crime/article316022826.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "AI Deepfakes Getting Weirder and Harder to Spot in Midterms...",
+          "link": "https://www.wsj.com/politics/elections/ai-deepfakes-are-getting-weirder-and-harder-to-spot-in-the-midterms-88b4f7ad",
           "summary": null,
           "published": null,
           "excerpt": null
