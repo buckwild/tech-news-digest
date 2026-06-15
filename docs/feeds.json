@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T13:00:24.004246-07:00",
-  "generated_at_display": "Jun 15, 2026 01:00 PM PT",
+  "generated_at": "2026-06-15T14:00:27.412730-07:00",
+  "generated_at_display": "Jun 15, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Investigation by The Atlantic reveals many millions of songs used for AI music training",
+          "link": "https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/",
+          "summary": "Taylor Swift, Bad Bunny and many, many more artists have had their work fed into AI models.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Taylor Swift, Bad Bunny and many, many more artists have had their work fed into AI models."
+        },
+        {
           "title": "Anthropic hit with lawsuit over its Claude Max usage limits",
           "link": "https://www.engadget.com/2194626/anthropic-hit-with-lawsuit-over-its-claude-max-usage-limits/",
           "summary": "Anthropic is being sued over Claude Max usage limits",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The multiview features on Apple TV 4K work similarly for all sports. However, because MLB baseball is a lot more limited in the number of games/streams available, the method of access is slightly different there. In general, you'll need to select one stream you'll want in the grouping and the multiview options will appear in the playback controls or in-stream menu. Selecting those will give you the ability to build your multiview from a menu of currently available games and shows. Once again, you'll be able to watch up to four streams simultaneously \u2014 with the exception of baseball."
-        },
-        {
-          "title": "Apple Watch alternatives that will last for 7 days on a charge",
-          "link": "https://www.engadget.com/2192635/apple-watch-alternatives-7-day-battery/",
-          "summary": "Here are some wearables that will last longer than a mere two days while offering some of the features you might be looking for.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Apple Watch is themost popular smartwatchglobally for a reason. Not only do they look great and offer comprehensive health-tracking and safety features, but they're also extremely well-integrated with iPhones, making them helpful companion devices. However, all of this tech demands one significant trade-off. The battery life kind of sucks. The Apple Watch 11 finallyhit the 24 hour threshold, but real-world results will absolutely vary. This means that consumers will have to charge the watch at least every day, and twice each day for power users. Even the beefyApple Watch Ultramaxes out at around three days of use in low power mode."
         }
       ]
     },
@@ -227,6 +227,13 @@
         {
           "title": "Epstein paid Palm Beach deputy to get special treatment in jail, ex-aide says...",
           "link": "https://www.miamiherald.com/news/local/crime/article316022826.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republicans who pushed files release see political careers upended...",
+          "link": "https://www.nbcnews.com/politics/rcna348061",
           "summary": null,
           "published": null,
           "excerpt": null
