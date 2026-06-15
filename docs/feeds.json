@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T06:00:23.206085-07:00",
-  "generated_at_display": "Jun 15, 2026 06:00 AM PT",
+  "generated_at": "2026-06-15T07:00:19.870090-07:00",
+  "generated_at_display": "Jun 15, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "If you're already watching YouTube daily, this subscription swap just makes sense",
+          "link": "https://www.engadget.com/2192543/if-you-re-already-watching-youtube-daily-this-subscription-swap-just-makes-sense/",
+          "summary": "Is it time to double down on red?",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Is it time to double down on red?"
+        },
+        {
           "title": "Trump threatens 100 percent tariff on France's wine industry over its tech tax",
           "link": "https://www.engadget.com/2194031/trump-threatens-to-smash-french-wine-industry-over-tech-tax/",
           "summary": "Ahead of the G7 conference in France, Donald Trump is once again threatening massive tariffs on France over its digital tax.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It was published by KPMG, one of the world's 'Big Four' accounting firms."
-        },
-        {
-          "title": "OpenAI is facing investigation from a group of state attorneys general",
-          "link": "https://www.engadget.com/2193666/openai-investigation-state-attorneys-general/",
-          "summary": "A coalition of state attorneys general is asking OpenAI for documents about its activities.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "OpenAI is under investigation by a coalition of state attorneys general, according to theWall Street Journal. On Friday, June 12, the company received a subpoena seeking information and documents related to its activities and impact on users.The Journalsaid it viewed the subpoena sent by New York's attorney general."
         }
       ]
     },
@@ -217,6 +217,13 @@
           "excerpt": null
         },
         {
+          "title": "Israel Counts the Ways Netanyahu's Strategy Failed...",
+          "link": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html?unlocked_article_code=1.qVA.k1X9.84aqywB904jH&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "UFC Fighter Declares 'Michelle Obama Is a Man' After Winning Match at White House...",
           "link": "https://www.hollywoodreporter.com/tv/tv-news/ufc-fighter-josh-hokit-michelle-obama-man-white-house-1236621742/",
           "summary": null,
@@ -226,13 +233,6 @@
         {
           "title": "80 most unhinged things he's said...",
           "link": "https://www.themirror.com/news/us-news/donald-trump-80-unhinged-things-1886258",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "AI Deepfakes Getting Weirder and Harder to Spot in Midterms...",
-          "link": "https://www.wsj.com/politics/elections/ai-deepfakes-are-getting-weirder-and-harder-to-spot-in-the-midterms-88b4f7ad",
           "summary": null,
           "published": null,
           "excerpt": null
