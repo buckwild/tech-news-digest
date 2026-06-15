@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T03:00:24.374460-07:00",
-  "generated_at_display": "Jun 15, 2026 03:00 AM PT",
+  "generated_at": "2026-06-15T04:00:24.038060-07:00",
+  "generated_at_display": "Jun 15, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Trump threatens 100 percent tariff on France's wine industry over its tech tax",
+          "link": "https://www.engadget.com/2194031/trump-threatens-to-smash-french-wine-industry-over-tech-tax/",
+          "summary": "Ahead of the G7 conference in France, Donald Trump is once again threatening massive tariffs on France over its digital tax.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Ahead of the G7 conference in France, Donald Trump isonce againthreatening massive tariffs on France if it doesn't remove its three percent digital tax on US tech companies. \"I asked [French President Emmanuel Macron] not to charge American companies, and if they do, I have no choice but to charge a 100 percent tariff on all champagnes and all wines coming out of France,\" the President toldThe New York Post."
+        },
+        {
           "title": "Apple reportedly has three more iOS 27 features coming in the fall",
           "link": "https://www.engadget.com/2193891/apple-reportedly-has-three-more-ios-27-features-coming-in-the-fall/",
           "summary": "Apple is still holding some of its iOS 27 cards close to its chest.",
@@ -211,21 +219,14 @@
         },
         {
           "title": "The Don settles for a truce of convenience with Iran...",
-          "link": "https://archive.is/nPXwg",
+          "link": "https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "UFC  fighters paid in MAGA crypto...",
-          "link": "https://www.theguardian.com/us-news/2026/jun/14/white-house-ufc-fighters-crypto",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Banned Strickland kicked out of White House event...",
-          "link": "https://www.irishstar.com/sport/boxing/sean-strickland-ufc-white-house-37295082",
+          "title": "UFC Fighter Declares 'Michelle Obama Is a Man' After Winning Match at White House...",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/ufc-fighter-josh-hokit-michelle-obama-man-white-house-1236621742/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -233,6 +234,13 @@
         {
           "title": "80 most unhinged things he's said...",
           "link": "https://www.themirror.com/news/us-news/donald-trump-80-unhinged-things-1886258",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "AI Deepfakes Getting Weirder and Harder to Spot in Midterms...",
+          "link": "https://www.wsj.com/politics/elections/ai-deepfakes-are-getting-weirder-and-harder-to-spot-in-the-midterms-88b4f7ad",
           "summary": null,
           "published": null,
           "excerpt": null
