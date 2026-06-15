@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T07:00:19.870090-07:00",
-  "generated_at_display": "Jun 15, 2026 07:00 AM PT",
+  "generated_at": "2026-06-15T08:00:23.299990-07:00",
+  "generated_at_display": "Jun 15, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -212,6 +212,13 @@
         {
           "title": "The Don settles for a truce of convenience with Iran...",
           "link": "https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "'Worse than gaining nothing'...",
+          "link": "https://www.rawstory.com/trump-peace-agreement-military-expert/",
           "summary": null,
           "published": null,
           "excerpt": null
