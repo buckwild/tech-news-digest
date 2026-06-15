@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T05:00:22.602494-07:00",
-  "generated_at_display": "Jun 15, 2026 05:00 AM PT",
+  "generated_at": "2026-06-15T06:00:23.206085-07:00",
+  "generated_at_display": "Jun 15, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAI is under investigation by a coalition of state attorneys general, according to theWall Street Journal. On Friday, June 12, the company received a subpoena seeking information and documents related to its activities and impact on users.The Journalsaid it viewed the subpoena sent by New York's attorney general."
-        },
-        {
-          "title": "Anthropic blocks all customers' access to Fable 5 and Mythos 5",
-          "link": "https://www.engadget.com/2193656/anthropic-blocks-access-fable-5-mythos-5/",
-          "summary": "Anthropic has suspended all access to its new AI models Fable 5 and Mythos 5 to comply with a government order citing national security concerns.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It's to ensure compliance with a government directive citing national security concerns."
         }
       ]
     },
