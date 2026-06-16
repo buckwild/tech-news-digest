@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T11:00:23.047814-07:00",
-  "generated_at_display": "Jun 16, 2026 11:00 AM PT",
+  "generated_at": "2026-06-16T12:00:24.970678-07:00",
+  "generated_at_display": "Jun 16, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "10 underrated Apple Watch features you can set up in minutes",
+          "link": "https://www.engadget.com/2195465/underrated-apple-watch-features/",
+          "summary": "These might not be the most popular or well-known Apple Watch features, but we think they're worth using and setting up.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "These features don\u2019t usually see the spotlight."
+        },
+        {
+          "title": "Google launches 'bubble' multi-tasking and foldable gaming mode with Android 17",
+          "link": "https://www.engadget.com/2195087/google-android-17-rollout/",
+          "summary": "Google has started rolling out Android 17.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google isrolling out Android 17today, with Pixel devices getting the new mobile OS first before it makes its way to more Android phones throughout the year.Gemini Intelligence, the company's new context-aware AI system that can accomplish multi-step tasks for you, is also coming to select advanced devices this summer."
+        },
+        {
+          "title": "Wear OS 7 arrives to Pixel watches with Gemini AI and live updates",
+          "link": "https://www.engadget.com/2195052/wear-os-7-comes-to-pixel-watches/",
+          "summary": "Wear OS 7 is now live for Pixel watches, with a new interface, notifications and Gemini features.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Create your own widgets using Gemini's natural language features."
+        },
+        {
           "title": "Xreal officially reveals its Android XR Aura glasses \u2014 without a pricetag",
           "link": "https://www.engadget.com/2194861/xreal-aura-android-xr-glasses-launch-no-price/",
           "summary": "The company is taking paid reservations for a launch later this year.",
@@ -163,22 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple recently delayed Siri AI in Europe due to a dispute with EU regulators."
-        },
-        {
-          "title": "Microsoft's new Surface Pro and Surface Laptop cost $500 and $600 more than their predecessors",
-          "link": "https://www.engadget.com/2194883/microsoft-surface-pro-surface-laptop-snapdragon-x2-2026/",
-          "summary": "Microsoft's new Surface Pro and Surface Laptop are about 50 to 60 percent more expensive than the previous generation. Thanks, AI!",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "There are three things you need to know about Microsoft's latest generation of Surface devices: They look thesame as before; they're powered byQualcomm's new X2 chips; and most importantly, they're significantly more expensive than before. The new 13-inch Surface Pro starts at $1,499 (a $500 increase) while the updated Surface Pro 13.8-inch is a whopping $600 more expensive at $1,599. But I suppose Microsoft only has itself to blame, as its investments in AI are the biggest reason RAM and storage prices have skyrocketed lately."
-        },
-        {
-          "title": "India temporarily blocks Telegram, claiming it was done to prevent exam fraud",
-          "link": "https://www.engadget.com/2195086/india-blocks-telegram/",
-          "summary": "India has temporarily blocked Telegram, claiming it's to prevent cheating on a crucial entrance exam.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The platform will be unavailable until June 22 after a key test paper was purportedly leaked."
         }
       ]
     },
