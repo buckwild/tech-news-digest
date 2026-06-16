@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T14:00:23.491322-07:00",
-  "generated_at_display": "Jun 16, 2026 02:00 PM PT",
+  "generated_at": "2026-06-16T15:00:29.554292-07:00",
+  "generated_at_display": "Jun 16, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Evan Spiegel doesn't want you to call Snap Specs AI glasses",
+          "link": "https://www.engadget.com/2195862/snap-specs-ceo-evan-spiegel-interview-at-awe-2026/",
+          "summary": "Snap CEO Evan Spiegel sat with us to discuss the Snap Specs, privacy, parental controls and more. Spoiler: He says \"computing\" a lot.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Snap's newly announced AR Specs might seem similar to other smartglasses, but Snap CEO Evan Spiegel says that's the wrong way to think about the product. Specs, he says, is \"a new type of computer, a see-through computer.\""
+        },
         {
           "title": "Around a fifth of Steam Next Fest demos have a generative AI disclosure",
           "link": "https://www.engadget.com/2195840/around-a-fifth-of-steam-next-fest-demos-have-a-generative-ai-disclosure/",
