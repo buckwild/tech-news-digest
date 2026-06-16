@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T10:00:26.804847-07:00",
-  "generated_at_display": "Jun 16, 2026 10:00 AM PT",
+  "generated_at": "2026-06-16T11:00:23.047814-07:00",
+  "generated_at_display": "Jun 16, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Xreal officially reveals its Android XR Aura glasses \u2014 without a pricetag",
+          "link": "https://www.engadget.com/2194861/xreal-aura-android-xr-glasses-launch-no-price/",
+          "summary": "The company is taking paid reservations for a launch later this year.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Xreal's first Android XR glasses will go on sale later this year, the company announced at the Augmented World Expo event in Long Beach, California. The frames, once called \"Project Aura\" and now just known as \"Aura,\" are possibly the most ambitious take on what Google's homegrown AR platform can do."
+        },
+        {
+          "title": "Is NFC charging the secret to nicer-looking smartglasses?",
+          "link": "https://www.engadget.com/2195309/nucurrent-smart-glass-nfc-charging-tech-in-ray-ban-meta-prototype/",
+          "summary": "A pair of prototype Ray Ban Meta glasses at AWE 2026 show that NFC charging can achieve similar performance to the pogo pins common in smart glasses today.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "If you've been testing and writing about smartglasses for as long as I have then you're used to a lot of questions along the lines of \"why do they look like that?\" Though smartgasses have come a long way in the last few years, most frames are still significantly thicker than the eyewear most people are used to wearing."
+        },
+        {
           "title": "Star Trek: Strange New Worlds trailer has plenty of callbacks to its 1960s origins",
           "link": "https://www.engadget.com/2195488/star-trek-strange-new-worlds-trailer-has-plenty-of-callbacks-to-its-1960s-origins/",
           "summary": "Here's a new trailer for Star Trek: Strange New Worlds, which premiers July 23rd.",
@@ -163,22 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The platform will be unavailable until June 22 after a key test paper was purportedly leaked."
-        },
-        {
-          "title": "Justice Department backs xAI in NAACP lawsuit over data center pollution",
-          "link": "https://www.engadget.com/2195032/doj-backs-xai-naacp-data-center-pollution-lawsuit/",
-          "summary": "xAI has some powerful friends, and they're asking the court to dismiss NAACP's lawsuit.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The agency argues that xAI\u2019s operations are integral to US military operations."
-        },
-        {
-          "title": "Google Earth's flight simulator mode is now available in your browser",
-          "link": "https://www.engadget.com/2194884/google-earths-flight-simulator-mode-is-now-available-in-your-browser/",
-          "summary": "Up, up and away! (Just try not to crash.)",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "In caseMicrosoft Flight Simulatoris a little too realistic for your tastes, there's a new way you can take to the virtual skies. Google Earth has a flight sim mode of its own, and it can now be accessed by anyone globally via their browser.Android Policespotted a social mediapostfrom the Google property announcing this update."
         }
       ]
     },
@@ -189,6 +189,13 @@
         {
           "title": "IRAN DECLARES TOTAL VICTORY",
           "link": "https://archive.is/oHKH0",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "WILL CONTROL HORMUZ",
+          "link": "https://www.semafor.com/article/06/16/2026/hormuz-will-never-really-be-open-again",
           "summary": null,
           "published": null,
           "excerpt": null
