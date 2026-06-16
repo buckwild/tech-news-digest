@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T16:00:25.242125-07:00",
-  "generated_at_display": "Jun 15, 2026 04:00 PM PT",
+  "generated_at": "2026-06-15T17:00:24.480351-07:00",
+  "generated_at_display": "Jun 15, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apple is still holding some of its iOS 27 cards close to its chest."
-        },
-        {
-          "title": "Your Kindle could unlock thousands of free books: These are the best places to find them",
-          "link": "https://www.engadget.com/2192697/kindle-free-books-guide/",
-          "summary": "Our self-proclaimed Scroogian (cheapskate) book-loving writer has put together a guide on finding free books for your Kindle.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "If it feels like books are a luxury right now, here are some tips on finding some free ones."
         }
       ]
     },
