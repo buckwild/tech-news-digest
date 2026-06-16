@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T07:00:24.309547-07:00",
-  "generated_at_display": "Jun 16, 2026 07:00 AM PT",
+  "generated_at": "2026-06-16T08:00:25.794915-07:00",
+  "generated_at_display": "Jun 16, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "SpaceX is buying AI coding startup Cursor for $60 billion",
+          "link": "https://www.engadget.com/2195265/spacex-is-buying-ai-coding-startup-cursor-for-60-billion/",
+          "summary": "SpaceX is buying Cursor to bolster the capabilities of xAI.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The all-stock acquisition concludes an agreement the two announced in April."
+        },
+        {
           "title": "Italy is probing Apple over iCloud services like iPhone backups",
           "link": "https://www.engadget.com/2195198/italy-is-probing-apple-over-icloud-services-like-iphone-backups/",
           "summary": "Apple is being investigated by the EU again, this time over its iCloud service.",
@@ -203,22 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Now you can ask a different chatbot which restaurant to try."
-        },
-        {
-          "title": "Xbox Game Studios chief reportedly steps down as layoffs loom",
-          "link": "https://www.engadget.com/2194295/xbox-game-studios-chief-reportedly-steps-down-as-layoffs-loom/",
-          "summary": "Things continue to look grim for Xbox as layoffs loom and Craig Duncan steps down.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Craig Duncan took charge of Xbox Game Studios in October 2024."
-        },
-        {
-          "title": "If you're already watching YouTube daily, this subscription swap just makes sense",
-          "link": "https://www.engadget.com/2192543/if-you-re-already-watching-youtube-daily-this-subscription-swap-just-makes-sense/",
-          "summary": "Is it time to double down on red?",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Is it time to double down on red?"
         }
       ]
     },
@@ -234,7 +226,7 @@
           "excerpt": null
         },
         {
-          "title": "SPACEX passes AMAZON by market cap in third day of trading...",
+          "title": "SPACEX surges past MICROSOFT in market cap... Developing...",
           "link": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
           "summary": null,
           "published": null,
