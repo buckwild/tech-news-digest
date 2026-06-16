@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T08:00:25.794915-07:00",
-  "generated_at_display": "Jun 16, 2026 08:00 AM PT",
+  "generated_at": "2026-06-16T09:00:30.526969-07:00",
+  "generated_at_display": "Jun 16, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The federal judge\u2019s final decision is to dismiss the case with prejudice."
-        },
-        {
-          "title": "Facebook's new AI tools offer more of the same, with photo-editing and question-answering capabilities",
-          "link": "https://www.engadget.com/2194509/facebooks-new-ai-tools-offer-more-of-the-same-with-photo-editing-and-question-answering-capabilities/",
-          "summary": "Don't worry, there's yet another chatbot you can ask for restaurant recommendations.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Now you can ask a different chatbot which restaurant to try."
         }
       ]
     },
