@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T04:00:29.497728-07:00",
-  "generated_at_display": "Jun 16, 2026 04:00 AM PT",
+  "generated_at": "2026-06-16T05:00:23.025568-07:00",
+  "generated_at_display": "Jun 16, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "India temporarily blocks Telegram, claiming it was done to prevent exam fraud",
+          "link": "https://www.engadget.com/2195086/india-blocks-telegram/",
+          "summary": "India has temporarily blocked Telegram, claiming it's to prevent cheating on a crucial entrance exam.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The platform will be unavailable until June 22 after a key test paper was purportedly leaked."
+        },
+        {
           "title": "Justice Department backs xAI in NAACP lawsuit over data center pollution",
           "link": "https://www.engadget.com/2195032/doj-backs-xai-naacp-data-center-pollution-lawsuit/",
           "summary": "xAI has some powerful friends, and they're asking the court to dismiss NAACP's lawsuit.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Ahead of the G7 conference in France, Donald Trump isonce againthreatening massive tariffs on France if it doesn't remove its three percent digital tax on US tech companies. \"I asked [French President Emmanuel Macron] not to charge American companies, and if they do, I have no choice but to charge a 100 percent tariff on all champagnes and all wines coming out of France,\" the President toldThe New York Post."
-        },
-        {
-          "title": "Apple reportedly has three more iOS 27 features coming in the fall",
-          "link": "https://www.engadget.com/2193891/apple-reportedly-has-three-more-ios-27-features-coming-in-the-fall/",
-          "summary": "Apple is still holding some of its iOS 27 cards close to its chest.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple is still holding some of its iOS 27 cards close to its chest."
         }
       ]
     },
@@ -212,27 +212,20 @@
       "entries": [
         {
           "title": "TRUMP MAKES IRAN GREAT AGAIN",
-          "link": "https://metro.co.uk/2026/06/15/iran-us-strike-a-deal-will-last-28783448/",
+          "link": "https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html?unlocked_article_code=1.qlA.YmsF.Vh3JlOLjx5B3&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Epstein paid Palm Beach deputy to get special treatment in jail, ex-aide says...",
-          "link": "https://www.miamiherald.com/news/local/crime/article316022826.html",
+          "title": "His Jailhouse Writings...",
+          "link": "https://www.nytimes.com/interactive/2026/06/16/magazine/jeffrey-epstein-jail-writing.html?unlocked_article_code=1.qlA.zWu4.ba6AETr-8i7Z&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Republicans who pushed files release see political careers upended...",
-          "link": "https://www.nbcnews.com/politics/rcna348061",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "How Conservative Nonprofit Won Huge Case Against Trump and Suffered for It...",
+          "title": "Conservative Nonprofit Won Huge Case Against The Don and Suffered for It...",
           "link": "https://www.wsj.com/politics/policy/how-a-conservative-nonprofit-won-a-huge-case-against-trump-and-suffered-for-it-0701f667",
           "summary": null,
           "published": null,
