@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T13:00:23.929307-07:00",
-  "generated_at_display": "Jun 16, 2026 01:00 PM PT",
+  "generated_at": "2026-06-16T14:00:23.491322-07:00",
+  "generated_at_display": "Jun 16, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Around a fifth of Steam Next Fest demos have a generative AI disclosure",
+          "link": "https://www.engadget.com/2195840/around-a-fifth-of-steam-next-fest-demos-have-a-generative-ai-disclosure/",
+          "summary": "We'll see how players react.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We\u2019ll see how players react."
+        },
+        {
           "title": "10 underrated Apple Watch features you can set up in minutes",
           "link": "https://www.engadget.com/2195465/underrated-apple-watch-features/",
           "summary": "These might not be the most popular or well-known Apple Watch features, but we think they're worth using and setting up.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The all-stock acquisition concludes an agreement the two announced in April."
-        },
-        {
-          "title": "Italy is probing Apple over iCloud services like iPhone backups",
-          "link": "https://www.engadget.com/2195198/italy-is-probing-apple-over-icloud-services-like-iphone-backups/",
-          "summary": "Apple is being investigated by the EU again, this time over its iCloud service.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple recently delayed Siri AI in Europe due to a dispute with EU regulators."
         }
       ]
     },
@@ -218,6 +218,13 @@
         {
           "title": "Leapfrogs AMAZON to become world's fifth-most valuable company!",
           "link": "https://archive.is/gSV9U",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Pentagon used Grok AI to fire 2,000 missiles in war...",
+          "link": "https://www.independent.co.uk/b2996939.html",
           "summary": null,
           "published": null,
           "excerpt": null
