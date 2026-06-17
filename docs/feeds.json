@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T14:00:24.971439-07:00",
-  "generated_at_display": "Jun 17, 2026 02:00 PM PT",
+  "generated_at": "2026-06-17T15:00:23.446253-07:00",
+  "generated_at_display": "Jun 17, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "The iPhone Air 2 will reportedly land next spring with a second camera",
+          "link": "https://www.engadget.com/2196866/iphone-air-2-will-reportedly-land-next-spring-with-a-second-camera/",
+          "summary": "The ultralight may become a permanent fixture in Apple's smartphone lineup.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The ultralight may become a permanent fixture in Apple\u2019s smartphone lineup."
+        },
         {
           "title": "Epic Games details how it's embracing generative AI in Unreal Engine",
           "link": "https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/",
