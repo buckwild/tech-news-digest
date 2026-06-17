@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T12:00:31.653339-07:00",
-  "generated_at_display": "Jun 17, 2026 12:00 PM PT",
+  "generated_at": "2026-06-17T13:00:20.663460-07:00",
+  "generated_at_display": "Jun 17, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Anthropic's design assistant now works better with its coding agent",
+          "link": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent/",
+          "summary": "Anthropic's tools are getting chummy with each other.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Claude Design \ud83e\udd1d Claude Code."
+        },
+        {
           "title": "Rockstar will offer free GTA 5 upgrades from older console and PC versions",
           "link": "https://www.engadget.com/2196422/rockstar-will-offer-free-gta-5-upgrades-from-older-console-and-pc-versions/",
           "summary": "Not quite the Grand Theft Auto news everyone's been waiting for, but we'll take it.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "These features don\u2019t usually see the spotlight."
-        },
-        {
-          "title": "Google launches 'bubble' multi-tasking and foldable gaming mode with Android 17",
-          "link": "https://www.engadget.com/2195087/google-android-17-rollout/",
-          "summary": "Google has started rolling out Android 17.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Google isrolling out Android 17today, with Pixel devices getting the new mobile OS first before it makes its way to more Android phones throughout the year.Gemini Intelligence, the company's new context-aware AI system that can accomplish multi-step tasks for you, is also coming to select advanced devices this summer."
         }
       ]
     },
@@ -211,13 +211,6 @@
         {
           "title": "G7 Hot Mic Moments: Greenland, 'Friends Again' and Smoking...",
           "link": "https://www.nytimes.com/2026/06/17/world/europe/g7-summit-hot-mic-trump-meloni-greenland-carney.html?unlocked_article_code=1.q1A.EUdx.udxI05vJnjip&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Bezos to build most expensive mega mansion on Billionaire Bunker island...",
-          "link": "https://www.dailymail.com/news/article-15905233",
           "summary": null,
           "published": null,
           "excerpt": null
