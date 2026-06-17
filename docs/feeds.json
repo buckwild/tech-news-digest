@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T16:00:22.644466-07:00",
-  "generated_at_display": "Jun 16, 2026 04:00 PM PT",
+  "generated_at": "2026-06-16T17:00:28.913337-07:00",
+  "generated_at_display": "Jun 16, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Dell XPS 13 laptop is available starting today",
+          "link": "https://www.engadget.com/2195930/dell-xps-13-available/",
+          "summary": "The Dell XPS 13 is now available, starting at $599.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "But will it see the same success as the MacBook Neo?"
+        },
+        {
           "title": "Evan Spiegel doesn't want you to call Snap Specs AI glasses",
           "link": "https://www.engadget.com/2195862/snap-specs-ceo-evan-spiegel-interview-at-awe-2026/",
           "summary": "Snap CEO Evan Spiegel sat with us to discuss the Snap Specs, privacy, parental controls and more. Spoiler: He says \"computing\" a lot.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The fourth season premieres on July 23."
-        },
-        {
-          "title": "SpaceX is buying AI coding startup Cursor for $60 billion",
-          "link": "https://www.engadget.com/2195265/spacex-is-buying-ai-coding-startup-cursor-for-60-billion/",
-          "summary": "SpaceX is buying Cursor to bolster the capabilities of xAI.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The all-stock acquisition concludes an agreement the two announced in April."
         }
       ]
     },
