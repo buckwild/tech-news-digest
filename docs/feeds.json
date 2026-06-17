@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T04:00:25.302425-07:00",
-  "generated_at_display": "Jun 17, 2026 04:00 AM PT",
+  "generated_at": "2026-06-17T05:00:25.182886-07:00",
+  "generated_at_display": "Jun 17, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The White House app will reportedly be auto-installed on Homeland Security staff's devices",
+          "link": "https://www.engadget.com/2196077/white-house-app-auto-installed-homeland-security-devices/",
+          "summary": "The White House app will be automatically loaded onto DHS staff's work phones, Politico said.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The administration sent out a notice to DHS personnel on June 16, Politico said."
+        },
+        {
           "title": "The Dell XPS 13 laptop is available starting today",
           "link": "https://www.engadget.com/2195930/dell-xps-13-available/",
           "summary": "The Dell XPS 13 is now available, starting at $599.",
@@ -217,15 +225,8 @@
           "excerpt": null
         },
         {
-          "title": "SPACEX surges past MICROSOFT in market cap...",
-          "link": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Leapfrogs AMAZON to become world's fifth-most valuable company!",
-          "link": "https://archive.is/gSV9U",
+          "title": "Vance, face of deal to end Iran war, defies hawkish critics...",
+          "link": "https://www.washingtonpost.com/politics/2026/06/17/vance-face-deal-end-iran-war-defies-hawkish-gop-critics/",
           "summary": null,
           "published": null,
           "excerpt": null
