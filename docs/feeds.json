@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T15:00:23.446253-07:00",
-  "generated_at_display": "Jun 17, 2026 03:00 PM PT",
+  "generated_at": "2026-06-17T16:00:27.307278-07:00",
+  "generated_at_display": "Jun 17, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Tim Cook says Apple price increases are 'unavoidable' due to memory crunch",
+          "link": "https://www.engadget.com/2196902/tim-cook-says-apple-price-increases-are-unavoidable-due-to-memory-crunch/",
+          "summary": "RAMaggedon claims another one.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "RAMaggedon claims another one."
+        },
+        {
           "title": "The iPhone Air 2 will reportedly land next spring with a second camera",
           "link": "https://www.engadget.com/2196866/iphone-air-2-will-reportedly-land-next-spring-with-a-second-camera/",
           "summary": "The ultralight may become a permanent fixture in Apple's smartphone lineup.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Snap's newly announced AR Specs might seem similar to other smartglasses, but Snap CEO Evan Spiegel says that's the wrong way to think about the product. Specs, he says, is \"a new type of computer, a see-through computer.\""
-        },
-        {
-          "title": "Around a fifth of Steam Next Fest demos have a generative AI disclosure",
-          "link": "https://www.engadget.com/2195840/around-a-fifth-of-steam-next-fest-demos-have-a-generative-ai-disclosure/",
-          "summary": "We'll see how players react.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We\u2019ll see how players react."
         }
       ]
     },
