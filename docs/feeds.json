@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:00:24.847736-07:00",
-  "generated_at_display": "Jun 17, 2026 06:00 AM PT",
+  "generated_at": "2026-06-17T07:00:22.480642-07:00",
+  "generated_at_display": "Jun 17, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The all-new Google Home speaker has finally arrived for $100",
+          "link": "https://www.engadget.com/2194871/the-all-new-google-home-speaker-has-finally-arrived-for-100/",
+          "summary": "Upgrades include 360-degree audio and deeper integration with Google's Gemini.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Last fall Googleteasedthat it was working on anall-new Google Homespeaker due out sometime in mid 2026. And while it took a tiny bit longer than expected, today the company began taking pre-orders for its latest speaker ahead of its official on-sale date of June 25."
+        },
+        {
           "title": "The White House app will reportedly be auto-installed on Homeland Security staff's devices",
           "link": "https://www.engadget.com/2196077/white-house-app-auto-installed-homeland-security-devices/",
           "summary": "The White House app will be automatically loaded onto DHS staff's work phones, Politico said.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "If you've been testing and writing about smartglasses for as long as I have then you're used to a lot of questions along the lines of \"why do they look like that?\" Though smartgasses have come a long way in the last few years, most frames are still significantly thicker than the eyewear most people are used to wearing."
-        },
-        {
-          "title": "Star Trek: Strange New Worlds trailer has plenty of callbacks to its 1960s origins",
-          "link": "https://www.engadget.com/2195488/star-trek-strange-new-worlds-trailer-has-plenty-of-callbacks-to-its-1960s-origins/",
-          "summary": "Here's a new trailer for Star Trek: Strange New Worlds, which premiers July 23rd.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The fourth season premieres on July 23."
         }
       ]
     },
@@ -211,8 +211,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Vance, face of deal to end Iran war, defies hawkish critics...",
-          "link": "https://www.washingtonpost.com/politics/2026/06/17/vance-face-deal-end-iran-war-defies-hawkish-gop-critics/",
+          "title": "Netanyahu, Israel's arch-survivor, set to face voter fury over Iran deal...",
+          "link": "https://www.aol.com/articles/netanyahu-israels-arch-survivor-set-100650000.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "What life in prison with Ghislaine will look like for 'Ketamine Queen'...",
+          "link": "https://www.telegraph.co.uk/news/2026/06/16/prison-life-ketamine-queen-jasveen-sangha/",
           "summary": null,
           "published": null,
           "excerpt": null
