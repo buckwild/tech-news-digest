@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T11:00:26.316864-07:00",
-  "generated_at_display": "Jun 17, 2026 11:00 AM PT",
+  "generated_at": "2026-06-17T12:00:31.653339-07:00",
+  "generated_at_display": "Jun 17, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google isrolling out Android 17today, with Pixel devices getting the new mobile OS first before it makes its way to more Android phones throughout the year.Gemini Intelligence, the company's new context-aware AI system that can accomplish multi-step tasks for you, is also coming to select advanced devices this summer."
-        },
-        {
-          "title": "Wear OS 7 arrives to Pixel watches with Gemini AI and live updates",
-          "link": "https://www.engadget.com/2195052/wear-os-7-comes-to-pixel-watches/",
-          "summary": "Wear OS 7 is now live for Pixel watches, with a new interface, notifications and Gemini features.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Create your own widgets using Gemini's natural language features."
         }
       ]
     },
@@ -219,6 +211,13 @@
         {
           "title": "G7 Hot Mic Moments: Greenland, 'Friends Again' and Smoking...",
           "link": "https://www.nytimes.com/2026/06/17/world/europe/g7-summit-hot-mic-trump-meloni-greenland-carney.html?unlocked_article_code=1.q1A.EUdx.udxI05vJnjip&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Bezos to build most expensive mega mansion on Billionaire Bunker island...",
+          "link": "https://www.dailymail.com/news/article-15905233",
           "summary": null,
           "published": null,
           "excerpt": null
