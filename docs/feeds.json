@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T09:00:20.960195-07:00",
-  "generated_at_display": "Jun 17, 2026 09:00 AM PT",
+  "generated_at": "2026-06-17T10:00:23.658841-07:00",
+  "generated_at_display": "Jun 17, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Rockstar will offer free GTA 5 upgrades from older console and PC versions",
+          "link": "https://www.engadget.com/2196422/rockstar-will-offer-free-gta-5-upgrades-from-older-console-and-pc-versions/",
+          "summary": "Not quite the Grand Theft Auto news everyone's been waiting for, but we'll take it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Not quite the GTA news everyone's been waiting for, but we'll take it."
+        },
+        {
           "title": "The all-new Google Home speaker has finally arrived for $100",
           "link": "https://www.engadget.com/2194871/the-all-new-google-home-speaker-has-finally-arrived-for-100/",
           "summary": "Upgrades include 360-degree audio and deeper integration with Google's Gemini.",
@@ -187,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Create your own widgets using Gemini's natural language features."
-        },
-        {
-          "title": "Xreal officially reveals its Android XR Aura glasses \u2014 without a pricetag",
-          "link": "https://www.engadget.com/2194861/xreal-aura-android-xr-glasses-launch-no-price/",
-          "summary": "The company is taking paid reservations for a launch later this year.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Xreal's first Android XR glasses will go on sale later this year, the company announced at the Augmented World Expo event in Long Beach, California. The frames, once called \"Project Aura\" and now just known as \"Aura,\" are possibly the most ambitious take on what Google's homegrown AR platform can do."
-        },
-        {
-          "title": "Is NFC charging the secret to nicer-looking smartglasses?",
-          "link": "https://www.engadget.com/2195309/nucurrent-smart-glass-nfc-charging-tech-in-ray-ban-meta-prototype/",
-          "summary": "A pair of prototype Ray Ban Meta glasses at AWE 2026 show that NFC charging can achieve similar performance to the pogo pins common in smart glasses today.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "If you've been testing and writing about smartglasses for as long as I have then you're used to a lot of questions along the lines of \"why do they look like that?\" Though smartgasses have come a long way in the last few years, most frames are still significantly thicker than the eyewear most people are used to wearing."
         }
       ]
     },
@@ -210,6 +202,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "IRAN ORDERS ISRAEL OUT OF LEBANON",
+          "link": "https://www.pbs.org/newshour/world/iran-says-the-deal-to-end-the-war-with-the-u-s-requires-israel-to-withdraw-from-lebanon",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Netanyahu, Israel's arch-survivor, set to face voter fury over Iran deal...",
           "link": "https://www.yahoo.com/news/articles/netanyahu-israels-arch-survivor-set-100650583.html",
@@ -220,13 +219,6 @@
         {
           "title": "G7 Hot Mic Moments: Greenland, 'Friends Again' and Smoking...",
           "link": "https://www.nytimes.com/2026/06/17/world/europe/g7-summit-hot-mic-trump-meloni-greenland-carney.html?unlocked_article_code=1.q1A.EUdx.udxI05vJnjip&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "What life in prison with Ghislaine will look like for 'Ketamine Queen'...",
-          "link": "https://www.telegraph.co.uk/news/2026/06/16/prison-life-ketamine-queen-jasveen-sangha/",
           "summary": null,
           "published": null,
           "excerpt": null
