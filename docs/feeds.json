@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T07:00:25.229758-07:00",
-  "generated_at_display": "Jun 18, 2026 07:00 AM PT",
+  "generated_at": "2026-06-18T08:00:22.183362-07:00",
+  "generated_at_display": "Jun 18, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Akai refreshes the MPC One and Key 37 workstations",
+          "link": "https://www.engadget.com/2196725/akai-refreshes-the-mpc-one-and-key-37-workstations/",
+          "summary": "Akai updates the MPC One and Key 37 with better processors, additional RAM and more storage.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "They feature better processors, additional RAM and more storage."
+        },
+        {
           "title": "Old iPods are making a comeback thanks to Gen Z",
           "link": "https://www.engadget.com/2196894/ipods-comeback-gen-z/",
           "summary": "Now bring back the Microsoft Zune, I double dare you.",
@@ -202,6 +210,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Trump takes final ride in old Air Force One as Qatari jet awaits him...",
+          "link": "https://www.washingtonpost.com/politics/2026/06/18/trump-takes-final-ride-old-air-force-one-qatari-jet-awaits-him/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Rubio lets Vance take the fall as Iran deal questions mount...",
           "link": "https://www.latimes.com/politics/newsletter/2026-06-18/rubio-vance-iran-deal",
