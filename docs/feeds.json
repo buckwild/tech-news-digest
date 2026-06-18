@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T10:00:23.450023-07:00",
-  "generated_at_display": "Jun 18, 2026 10:00 AM PT",
+  "generated_at": "2026-06-18T11:00:28.591971-07:00",
+  "generated_at_display": "Jun 18, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Apple TV will broadcast the Formula 1 Austrian Grand Prix for free",
+          "link": "https://www.engadget.com/2197498/apple-tv-will-broadcast-the-formula-1-austrian-grand-prix-for-free/",
+          "summary": "Apple TV will show Formula 1's Australia Grand Prix for free, even to non-subscribers.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "There's no subscription required to watch the entire race weekend, which starts on June 26."
+        },
         {
           "title": "Google Calendar lets you use any color you want for your events",
           "link": "https://www.engadget.com/2197314/google-calendar-lets-you-use-any-color-you-want-for-your-events/",
@@ -254,8 +262,8 @@
           "excerpt": null
         },
         {
-          "title": "Republicans raise alarm...",
-          "link": "https://thehill.com/homenews/senate/5929430-trump-iran-deal-republican-backlash/",
+          "title": "Top Republican Slams:  Worse Than Obama's...",
+          "link": "https://www.mediaite.com/media/news/top-republican-slams-trump-iran-agreement-300-billion-makes-obama-deal-look-like-a-pittance/",
           "summary": null,
           "published": null,
           "excerpt": null
