@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T23:00:29.384801-07:00",
-  "generated_at_display": "Jun 17, 2026 11:00 PM PT",
+  "generated_at": "2026-06-18T00:00:22.884198-07:00",
+  "generated_at_display": "Jun 18, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Midjourney, the AI image generator, is developing a full-body ultrasonic scanner",
+          "link": "https://www.engadget.com/2196998/midjourney-full-body-ultrasonic-scanner/",
+          "summary": "Midjourney has announced its first hardware project, and it can do more than make cute AI pet photos.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Midjourney, known for its AI program that can generate images from text prompts, hasannouncedits new project: A medical machine that can scan your whole body in just 60 seconds. It's so far removed from what Midjourney is known for that we had to check the date and make sure it wasn't April 1st. Well, it's not April Fools: The\u00a0Midjourney Scanner is real, and the company is even building spas where you can find the machines and get scanned."
+        },
+        {
           "title": "Tim Cook says Apple price increases are 'unavoidable' due to memory crunch",
           "link": "https://www.engadget.com/2196902/tim-cook-says-apple-price-increases-are-unavoidable-due-to-memory-crunch/",
           "summary": "RAMaggedon claims another one.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "But will it see the same success as the MacBook Neo?"
-        },
-        {
-          "title": "Evan Spiegel doesn't want you to call Snap Specs AI glasses",
-          "link": "https://www.engadget.com/2195862/snap-specs-ceo-evan-spiegel-interview-at-awe-2026/",
-          "summary": "Snap CEO Evan Spiegel sat with us to discuss the Snap Specs, privacy, parental controls and more. Spoiler: He says \"computing\" a lot.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Snap's newly announced AR Specs might seem similar to other smartglasses, but Snap CEO Evan Spiegel says that's the wrong way to think about the product. Specs, he says, is \"a new type of computer, a see-through computer.\""
         }
       ]
     },
