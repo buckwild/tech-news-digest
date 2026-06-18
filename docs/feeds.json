@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T13:00:29.000486-07:00",
-  "generated_at_display": "Jun 18, 2026 01:00 PM PT",
+  "generated_at": "2026-06-18T14:00:22.560865-07:00",
+  "generated_at_display": "Jun 18, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google has discontinued the Nest Home Mini and Nest Audio",
+          "link": "https://www.engadget.com/2197748/google-has-discontinued-the-nest-home-mini-and-nest-audio/",
+          "summary": "On to the next one.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google justintroduceda new smart home speaker yesterday, but the arrival of a new product heralds the end of others. The company has confirmed that it will end production of the Nest Home Mini and Nest Audio. TheseNest deviceshave been on the market for around five years (or longer, if you count2017's Google Home Mini) and it seems logical for Google to prioritize the newer generation given the current strategy of putting itsGeminichatbot everywhere it possibly can."
+        },
+        {
           "title": "How to pay with Google Wallet using your Samsung Galaxy Watch",
           "link": "https://www.engadget.com/2197517/how-to-pay-with-google-wallet-samsung-galaxy-watch/",
           "summary": "You don't have to have a Pixel Watch to use Google Wallet. Here's how to set it up on your Galaxy Watch.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "RAMaggedon claims another one."
-        },
-        {
-          "title": "The iPhone Air 2 will reportedly land next spring with a second camera",
-          "link": "https://www.engadget.com/2196866/iphone-air-2-will-reportedly-land-next-spring-with-a-second-camera/",
-          "summary": "The ultralight may become a permanent fixture in Apple's smartphone lineup.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The ultralight may become a permanent fixture in Apple\u2019s smartphone lineup."
         }
       ]
     },
