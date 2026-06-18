@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T08:00:22.183362-07:00",
-  "generated_at_display": "Jun 18, 2026 08:00 AM PT",
+  "generated_at": "2026-06-18T09:00:20.414404-07:00",
+  "generated_at_display": "Jun 18, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google Calendar lets you use any color you want for your events",
+          "link": "https://www.engadget.com/2197314/google-calendar-lets-you-use-any-color-you-want-for-your-events/",
+          "summary": "Your Google Calendar is about to get a lot more colorful.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The platform used to only offer 11 different colors."
+        },
+        {
           "title": "Akai refreshes the MPC One and Key 37 workstations",
           "link": "https://www.engadget.com/2196725/akai-refreshes-the-mpc-one-and-key-37-workstations/",
           "summary": "Akai updates the MPC One and Key 37 with better processors, additional RAM and more storage.",
@@ -211,7 +219,21 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Trump takes final ride in old Air Force One as Qatari jet awaits him...",
+          "title": "Oil tankers pass Hormuz Strait... Developing...",
+          "link": "https://www.yahoo.com/news/world/articles/oil-tankers-pass-hormuz-strait-151810227.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "PAPER:  WORLD TURNS AGAINST USA",
+          "link": "https://www.telegraph.co.uk/us/news/2026/06/18/iran-war-trump-us-credibility/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Takes final ride in old Air Force One as Qatari jet awaits him...",
           "link": "https://www.washingtonpost.com/politics/2026/06/18/trump-takes-final-ride-old-air-force-one-qatari-jet-awaits-him/",
           "summary": null,
           "published": null,
