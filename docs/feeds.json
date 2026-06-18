@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T11:00:28.591971-07:00",
-  "generated_at_display": "Jun 18, 2026 11:00 AM PT",
+  "generated_at": "2026-06-18T12:00:23.966474-07:00",
+  "generated_at_display": "Jun 18, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "How to pay with Google Wallet using your Samsung Galaxy Watch",
+          "link": "https://www.engadget.com/2197517/how-to-pay-with-google-wallet-samsung-galaxy-watch/",
+          "summary": "You don't have to have a Pixel Watch to use Google Wallet. Here's how to set it up on your Galaxy Watch.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You're not limited to using Samsung pay just because it's a Galaxy Watch"
+        },
+        {
+          "title": "Apple opens up third-party app stores in Brazil",
+          "link": "https://www.engadget.com/2197562/apple-opens-up-third-party-app-stores-in-brazil/",
+          "summary": "Third-party iOS app stores are coming to Brazil.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Core Technology Fee will be 5 percent outside the App Store."
+        },
+        {
           "title": "Apple TV will broadcast the Formula 1 Austrian Grand Prix for free",
           "link": "https://www.engadget.com/2197498/apple-tv-will-broadcast-the-formula-1-austrian-grand-prix-for-free/",
           "summary": "Apple TV will show Formula 1's Australia Grand Prix for free, even to non-subscribers.",
@@ -203,22 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The ultralight may become a permanent fixture in Apple\u2019s smartphone lineup."
-        },
-        {
-          "title": "Epic Games details how it's embracing generative AI in Unreal Engine",
-          "link": "https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/",
-          "summary": "Epic Games is making generative AI a big part of upcoming versions of Unreal Engine.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "During The State of Unreal keynote at Unreal Fest on Wednesday, Epic Games revealed just how it's embracing generative AI in Unreal Engine (UE). Along with offering the first details onUnreal Engine 6 (UE6), the company discussed new features for Unreal Engine 5.8, which it also released on Wednesday. As part of the latest update, Epic is offering an experimental Model Context Protocol (MCP) plugin that will allow developers to hook gen AI models such as Claude and Gemini into Unreal Engine. It's looking to make the MCP an integral part of UE6."
-        },
-        {
-          "title": "Anthropic's design assistant now works better with its coding agent",
-          "link": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent/",
-          "summary": "Anthropic's tools are getting chummy with each other.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Claude Design \ud83e\udd1d Claude Code."
         }
       ]
     },
