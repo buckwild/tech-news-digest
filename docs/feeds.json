@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T06:00:22.931431-07:00",
-  "generated_at_display": "Jun 18, 2026 06:00 AM PT",
+  "generated_at": "2026-06-18T07:00:25.229758-07:00",
+  "generated_at_display": "Jun 18, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,30 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Old iPods are making a comeback thanks to Gen Z",
+          "link": "https://www.engadget.com/2196894/ipods-comeback-gen-z/",
+          "summary": "Now bring back the Microsoft Zune, I double dare you.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Now bring back the Microsoft Zune, I double dare you."
+        },
+        {
+          "title": "XGIMI MemoMind One review: Smart glasses, creepy AI",
+          "link": "https://www.engadget.com/2196666/xgimi-memomind-one-review/",
+          "summary": "XGIMI's MemoMind One is a good pair of smart glasses blighted by a creepy AI that spies on you.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "XGIMI says the MemoMind One doesn't have a camera as the company is focused on the privacy of both its users and the general public. That's the right idea, as I object to the concept of walking around with a camera attached to my face. However, this pitch is undermined by the Moments feature, which outrages and confuses me in equal measure. In essence, it's a journal of your day: The glasses' built-in microphones are recording what you're doing at all times."
+        },
+        {
+          "title": "Adobe brings its Firefly AI Assistant inside of Premiere, Photoshop and Illustrator",
+          "link": "https://www.engadget.com/2197079/adobe-brings-its-firefly-ai-assistant-inside-of-premiere-photoshop-and-illustrator/",
+          "summary": "Adobe has added its Firefly AI tool to some of its most important apps.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Earlier this year, Adobe debutedFirefly AI Assistant, an AI agent that could work across its family of Creative Cloud apps to complete multi-step workflows on behalf of users. Today, the company is previewing an updated Firefly creative AI studio experience that expands the capabilities of that software, starting with an upgrade to AI Assistant's ability to carry context forward. A new Elements feature allows users to save characters, locations and objects they've previously generated to reuse in future outputs. Adobe suggests this capability will allow AI Assistant to better maintain consistency across stories, campaigns and projects that evolve inside of Firefly."
+        },
+        {
           "title": "Trump claims Apple and Intel closed deal to manufacture chips in the US",
           "link": "https://www.engadget.com/2197065/trump-claims-apple-intel-deal-is-done/",
           "summary": "In a Truth Social post, Trump said Apple and Intel have already finalized an agreement to manufacture chips for the former's devices stateside.",
@@ -171,30 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Claude Design \ud83e\udd1d Claude Code."
-        },
-        {
-          "title": "Rockstar will offer free GTA 5 upgrades from older console and PC versions",
-          "link": "https://www.engadget.com/2196422/rockstar-will-offer-free-gta-5-upgrades-from-older-console-and-pc-versions/",
-          "summary": "Not quite the Grand Theft Auto news everyone's been waiting for, but we'll take it.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Not quite the GTA news everyone's been waiting for, but we'll take it."
-        },
-        {
-          "title": "The all-new Google Home speaker has finally arrived for $100",
-          "link": "https://www.engadget.com/2194871/the-all-new-google-home-speaker-has-finally-arrived-for-100/",
-          "summary": "Upgrades include 360-degree audio and deeper integration with Google's Gemini.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Last fall Googleteasedthat it was working on anall-new Google Homespeaker due out sometime in mid 2026. And while it took a tiny bit longer than expected, today the company began taking pre-orders for its latest speaker ahead of its official on-sale date of June 25."
-        },
-        {
-          "title": "The White House app will reportedly be auto-installed on Homeland Security staff's devices",
-          "link": "https://www.engadget.com/2196077/white-house-app-auto-installed-homeland-security-devices/",
-          "summary": "The White House app will be automatically loaded onto DHS staff's work phones, Politico said.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The administration sent out a notice to DHS personnel on June 16, Politico said."
         }
       ]
     },
@@ -205,6 +205,13 @@
         {
           "title": "Rubio lets Vance take the fall as Iran deal questions mount...",
           "link": "https://www.latimes.com/politics/newsletter/2026-06-18/rubio-vance-iran-deal",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Gulf States Frustrated by Failure to Tackle Missiles...",
+          "link": "https://www.nytimes.com/2026/06/18/world/middleeast/gulf-states-us-iran-deal.html?unlocked_article_code=1.rFA.C-nt.tBWXhdIYN6dQ&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
