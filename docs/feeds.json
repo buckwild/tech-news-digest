@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T04:00:21.486303-07:00",
-  "generated_at_display": "Jun 18, 2026 04:00 AM PT",
+  "generated_at": "2026-06-18T05:00:22.435603-07:00",
+  "generated_at_display": "Jun 18, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Trump claims Apple and Intel closed deal to manufacture chips in the US",
+          "link": "https://www.engadget.com/2197065/trump-claims-apple-intel-deal-is-done/",
+          "summary": "In a Truth Social post, Trump said Apple and Intel have already finalized an agreement to manufacture chips for the former's devices stateside.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The companies have yet to confirm the news."
+        },
+        {
           "title": "Midjourney, the AI image generator, is developing a full-body ultrasonic scanner",
           "link": "https://www.engadget.com/2196998/midjourney-full-body-ultrasonic-scanner/",
           "summary": "Midjourney has announced its first hardware project, and it can do more than make cute AI pet photos.",
@@ -204,6 +212,34 @@
         {
           "title": "Rubio lets Vance take the fall as Iran deal questions mount...",
           "link": "https://www.latimes.com/politics/newsletter/2026-06-18/rubio-vance-iran-deal",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republicans raise alarm...",
+          "link": "https://thehill.com/homenews/senate/5929430-trump-iran-deal-republican-backlash/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Sauerkraut Diet Sweeps Through Trump Cabinet...'Sulfurous Odors' Wafting From White House...",
+          "link": "https://www.wsj.com/lifestyle/fitness/trump-vance-lutnick-rfk-sauerkraut-diet-2f33bdf1",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Presidents Line Up for Barack's Long-Awaited Center in Chicago...",
+          "link": "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html?unlocked_article_code=1.rFA.o3if.evm-rW2oR9Mv&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "UFO Enthusiasts Were Waiting for a Sign. They Got 'DISCLOSURE DAY'...",
+          "link": "https://www.wsj.com/arts-culture/film/disclosure-day-steven-spielberg-aliens-ufos-uaps-555d0718",
           "summary": null,
           "published": null,
           "excerpt": null
