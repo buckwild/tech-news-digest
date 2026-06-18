@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T05:00:22.435603-07:00",
-  "generated_at_display": "Jun 18, 2026 05:00 AM PT",
+  "generated_at": "2026-06-18T06:00:22.931431-07:00",
+  "generated_at_display": "Jun 18, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,13 +203,6 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "IRAN ORDERS ISRAEL OUT OF LEBANON",
-          "link": "https://www.pbs.org/newshour/world/iran-says-the-deal-to-end-the-war-with-the-u-s-requires-israel-to-withdraw-from-lebanon",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "Rubio lets Vance take the fall as Iran deal questions mount...",
           "link": "https://www.latimes.com/politics/newsletter/2026-06-18/rubio-vance-iran-deal",
           "summary": null,
@@ -219,6 +212,13 @@
         {
           "title": "Republicans raise alarm...",
           "link": "https://thehill.com/homenews/senate/5929430-trump-iran-deal-republican-backlash/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Dubai property sales have fallen 'off a cliff'...",
+          "link": "https://www.theguardian.com/business/2026/jun/18/dubai-property-sales-fall-since-middle-east-war-say-experts",
           "summary": null,
           "published": null,
           "excerpt": null
