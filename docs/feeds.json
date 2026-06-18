@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T03:00:23.778741-07:00",
-  "generated_at_display": "Jun 18, 2026 03:00 AM PT",
+  "generated_at": "2026-06-18T04:00:21.486303-07:00",
+  "generated_at_display": "Jun 18, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The administration sent out a notice to DHS personnel on June 16, Politico said."
-        },
-        {
-          "title": "The Dell XPS 13 laptop is available starting today",
-          "link": "https://www.engadget.com/2195930/dell-xps-13-available/",
-          "summary": "The Dell XPS 13 is now available, starting at $599.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "But will it see the same success as the MacBook Neo?"
         }
       ]
     },
@@ -210,22 +202,8 @@
           "excerpt": null
         },
         {
-          "title": "REPUBLICAN SEN: 'Reagan Rolling Over in His Grave!''Worst Foreign Policy Blunder in Decades'...",
-          "link": "https://www.mediaite.com/media/news/reagan-is-rolling-over-in-his-grave-gop-senator-takes-a-flamethrower-to-trumps-iran-deal-calls-it-worst-foreign-policy-blunder-in-decades/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Netanyahu, Israel's arch-survivor, set to face voter fury over Iran deal...",
-          "link": "https://www.yahoo.com/news/articles/netanyahu-israels-arch-survivor-set-100650583.html",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "G7 Hot Mic Moments: Greenland, 'Friends Again' and Smoking...",
-          "link": "https://www.nytimes.com/2026/06/17/world/europe/g7-summit-hot-mic-trump-meloni-greenland-carney.html?unlocked_article_code=1.q1A.EUdx.udxI05vJnjip&smid=url-share",
+          "title": "Rubio lets Vance take the fall as Iran deal questions mount...",
+          "link": "https://www.latimes.com/politics/newsletter/2026-06-18/rubio-vance-iran-deal",
           "summary": null,
           "published": null,
           "excerpt": null
