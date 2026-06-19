@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T00:00:24.291048-07:00",
-  "generated_at_display": "Jun 19, 2026 12:00 AM PT",
+  "generated_at": "2026-06-19T01:00:21.878746-07:00",
+  "generated_at_display": "Jun 19, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Midjourney, known for its AI program that can generate images from text prompts, hasannouncedits new project: A medical machine that can scan your whole body in just 60 seconds. It's so far removed from what Midjourney is known for that we had to check the date and make sure it wasn't April 1st. Well, it's not April Fools: The\u00a0Midjourney Scanner is real, and the company is even building spas where you can find the machines and get scanned."
-        },
-        {
-          "title": "Tim Cook says Apple price increases are 'unavoidable' due to memory crunch",
-          "link": "https://www.engadget.com/2196902/tim-cook-says-apple-price-increases-are-unavoidable-due-to-memory-crunch/",
-          "summary": "RAMaggedon claims another one.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "RAMaggedon claims another one."
         }
       ]
     },
