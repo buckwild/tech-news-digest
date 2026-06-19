@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T13:00:22.147769-07:00",
-  "generated_at_display": "Jun 19, 2026 01:00 PM PT",
+  "generated_at": "2026-06-19T14:00:23.919375-07:00",
+  "generated_at_display": "Jun 19, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -227,7 +227,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "CONFUSION: Iran declares Hormuz CLOSED again?",
+          "title": "CONFUSION: Iran Foreign Ministry says Hormuz open, IRGC warned closed...",
           "link": "https://nypost.com/2026/06/19/world-news/iran-declares-the-strait-of-hormuz-closed-again-after-us-lifts-blockade/",
           "summary": null,
           "published": null,
@@ -243,6 +243,13 @@
         {
           "title": "Adelson Newspaper Slams Trump: 'You Failed'...",
           "link": "https://www.mediaite.com/media/news/top-trump-donor-miriam-adelsons-newspaper-runs-scathing-open-letter-to-prez-you-failed/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "MAGA Influencers Getting Blacklisted from White House...",
+          "link": "https://dailycaller.com/2026/06/19/maga-influencers-white-house-daily-mail-report-foreign-influence-campaigns-israel-netanyahu-iran-us-deal/",
           "summary": null,
           "published": null,
           "excerpt": null
