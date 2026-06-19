@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T12:00:28.589133-07:00",
-  "generated_at_display": "Jun 19, 2026 12:00 PM PT",
+  "generated_at": "2026-06-19T13:00:22.147769-07:00",
+  "generated_at_display": "Jun 19, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -255,7 +255,14 @@
           "excerpt": null
         },
         {
-          "title": "Is AI making the world more predictable?",
+          "title": "New Air Force One plane, $400M jet gifted by Qatar, unveiled by military...",
+          "link": "https://www.cbsnews.com/news/air-force-one-new-plane-trump-qatar/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "AI making world more predictable?",
           "link": "https://archive.is/pVdLS",
           "summary": null,
           "published": null,
