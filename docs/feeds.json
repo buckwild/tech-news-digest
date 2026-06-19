@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T06:00:22.212649-07:00",
-  "generated_at_display": "Jun 19, 2026 06:00 AM PT",
+  "generated_at": "2026-06-19T07:00:24.404291-07:00",
+  "generated_at_display": "Jun 19, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Toy Story 5 is a surprisingly thoughtful critique of technology",
+          "link": "https://www.engadget.com/2197271/toy-story-5-is-a-surprisingly-thoughtful-critique-of-technology/",
+          "summary": "Toy Story 5 introduces a tablet as a villain, but it's also smart enough to realize tech isn't always bad. Parents just need to step up.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "After five films, digital technology has finally arrived in the cloth-and-plastic world of Toy Story. But the film, directed by franchise veteran Andrew Stanton and McKenna Grace, mostly avoids the easy trope of making technology inherently bad. Instead, it's a disruptive force that can be either helpful or harmful, depending on how it's used. The film makes the case that parents need to take a hands-on approach to help kids manage their gadgets, especially when it comes to managing screen time or dealing with bullying."
+        },
+        {
           "title": "Amazon won't release Sam Altman biopic focused on OpenAI's 2023 leadership crisis",
           "link": "https://www.engadget.com/2198001/amazon-mgm-wont-release-sam-altman-biopic/",
           "summary": "Luca Guadagnino's Sam Altman biopic has to find a new studio after Amazon dropped it.",
@@ -219,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Earlier this year, Adobe debutedFirefly AI Assistant, an AI agent that could work across its family of Creative Cloud apps to complete multi-step workflows on behalf of users. Today, the company is previewing an updated Firefly creative AI studio experience that expands the capabilities of that software, starting with an upgrade to AI Assistant's ability to carry context forward. A new Elements feature allows users to save characters, locations and objects they've previously generated to reuse in future outputs. Adobe suggests this capability will allow AI Assistant to better maintain consistency across stories, campaigns and projects that evolve inside of Firefly."
-        },
-        {
-          "title": "Trump claims Apple and Intel closed deal to manufacture chips in the US",
-          "link": "https://www.engadget.com/2197065/trump-claims-apple-intel-deal-is-done/",
-          "summary": "In a Truth Social post, Trump said Apple and Intel have already finalized an agreement to manufacture chips for the former's devices stateside.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The companies have yet to confirm the news."
         }
       ]
     },
