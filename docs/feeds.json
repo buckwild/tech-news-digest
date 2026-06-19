@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T11:00:20.976291-07:00",
-  "generated_at_display": "Jun 19, 2026 11:00 AM PT",
+  "generated_at": "2026-06-19T12:00:28.589133-07:00",
+  "generated_at_display": "Jun 19, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -219,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Now bring back the Microsoft Zune, I double dare you."
-        },
-        {
-          "title": "XGIMI MemoMind One review: Smart glasses, creepy AI",
-          "link": "https://www.engadget.com/2196666/xgimi-memomind-one-review/",
-          "summary": "XGIMI's MemoMind One is a good pair of smart glasses blighted by a creepy AI that spies on you.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "XGIMI says the MemoMind One doesn't have a camera as the company is focused on the privacy of both its users and the general public. That's the right idea, as I object to the concept of walking around with a camera attached to my face. However, this pitch is undermined by the Moments feature, which outrages and confuses me in equal measure. In essence, it's a journal of your day: The glasses' built-in microphones are recording what you're doing at all times."
         }
       ]
     },
@@ -251,6 +243,13 @@
         {
           "title": "Adelson Newspaper Slams Trump: 'You Failed'...",
           "link": "https://www.mediaite.com/media/news/top-trump-donor-miriam-adelsons-newspaper-runs-scathing-open-letter-to-prez-you-failed/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Captain Christian Pulisic OUT...",
+          "link": "https://www.the-sun.com/sport/16531331",
           "summary": null,
           "published": null,
           "excerpt": null
