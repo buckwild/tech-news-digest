@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T05:00:23.585740-07:00",
-  "generated_at_display": "Jun 19, 2026 05:00 AM PT",
+  "generated_at": "2026-06-19T06:00:22.212649-07:00",
+  "generated_at_display": "Jun 19, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon won't release Sam Altman biopic focused on OpenAI's 2023 leadership crisis",
+          "link": "https://www.engadget.com/2198001/amazon-mgm-wont-release-sam-altman-biopic/",
+          "summary": "Luca Guadagnino's Sam Altman biopic has to find a new studio after Amazon dropped it.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apropos of nothing, in February, Amazon invested $50 billion in OpenAI."
+        },
+        {
+          "title": "Amazon is investigating three employees who spoke out against building more AI data centers",
+          "link": "https://www.engadget.com/2197988/amazon-investigates-engineers-spoke-out-against-ai-data-center/",
+          "summary": "The engineers who spoke negatively about AI data centers at Seattle city hearings accuse Amazon of threatening their jobs over their testimonies.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "They were testifying at a Seattle city council meeting."
+        },
+        {
           "title": "Are you prepared to wait until 2027 for a Steam Controller?",
           "link": "https://www.engadget.com/2197972/valve-steam-controller-2027-shipping/",
           "summary": "In an update, Valve says it may not ship some Steam Controller orders until next year.",
@@ -219,8 +235,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Oil tankers pass Hormuz Strait... Developing...",
-          "link": "https://www.yahoo.com/news/world/articles/oil-tankers-pass-hormuz-strait-151810227.html",
+          "title": "Iran Asserts Control Over Hormuz With Rules Paving Way for Tolls...",
+          "link": "https://theedgemalaysia.com/node/807587",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -249,6 +265,13 @@
         {
           "title": "Is AI making the world more predictable?",
           "link": "https://archive.is/pVdLS",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Vegas Was Once America's Bargain Vacation. Now It's Luxury Destination...",
+          "link": "https://www.wsj.com/business/hospitality/las-vegas-vacation-wealthy-e77c0e63",
           "summary": null,
           "published": null,
           "excerpt": null
