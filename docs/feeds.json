@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T04:00:23.459308-07:00",
-  "generated_at_display": "Jun 20, 2026 04:00 AM PT",
+  "generated_at": "2026-06-20T05:00:20.273871-07:00",
+  "generated_at_display": "Jun 20, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "They feature better processors, additional RAM and more storage."
-        },
-        {
-          "title": "Old iPods are making a comeback thanks to Gen Z",
-          "link": "https://www.engadget.com/2196894/ipods-comeback-gen-z/",
-          "summary": "Now bring back the Microsoft Zune, I double dare you.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Now bring back the Microsoft Zune, I double dare you."
         }
       ]
     },
