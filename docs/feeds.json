@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T10:00:23.106281-07:00",
-  "generated_at_display": "Jun 20, 2026 10:00 AM PT",
+  "generated_at": "2026-06-20T11:00:21.651451-07:00",
+  "generated_at_display": "Jun 20, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,22 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Google justintroduceda new smart home speaker yesterday, but the arrival of a new product heralds the end of others. The company has confirmed that it will end production of the Nest Home Mini and Nest Audio. TheseNest deviceshave been on the market for around five years (or longer, if you count2017's Google Home Mini) and it seems logical for Google to prioritize the newer generation given the current strategy of putting itsGeminichatbot everywhere it possibly can."
-        },
-        {
-          "title": "How to pay with Google Wallet using your Samsung Galaxy Watch",
-          "link": "https://www.engadget.com/2197517/how-to-pay-with-google-wallet-samsung-galaxy-watch/",
-          "summary": "You don't have to have a Pixel Watch to use Google Wallet. Here's how to set it up on your Galaxy Watch.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You're not limited to using Samsung pay just because it's a Galaxy Watch"
-        },
-        {
-          "title": "Apple opens up third-party app stores in Brazil",
-          "link": "https://www.engadget.com/2197562/apple-opens-up-third-party-app-stores-in-brazil/",
-          "summary": "Third-party iOS app stores are coming to Brazil.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The Core Technology Fee will be 5 percent outside the App Store."
         }
       ]
     },
@@ -203,7 +187,14 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "HORMUZ CLOSED AGAIN",
+          "title": "Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims...",
+          "link": "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "IRAN: STRAIT CLOSED",
           "link": "https://www.nbcnews.com/world/iran/israel-continues-lebanon-strikes-fresh-ceasefire-rcna350952",
           "summary": null,
           "published": null,
@@ -212,20 +203,6 @@
         {
           "title": "Mines, Logistics and Deep Uncertainty Threaten Oil Rebound...",
           "link": "https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html?unlocked_article_code=1.rlA.JGaE.BvlKcU06DrnR&smid=url-share",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "MAGA Influencers Getting Blacklisted from White House...",
-          "link": "https://dailycaller.com/2026/06/19/maga-influencers-white-house-daily-mail-report-foreign-influence-campaigns-israel-netanyahu-iran-us-deal/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "New Air Force One, via Qatar, Nears First Presidential Flight...",
-          "link": "https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html?unlocked_article_code=1.rlA.RF1N.3JZwegVwaqou&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
