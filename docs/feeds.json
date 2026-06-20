@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T08:00:20.713823-07:00",
-  "generated_at_display": "Jun 20, 2026 08:00 AM PT",
+  "generated_at": "2026-06-20T09:00:24.290367-07:00",
+  "generated_at_display": "Jun 20, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Claude Guillemot, one of Ubisoft's co-founders,\u00a0has died in a plane crash",
+          "link": "https://www.engadget.com/2198346/claude-guillemot-one-of-ubisoft-co-founders-has-died-in-a-plane-crash/",
+          "summary": "The crash reportedly happened on an airstrip near the western coast of France on June 19.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The crash reportedly happened on an airstrip near the western coast of France on June 19."
+        },
+        {
           "title": "Norway imposes broad restrictions on AI for elementary school kids",
           "link": "https://www.engadget.com/2198117/norway-imposes-broad-restrictions-on-ai-for-elementary-school-kids/",
           "summary": "Norway will reportedly ban young kids from using AI in schools.",
@@ -187,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Core Technology Fee will be 5 percent outside the App Store."
-        },
-        {
-          "title": "Apple TV will broadcast the Formula 1 Austrian Grand Prix for free",
-          "link": "https://www.engadget.com/2197498/apple-tv-will-broadcast-the-formula-1-austrian-grand-prix-for-free/",
-          "summary": "Apple TV will show Formula 1's Australia Grand Prix for free, even to non-subscribers.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "There's no subscription required to watch the entire race weekend, which starts on June 26."
-        },
-        {
-          "title": "Google Calendar lets you use any color you want for your events",
-          "link": "https://www.engadget.com/2197314/google-calendar-lets-you-use-any-color-you-want-for-your-events/",
-          "summary": "Your Google Calendar is about to get a lot more colorful.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The platform used to only offer 11 different colors."
         }
       ]
     },
