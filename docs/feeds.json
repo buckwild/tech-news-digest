@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T06:00:22.934266-07:00",
-  "generated_at_display": "Jun 20, 2026 06:00 AM PT",
+  "generated_at": "2026-06-20T07:00:21.104511-07:00",
+  "generated_at_display": "Jun 20, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The platform used to only offer 11 different colors."
-        },
-        {
-          "title": "Akai refreshes the MPC One and Key 37 workstations",
-          "link": "https://www.engadget.com/2196725/akai-refreshes-the-mpc-one-and-key-37-workstations/",
-          "summary": "Akai updates the MPC One and Key 37 with better processors, additional RAM and more storage.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "They feature better processors, additional RAM and more storage."
         }
       ]
     },
@@ -219,22 +211,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "CONFUSION: Iran Foreign Ministry says Hormuz open, IRGC warned closed...",
-          "link": "https://nypost.com/2026/06/19/world-news/iran-declares-the-strait-of-hormuz-closed-again-after-us-lifts-blockade/",
+          "title": "HORMUZ CLOSED AGAIN",
+          "link": "https://www.aol.com/articles/iran-closes-strait-hormuz-over-132428000.html",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Israel Launches Airstrikes in Lebanon...",
-          "link": "https://apnews.com/635ad6f41610df8355d24cc301a75fc4",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Adelson Newspaper Slams Trump: 'You Failed'...",
-          "link": "https://www.mediaite.com/media/news/top-trump-donor-miriam-adelsons-newspaper-runs-scathing-open-letter-to-prez-you-failed/",
+          "title": "Mines, Logistics and Deep Uncertainty Threaten Oil Rebound...",
+          "link": "https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html?unlocked_article_code=1.rlA.JGaE.BvlKcU06DrnR&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -247,15 +232,8 @@
           "excerpt": null
         },
         {
-          "title": "New Air Force One plane, $400M jet gifted by Qatar, unveiled by military...",
-          "link": "https://www.cbsnews.com/news/air-force-one-new-plane-trump-qatar/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "AI making world more predictable?",
-          "link": "https://archive.is/pVdLS",
+          "title": "New Air Force One, via Qatar, Nears First Presidential Flight...",
+          "link": "https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html?unlocked_article_code=1.rlA.RF1N.3JZwegVwaqou&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
