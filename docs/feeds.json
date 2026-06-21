@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T06:00:28.111902-07:00",
-  "generated_at_display": "Jun 21, 2026 06:00 AM PT",
+  "generated_at": "2026-06-21T07:00:22.677467-07:00",
+  "generated_at_display": "Jun 21, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -187,13 +187,6 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims...",
-          "link": "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "VEEP MEETS IRAN",
           "link": "https://apnews.com/2edf9268aae550883252080014013963",
           "summary": null,
@@ -201,8 +194,29 @@
           "excerpt": null
         },
         {
-          "title": "'STRAIT CLOSED'",
-          "link": "https://www.nbcnews.com/world/rcna350952",
+          "title": "STRAIT CLOSURE OVERSHADOWS",
+          "link": "https://www.msn.com/en-us/news/world/ar-AA26bout",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "'Poor' Ilhan Omar now claims erstwhile-millionaire hubby made as little as $200 last year...",
+          "link": "https://nypost.com/2026/06/21/us-news/ilhan-omar-now-claims-hubby-made-less-than-1k-from-all-his-jobs-last-year",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Americans Have Turned Against AI in Incredible Numbers...",
+          "link": "https://futurism.com/artificial-intelligence/americans-turn-against-ai-poll",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Brands using AI-generated influencers to promote products on social media...",
+          "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
           "summary": null,
           "published": null,
           "excerpt": null
