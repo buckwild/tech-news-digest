@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T14:00:28.510924-07:00",
-  "generated_at_display": "Jun 21, 2026 02:00 PM PT",
+  "generated_at": "2026-06-21T15:00:21.079174-07:00",
+  "generated_at_display": "Jun 21, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -178,6 +178,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Defiant Iran causes World Cup upset...",
+          "link": "https://www.latimes.com/sports/soccer/story/2026-06-21/irans-beleaguered-world-cup-team-finds-hope-belgium-draw",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "VEEP MEETS IRAN",
           "link": "https://apnews.com/2edf9268aae550883252080014013963",
