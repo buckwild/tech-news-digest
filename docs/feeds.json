@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T07:00:23.864275-07:00",
-  "generated_at_display": "Jun 22, 2026 07:00 AM PT",
+  "generated_at": "2026-06-22T08:00:23.006811-07:00",
+  "generated_at_display": "Jun 22, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "'Fungalpunk' RPG Signet City isn't afraid to be weird and political",
+          "link": "https://www.engadget.com/2198793/fungalpunk-rpg-signet-city-isnt-afraid-to-be-weird-and-political/",
+          "summary": "Gareth Martin drew on diverse inspirations for Signet City, from horror manga to a musical from Sting.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Signet City,the upcoming RPG fromCitizen Sleeperdeveloper Gareth Damian Martin, will cast players as a parasite. Set in a brutalist, monochromatic gotham at the edge of collapse, this entity will take control of different human hosts, directing their actions and accomplishing its own objectives. When asked what cultural touchpoints inspired the self-described \"fungalpunk\" RPG, Martin points to their own British upbringing, and the desire to \"create something that would draw on that identity and history\" \u2014 even if some of it might go over the heads an American audience."
+        },
+        {
+          "title": "Instagram for TV is now available on Samsung TVs in the US",
+          "link": "https://www.engadget.com/2198313/instagram-for-tv-samsung-tvs-us/",
+          "summary": "Instagram's TV app is expanding to Samsung TVs in the US, half a year after it launched for Amazon Fire TV devices.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You can watch reels and stories on TV with the app."
+        },
+        {
           "title": "OpenAI signs deal to show Getty's images in ChatGPT results",
           "link": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
           "summary": "Getty Images will allow OpenAI to use its content library in AI search and ChatGPT.",
@@ -163,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Apropos of nothing, in February, Amazon invested $50 billion in OpenAI."
-        },
-        {
-          "title": "Amazon is investigating three employees who spoke out against building more AI data centers",
-          "link": "https://www.engadget.com/2197988/amazon-investigates-engineers-spoke-out-against-ai-data-center/",
-          "summary": "The engineers who spoke negatively about AI data centers at Seattle city hearings accuse Amazon of threatening their jobs over their testimonies.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "They were testifying at a Seattle city council meeting."
         }
       ]
     },
@@ -186,7 +194,14 @@
           "excerpt": null
         },
         {
-          "title": "America's intractable air traffic problem causing travel hell...",
+          "title": "Vance says Iran agrees to nuke inspections, as under Obama deal that Trump threw out...",
+          "link": "https://www.washingtonpost.com/politics/2026/06/22/vance-says-iran-agrees-inspections-nuclear-talks-move-ahead/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "USA's intractable air traffic problem causing travel hell...",
           "link": "https://archive.is/TSAlW",
           "summary": null,
           "published": null,
