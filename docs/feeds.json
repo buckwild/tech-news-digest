@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T10:00:22.821194-07:00",
-  "generated_at_display": "Jun 22, 2026 10:00 AM PT",
+  "generated_at": "2026-06-22T11:00:24.485278-07:00",
+  "generated_at_display": "Jun 22, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,7 +125,15 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "A24 takes on Google money build AI tools",
+          "title": "Uber's board sued for alleged poor oversight that led to sexual abuse of its passengers",
+          "link": "https://www.engadget.com/2199149/uber-board-sued-for-alleged-poor-oversight-that-led-to-sexual-abuse-of-its-passengers/",
+          "summary": "Uber's shareholders have filed a lawsuit against the ride-sharing giant.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company\u2019s shareholders filed the lawsuit."
+        },
+        {
+          "title": "A24 takes on Google money to build AI tools",
           "link": "https://www.engadget.com/2199010/a24-takes-on-google-money-help-build-ai-tools/",
           "summary": "A24 is taking $75 million in Google money to help build AI tools for movie production.",
           "published": "iso",
@@ -181,6 +189,20 @@
         {
           "title": "Vance says Iran agrees to nuke inspections -- same, as Obama deal that Trump threw out...",
           "link": "https://www.washingtonpost.com/politics/2026/06/22/vance-says-iran-agrees-inspections-nuclear-talks-move-ahead/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Tensions run high as Supremes prepare to rule on 3 key White House priorities...",
+          "link": "https://www.washingtonpost.com/politics/2026/06/22/tensions-run-high-supreme-court-prepares-rule-3-key-trump-priorities/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Judge blocks DOJ subpoenas aimed at Tim Walz: 'Blatantly unlawful'...",
+          "link": "https://www.politico.com/news/2026/06/22/trump-justice-department-tim-walz-minnesota-subpoenas-00969849",
           "summary": null,
           "published": null,
           "excerpt": null
