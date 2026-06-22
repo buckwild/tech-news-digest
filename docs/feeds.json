@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T09:00:27.545298-07:00",
-  "generated_at_display": "Jun 22, 2026 09:00 AM PT",
+  "generated_at": "2026-06-22T10:00:22.821194-07:00",
+  "generated_at_display": "Jun 22, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,12 +125,20 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
-          "title": "'Fungalpunk' RPG Signet City isn't afraid to be weird and political",
-          "link": "https://www.engadget.com/2198793/fungalpunk-rpg-signet-city-isnt-afraid-to-be-weird-and-political/",
-          "summary": "Gareth Martin drew on diverse inspirations for Signet City, from horror manga to a musical from Sting.",
+          "title": "A24 takes on Google money build AI tools",
+          "link": "https://www.engadget.com/2199010/a24-takes-on-google-money-help-build-ai-tools/",
+          "summary": "A24 is taking $75 million in Google money to help build AI tools for movie production.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Signet City,the upcoming RPG fromCitizen Sleeperdeveloper Gareth Damian Martin, will cast players as a parasite. Set in a brutalist, monochromatic gotham at the edge of collapse, this entity will take control of different human hosts, directing their actions and accomplishing its own objectives. When asked what cultural touchpoints inspired the self-described \"fungalpunk\" RPG, Martin points to their own British upbringing, and the desire to \"create something that would draw on that identity and history\" \u2014 even if some of it might go over the heads an American audience."
+          "excerpt": "One imagines Kane Parsons is less than pleased."
+        },
+        {
+          "title": "'Fungalpunk' RPG Signet City isn't afraid to be weird and political",
+          "link": "https://www.engadget.com/2198793/fungalpunk-rpg-signet-city-isnt-afraid-to-be-weird-and-political/",
+          "summary": "Gareth Damian Martin drew on diverse inspirations for Signet City, from horror manga to a musical from Sting.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Signet City,the upcoming RPG fromCitizen Sleeperdeveloper Gareth Damian Martin, will cast players as a parasite. Set in a brutalist, monochromatic gotham at the edge of collapse, this entity will take control of different human hosts, directing their actions and accomplishing its own objectives. When asked what cultural touchpoints inspired the self-described \"fungalpunk\" RPG, Damian Martin points to their own British upbringing, and the desire to \"create something that would draw on that identity and history\" \u2014 even if some of it might go over the heads an American audience."
         },
         {
           "title": "Instagram for TV is now available on Samsung TVs in the US",
@@ -163,14 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Norway is imposing a strict ban on the use of generative AI tools by elementary school kids,according to a report byReuters. Prime Minister Jonas Gahr Stoere suggested at a press conference that AI lets children skip crucial steps in their education and that schools should focus on teaching them how to \"read, write and do mathematics.\""
-        },
-        {
-          "title": "Toy Story 5 is a surprisingly thoughtful critique of technology",
-          "link": "https://www.engadget.com/2197271/toy-story-5-is-a-surprisingly-thoughtful-critique-of-technology/",
-          "summary": "Toy Story 5 introduces a tablet as a villain, but it's also smart enough to realize tech isn't always bad. Parents just need to step up.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "After five films, digital technology has finally arrived in the cloth-and-plastic world of Toy Story. But the film, directed by franchise veteran Andrew Stanton and McKenna Grace, mostly avoids the easy trope of making technology inherently bad. Instead, it's a disruptive force that can be either helpful or harmful, depending on how it's used. The film makes the case that parents need to take a hands-on approach to help kids manage their gadgets, especially when it comes to managing screen time or dealing with bullying."
         }
       ]
     },
@@ -179,7 +179,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Vance says Iran agrees to nuke inspections, as under Obama deal that Trump threw out...",
+          "title": "Vance says Iran agrees to nuke inspections -- same, as Obama deal that Trump threw out...",
           "link": "https://www.washingtonpost.com/politics/2026/06/22/vance-says-iran-agrees-inspections-nuclear-talks-move-ahead/",
           "summary": null,
           "published": null,
