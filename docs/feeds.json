@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T11:00:24.485278-07:00",
-  "generated_at_display": "Jun 22, 2026 11:00 AM PT",
+  "generated_at": "2026-06-22T12:00:24.519945-07:00",
+  "generated_at_display": "Jun 22, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -171,14 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The crash reportedly happened on an airstrip near the western coast of France on June 19."
-        },
-        {
-          "title": "Norway imposes broad restrictions on AI for elementary school kids",
-          "link": "https://www.engadget.com/2198117/norway-imposes-broad-restrictions-on-ai-for-elementary-school-kids/",
-          "summary": "Norway will reportedly ban young kids from using AI in schools.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Norway is imposing a strict ban on the use of generative AI tools by elementary school kids,according to a report byReuters. Prime Minister Jonas Gahr Stoere suggested at a press conference that AI lets children skip crucial steps in their education and that schools should focus on teaching them how to \"read, write and do mathematics.\""
         }
       ]
     },
