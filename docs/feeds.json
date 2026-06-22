@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T04:00:21.118800-07:00",
-  "generated_at_display": "Jun 22, 2026 04:00 AM PT",
+  "generated_at": "2026-06-22T05:00:24.504874-07:00",
+  "generated_at_display": "Jun 22, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "OpenAI signs deal to show Getty's images in ChatGPT results",
+          "link": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
+          "summary": "Getty Images will allow OpenAI to use its content library in AI search and ChatGPT.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Getty already struck a similar deal with Perplexity AI."
+        },
+        {
           "title": "Claude Guillemot, one of Ubisoft's co-founders,\u00a0has died in a plane crash",
           "link": "https://www.engadget.com/2198346/claude-guillemot-one-of-ubisoft-co-founders-has-died-in-a-plane-crash/",
           "summary": "The crash reportedly happened on an airstrip near the western coast of France on June 19.",
@@ -163,14 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "They were testifying at a Seattle city council meeting."
-        },
-        {
-          "title": "Are you prepared to wait until 2027 for a Steam Controller?",
-          "link": "https://www.engadget.com/2197972/valve-steam-controller-2027-shipping/",
-          "summary": "In an update, Valve says it may not ship some Steam Controller orders until next year.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Valve is preaching patience."
         }
       ]
     },
