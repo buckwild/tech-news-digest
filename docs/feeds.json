@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T15:00:23.386067-07:00",
-  "generated_at_display": "Jun 22, 2026 03:00 PM PT",
+  "generated_at": "2026-06-22T16:00:22.122543-07:00",
+  "generated_at_display": "Jun 22, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
+          "link": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/",
+          "summary": "This won't make the already-controversial AI training endeavor any more popular.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This won\u2019t make the already-controversial AI training endeavor any more popular."
+        },
+        {
           "title": "Uber's board sued for alleged poor oversight that led to sexual abuse of its passengers",
           "link": "https://www.engadget.com/2199149/uber-board-sued-for-alleged-poor-oversight-that-led-to-sexual-abuse-of-its-passengers/",
           "summary": "Uber's shareholders have filed a lawsuit against the ride-sharing giant.",
@@ -179,7 +187,7 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Vance says Iran agrees to nuke inspections -- same, as Obama deal that Trump threw out...",
+          "title": "Vance says Iran agrees to nuke inspections -- same as Obama deal that Trump threw out...",
           "link": "https://www.washingtonpost.com/politics/2026/06/22/vance-says-iran-agrees-inspections-nuclear-talks-move-ahead/",
           "summary": null,
           "published": null,
@@ -207,8 +215,8 @@
           "excerpt": null
         },
         {
-          "title": "USA's intractable air traffic problem causing travel hell...",
-          "link": "https://archive.is/TSAlW",
+          "title": "Fight brews as iconic Hawaii beach disappears...",
+          "link": "https://www.sfgate.com/article/22293298.php",
           "summary": null,
           "published": null,
           "excerpt": null
