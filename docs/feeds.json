@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T12:00:22.399200-07:00",
-  "generated_at_display": "Jun 23, 2026 12:00 PM PT",
+  "generated_at": "2026-06-23T13:00:23.971756-07:00",
+  "generated_at_display": "Jun 23, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -210,6 +210,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Senate votes to limit Trump's Iran war powers in rare rebuke...",
+          "link": "https://www.msn.com/en-us/news/politics/ar-AA26nmYE",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "PEW: WORLD AGAINST USA23% CONFIDENCE IN TRUMP",
           "link": "https://www.pewresearch.org/global/2026/06/23/trump-gets-negative-reviews-internationally-as-fewer-say-u-s-is-a-reliable-partner/",
