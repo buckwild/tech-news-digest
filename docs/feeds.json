@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T14:00:24.352866-07:00",
-  "generated_at_display": "Jun 23, 2026 02:00 PM PT",
+  "generated_at": "2026-06-23T15:00:22.272357-07:00",
+  "generated_at_display": "Jun 23, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -213,6 +213,13 @@
         {
           "title": "Senate votes to limit Trump's Iran war powers in rare rebuke...",
           "link": "https://www.msn.com/en-us/news/politics/ar-AA26nmYE",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Collision Course With Republicans...",
+          "link": "https://www.wsj.com/politics/policy/trump-on-collision-course-with-senate-republicans-108aaf50",
           "summary": null,
           "published": null,
           "excerpt": null
