@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T04:00:24.019031-07:00",
-  "generated_at_display": "Jun 23, 2026 04:00 AM PT",
+  "generated_at": "2026-06-23T05:00:23.560297-07:00",
+  "generated_at_display": "Jun 23, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Oracle laid off 21,000 employees over the past year, citing AI as one of the reasons",
+          "link": "https://www.engadget.com/2199604/oracle-laid-off-21000-employees-in-the-last-year/",
+          "summary": "Oracle's latest filings say it employs 141,000 people, down from 162,000 last year.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The company\u00a0says its AI adoption and deployment may result in further reductions."
+        },
+        {
           "title": "The Oversight Board says Meta needs to do more to protect regular people from sexualized deepfakes",
           "link": "https://www.engadget.com/2198368/oversight-board-meta-regular-people-needs-more-protection-from-sexualized-deepfakes/",
           "summary": "Meta's Oversight Board has made several suggestions to make reporting sexualized AI deepfakes easier and more effective for ordinary people.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Getty already struck a similar deal with Perplexity AI."
-        },
-        {
-          "title": "Claude Guillemot, one of Ubisoft's co-founders,\u00a0has died in a plane crash",
-          "link": "https://www.engadget.com/2198346/claude-guillemot-one-of-ubisoft-co-founders-has-died-in-a-plane-crash/",
-          "summary": "The crash reportedly happened on an airstrip near the western coast of France on June 19.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The crash reportedly happened on an airstrip near the western coast of France on June 19."
         }
       ]
     },
@@ -213,6 +213,13 @@
         {
           "title": "Billionaire Adani Met Don Jr. in India While Facing US Bribery Charges...",
           "link": "https://x.com/business/status/2069362600048001467 ",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "America's Thirst for Gasoline May Not Recover After Iran War...",
+          "link": "https://www.nytimes.com/2026/06/23/business/economy/gasoline-demand-destruction.html?unlocked_article_code=1.sVA.gec0.U6cg4MfssY1i&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
