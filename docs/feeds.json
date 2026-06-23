@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T11:00:22.979528-07:00",
-  "generated_at_display": "Jun 23, 2026 11:00 AM PT",
+  "generated_at": "2026-06-23T12:00:22.399200-07:00",
+  "generated_at_display": "Jun 23, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -133,12 +133,12 @@
           "excerpt": "Anthropic introduces the research preview version of Claude Tag for Slack."
         },
         {
-          "title": "How to get the most out of your Apple TV+ subscription",
+          "title": "How to get the most out of your Apple TV subscription",
           "link": "https://www.engadget.com/2199297/get-the-most-out-of-apple-tv-plus-subscription/",
           "summary": "Apple TV+ offers some great entertainment at a reasonable price, but there are ways to bring the cost down even further.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Let's start with your wallet. A subscription to Apple TV+\u00a0 is $12.99/month. Although three dollars more than its previous subscription\u00a0price, it\u00a0remains cheaper\u00a0than most of its competitors' ad-free offerings, with\u00a0Netflix, HBO\u00a0Max, Hulu\u00a0and Disney+ all charging from\u00a0$17 to $20 a month."
+          "excerpt": "Apple isn't just the home to heart-stopping series, it's also where you can catch the fastest growing spectator sport in America: Formula 1.\u00a0Last year, Apple landed a monumental $750 million deal to become the race's exclusive broadcaster for the next half decade. Apple's coverage of the Driver's Championship includes every practice, Sprint session and qualifier, as well as a Grand Prix. The streamer also provides exclusive behind-the-scenes footage, including adding Netflix's hit series,Drive to Survive. If you really get the F1 bug, you can\u00a0check out the best advertisement-turned-blockbuster in recent memory bystreaming Brad Pitt's exhilaratingF1movieon the platform."
         },
         {
           "title": "MSI Claw 8 EX AI+ review: Big money for big performance",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "One imagines Kane Parsons is less than pleased."
-        },
-        {
-          "title": "'Fungalpunk' RPG Signet City isn't afraid to be weird and political",
-          "link": "https://www.engadget.com/2198793/fungalpunk-rpg-signet-city-isnt-afraid-to-be-weird-and-political/",
-          "summary": "Gareth Damian Martin drew on diverse inspirations for Signet City, from horror manga to a musical from Sting.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Signet City,the upcoming RPG fromCitizen Sleeperdeveloper Gareth Damian Martin, will cast players as a parasite. Set in a brutalist, monochromatic gotham at the edge of collapse, this entity will take control of different human hosts, directing their actions and accomplishing its own objectives. When asked what cultural touchpoints inspired the self-described \"fungalpunk\" RPG, Damian Martin points to their own British upbringing, and the desire to \"create something that would draw on that identity and history\" \u2014 even if some of it might go over the heads an American audience."
         }
       ]
     },
@@ -235,6 +227,13 @@
         {
           "title": "Billionaire Adani Met Don Jr. in India While Facing US Bribery Charges...",
           "link": "https://www.yahoo.com/news/politics/articles/trump-jr-reportedly-met-indian-113908335.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Senate Dems Call for Hearings Into $500M Deal With Emirati Royal...",
+          "link": "https://www.wsj.com/politics/policy/senate-democrats-call-for-hearings-into-500-million-trump-deal-with-emirati-royal-edac2509",
           "summary": null,
           "published": null,
           "excerpt": null
