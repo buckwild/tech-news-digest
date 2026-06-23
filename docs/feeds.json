@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T02:00:24.792395-07:00",
-  "generated_at_display": "Jun 23, 2026 02:00 AM PT",
+  "generated_at": "2026-06-23T03:00:22.031256-07:00",
+  "generated_at_display": "Jun 23, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,22 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Amazon ordered to bargain with Teamsters in case that could set back union progress",
+          "link": "https://www.engadget.com/2199578/amazon-ordered-to-bargain-with-teamsters/",
+          "summary": "Amazon violated federal law when it refused to recognize a union, a judge ruled.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A labor judge ruled that Amazon failed to recognize the Teamsters union as required by law."
+        },
+        {
+          "title": "OpenAI's new Daybreak\u2060 initiative will help open-source projects fend off bugs",
+          "link": "https://www.engadget.com/2199569/openai-new-daybreak-initiative-open-source-projects-bugs/",
+          "summary": "OpenAI has launched Patch the Planet, a new initiative part of its Daybreak cybersecurity program.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Patch the Planet will pair security researchers with open-source projects."
+        },
         {
           "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
           "link": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/",
