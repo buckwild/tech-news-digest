@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T08:00:22.465627-07:00",
-  "generated_at_display": "Jun 23, 2026 08:00 AM PT",
+  "generated_at": "2026-06-23T09:00:22.729083-07:00",
+  "generated_at_display": "Jun 23, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -226,6 +226,20 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "PEW: WORLD AGAINST USA23% CONFIDENCE IN TRUMP",
+          "link": "https://www.pewresearch.org/global/2026/06/23/trump-gets-negative-reviews-internationally-as-fewer-say-u-s-is-a-reliable-partner/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Trump threatens lawsuits against ABC for reporting...",
+          "link": "https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Billionaire Adani Met Don Jr. in India While Facing US Bribery Charges...",
           "link": "https://www.yahoo.com/news/politics/articles/trump-jr-reportedly-met-indian-113908335.html",
