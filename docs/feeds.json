@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T06:00:22.556102-07:00",
-  "generated_at_display": "Jun 23, 2026 06:00 AM PT",
+  "generated_at": "2026-06-23T07:00:26.748215-07:00",
+  "generated_at_display": "Jun 23, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,22 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "How to get the most out of your Apple TV+ subscription",
+          "link": "https://www.engadget.com/2199297/get-the-most-out-of-apple-tv-plus-subscription/",
+          "summary": "Apple TV+ offers some great entertainment at a reasonable price, but there are ways to bring the cost down even further.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Let's start with your wallet. A subscription to Apple TV+\u00a0 is $12.99/month. Although three dollars more than its previous subscription\u00a0price, it\u00a0remains cheaper\u00a0than most of its competitors' ad-free offerings, with\u00a0Netflix, HBO\u00a0Max, Hulu\u00a0and Disney+ all charging from\u00a0$17 to $20 a month."
+        },
+        {
+          "title": "MSI Claw 8 EX AI+ review: Big money for big performance",
+          "link": "https://www.engadget.com/2199163/msi-claw-8-ex-ai-review/",
+          "summary": "Intel and MSI have teamed up to create what might be the most powerful handheld gaming PC on the market.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "$1,800 for a handheld gaming PC is a ton of money, even if it comes with massive gains in horsepower."
+        },
         {
           "title": "Oracle laid off 21,000 employees over the past year, citing AI as one of the reasons",
           "link": "https://www.engadget.com/2199604/oracle-laid-off-21000-employees-in-the-last-year/",
