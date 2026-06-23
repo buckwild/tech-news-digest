@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T10:00:23.940501-07:00",
-  "generated_at_display": "Jun 23, 2026 10:00 AM PT",
+  "generated_at": "2026-06-23T11:00:22.979528-07:00",
+  "generated_at_display": "Jun 23, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Sorry, Slackbot. Claude is taking your job",
+          "link": "https://www.engadget.com/2199619/anthropic-announces-claude-tag-for-slack/",
+          "summary": "Anthropic has introduced @Claude for Slack.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Anthropic introduces the research preview version of Claude Tag for Slack."
+        },
+        {
           "title": "How to get the most out of your Apple TV+ subscription",
           "link": "https://www.engadget.com/2199297/get-the-most-out-of-apple-tv-plus-subscription/",
           "summary": "Apple TV+ offers some great entertainment at a reasonable price, but there are ways to bring the cost down even further.",
@@ -203,22 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Signet City,the upcoming RPG fromCitizen Sleeperdeveloper Gareth Damian Martin, will cast players as a parasite. Set in a brutalist, monochromatic gotham at the edge of collapse, this entity will take control of different human hosts, directing their actions and accomplishing its own objectives. When asked what cultural touchpoints inspired the self-described \"fungalpunk\" RPG, Damian Martin points to their own British upbringing, and the desire to \"create something that would draw on that identity and history\" \u2014 even if some of it might go over the heads an American audience."
-        },
-        {
-          "title": "Instagram for TV is now available on Samsung TVs in the US",
-          "link": "https://www.engadget.com/2198313/instagram-for-tv-samsung-tvs-us/",
-          "summary": "Instagram's TV app is expanding to Samsung TVs in the US, half a year after it launched for Amazon Fire TV devices.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You can watch reels and stories on TV with the app."
-        },
-        {
-          "title": "OpenAI signs deal to show Getty's images in ChatGPT results",
-          "link": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
-          "summary": "Getty Images will allow OpenAI to use its content library in AI search and ChatGPT.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Getty already struck a similar deal with Perplexity AI."
         }
       ]
     },
