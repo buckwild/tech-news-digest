@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T07:00:23.636716-07:00",
-  "generated_at_display": "Jun 24, 2026 07:00 AM PT",
+  "generated_at": "2026-06-24T08:00:21.920043-07:00",
+  "generated_at_display": "Jun 24, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google says it'll soon be easier to use TSA PreCheck Touchless ID via Wallet",
+          "link": "https://www.engadget.com/2200637/google-says-itll-soon-be-easier-to-use-tsa-precheck-touchless-id-via-wallet/",
+          "summary": "Google Wallet will about to make TSA Precheck easier.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You'll no longer need to manually add your ID details for each airline."
+        },
+        {
           "title": "Google Home Speaker review: A modest update for the Gemini era",
           "link": "https://www.engadget.com/2200116/google-home-speaker-review/",
           "summary": "Google's new speaker is a modest update, but the question is whether Gemini is a good smart home assistant.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Meta's Oversight Boardhas called on the social media company to strengthen its protection for ordinary people targeted by sexualized deepfakes. The Board recommends the addition of AI-generated impersonations in Meta's Adult Sexual Exploitation policy, arguing that those images and videos are non-consensual by default. It also wants Meta to allow users to designate \"connected accounts,\" such as trusted friends and family, who can report potential violations like non-consensual intimate imagery on their behalf."
-        },
-        {
-          "title": "Amazon ordered to bargain with Teamsters in case that could set back union progress",
-          "link": "https://www.engadget.com/2199578/amazon-ordered-to-bargain-with-teamsters/",
-          "summary": "Amazon violated federal law when it refused to recognize a union, a judge ruled.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A labor judge ruled that Amazon failed to recognize the Teamsters union as required by law."
         }
       ]
     },
