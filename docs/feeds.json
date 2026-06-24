@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T06:00:24.861551-07:00",
-  "generated_at_display": "Jun 24, 2026 06:00 AM PT",
+  "generated_at": "2026-06-24T07:00:23.636716-07:00",
+  "generated_at_display": "Jun 24, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google Home Speaker review: A modest update for the Gemini era",
+          "link": "https://www.engadget.com/2200116/google-home-speaker-review/",
+          "summary": "Google's new speaker is a modest update, but the question is whether Gemini is a good smart home assistant.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Of course, this speaker is not just for playing music. Like its predecessors, the Google Home Speaker has three far-field microphones to let you chat with Gemini. It also has a stylish light ring around the bottom that lights up and changes color when you talk to it, when it is thinking and when it responds. It's very much like the light ring on older Amazon Echo speakers, and I prefer it to the new lights on the latest Echos or the four lights that lit up on the front of the Nest Audio. It's a nice visual touch for sure. The speaker does have familiar touch controls on top \u2014 tapping the left or right sides adjusts volume, while tapping the middle pauses and resumes media playback. So far, the microphones have no trouble picking up my voice across the room or over the din of music or conversation, either."
+        },
+        {
           "title": "US government reportedly urging Meta to share its AI models",
           "link": "https://www.engadget.com/2200490/us-government-reportedly-urging-meta-to-share-its-ai-models/",
           "summary": "The US government is reportedly asking Meta to share its AI models for review, in the midst of growing security and safety concerns over the technology.",
@@ -195,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A labor judge ruled that Amazon failed to recognize the Teamsters union as required by law."
-        },
-        {
-          "title": "OpenAI's new Daybreak\u2060 initiative will help open-source projects fend off bugs",
-          "link": "https://www.engadget.com/2199569/openai-new-daybreak-initiative-open-source-projects-bugs/",
-          "summary": "OpenAI has launched Patch the Planet, a new initiative part of its Daybreak cybersecurity program.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Patch the Planet will pair security researchers with open-source projects."
-        },
-        {
-          "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
-          "link": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/",
-          "summary": "This won't make the already-controversial AI training endeavor any more popular.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "This won\u2019t make the already-controversial AI training endeavor any more popular."
         }
       ]
     },
