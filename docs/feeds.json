@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T16:00:24.115216-07:00",
-  "generated_at_display": "Jun 23, 2026 04:00 PM PT",
+  "generated_at": "2026-06-23T17:00:25.458885-07:00",
+  "generated_at_display": "Jun 23, 2026 05:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Superhuman has acquired AI authenticity service GPTZero",
+          "link": "https://www.engadget.com/2200290/superhuman-has-acquired-ai-authenticity-service-gptzero/",
+          "summary": "It's an odd-seeming move for a company selling an AI writing assistant.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s an odd-seeming move for a company selling an AI writing assistant."
+        },
+        {
           "title": "Sorry, Slackbot. Claude is taking your job",
           "link": "https://www.engadget.com/2199619/anthropic-announces-claude-tag-for-slack/",
           "summary": "Anthropic has introduced @Claude for Slack.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The company\u2019s shareholders filed the lawsuit."
-        },
-        {
-          "title": "A24 takes on Google money to build AI tools",
-          "link": "https://www.engadget.com/2199010/a24-takes-on-google-money-help-build-ai-tools/",
-          "summary": "A24 is taking $75 million in Google money to help build AI tools for movie production.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "One imagines Kane Parsons is less than pleased."
         }
       ]
     },
