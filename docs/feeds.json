@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T08:00:21.920043-07:00",
-  "generated_at_display": "Jun 24, 2026 08:00 AM PT",
+  "generated_at": "2026-06-24T09:00:24.840775-07:00",
+  "generated_at_display": "Jun 24, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The company\u00a0says its AI adoption and deployment may result in further reductions."
-        },
-        {
-          "title": "The Oversight Board says Meta needs to do more to protect regular people from sexualized deepfakes",
-          "link": "https://www.engadget.com/2198368/oversight-board-meta-regular-people-needs-more-protection-from-sexualized-deepfakes/",
-          "summary": "Meta's Oversight Board has made several suggestions to make reporting sexualized AI deepfakes easier and more effective for ordinary people.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Meta's Oversight Boardhas called on the social media company to strengthen its protection for ordinary people targeted by sexualized deepfakes. The Board recommends the addition of AI-generated impersonations in Meta's Adult Sexual Exploitation policy, arguing that those images and videos are non-consensual by default. It also wants Meta to allow users to designate \"connected accounts,\" such as trusted friends and family, who can report potential violations like non-consensual intimate imagery on their behalf."
         }
       ]
     },
@@ -218,29 +210,8 @@
           "excerpt": null
         },
         {
-          "title": "Senate votes to limit Trump's Iran war powers in rare rebuke...",
-          "link": "https://www.msn.com/en-us/news/politics/ar-AA26nmYE",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Collision Course With Republicans...",
-          "link": "https://www.wsj.com/politics/policy/trump-on-collision-course-with-senate-republicans-108aaf50",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "PEW: WORLD AGAINST USA; 23% CONFIDENCE IN THE DON...",
-          "link": "https://www.pewresearch.org/global/2026/06/23/trump-gets-negative-reviews-internationally-as-fewer-say-u-s-is-a-reliable-partner/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Threatens lawsuits against ABC for reporting...",
-          "link": "https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html",
+          "title": "Factory workers forced to film themselves for AI!",
+          "link": "https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots",
           "summary": null,
           "published": null,
           "excerpt": null
