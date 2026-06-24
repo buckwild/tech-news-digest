@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T05:00:24.293419-07:00",
-  "generated_at_display": "Jun 24, 2026 05:00 AM PT",
+  "generated_at": "2026-06-24T06:00:24.861551-07:00",
+  "generated_at_display": "Jun 24, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "US government reportedly urging Meta to share its AI models",
+          "link": "https://www.engadget.com/2200490/us-government-reportedly-urging-meta-to-share-its-ai-models/",
+          "summary": "The US government is reportedly asking Meta to share its AI models for review, in the midst of growing security and safety concerns over the technology.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The US government is reportedly urging Meta to submit its AI models for evaluation amid growing safety and security concerns about the risks posed by the latest artificial intelligence technologies. According toThe New York Times, Meta is the only major AI player that hasn't voluntarily turned its models in for review. Specifically, the government wants to assess its capabilities and identify vulnerabilities."
+        },
+        {
           "title": "YouTube settles early test case over social media harm to children",
           "link": "https://www.engadget.com/2200409/youtube-settles-early-test-case-over-social-media-harm-to-children/",
           "summary": "Google has settled a lawsuit with a minor known who claimed that social media platforms harmed them.",
@@ -239,7 +247,7 @@
           "excerpt": null
         },
         {
-          "title": "President threatens lawsuits against ABC for reporting...",
+          "title": "Threatens lawsuits against ABC for reporting...",
           "link": "https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html",
           "summary": null,
           "published": null,
