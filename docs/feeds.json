@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T13:00:22.421178-07:00",
-  "generated_at_display": "Jun 24, 2026 01:00 PM PT",
+  "generated_at": "2026-06-24T14:00:23.850792-07:00",
+  "generated_at_display": "Jun 24, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Jalape\u00f1o is the first AI chip from OpenAI and Broadcom",
+          "link": "https://www.engadget.com/2201045/openai-broadcom-jalapeno-inference-processor-ai-accelerator/",
+          "summary": "It's a spicy start for the AI company's collaboration with the chip maker.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It\u2019s a spicy start for the AI company\u2019s move into chip production."
+        },
+        {
           "title": "Google says it'll soon be easier to use TSA PreCheck Touchless ID via Wallet",
           "link": "https://www.engadget.com/2200637/google-says-itll-soon-be-easier-to-use-tsa-precheck-touchless-id-via-wallet/",
           "summary": "Google Wallet will about to make TSA Precheck easier.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Anthropic introduces the research preview version of Claude Tag for Slack."
-        },
-        {
-          "title": "How to get the most out of your Apple TV subscription",
-          "link": "https://www.engadget.com/2199297/get-the-most-out-of-apple-tv-plus-subscription/",
-          "summary": "Apple TV+ offers some great entertainment at a reasonable price, but there are ways to bring the cost down even further.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Apple isn't just the home to heart-stopping series, it's also where you can catch the fastest growing spectator sport in America: Formula 1.\u00a0Last year, Apple landed a monumental $750 million deal to become the race's exclusive broadcaster for the next half decade. Apple's coverage of the Driver's Championship includes every practice, Sprint session and qualifier, as well as a Grand Prix. The streamer also provides exclusive behind-the-scenes footage, including adding Netflix's hit series,Drive to Survive. If you really get the F1 bug, you can\u00a0check out the best advertisement-turned-blockbuster in recent memory bystreaming Brad Pitt's exhilaratingF1movieon the platform."
         }
       ]
     },
@@ -194,15 +194,15 @@
           "excerpt": null
         },
         {
-          "title": "REPUBLICAN SENATOR 'YELLS' AT TRUMP DURING LUNCH...'TOTAL CLUSTER F*CK!'",
-          "link": "https://www.mediaite.com/media/tv/gop-senator-was-yelling-at-trump-during-closed-door-lunch-over-iran-deal/",
+          "title": "White House wants $88B for emergency war request...",
+          "link": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "EYES ON WHITE HOUSE",
-          "link": "https://www.politico.com/news/2026/06/24/democratic-socialists-new-york-2028-presidential-00973341",
+          "title": "TRUMP EPIC FURYREPUBLICAN SCREAMING MATCH",
+          "link": "https://www.dailymail.com/news/article-15926455",
           "summary": null,
           "published": null,
           "excerpt": null
