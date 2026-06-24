@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T01:00:24.396108-07:00",
-  "generated_at_display": "Jun 24, 2026 01:00 AM PT",
+  "generated_at": "2026-06-24T02:00:24.244078-07:00",
+  "generated_at_display": "Jun 24, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "YouTube settles early test case over social media harm to children",
+          "link": "https://www.engadget.com/2200409/youtube-settles-early-test-case-over-social-media-harm-to-children/",
+          "summary": "Google has settled a lawsuit with a minor known who claimed that social media platforms harmed them.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Google-owned platform has thousands of similar lawsuits pending."
+        },
+        {
           "title": "Superhuman has acquired AI authenticity service GPTZero",
           "link": "https://www.engadget.com/2200290/superhuman-has-acquired-ai-authenticity-service-gptzero/",
           "summary": "It's an odd-seeming move for a company selling an AI writing assistant.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "This won\u2019t make the already-controversial AI training endeavor any more popular."
-        },
-        {
-          "title": "Uber's board sued for alleged poor oversight that led to sexual abuse of its passengers",
-          "link": "https://www.engadget.com/2199149/uber-board-sued-for-alleged-poor-oversight-that-led-to-sexual-abuse-of-its-passengers/",
-          "summary": "Uber's shareholders have filed a lawsuit against the ride-sharing giant.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The company\u2019s shareholders filed the lawsuit."
         }
       ]
     },
