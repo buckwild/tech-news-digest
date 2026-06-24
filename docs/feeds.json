@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T15:00:26.229696-07:00",
-  "generated_at_display": "Jun 24, 2026 03:00 PM PT",
+  "generated_at": "2026-06-24T16:00:25.888960-07:00",
+  "generated_at_display": "Jun 24, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -171,14 +171,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It\u2019s an odd-seeming move for a company selling an AI writing assistant."
-        },
-        {
-          "title": "Sorry, Slackbot. Claude is taking your job",
-          "link": "https://www.engadget.com/2199619/anthropic-announces-claude-tag-for-slack/",
-          "summary": "Anthropic has introduced @Claude for Slack.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Anthropic introduces the research preview version of Claude Tag for Slack."
         }
       ]
     },
