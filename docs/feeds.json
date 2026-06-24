@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T10:00:23.179466-07:00",
-  "generated_at_display": "Jun 24, 2026 10:00 AM PT",
+  "generated_at": "2026-06-24T11:00:25.010892-07:00",
+  "generated_at_display": "Jun 24, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,6 +211,13 @@
         {
           "title": "POLL:  ONLY 24% SAY IRAN WAR WORTH IT...",
           "link": "https://www.militarytimes.com/news/your-military/2026/06/23/just-one-in-four-americans-believes-the-war-with-iran-was-worth-its-costs/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "DEAL BOMBS WITH REPUBLICANS...",
+          "link": "https://nypost.com/2026/06/24/us-news/republicans-support-trumps-iran-deal-until-they-find-out-whats-actually-in-it-poll-finds/",
           "summary": null,
           "published": null,
           "excerpt": null
