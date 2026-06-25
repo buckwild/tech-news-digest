@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T17:00:22.527295-07:00",
-  "generated_at_display": "Jun 24, 2026 05:00 PM PT",
+  "generated_at": "2026-06-24T18:00:23.683008-07:00",
+  "generated_at_display": "Jun 24, 2026 06:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -178,13 +178,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "TRUMP EPIC FURYREPUBLICAN SCREAMING MATCH",
-          "link": "https://www.dailymail.com/news/article-15926455",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "POLL:  ONLY 24% SAY IRAN WAR WORTH IT...",
           "link": "https://www.militarytimes.com/news/your-military/2026/06/23/just-one-in-four-americans-believes-the-war-with-iran-was-worth-its-costs/",
