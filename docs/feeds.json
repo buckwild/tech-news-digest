@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T02:00:23.919589-07:00",
-  "generated_at_display": "Jun 25, 2026 02:00 AM PT",
+  "generated_at": "2026-06-25T03:00:23.628017-07:00",
+  "generated_at_display": "Jun 25, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "C'mon, you don't need an AI to check your spelling",
+          "link": "https://www.engadget.com/2201316/florida-republican-claims-they-used-claude-as-spellcheck/",
+          "summary": "A Florida Republican denies claims her team used AI to work on draft legislation, saying Claude was only used as spelling and grammar checker.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Florida Republican claimed to use Claude as a proofreader, nothing else."
+        },
+        {
           "title": "Amazon Zoox's latest robotaxi looks (marginally) less like a toy car",
           "link": "https://www.engadget.com/2201292/amazon-zoox-latest-robotaxi/",
           "summary": "Amazon-owned Zoox has introduced its new autonomous vehicle meant for for large-scale production.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Following asimilar lawsuitearlier this year, Google has settled with a minor known as \"R.K.C.\" who claimed that social media platforms harmed them,Reutersreported. Terms of the settlement were confidential, the lawyers said yesterday.\u00a0The same plaintiff also sued Meta, Snap and TikTok, with those trials set to proceed next month.\u00a0YouTube has thousands of similar lawsuits pending, so this second case represents a test run for the many to follow."
-        },
-        {
-          "title": "Superhuman has acquired AI authenticity service GPTZero",
-          "link": "https://www.engadget.com/2200290/superhuman-has-acquired-ai-authenticity-service-gptzero/",
-          "summary": "It's an odd-seeming move for a company selling an AI writing assistant.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s an odd-seeming move for a company selling an AI writing assistant."
         }
       ]
     },
