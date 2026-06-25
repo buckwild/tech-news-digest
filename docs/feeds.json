@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T05:00:23.076567-07:00",
-  "generated_at_display": "Jun 25, 2026 05:00 AM PT",
+  "generated_at": "2026-06-25T06:00:23.184394-07:00",
+  "generated_at_display": "Jun 25, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google will open the Play Store to outside billing on June 30",
+          "link": "https://www.engadget.com/2201372/google-opens-play-store-to-outside-billing/",
+          "summary": "Google will allow developers to offer alternative billing in the US, the UK and Europe starting on June 30.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It will also lower its commission from 30 percent to 10 percent."
+        },
+        {
           "title": "C'mon, you don't need an AI to check your spelling",
           "link": "https://www.engadget.com/2201316/florida-republican-claims-they-used-claude-as-spellcheck/",
           "summary": "A Florida Republican denies claims her team used AI to work on draft legislation, saying Claude was only used as spelling and grammar checker.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The US government is reportedly urging Meta to submit its AI models for evaluation amid growing safety and security concerns about the risks posed by the latest artificial intelligence technologies. According toThe New York Times, Meta is the only major AI player that hasn't voluntarily turned its models in for review. Specifically, the government wants to assess its capabilities and identify vulnerabilities."
-        },
-        {
-          "title": "YouTube settles early test case over social media harm to children",
-          "link": "https://www.engadget.com/2200409/youtube-settles-early-test-case-over-social-media-harm-to-children/",
-          "summary": "Google has settled a lawsuit with a minor known who claimed that social media platforms harmed them.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Following asimilar lawsuitearlier this year, Google has settled with a minor known as \"R.K.C.\" who claimed that social media platforms harmed them,Reutersreported. Terms of the settlement were confidential, the lawyers said yesterday.\u00a0The same plaintiff also sued Meta, Snap and TikTok, with those trials set to proceed next month.\u00a0YouTube has thousands of similar lawsuits pending, so this second case represents a test run for the many to follow."
         }
       ]
     },
