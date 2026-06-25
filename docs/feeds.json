@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T07:00:26.640165-07:00",
-  "generated_at_display": "Jun 25, 2026 07:00 AM PT",
+  "generated_at": "2026-06-25T08:00:26.070348-07:00",
+  "generated_at_display": "Jun 25, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple hikes prices for most of its hardware",
+          "link": "https://www.engadget.com/2201524/apple-hikes-prices-for-most-of-its-hardware/",
+          "summary": "Macs, MacBooks, iPads and other Apple products just got more expensive.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "IPhone and AirPods are so far unaffected"
+        },
+        {
           "title": "Can your smartwatch detect sleep apnea?",
           "link": "https://www.engadget.com/2200959/can-smartwatch-detect-sleep-apnea/",
           "summary": "No smartwatch can actually diagnose sleep apnea, but some can track certain signs that might indicate you have the condition.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Of course, this speaker is not just for playing music. Like its predecessors, the Google Home Speaker has three far-field microphones to let you chat with Gemini. It also has a stylish light ring around the bottom that lights up and changes color when you talk to it, when it is thinking and when it responds. It's very much like the light ring on older Amazon Echo speakers, and I prefer it to the new lights on the latest Echos or the four lights that lit up on the front of the Nest Audio. It's a nice visual touch for sure. The speaker does have familiar touch controls on top \u2014 tapping the left or right sides adjusts volume, while tapping the middle pauses and resumes media playback. So far, the microphones have no trouble picking up my voice across the room or over the din of music or conversation, either."
-        },
-        {
-          "title": "US government reportedly urging Meta to share its AI models",
-          "link": "https://www.engadget.com/2200490/us-government-reportedly-urging-meta-to-share-its-ai-models/",
-          "summary": "The US government is reportedly asking Meta to share its AI models for review, in the midst of growing security and safety concerns over the technology.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The US government is reportedly urging Meta to submit its AI models for evaluation amid growing safety and security concerns about the risks posed by the latest artificial intelligence technologies. According toThe New York Times, Meta is the only major AI player that hasn't voluntarily turned its models in for review. Specifically, the government wants to assess its capabilities and identify vulnerabilities."
         }
       ]
     },
@@ -203,22 +203,29 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "Allows White House to Block Asylum Seekers at Border...",
+          "link": "https://www.washingtonpost.com/politics/2026/06/25/migrants-not-entitled-apply-asylum-while-standing-mexico-side-border-supreme-court-rules/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Ends Deportation Protection for Haitians and Syrians...",
+          "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html?unlocked_article_code=1.s1A.zJMJ.BFKYzC17gVj2&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Tehran Plans to Make Billions in Fees From Reopening Hormuz...",
+          "link": "https://www.wsj.com/world/middle-east/iran-plans-to-make-billions-in-fees-from-reopening-the-strait-of-hormuz-92bdfa76",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "POLL:  ONLY 24% SAY IRAN WAR WORTH IT...",
           "link": "https://www.militarytimes.com/news/your-military/2026/06/23/just-one-in-four-americans-believes-the-war-with-iran-was-worth-its-costs/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Factory workers forced to film selves for AI!",
-          "link": "https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Lawmakers expected to press billionaire Leon Black about Epstein ties...",
-          "link": "https://www.nbcnews.com/politics/congress/lawmakers-expected-press-billionaire-leon-black-epstein-ties-rcna349204",
           "summary": null,
           "published": null,
           "excerpt": null
