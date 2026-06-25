@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T11:00:23.804119-07:00",
-  "generated_at_display": "Jun 25, 2026 11:00 AM PT",
+  "generated_at": "2026-06-25T12:00:21.206594-07:00",
+  "generated_at_display": "Jun 25, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple will reportedly skip the M6 Pro and Max and jump straight to M7",
+          "link": "https://www.engadget.com/2201829/apple-will-reportedly-skip-the-m6-pro-and-max-and-jump-straight-to-m7/",
+          "summary": "Apple may skip the M6 Pro and Max chips.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The 2027 chips will emphasize on-device AI processing."
+        },
+        {
           "title": "Xbox prices are rising again after Microsoft helped drive up component costs",
           "link": "https://www.engadget.com/2201787/xbox-prices-are-going-up-again-after-microsoft-helps-drive-up-component-costs/",
           "summary": "We're all trying to find the guy who did this.",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "GPT-5.5 Instant is now more capable at processing complex questions."
-        },
-        {
-          "title": "Jalape\u00f1o is the first AI chip from OpenAI and Broadcom",
-          "link": "https://www.engadget.com/2201045/openai-broadcom-jalapeno-inference-processor-ai-accelerator/",
-          "summary": "It's a spicy start for the AI company's collaboration with the chip maker.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s a spicy start for the AI company\u2019s move into chip production."
         }
       ]
     },
@@ -263,13 +263,6 @@
         {
           "title": "Fears in Strait as tanker struck after Iran warned ships to turn back...",
           "link": "https://nypost.com/2026/06/25/world-news/fears-in-strait-of-hormuz-as-tanker-struck-after-iran-warned-ships-to-turn-back/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Saudi Arabia just bought eyes in sky over Sinai -- pointed straight at Israel...",
-          "link": "https://www.ynetnews.com/article/skupot9gfx",
           "summary": null,
           "published": null,
           "excerpt": null
