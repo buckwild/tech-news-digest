@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T15:00:22.653584-07:00",
-  "generated_at_display": "Jun 25, 2026 03:00 PM PT",
+  "generated_at": "2026-06-25T16:00:23.255671-07:00",
+  "generated_at_display": "Jun 25, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "OpenAI will initially only release ChatGPT 5.6 to government-approved customers",
+          "link": "https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/",
+          "summary": "So much for voluntary review.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "So much for voluntary review."
+        },
+        {
           "title": "Notion Mail is shutting down",
           "link": "https://www.engadget.com/2201940/notion-mail-is-shutting-down/",
           "summary": "So long, Notion Mail.",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It will also lower its commission from 30 percent to 10 percent."
-        },
-        {
-          "title": "C'mon, you don't need an AI to check your spelling",
-          "link": "https://www.engadget.com/2201316/florida-republican-claims-they-used-claude-as-spellcheck/",
-          "summary": "A Florida Republican denies claims her team used AI to work on draft legislation, saying Claude was only used as spelling and grammar checker.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Florida Republican claimed to use Claude as a proofreader, nothing else."
         }
       ]
     },
