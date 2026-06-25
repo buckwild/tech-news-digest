@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T22:00:23.993345-07:00",
-  "generated_at_display": "Jun 24, 2026 10:00 PM PT",
+  "generated_at": "2026-06-24T23:00:21.443395-07:00",
+  "generated_at_display": "Jun 24, 2026 11:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "OpenAI's free GPT-5.5 model makes ChatGPT better at understanding context",
+          "link": "https://www.engadget.com/2201255/openai-gpt-5-5-instant-chatgpt-upgrade/",
+          "summary": "OpenAI has rolled out an upgrade for the free model you interact with the most on ChatGPT.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "GPT-5.5 Instant is now more capable at processing complex questions."
+        },
         {
           "title": "Jalape\u00f1o is the first AI chip from OpenAI and Broadcom",
           "link": "https://www.engadget.com/2201045/openai-broadcom-jalapeno-inference-processor-ai-accelerator/",
