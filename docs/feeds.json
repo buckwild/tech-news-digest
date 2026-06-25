@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T09:00:22.807397-07:00",
-  "generated_at_display": "Jun 25, 2026 09:00 AM PT",
+  "generated_at": "2026-06-25T10:00:24.967506-07:00",
+  "generated_at_display": "Jun 25, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google Finance is now available as a standalone Android app",
+          "link": "https://www.engadget.com/2201599/google-finance-is-now-available-as-a-standalone-android-app/",
+          "summary": "Google Finance is a standalone Android app now, with an iOS version on the way.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "There's an iOS version on the way."
+        },
+        {
           "title": "Apple hikes prices for most of its hardware",
           "link": "https://www.engadget.com/2201524/apple-hikes-prices-for-most-of-its-hardware/",
           "summary": "Macs, MacBooks, iPads and other Apple products just got more expensive.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It\u2019s a spicy start for the AI company\u2019s move into chip production."
-        },
-        {
-          "title": "Google says it'll soon be easier to use TSA PreCheck Touchless ID via Wallet",
-          "link": "https://www.engadget.com/2200637/google-says-itll-soon-be-easier-to-use-tsa-precheck-touchless-id-via-wallet/",
-          "summary": "Google Wallet will about to make TSA Precheck easier.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You'll no longer need to manually add your ID details for each airline."
         }
       ]
     },
@@ -204,6 +204,20 @@
         {
           "title": "Ends Deportation Protection for Haitians and Syrians...",
           "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html?unlocked_article_code=1.s1A.zJMJ.BFKYzC17gVj2&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Outrage over $25 pretzels at  Great American State Fair...",
+          "link": "https://www.the-sun.com/news/16576953/donald-trump-great-american-state-fair-pretzel-prices/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republicanchair barks back...",
+          "link": "https://x.com/atrupar/status/2070171865134387328",
           "summary": null,
           "published": null,
           "excerpt": null
