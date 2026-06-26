@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T04:00:22.354373-07:00",
-  "generated_at_display": "Jun 26, 2026 04:00 AM PT",
+  "generated_at": "2026-06-26T05:00:24.686858-07:00",
+  "generated_at_display": "Jun 26, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Morning After: Prices rocket up on Xboxes, MacBooks, iPads and more",
+          "link": "https://www.engadget.com/2202230/prices-rocket-up-on-xboxes-macbooks-ipads-and-more/",
+          "summary": "This week, we've been hit with major price hikes from major players, including Microsoft and Apple.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The RAM crunch is crunching."
+        },
+        {
           "title": "California launches tracker for AI-related job losses",
           "link": "https://www.engadget.com/2202231/californa-launches-ai-job-loss-tracker/",
           "summary": "California governor Gavin Newsom worked with the state's employment department to roll out an AI job loss tracker.",
@@ -211,7 +219,7 @@
         },
         {
           "title": "Trump Accused of 'Very Unhealthy' Relationship With Blonde Aide...",
-          "link": "https://archive.ph/B5yFh",
+          "link": "https://www.msn.com/en-us/news/politics/trump-aide-natalie-harp-s-brother-calls-her-relationship-with-president-unhealthy/ar-AA26AFYV",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -226,13 +234,6 @@
         {
           "title": "Outrage over $25 pretzels at Great American State Fair...",
           "link": "https://www.the-sun.com/news/16576953",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Republicanchair barks back...",
-          "link": "https://x.com/atrupar/status/2070171865134387328",
           "summary": null,
           "published": null,
           "excerpt": null
