@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T10:00:23.834973-07:00",
-  "generated_at_display": "Jun 26, 2026 10:00 AM PT",
+  "generated_at": "2026-06-26T11:00:23.033844-07:00",
+  "generated_at_display": "Jun 26, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -208,8 +208,22 @@
           "excerpt": null
         },
         {
+          "title": "White House Makeover, Brought to You by Struggling National Parks...",
+          "link": "https://www.theatlantic.com/politics/2026/06/national-parks-trump-white-house-renovations/687700/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Justices Clash on Whether Race Played Role in Bid to Deport Haitians...",
           "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html?unlocked_article_code=1.tFA.d4ZM.Qj54trdnDAfI&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "OPENAI Limits Access to New Model, Citing Govt Security Concerns...",
+          "link": "https://www.wsj.com/tech/ai/openai-limits-access-to-new-model-citing-government-security-concerns-66420050",
           "summary": null,
           "published": null,
           "excerpt": null
