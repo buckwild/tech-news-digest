@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T08:00:23.327307-07:00",
-  "generated_at_display": "Jun 26, 2026 08:00 AM PT",
+  "generated_at": "2026-06-26T09:00:23.935050-07:00",
+  "generated_at_display": "Jun 26, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Another hour,another batch of price increasesfor notable consumer products. Microsoft says it's once again jacking up the prices of Xbox consoles. Starting August 1, the 512GB Xbox Series S will be $100 more expensive and all 1TB models will run you an additional $150. The company is dropping the 2TB version of the Xbox Series X."
-        },
-        {
-          "title": "Sony announces major layoffs at Bungie, including most of the Destiny team",
-          "link": "https://www.engadget.com/2201755/sony-announces-major-layoffs-at-bungie-including-most-of-the-destiny-team/",
-          "summary": "Some devs working on Marathon have also been laid off and studio head Justin Truman has stepped down.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Some devs working on Marathon have also been laid off and studio head Justin Truman has stepped down."
         }
       ]
     },
@@ -202,15 +194,15 @@
           "excerpt": null
         },
         {
-          "title": "Trump Accused of 'Very Unhealthy' Relationship With Blonde Aide...",
-          "link": "https://www.msn.com/en-us/news/politics/trump-aide-natalie-harp-s-brother-calls-her-relationship-with-president-unhealthy/ar-AA26AFYV",
+          "title": "WSJ: Iran Devastated American Naval Base...",
+          "link": "https://www.wsj.com/world/middle-east/iran-us-naval-base-bahrain-e87bbca3",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "How Iran Devastated American Naval Base...",
-          "link": "https://www.wsj.com/world/middle-east/iran-us-naval-base-bahrain-e87bbca3",
+          "title": "Trump Accused of 'Very Unhealthy' Relationship With Blonde Aide...",
+          "link": "https://www.msn.com/en-us/news/politics/trump-aide-natalie-harp-s-brother-calls-her-relationship-with-president-unhealthy/ar-AA26AFYV",
           "summary": null,
           "published": null,
           "excerpt": null
