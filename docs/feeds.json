@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T02:00:23.681086-07:00",
-  "generated_at_display": "Jun 26, 2026 02:00 AM PT",
+  "generated_at": "2026-06-26T03:00:21.766955-07:00",
+  "generated_at_display": "Jun 26, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "California launches tracker for AI-related job losses",
+          "link": "https://www.engadget.com/2202231/californa-launches-ai-job-loss-tracker/",
+          "summary": "California governor Gavin Newsom worked with the state's employment department to roll out an AI job loss tracker.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It will be updated monthly."
+        },
+        {
           "title": "OpenAI will initially only release ChatGPT 5.6 to government-approved customers",
           "link": "https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/",
           "summary": "So much for voluntary review.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "iPhone and AirPods are so far unaffected."
-        },
-        {
-          "title": "Can your smartwatch detect sleep apnea?",
-          "link": "https://www.engadget.com/2200959/can-smartwatch-detect-sleep-apnea/",
-          "summary": "No smartwatch can actually diagnose sleep apnea, but some can track certain signs that might indicate you have the condition.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "None can diagnose it, but some can screen for possible signs."
         }
       ]
     },
