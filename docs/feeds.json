@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T13:00:22.922816-07:00",
-  "generated_at_display": "Jun 26, 2026 01:00 PM PT",
+  "generated_at": "2026-06-26T14:00:23.153013-07:00",
+  "generated_at_display": "Jun 26, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -172,7 +172,14 @@
       "entries": [
         {
           "title": "UKRAINE BOMBARDS RUSSIA",
-          "link": "https://apnews.com/article/russia-ukraine-war-biggest-drone-attack-a356e2a119f3cb9422ede6acbedf56f3",
+          "link": "https://apnews.com/a356e2a119f3cb9422ede6acbedf56f3",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "USA LAUNCHES NEW STRIKES IN STRAIT OF HORMUZ... DEVELOPING...",
+          "link": "https://www.express.co.uk/news/2222408",
           "summary": null,
           "published": null,
           "excerpt": null
