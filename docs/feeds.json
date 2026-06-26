@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T01:00:22.380166-07:00",
-  "generated_at_display": "Jun 26, 2026 01:00 AM PT",
+  "generated_at": "2026-06-26T02:00:23.681086-07:00",
+  "generated_at_display": "Jun 26, 2026 02:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "None can diagnose it, but some can screen for possible signs."
-        },
-        {
-          "title": "Google will open the Play Store to outside billing on June 30",
-          "link": "https://www.engadget.com/2201372/google-opens-play-store-to-outside-billing/",
-          "summary": "Google will allow developers to offer alternative billing in the US, the UK and Europe starting on June 30.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It will also lower its commission from 30 percent to 10 percent."
         }
       ]
     },
