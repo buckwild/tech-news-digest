@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T05:00:24.686858-07:00",
-  "generated_at_display": "Jun 26, 2026 05:00 AM PT",
+  "generated_at": "2026-06-26T06:00:24.299195-07:00",
+  "generated_at_display": "Jun 26, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Russian government reportedly used the Cellebrite digital forensics platform to hack into the phone of a political activist, despite the Israeli company that makes the software previously canceling its contract with its Russian customers."
-        },
-        {
-          "title": "Google Finance is now available as a standalone Android app",
-          "link": "https://www.engadget.com/2201599/google-finance-is-now-available-as-a-standalone-android-app/",
-          "summary": "Google Finance is a standalone Android app now, with an iOS version on the way.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "There's an iOS version on the way."
         }
       ]
     },
