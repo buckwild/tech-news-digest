@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T06:00:21.406455-07:00",
-  "generated_at_display": "Jun 27, 2026 06:00 AM PT",
+  "generated_at": "2026-06-27T07:00:22.884446-07:00",
+  "generated_at_display": "Jun 27, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It will be updated monthly."
-        },
-        {
-          "title": "OpenAI will initially only release ChatGPT 5.6 to government-approved customers",
-          "link": "https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/",
-          "summary": "So much for voluntary review.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "So much for voluntary review."
         }
       ]
     },
@@ -195,6 +187,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "Mexican Officials Have Become Informants for White House...",
+          "link": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html?unlocked_article_code=1.tVA.RBRC.KRkjsMn_1R1h&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Trump Accused of 'Very Unhealthy' Relationship With Blonde Aide...",
           "link": "https://www.msn.com/en-us/news/politics/ar-AA26AFYV",
           "summary": null,
@@ -202,8 +201,8 @@
           "excerpt": null
         },
         {
-          "title": "Power outages at Great American State Fair...",
-          "link": "https://www.washingtonpost.com/dc-md-va/2026/06/26/great-american-state-fair-has-bumpy-beginning-its-opening-day",
+          "title": "One of Tech's Biggest Gamblers Is Betting Against Musk's AI Vision...",
+          "link": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2",
           "summary": null,
           "published": null,
           "excerpt": null
