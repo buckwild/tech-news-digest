@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T08:00:25.925142-07:00",
-  "generated_at_display": "Jun 27, 2026 08:00 AM PT",
+  "generated_at": "2026-06-27T09:00:23.198086-07:00",
+  "generated_at_display": "Jun 27, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "The Kindle app for iOS has features your aging Kindle doesn't",
+          "link": "https://www.engadget.com/2202142/kindle-app-features-ios-has-ereader-still-doesnt-have/",
+          "summary": "Amazon's Kindle AI features help you read beyond the lines, so long as you have the right ereader.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Amazon\u2019s Kindle AI features help you read beyond the lines, so long as you have the right ereader."
+        },
+        {
           "title": "Engadget review recap: MSI Claw 8 EX AI+, Sony A7R VI, Ray-Ban Meta Optics and more",
           "link": "https://www.engadget.com/2202417/engadget-review-recap-msi-claw-8-ex-ai/",
           "summary": "A roundup of recent reviews published by Engadget.",
@@ -194,6 +202,13 @@
           "excerpt": null
         },
         {
+          "title": "Drone nearly strikes UNITED jet landing at Newark Airport...",
+          "link": "https://nypost.com/2026/06/27/us-news/united-airlines-flight-almost-hit-drone-at-newark-airport/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Mideast Fighting Widens With Attacks on Bahrain, Hormuz Tanker...",
           "link": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8",
           "summary": null,
@@ -215,8 +230,8 @@
           "excerpt": null
         },
         {
-          "title": "Trump Accused of 'Very Unhealthy' Relationship With Blonde Aide...",
-          "link": "https://www.msn.com/en-us/news/politics/ar-AA26AFYV",
+          "title": "Trump's glamorous aide accused of 'fueling his delusions'...",
+          "link": "https://www.themirror.com/entertainment/donald-trump-natalie-harp-relationship-1908669",
           "summary": null,
           "published": null,
           "excerpt": null
