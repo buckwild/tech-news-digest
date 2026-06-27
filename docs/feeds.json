@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T05:00:20.719061-07:00",
-  "generated_at_display": "Jun 27, 2026 05:00 AM PT",
+  "generated_at": "2026-06-27T06:00:21.406455-07:00",
+  "generated_at_display": "Jun 27, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "A sidescrolling roguelite platformer, Steam Deck air hockey and other new indie games worth checking out",
+          "link": "https://www.engadget.com/2202997/a-sidescrolling-roguelite-platformer-steam-deck-air-hockey-and-other-new-indie-games-worth-checking-out/",
+          "summary": "The Steam Summer Sale is underway.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "VIDEO"
+        },
+        {
           "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
           "link": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
           "summary": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "So much for voluntary review."
-        },
-        {
-          "title": "Notion Mail is shutting down",
-          "link": "https://www.engadget.com/2201940/notion-mail-is-shutting-down/",
-          "summary": "So long, Notion Mail.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It\u2019s doubling down on agentic AI for your inbox instead."
         }
       ]
     },
@@ -195,36 +195,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "UKRAINE BOMBARDS RUSSIA",
-          "link": "https://apnews.com/a356e2a119f3cb9422ede6acbedf56f3",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "USA LAUNCHES NEW STRIKES IN STRAIT OF HORMUZ... DEVELOPING...",
-          "link": "https://www.express.co.uk/news/2222408",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "WSJ: Iran Devastated American Naval Base...",
-          "link": "https://www.wsj.com/world/middle-east/iran-us-naval-base-bahrain-e87bbca3",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "Trump Accused of 'Very Unhealthy' Relationship With Blonde Aide...",
           "link": "https://www.msn.com/en-us/news/politics/ar-AA26AFYV",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "White House Makeover, Brought to You by Struggling National Parks...",
-          "link": "https://www.theatlantic.com/politics/2026/06/national-parks-trump-white-house-renovations/687700/",
           "summary": null,
           "published": null,
           "excerpt": null
