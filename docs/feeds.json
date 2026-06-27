@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T07:00:22.884446-07:00",
-  "generated_at_display": "Jun 27, 2026 07:00 AM PT",
+  "generated_at": "2026-06-27T08:00:25.925142-07:00",
+  "generated_at_display": "Jun 27, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Engadget review recap: MSI Claw 8 EX AI+, Sony A7R VI, Ray-Ban Meta Optics and more",
+          "link": "https://www.engadget.com/2202417/engadget-review-recap-msi-claw-8-ex-ai/",
+          "summary": "A roundup of recent reviews published by Engadget.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A roundup of recent reviews published by Engadget."
+        },
+        {
           "title": "A sidescrolling roguelite platformer, Steam Deck air hockey and other new indie games worth checking out",
           "link": "https://www.engadget.com/2202997/a-sidescrolling-roguelite-platformer-steam-deck-air-hockey-and-other-new-indie-games-worth-checking-out/",
           "summary": "The Steam Summer Sale is underway.",
@@ -171,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The RAM crunch is crunching."
-        },
-        {
-          "title": "California launches tracker for AI-related job losses",
-          "link": "https://www.engadget.com/2202231/californa-launches-ai-job-loss-tracker/",
-          "summary": "California governor Gavin Newsom worked with the state's employment department to roll out an AI job loss tracker.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It will be updated monthly."
         }
       ]
     },
@@ -187,8 +187,29 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "TRUMP FAIR A BUST",
+          "link": "https://archive.ph/VY0Ag",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Mideast Fighting Widens With Attacks on Bahrain, Hormuz Tanker...",
+          "link": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "Mexican Officials Have Become Informants for White House...",
           "link": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html?unlocked_article_code=1.tVA.RBRC.KRkjsMn_1R1h&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Vance vs. Rubio: Iran Edition...",
+          "link": "https://archive.ph/U6Wn9",
           "summary": null,
           "published": null,
           "excerpt": null
