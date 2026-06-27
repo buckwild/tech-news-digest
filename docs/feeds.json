@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T21:00:22.291935-07:00",
-  "generated_at_display": "Jun 26, 2026 09:00 PM PT",
+  "generated_at": "2026-06-26T22:00:23.958021-07:00",
+  "generated_at_display": "Jun 26, 2026 10:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "OpenAI launches a limited preview of GPT-5.6 for a 'small group of trusted partners'",
+          "link": "https://www.engadget.com/2203102/openai-starts-previewing-gpt-56-and-its-three-variants/",
+          "summary": "OpenAI's GPT-5.6 comes in three variants, including its most powerful and its most affordable models yet.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "OpenAI has startedpreviewing its GPT\u20115.6 series, which will be available in three versions, to a limited number of trusted partners. The company says the variant Sol is its strongest model yet, while Terra is for everyday use and has a similar performance to\u00a0GPT\u20115.5 despite being twice as cheap. Luna, the last variant, is the company's lowest cost model. OpenAI plans to give them a broad release sometime in the coming weeks."
+        },
         {
           "title": "Anthropic gets US government's permission to redeploy its Mythos cybersecurity AI model",
           "link": "https://www.engadget.com/2203088/anthropic-redeploy-mythos-cybersecurity-ai-model/",
