@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T02:00:21.851349-07:00",
-  "generated_at_display": "Jun 27, 2026 02:00 AM PT",
+  "generated_at": "2026-06-27T03:00:19.952305-07:00",
+  "generated_at_display": "Jun 27, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
+          "link": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
+          "summary": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "'The Financial Times' says Apple is seeking clearance from the Trump administration."
+        },
+        {
           "title": "Apple executive in charge of Vision Pro is reportedly leaving for OpenAI",
           "link": "https://www.engadget.com/2203115/apple-executive-vision-pro-leaving-for-openai/",
           "summary": "Apple's Vision Pro chief is reportedly leaving for OpenAI to start a hardware division.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "It\u2019s doubling down on agentic AI for your inbox instead."
-        },
-        {
-          "title": "Spain will require carriers to keep mobile networks live during power outages",
-          "link": "https://www.engadget.com/2201931/spain-will-require-carriers-to-keep-mobile-networks-live-during-power-outages/",
-          "summary": "Spain's mobile networks will need to stay live for at least four hours during power outages, per new rules.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Backup systems will need to maintain connectivity for most of the country for at least four hours."
         }
       ]
     },
