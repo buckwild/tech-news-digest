@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T12:00:18.996102-07:00",
-  "generated_at_display": "Jun 27, 2026 12:00 PM PT",
+  "generated_at": "2026-06-27T13:00:22.693346-07:00",
+  "generated_at_display": "Jun 27, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Here's your daily reminder that you don't own digital content",
+          "link": "https://www.engadget.com/2203232/heres-your-daily-reminder-that-you-dont-own-digital-content/",
+          "summary": "People in Europe will soon lose access to Studio Canal movies they paid for on the PlayStation Store.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "People in Europe will soon lose access to Studio Canal movies they paid for on the PlayStation Store."
+        },
         {
           "title": "The Kindle app for iOS has features your aging Kindle doesn't",
           "link": "https://www.engadget.com/2202142/kindle-app-features-ios-has-ereader-still-doesnt-have/",
