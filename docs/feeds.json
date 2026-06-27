@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T00:00:20.581635-07:00",
-  "generated_at_display": "Jun 27, 2026 12:00 AM PT",
+  "generated_at": "2026-06-27T01:00:22.628378-07:00",
+  "generated_at_display": "Jun 27, 2026 01:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Apple executive in charge of Vision Pro is reportedly leaving for OpenAI",
+          "link": "https://www.engadget.com/2203115/apple-executive-vision-pro-leaving-for-openai/",
+          "summary": "Apple's Vision Pro chief is reportedly leaving for OpenAI to start a hardware division.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Paul Meade will start OpenAI's hardware division, 'Bloomberg' says."
+        },
         {
           "title": "OpenAI launches a limited preview of GPT-5.6 for a 'small group of trusted partners'",
           "link": "https://www.engadget.com/2203102/openai-starts-previewing-gpt-56-and-its-three-variants/",
