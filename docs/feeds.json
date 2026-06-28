@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T06:00:21.242002-07:00",
-  "generated_at_display": "Jun 28, 2026 06:00 AM PT",
+  "generated_at": "2026-06-28T07:00:22.509723-07:00",
+  "generated_at_display": "Jun 28, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Flock cameras track more than your license plate, and they're spreading fast",
+          "link": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+          "summary": "Mounting privacy and security issues have residents and activists concerned.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "\"You can't get a breath of fresh air ... without us knowing.\""
+        },
+        {
           "title": "Here's your daily reminder that you don't own digital content",
           "link": "https://www.engadget.com/2203232/heres-your-daily-reminder-that-you-dont-own-digital-content/",
           "summary": "People in Europe will soon lose access to Studio Canal movies they paid for on the PlayStation Store.",
@@ -195,6 +203,13 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
+          "title": "AI boom risks global financial crash, warn central bankers...",
+          "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "CHINA RESETS AI RACECYBERWAR ADVANTAGE: BEIJING",
           "link": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
           "summary": null,
@@ -204,6 +219,13 @@
         {
           "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks...",
           "link": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "The Pentagon appointee who has divided top Republicans...",
+          "link": "https://archive.is/B9YbX",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -230,8 +252,8 @@
           "excerpt": null
         },
         {
-          "title": "One of Tech's Biggest Gamblers Betting Against Musk's Vision...",
-          "link": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2",
+          "title": "Postmaster general's remarks on mail ballots stoke fears...",
+          "link": "https://thehill.com/homenews/5943390",
           "summary": null,
           "published": null,
           "excerpt": null
