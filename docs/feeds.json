@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T11:00:20.629356-07:00",
-  "generated_at_display": "Jun 28, 2026 11:00 AM PT",
+  "generated_at": "2026-06-28T12:00:23.099966-07:00",
+  "generated_at_display": "Jun 28, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "OpenAI has startedpreviewing its GPT\u20115.6 series, which will be available in three versions, to a limited number of trusted partners. The company says the variant Sol is its strongest model yet, while Terra is for everyday use and has a similar performance to\u00a0GPT\u20115.5 despite being twice as cheap. Luna, the last variant, is the company's lowest cost model. OpenAI plans to give them a broad release sometime in the coming weeks."
-        },
-        {
-          "title": "Anthropic gets US government's permission to redeploy its Mythos cybersecurity AI model",
-          "link": "https://www.engadget.com/2203088/anthropic-redeploy-mythos-cybersecurity-ai-model/",
-          "summary": "Anthropic is restoring select organizations' access to Mythos after getting permission from the US government.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It suspended all access to Mythos and Fable after an order from the US government."
         }
       ]
     },
