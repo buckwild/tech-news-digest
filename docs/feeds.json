@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T09:00:21.019290-07:00",
-  "generated_at_display": "Jun 28, 2026 09:00 AM PT",
+  "generated_at": "2026-06-28T10:00:22.989266-07:00",
+  "generated_at_display": "Jun 28, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Apple's touchscreen MacBook reportedly won't wait for the M7 chips",
+          "link": "https://www.engadget.com/2203348/apple-touchscreen-macbook-launch-before-m7-chips/",
+          "summary": "The new models will launch with the M5 Pro and M5 Max, according to Mark Gurman.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The new models will launch with the M5 Pro and M5 Max, according to Mark Gurman."
+        },
         {
           "title": "Flock cameras track more than your license plate, and they're spreading fast",
           "link": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
