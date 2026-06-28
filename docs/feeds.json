@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T03:00:21.938042-07:00",
-  "generated_at_display": "Jun 28, 2026 03:00 AM PT",
+  "generated_at": "2026-06-28T04:00:21.527734-07:00",
+  "generated_at_display": "Jun 28, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -225,6 +225,13 @@
         {
           "title": "Trump's glamorous aide accused of 'fueling his delusions'...",
           "link": "https://www.themirror.com/entertainment/donald-trump-natalie-harp-relationship-1908669",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "White House Secretly Swayed Board Meant to Stop Civil Service Politicization...",
+          "link": "https://www.nytimes.com/2026/06/28/us/politics/trump-firings-workers-merit-systems-protection-board.html?unlocked_article_code=1.tlA.CUKR.AKLgfzIAzeK_&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
