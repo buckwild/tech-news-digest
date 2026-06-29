@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T08:00:21.320158-07:00",
-  "generated_at_display": "Jun 29, 2026 08:00 AM PT",
+  "generated_at": "2026-06-29T09:00:21.702428-07:00",
+  "generated_at_display": "Jun 29, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Don't like Gemini? Here's how to roll back to Google Assistant on your Android phone",
+          "link": "https://www.engadget.com/2203705/how-to-replace-gemini-with-google-assistant/",
+          "summary": "Want to go back to your ex... AI assistant? We don't blame you. Take these steps to get Google Assistant back after your fling with Gemini.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Go back to a (slightly) simpler time."
+        },
+        {
+          "title": "Comcast spins off NBCUniversal as it exits media entirely",
+          "link": "https://www.engadget.com/2203860/comcast-spins-off-nbcuniversal-as-it-exits-media-entirely/",
+          "summary": "Comcast plans to spin out NBCUniversal and leave the entertainment business.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Xfinity will remain under Comcast's umbrella."
+        },
+        {
           "title": "Rocket Lab buys satellite company Iridium to go up against Starlink and Amazon's Leo",
           "link": "https://www.engadget.com/2203612/rocket-lab-buys-satellite-company-iridium/",
           "summary": "Rocket Lab will own satellites connecting the most remote corners of the Earth.",
@@ -194,8 +210,8 @@
           "excerpt": null
         },
         {
-          "title": "President's glamorous aide accused of 'fueling his delusions'...",
-          "link": "https://www.themirror.com/entertainment/donald-trump-natalie-harp-relationship-1908669",
+          "title": "'MEXICAN BATMAN' STRIKES AGAIN...",
+          "link": "https://www.telegraph.co.uk/world-news/2026/06/29/mexican-batman-tapes-men-to-lamp-posts/",
           "summary": null,
           "published": null,
           "excerpt": null
