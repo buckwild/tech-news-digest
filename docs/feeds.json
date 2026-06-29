@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T11:00:26.970300-07:00",
-  "generated_at_display": "Jun 29, 2026 11:00 AM PT",
+  "generated_at": "2026-06-29T12:00:20.277354-07:00",
+  "generated_at_display": "Jun 29, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "MacBook Ultra rumors: What to expect including the touchscreen, chips, release date and more",
+          "link": "https://www.engadget.com/2204268/macbook-ultra-rumors/",
+          "summary": "Apple's rumored touchscreen MacBook may launch soon, here's what to expect.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "We're tracking all the latest reports, including the launch date and potential price."
+        },
+        {
           "title": "Tidal isn't banning AI music, but it won't pay people who upload it",
           "link": "https://www.engadget.com/2204169/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it/",
           "summary": "Tidal's new policy says that 100-percent AI-generated music will be demonetized.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "\"You can't get a breath of fresh air ... without us knowing.\""
-        },
-        {
-          "title": "Here's your daily reminder that you don't own digital content",
-          "link": "https://www.engadget.com/2203232/heres-your-daily-reminder-that-you-dont-own-digital-content/",
-          "summary": "People in Europe will soon lose access to Studio Canal movies they paid for on the PlayStation Store.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "People in Europe will soon lose access to Studio Canal movies they paid for on the PlayStation Store."
         }
       ]
     },
@@ -210,6 +210,13 @@
           "excerpt": null
         },
         {
+          "title": "PAPER: Married Texas Republican caught on video with mistress on secret romantic getaway...",
+          "link": "https://archive.is/Mr35s",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "NEW POLL: Dems Leading In Ohio Crucial Senate, Gov Races...",
           "link": "https://www.mediaite.com/media/news/new-poll-democrats-leading-in-ohios-crucial-senate-and-gubernatorial-races/",
           "summary": null,
@@ -219,13 +226,6 @@
         {
           "title": "'MEXICAN BATMAN' STRIKES AGAIN!",
           "link": "https://www.telegraph.co.uk/world-news/2026/06/29/mexican-batman-tapes-men-to-lamp-posts/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "The Pentagon appointee who has divided top Republicans...",
-          "link": "https://archive.is/B9YbX",
           "summary": null,
           "published": null,
           "excerpt": null
