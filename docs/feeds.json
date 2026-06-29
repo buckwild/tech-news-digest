@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T12:00:20.277354-07:00",
-  "generated_at_display": "Jun 29, 2026 12:00 PM PT",
+  "generated_at": "2026-06-29T13:00:23.604665-07:00",
+  "generated_at_display": "Jun 29, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Layoffs looming, Xbox union members argue for transparency and good-faith bargaining",
+          "link": "https://www.engadget.com/2204328/xbox-union-members-argue-for-transparency-and-good-faith-bargaining/",
+          "summary": "Xbox union members argue for transparency and good-faith bargaining.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Rumor has it that Microsoft is preparing to enact mass layoffs across its gaming division this July, following multiple reports out ofBloombergplus recent comments made by new Xbox CEO Asha Sharma and Chief Content Officer Matt Booty. The Communications Workers of America Union, which represents thousands of video game employees at Microsoft and beyond, is preparing to negotiate for employee protections, while calling for transparency from executives and demanding basic dignity for developers."
+        },
+        {
           "title": "MacBook Ultra rumors: What to expect including the touchscreen, chips, release date and more",
           "link": "https://www.engadget.com/2204268/macbook-ultra-rumors/",
           "summary": "Apple's rumored touchscreen MacBook may launch soon, here's what to expect.",
@@ -146,7 +154,7 @@
           "summary": "A new report found half of social media safety features intended to keep children safe online do not work as claimed.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "The study examines safety features found on Instagram, Snapchat, TikTok and YouTube."
+          "excerpt": "A study from researchers at New York University and Northeastern University is claiming that at least half of the safety features meant to protect children on social media platforms don't deliver on their promises. Thestudy, published by Heat Initiative and Cybersafety Research Center, tested 86 features across Instagram, Snapchat, TikTok and YouTube. According to the analysis, each of the social media platforms had a failure rate of at least 50 percent when it came to its advertised protective features, like those that prevent adults from messaging children or stop underage accounts from accessing harmful content."
         },
         {
           "title": "Don't like Gemini? Here's how to roll back to Google Assistant on your Android phone",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The new models will launch with the M5 Pro and M5 Max, according to Mark Gurman."
-        },
-        {
-          "title": "Flock cameras track more than your license plate, and they're spreading fast",
-          "link": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
-          "summary": "Mounting privacy and security issues have residents and activists concerned.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "\"You can't get a breath of fresh air ... without us knowing.\""
         }
       ]
     },
