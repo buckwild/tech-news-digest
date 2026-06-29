@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T10:00:22.858686-07:00",
-  "generated_at_display": "Jun 29, 2026 10:00 AM PT",
+  "generated_at": "2026-06-29T11:00:26.970300-07:00",
+  "generated_at_display": "Jun 29, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Tidal isn't banning AI music, but it won't pay people who upload it",
+          "link": "https://www.engadget.com/2204169/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it/",
+          "summary": "Tidal's new policy says that 100-percent AI-generated music will be demonetized.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The streaming service\u2019s new policy says that 100-percent AI-generated music will be demonetized."
+        },
+        {
           "title": "Half of social media child safety features don't work, report claims",
           "link": "https://www.engadget.com/2203983/half-of-social-media-child-safety-features-dont-work-report-claims/",
           "summary": "A new report found half of social media safety features intended to keep children safe online do not work as claimed.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "People in Europe will soon lose access to Studio Canal movies they paid for on the PlayStation Store."
-        },
-        {
-          "title": "The Kindle app for iOS has features your aging Kindle doesn't",
-          "link": "https://www.engadget.com/2202142/kindle-app-features-ios-has-ereader-still-doesnt-have/",
-          "summary": "Amazon's Kindle AI features help you read beyond the lines, so long as you have the right ereader.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Amazon\u2019s Kindle AI features help you read beyond the lines, so long as you have the right ereader."
         }
       ]
     },
@@ -205,6 +205,13 @@
         {
           "title": "FORD rehires humans after AI fails quality checks...",
           "link": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "NEW POLL: Dems Leading In Ohio Crucial Senate, Gov Races...",
+          "link": "https://www.mediaite.com/media/news/new-poll-democrats-leading-in-ohios-crucial-senate-and-gubernatorial-races/",
           "summary": null,
           "published": null,
           "excerpt": null
