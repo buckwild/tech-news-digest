@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T05:00:24.298901-07:00",
-  "generated_at_display": "Jun 29, 2026 05:00 AM PT",
+  "generated_at": "2026-06-29T06:00:21.528859-07:00",
+  "generated_at_display": "Jun 29, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Rocket Lab buys satellite company Iridium to go up against Starlink and Amazon's Leo",
+          "link": "https://www.engadget.com/2203612/rocket-lab-buys-satellite-company-iridium/",
+          "summary": "Rocket Lab will own satellites connecting the most remote corners of the Earth.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "It wants its own satellite internet network."
+        },
+        {
           "title": "Google reportedly capped Meta's use of Gemini AI for coding and chatbots",
           "link": "https://www.engadget.com/2203579/google-reportedly-capped-meta-use-of-gemini-ai-for-coding-chatbots/",
           "summary": "Google was forced to cap Meta's use of Gemini AI due to a lack of capacity.",
@@ -179,14 +187,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "VIDEO"
-        },
-        {
-          "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
-          "link": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
-          "summary": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "'The Financial Times' says Apple is seeking clearance from the Trump administration."
         }
       ]
     },
@@ -204,6 +204,13 @@
         {
           "title": "President's glamorous aide accused of 'fueling his delusions'...",
           "link": "https://www.themirror.com/entertainment/donald-trump-natalie-harp-relationship-1908669",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Iran says $6B in assets in Qatar will be released...",
+          "link": "https://thehill.com/policy/international/5945120-qatar-releases-iranian-assets/",
           "summary": null,
           "published": null,
           "excerpt": null
