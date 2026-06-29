@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T09:00:21.702428-07:00",
-  "generated_at_display": "Jun 29, 2026 09:00 AM PT",
+  "generated_at": "2026-06-29T10:00:22.858686-07:00",
+  "generated_at_display": "Jun 29, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Half of social media child safety features don't work, report claims",
+          "link": "https://www.engadget.com/2203983/half-of-social-media-child-safety-features-dont-work-report-claims/",
+          "summary": "A new report found half of social media safety features intended to keep children safe online do not work as claimed.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The study examines safety features found on Instagram, Snapchat, TikTok and YouTube."
+        },
+        {
           "title": "Don't like Gemini? Here's how to roll back to Google Assistant on your Android phone",
           "link": "https://www.engadget.com/2203705/how-to-replace-gemini-with-google-assistant/",
           "summary": "Want to go back to your ex... AI assistant? We don't blame you. Take these steps to get Google Assistant back after your fling with Gemini.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Amazon\u2019s Kindle AI features help you read beyond the lines, so long as you have the right ereader."
-        },
-        {
-          "title": "Engadget review recap: MSI Claw 8 EX AI+, Sony A7R VI, Ray-Ban Meta Optics and more",
-          "link": "https://www.engadget.com/2202417/engadget-review-recap-msi-claw-8-ex-ai/",
-          "summary": "A roundup of recent reviews published by Engadget.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A roundup of recent reviews published by Engadget."
         }
       ]
     },
@@ -203,29 +203,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Fuming President Unravels Over His Empty Fair in Early Morning Meltdown...",
-          "link": "https://www.msn.com/en-us/news/politics/fuming-trump-80-unravels-over-his-empty-fair-in-early-morning-meltdown/ar-AA26NsuL",
+          "title": "FORD rehires humans after AI fails quality checks...",
+          "link": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "'MEXICAN BATMAN' STRIKES AGAIN...",
+          "title": "'MEXICAN BATMAN' STRIKES AGAIN!",
           "link": "https://www.telegraph.co.uk/world-news/2026/06/29/mexican-batman-tapes-men-to-lamp-posts/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Iran says $6B in assets in Qatar will be released...",
-          "link": "https://thehill.com/policy/international/5945120-qatar-releases-iranian-assets/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "China Emerges as Winner From Hormuz Crisis...",
-          "link": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html?unlocked_article_code=1.t1A.S2-5.mm-s8tGVOc0U&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
