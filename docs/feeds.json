@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T15:00:19.778305-07:00",
-  "generated_at_display": "Jun 29, 2026 03:00 PM PT",
+  "generated_at": "2026-06-29T16:00:22.162490-07:00",
+  "generated_at_display": "Jun 29, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "There's now an OpenClaw app for iOS and Android phones",
+          "link": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/",
+          "summary": "Smartphones are welcoming the agentic AI overlords.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Smartphones are welcoming the agentic AI overlords."
+        },
         {
           "title": "Google expands personalized intelligence to Gemini app image creation",
           "link": "https://www.engadget.com/2204410/google-expands-personalized-intelligence-to-gemini-app-image-creation/",
