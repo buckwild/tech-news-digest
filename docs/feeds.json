@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T13:00:23.604665-07:00",
-  "generated_at_display": "Jun 29, 2026 01:00 PM PT",
+  "generated_at": "2026-06-29T14:00:22.052092-07:00",
+  "generated_at_display": "Jun 29, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google expands personalized intelligence to Gemini app image creation",
+          "link": "https://www.engadget.com/2204410/google-expands-personalized-intelligence-to-gemini-app-image-creation/",
+          "summary": "Google expands personalized intelligence to Gemini app image creation",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Most personal accounts in the US can have the chatbot draw on their data across apps."
+        },
+        {
           "title": "Layoffs looming, Xbox union members argue for transparency and good-faith bargaining",
           "link": "https://www.engadget.com/2204328/xbox-union-members-argue-for-transparency-and-good-faith-bargaining/",
           "summary": "Xbox union members argue for transparency and good-faith bargaining.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Even tech giants with their own LLMs are having trouble finding enough computing power."
-        },
-        {
-          "title": "Apple's touchscreen MacBook reportedly won't wait for the M7 chips",
-          "link": "https://www.engadget.com/2203348/apple-touchscreen-macbook-launch-before-m7-chips/",
-          "summary": "The new models will launch with the M5 Pro and M5 Max, according to Mark Gurman.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The new models will launch with the M5 Pro and M5 Max, according to Mark Gurman."
         }
       ]
     },
@@ -202,13 +202,6 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
-        {
-          "title": "FORD rehires humans after AI fails quality checks...",
-          "link": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
         {
           "title": "PAPER: Married Texas Republican caught on video with mistress on secret romantic getaway...",
           "link": "https://archive.is/Mr35s",
