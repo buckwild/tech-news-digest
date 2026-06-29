@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T06:00:21.528859-07:00",
-  "generated_at_display": "Jun 29, 2026 06:00 AM PT",
+  "generated_at": "2026-06-29T07:00:21.332907-07:00",
+  "generated_at_display": "Jun 29, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -179,14 +179,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A roundup of recent reviews published by Engadget."
-        },
-        {
-          "title": "A sidescrolling roguelite platformer, Steam Deck air hockey and other new indie games worth checking out",
-          "link": "https://www.engadget.com/2202997/a-sidescrolling-roguelite-platformer-steam-deck-air-hockey-and-other-new-indie-games-worth-checking-out/",
-          "summary": "The Steam Summer Sale is underway.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "VIDEO"
         }
       ]
     },
