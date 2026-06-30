@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T06:00:22.272343-07:00",
-  "generated_at_display": "Jun 30, 2026 06:00 AM PT",
+  "generated_at": "2026-06-30T07:00:20.213895-07:00",
+  "generated_at_display": "Jun 30, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "You might be paying more for YouTube Premium if you subscribed through Apple",
+          "link": "https://www.engadget.com/2204595/you-might-be-paying-more-for-youtube-premium-through-apple-subscription/",
+          "summary": "Don't get hit with the Apple tax.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Don't get hit with the Apple tax."
+        },
+        {
+          "title": "Samsung Music Studio 7 review: A great speaker on its own, and even better in a pair",
+          "link": "https://www.engadget.com/2201889/samsung-music-studio-7-review/",
+          "summary": "The Music Studio 7 is an excellent Sonos alternative that can pull double duty in the living room.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Music Studio 7 is one of two speaker collaborations between Samsung and French artist Erwan Bouroullec. The other is theMusic Studio 5. The team-up resulted in a minimalist aesthetic, with both speakers looking more like sculptures than audio gear. Samsung explains that the refined designs are meant to blend in with home decor, but I'd argue the Studio 7's rectangular shape keeps it from doing so. It's obviously a speaker, even with the elevated overall look."
+        },
+        {
           "title": "Proton's privacy-focused Lumo chatbot gets image generation",
           "link": "https://www.engadget.com/2204704/proton-lumo-2-0-image-generation/",
           "summary": "Proton has launched a major upgrade for its Lumo chatbot, giving it image generation and editing capabilities.",
@@ -203,22 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Xfinity will remain under Comcast's umbrella."
-        },
-        {
-          "title": "Rocket Lab buys satellite company Iridium to go up against Starlink and Amazon's Leo",
-          "link": "https://www.engadget.com/2203612/rocket-lab-buys-satellite-company-iridium/",
-          "summary": "Rocket Lab will own satellites connecting the most remote corners of the Earth.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "It wants its own satellite internet network."
-        },
-        {
-          "title": "Google reportedly capped Meta's use of Gemini AI for coding and chatbots",
-          "link": "https://www.engadget.com/2203579/google-reportedly-capped-meta-use-of-gemini-ai-for-coding-chatbots/",
-          "summary": "Google was forced to cap Meta's use of Gemini AI due to a lack of capacity.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Even tech giants with their own LLMs are having trouble finding enough computing power."
         }
       ]
     },
@@ -229,6 +229,13 @@
         {
           "title": "Trump using $500M no-bid contract to build his White House ballroom...",
           "link": "https://www.msn.com/en-us/news/other/trump-is-using-a-500m-no-bid-contract-to-build-his-white-house-ballroom/ar-AA26RWaH",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Everything Going Wrong at The Don's Great American State Fair...",
+          "link": "https://archive.ph/N66e9",
           "summary": null,
           "published": null,
           "excerpt": null
