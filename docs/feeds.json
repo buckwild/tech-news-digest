@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T08:00:23.206973-07:00",
-  "generated_at_display": "Jun 30, 2026 08:00 AM PT",
+  "generated_at": "2026-06-30T09:00:21.614584-07:00",
+  "generated_at_display": "Jun 30, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "All the Apple products avoiding the price hike (for now)",
+          "link": "https://www.engadget.com/2204455/all-the-apple-products-avoiding-the-price-hike-for-now/",
+          "summary": "All the Apple products avoiding the price hike (for now)",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The iPhone may have dodged last week's price bumps, but it might not last the year."
+        },
+        {
           "title": "Google's Gmail Live AI feature is now available in beta",
           "link": "https://www.engadget.com/2204880/google-gmail-live-ai-feature-is-now-available-in-beta/",
           "summary": "You can use Gemini to quickly search your Gmail inbox with natural language.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A study from researchers at New York University and Northeastern University is claiming that at least half of the safety features meant to protect children on social media platforms don't deliver on their promises. Thestudy, published by Heat Initiative and Cybersafety Research Center, tested 86 features across Instagram, Snapchat, TikTok and YouTube. According to the analysis, each of the social media platforms had a failure rate of at least 50 percent when it came to its advertised protective features, like those that prevent adults from messaging children or stop underage accounts from accessing harmful content."
-        },
-        {
-          "title": "Don't like Gemini? Here's how to roll back to Google Assistant on your Android phone",
-          "link": "https://www.engadget.com/2203705/how-to-replace-gemini-with-google-assistant/",
-          "summary": "Want to go back to your ex... AI assistant? We don't blame you. Take these steps to get Google Assistant back after your fling with Gemini.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Go back to a (slightly) simpler time."
         }
       ]
     },
