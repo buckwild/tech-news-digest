@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T03:00:21.557582-07:00",
-  "generated_at_display": "Jun 30, 2026 03:00 AM PT",
+  "generated_at": "2026-06-30T04:00:20.244264-07:00",
+  "generated_at_display": "Jun 30, 2026 04:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Proton's privacy-focused Lumo chatbot gets image generation",
+          "link": "https://www.engadget.com/2204704/proton-lumo-2-0-image-generation/",
+          "summary": "Proton has launched a major upgrade for its Lumo chatbot, giving it image generation and editing capabilities.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Lumo 2.0 can also search for relevant background information."
+        },
+        {
           "title": "Sensitive iPhone supplier details were part of last week's data leak at Tata Electronics",
           "link": "https://www.engadget.com/2204589/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/",
           "summary": "Some of Apple's corporate secrets aren't so secret any more.",
@@ -219,36 +227,15 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "TARGETED ATTACK? ALL 3 VICTIMS FROM SAME UKRAINIAN FAMILY...",
-          "link": "https://www.dailystar.co.uk/news/world-news/breaking-monaco-explosion-causalities-likely-37364355",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Dem Senator faces federal probe...'Campaign spending'...",
-          "link": "https://www.axios.com/2026/06/29/gallego-doj-investigation-campaign-finance",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "PAPER: Married Texas Republican caught on video with mistress on secret romantic getaway...",
-          "link": "https://archive.is/Mr35s",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "NEW POLL: Dems Leading In Ohio Crucial Senate, Gov Races...",
-          "link": "https://www.mediaite.com/media/news/new-poll-democrats-leading-in-ohios-crucial-senate-and-gubernatorial-races/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
           "title": "'MEXICAN BATMAN' STRIKES AGAIN!",
           "link": "https://www.telegraph.co.uk/world-news/2026/06/29/mexican-batman-tapes-men-to-lamp-posts/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Senator Gallego faces federal probe over campaign spending...",
+          "link": "https://www.axios.com/2026/06/29/gallego-doj-investigation-campaign-finance",
           "summary": null,
           "published": null,
           "excerpt": null
