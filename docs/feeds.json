@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T07:00:20.213895-07:00",
-  "generated_at_display": "Jun 30, 2026 07:00 AM PT",
+  "generated_at": "2026-06-30T08:00:23.206973-07:00",
+  "generated_at_display": "Jun 30, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Google's Gmail Live AI feature is now available in beta",
+          "link": "https://www.engadget.com/2204880/google-gmail-live-ai-feature-is-now-available-in-beta/",
+          "summary": "You can use Gemini to quickly search your Gmail inbox with natural language.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "You can use Gemini to quickly search your inbox with natural language."
+        },
+        {
           "title": "You might be paying more for YouTube Premium if you subscribed through Apple",
           "link": "https://www.engadget.com/2204595/you-might-be-paying-more-for-youtube-premium-through-apple-subscription/",
           "summary": "Don't get hit with the Apple tax.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Go back to a (slightly) simpler time."
-        },
-        {
-          "title": "Comcast spins off NBCUniversal as it exits media entirely",
-          "link": "https://www.engadget.com/2203860/comcast-spins-off-nbcuniversal-as-it-exits-media-entirely/",
-          "summary": "Comcast plans to spin out NBCUniversal and leave the entertainment business.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Xfinity will remain under Comcast's umbrella."
         }
       ]
     },
