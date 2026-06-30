@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T14:00:27.920465-07:00",
-  "generated_at_display": "Jun 30, 2026 02:00 PM PT",
+  "generated_at": "2026-06-30T15:00:20.064059-07:00",
+  "generated_at_display": "Jun 30, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Anthropic's new Sonnet 5 model is better at the tasks that are running up enterprise bills",
+          "link": "https://www.engadget.com/2205475/anthropic-releases-claude-sonnet-5-model/",
+          "summary": "Anthropic trained its newest Sonnet model to excel at agentic tasks, which have been causing a headache for the company's enterprise customers and power users.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "This version of Claude should offer more efficient performance at lower costs."
+        },
+        {
           "title": "Netflix used AI to put Gene Wilder's voice into a new reality show",
           "link": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show/",
           "summary": "So much for magic.",
@@ -138,7 +146,7 @@
           "summary": "Apple filed an appeal after being found in contempt of an order related to App Store fees.",
           "published": "iso",
           "published_display": "display",
-          "excerpt": "Apple filed an appeal after being found in contempt of an order related to App Store fees."
+          "excerpt": "The antitrust case between Apple and Epic Games is heading to the highest court in the US. The Supreme Court will hear an appeal from Apple over a contempt ruling in a legal battle that's been chugging alongfor nearly seven years. According toReuters, the justices are expected to consider the appeal in the court's next term, which commences in October. A ruling isexpectedby June next year."
         },
         {
           "title": "California bill to preserve online games fails committee vote",
@@ -219,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Rumor has it that Microsoft is preparing to enact mass layoffs across its gaming division this July, following multiple reports out ofBloombergplus recent comments made by new Xbox CEO Asha Sharma and Chief Content Officer Matt Booty. The Communications Workers of America Union, which represents thousands of video game employees at Microsoft and beyond, is preparing to negotiate for employee protections, while calling for transparency from executives and demanding basic dignity for developers."
-        },
-        {
-          "title": "MacBook Ultra rumors: What to expect including the touchscreen, chips, release date and more",
-          "link": "https://www.engadget.com/2204268/macbook-ultra-rumors/",
-          "summary": "Apple's rumored touchscreen MacBook may launch soon, here's what to expect.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "We're tracking all the latest reports, including the launch date and potential price."
         }
       ]
     },
@@ -234,6 +234,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "UPDATE:  DOJ investigating Dem Sen.'s use of campaign funds...",
+          "link": "https://www.cbsnews.com/news/justice-department-investigating-sen-ruben-gallego-campaign-funds/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Residents shelter-in-place after freight train derails in Bensalem, PA... Developing...",
           "link": "https://www.nbcphiladelphia.com/news/4425510/",
@@ -250,7 +257,7 @@
         },
         {
           "title": "Trump using $500M no-bid contract to build his White House ballroom...",
-          "link": "https://www.msn.com/en-us/news/other/trump-is-using-a-500m-no-bid-contract-to-build-his-white-house-ballroom/ar-AA26RWaH",
+          "link": "https://www.msn.com/en-us/news/other/ar-AA26RWaH",
           "summary": null,
           "published": null,
           "excerpt": null
