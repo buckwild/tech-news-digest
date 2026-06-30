@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T12:00:21.780145-07:00",
-  "generated_at_display": "Jun 30, 2026 12:00 PM PT",
+  "generated_at": "2026-06-30T13:00:19.927764-07:00",
+  "generated_at_display": "Jun 30, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -226,6 +226,13 @@
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
+        {
+          "title": "Residents shelter-in-place after freight train derails in Bensalem, PA... Developing...",
+          "link": "https://www.nbcphiladelphia.com/news/4425510/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
         {
           "title": "Trump using $500M no-bid contract to build his White House ballroom...",
           "link": "https://www.msn.com/en-us/news/other/trump-is-using-a-500m-no-bid-contract-to-build-his-white-house-ballroom/ar-AA26RWaH",
