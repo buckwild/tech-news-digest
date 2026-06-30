@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T15:00:20.064059-07:00",
-  "generated_at_display": "Jun 30, 2026 03:00 PM PT",
+  "generated_at": "2026-06-30T16:00:22.119704-07:00",
+  "generated_at_display": "Jun 30, 2026 04:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Amazon will pay $2.25 million to settle FTC identity theft case",
+          "link": "https://www.engadget.com/2205504/amazon-will-pay-2-25-million-to-settle-ftc-identity-theft-case/",
+          "summary": "The retailer allegedly failed to meet requirements under the Fair Credit Reporting Act.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The retailer allegedly failed to meet requirements under the Fair Credit Reporting Act."
+        },
+        {
           "title": "Anthropic's new Sonnet 5 model is better at the tasks that are running up enterprise bills",
           "link": "https://www.engadget.com/2205475/anthropic-releases-claude-sonnet-5-model/",
           "summary": "Anthropic trained its newest Sonnet model to excel at agentic tasks, which have been causing a headache for the company's enterprise customers and power users.",
@@ -235,15 +243,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "UPDATE:  DOJ investigating Dem Sen.'s use of campaign funds...",
-          "link": "https://www.cbsnews.com/news/justice-department-investigating-sen-ruben-gallego-campaign-funds/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Residents shelter-in-place after freight train derails in Bensalem, PA... Developing...",
-          "link": "https://www.nbcphiladelphia.com/news/4425510/",
+          "title": "PAPER: Great American State Fair is sad state of affairs...",
+          "link": "https://www.telegraph.co.uk/us/news/2026/06/30/trumps-great-american-state-fair-is-a-sad-state-of-affairs/",
           "summary": null,
           "published": null,
           "excerpt": null
@@ -263,15 +264,15 @@
           "excerpt": null
         },
         {
-          "title": "Everything Going Wrong at The Don's Great American State Fair...",
-          "link": "https://archive.ph/N66e9",
+          "title": "Former Chinese Billionaire and Bannon Associate Sentenced for Fraud...",
+          "link": "https://www.nytimes.com/2026/06/29/us/guo-wengui-sentencing.html?unlocked_article_code=1.uFA.adnJ.ZGsOD1LAX7dG&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Former Chinese Billionaire and Bannon Associate Sentenced for Fraud...",
-          "link": "https://www.nytimes.com/2026/06/29/us/guo-wengui-sentencing.html?unlocked_article_code=1.uFA.adnJ.ZGsOD1LAX7dG&smid=url-share",
+          "title": "Cops: Woman denied owning cocaine that fell out of her butt...",
+          "link": "http://www.thesmokinggun.com/documents/stupid/coke-surprise-184590",
           "summary": null,
           "published": null,
           "excerpt": null
