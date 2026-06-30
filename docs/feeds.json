@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T13:00:19.927764-07:00",
-  "generated_at_display": "Jun 30, 2026 01:00 PM PT",
+  "generated_at": "2026-06-30T14:00:27.920465-07:00",
+  "generated_at_display": "Jun 30, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Netflix used AI to put Gene Wilder's voice into a new reality show",
+          "link": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show/",
+          "summary": "So much for magic.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Netflix has worked with ElevenLabs to develop a recreation of Gene Wilder's voice for use in an upcoming unscripted reality show inspired by Roald Dahl's novelCharlie and the Chocolate Factory. Wilder played chocolate factory owner Willy Wonka in the 1971 film adaptation of the book and the gen-AI version of his voice will be used in a competition program with challenges inspired by the both the book and the film."
+        },
+        {
+          "title": "The Supreme Court will hear an appeal in the long-running case between Apple and Epic Games",
+          "link": "https://www.engadget.com/2205396/the-supreme-court-will-hear-an-appeal-in-the-long-running-case-between-apple-and-epic-games/",
+          "summary": "Apple filed an appeal after being found in contempt of an order related to App Store fees.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Apple filed an appeal after being found in contempt of an order related to App Store fees."
+        },
+        {
           "title": "California bill to preserve online games fails committee vote",
           "link": "https://www.engadget.com/2205041/california-bill-to-preserve-online-games-fails-committee-vote/",
           "summary": "At least for this session, the Stop Killing Games campaign has hit a wall in the California Senate.",
@@ -211,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "We're tracking all the latest reports, including the launch date and potential price."
-        },
-        {
-          "title": "Tidal isn't banning AI music, but it won't pay people who upload it",
-          "link": "https://www.engadget.com/2204169/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it/",
-          "summary": "Tidal's new policy says that 100-percent AI-generated music will be demonetized.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The streaming service\u2019s new policy says that 100-percent AI-generated music will be demonetized."
         }
       ]
     },
@@ -229,6 +237,13 @@
         {
           "title": "Residents shelter-in-place after freight train derails in Bensalem, PA... Developing...",
           "link": "https://www.nbcphiladelphia.com/news/4425510/",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Republican infighting spills into all-out WAR...Personal insults fly...MAGA priorities grind to halt...",
+          "link": "https://www.dailymail.com/news/article-15942687",
           "summary": null,
           "published": null,
           "excerpt": null
