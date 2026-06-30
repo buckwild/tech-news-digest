@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T04:00:20.244264-07:00",
-  "generated_at_display": "Jun 30, 2026 04:00 AM PT",
+  "generated_at": "2026-06-30T05:00:23.446475-07:00",
+  "generated_at_display": "Jun 30, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -227,15 +227,22 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "'MEXICAN BATMAN' STRIKES AGAIN!",
-          "link": "https://www.telegraph.co.uk/world-news/2026/06/29/mexican-batman-tapes-men-to-lamp-posts/",
+          "title": "Trump using $500M no-bid contract to build his White House ballroom...",
+          "link": "https://www.msn.com/en-us/news/other/trump-is-using-a-500m-no-bid-contract-to-build-his-white-house-ballroom/ar-AA26RWaH",
           "summary": null,
           "published": null,
           "excerpt": null
         },
         {
-          "title": "Senator Gallego faces federal probe over campaign spending...",
-          "link": "https://www.axios.com/2026/06/29/gallego-doj-investigation-campaign-finance",
+          "title": "Former Chinese Billionaire and Bannon Associate Sentenced for Fraud...",
+          "link": "https://www.nytimes.com/2026/06/29/us/guo-wengui-sentencing.html?unlocked_article_code=1.uFA.adnJ.ZGsOD1LAX7dG&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "'MEXICAN BATMAN' STRIKES AGAIN!",
+          "link": "https://www.telegraph.co.uk/world-news/2026/06/29/mexican-batman-tapes-men-to-lamp-posts/",
           "summary": null,
           "published": null,
           "excerpt": null
