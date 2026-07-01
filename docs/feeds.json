@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T06:00:23.286219-07:00",
-  "generated_at_display": "Jul 01, 2026 06:00 AM PT",
+  "generated_at": "2026-07-01T07:00:24.731016-07:00",
+  "generated_at_display": "Jul 01, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "You can use Gemini to quickly search your inbox with natural language."
-        },
-        {
-          "title": "You might be paying more for YouTube Premium if you subscribed through Apple",
-          "link": "https://www.engadget.com/2204595/you-might-be-paying-more-for-youtube-premium-through-apple-subscription/",
-          "summary": "Don't get hit with the Apple tax.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Don't get hit with the Apple tax."
         }
       ]
     },
