@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T20:00:26.563907-07:00",
-  "generated_at_display": "Jun 30, 2026 08:00 PM PT",
+  "generated_at": "2026-06-30T21:00:20.157906-07:00",
+  "generated_at_display": "Jun 30, 2026 09:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Gemini Spark comes to Google's Gemini app for macOS",
+          "link": "https://www.engadget.com/2205605/google-gemini-spark-macos-app/",
+          "summary": "The Gemini macOS app now has access to Google's Spark agentic AI assistant.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Spark agentic AI assistant is exclusively available to Google AI Ultra subscribers in the US."
+        },
+        {
           "title": "US government allows Anthropic to redeploy its Mythos and Fable AI models",
           "link": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
           "summary": "Anthropic will start its users' access to Mythos and Fable tomorrow, July 1.",
@@ -219,14 +227,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Some of Apple\u2019s corporate secrets aren\u2019t so secret any more."
-        },
-        {
-          "title": "There's now an OpenClaw app for iOS and Android phones",
-          "link": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/",
-          "summary": "Smartphones are welcoming the agentic AI overlords.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Smartphones are welcoming the agentic AI overlords."
         }
       ]
     },
