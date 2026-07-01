@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T19:00:24.520025-07:00",
-  "generated_at_display": "Jun 30, 2026 07:00 PM PT",
+  "generated_at": "2026-06-30T20:00:26.563907-07:00",
+  "generated_at_display": "Jun 30, 2026 08:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "US government allows Anthropic to redeploy its Mythos and Fable AI models",
+          "link": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
+          "summary": "Anthropic will start its users' access to Mythos and Fable tomorrow, July 1.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The Commerce Department has lifted their export restrictions."
+        },
         {
           "title": "Amazon will pay $2.25 million to settle FTC identity theft case",
           "link": "https://www.engadget.com/2205504/amazon-will-pay-2-25-million-to-settle-ftc-identity-theft-case/",
