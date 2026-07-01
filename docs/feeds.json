@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T13:00:20.477560-07:00",
-  "generated_at_display": "Jul 01, 2026 01:00 PM PT",
+  "generated_at": "2026-07-01T14:00:23.384087-07:00",
+  "generated_at_display": "Jul 01, 2026 02:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,22 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Apple's Hide My Email may not be hiding anything",
+          "link": "https://www.engadget.com/2206382/apple-s-hide-my-email-may-not-be-hiding-anything/",
+          "summary": "A vulnerability can reportedly connect real email addresses to anonymous ones.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A vulnerability can reportedly connect real email addresses to anonymous ones."
+        },
+        {
+          "title": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
+          "link": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
+          "summary": "A rumored SpaceX device could offer a way to access xAI's models without having to use a smartphone.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "SpaceX, thenewly-publicsatellite internet company that also dabbles in rockets andCSAM-generating chatbots, might be building its own AI hardware.The Wall Street Journalreportsthat ahead of its initial public offering, SpaceX demoed a handheld AI device to investors that could put the company in the same rarified air asRabbit, or some day,OpenAI."
+        },
+        {
           "title": "Meta is reportedly building its own cloud business",
           "link": "https://www.engadget.com/2206249/meta-is-reportedly-building-its-own-cloud-business/",
           "summary": "Selling server infrastructure would put Meta in competition with Amazon and Google.",
@@ -187,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "This version of Claude should offer more efficient performance at lower costs."
-        },
-        {
-          "title": "Netflix used AI to put Gene Wilder's voice into a new reality show",
-          "link": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show/",
-          "summary": "So much for magic.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Netflix has worked with ElevenLabs to develop a recreation of Gene Wilder's voice for use in an upcoming unscripted reality show inspired by Roald Dahl's novelCharlie and the Chocolate Factory. Wilder played chocolate factory owner Willy Wonka in the 1971 film adaptation of the book and the gen-AI version of his voice will be used in a competition program with challenges inspired by the both the book and the film."
         }
       ]
     },
@@ -218,7 +226,14 @@
         },
         {
           "title": "President's Secret Emotional Bond With Blonde Aide Revealed...",
-          "link": "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/natalie-harp-s-brother-says-trump-bond-tied-to-search-for-a-father-figure/ar-AA26YfLW",
+          "link": "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/ar-AA26YfLW",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Don's 'profane' interaction with dead AI Teddy Roosevelt shocks viewers...",
+          "link": "https://www.dailymail.com/news/article-15945993",
           "summary": null,
           "published": null,
           "excerpt": null
