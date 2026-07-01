@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T09:00:24.236868-07:00",
-  "generated_at_display": "Jul 01, 2026 09:00 AM PT",
+  "generated_at": "2026-07-01T10:00:21.162398-07:00",
+  "generated_at_display": "Jul 01, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Messy Subnautica 2 saga ends with Unknown Worlds CEO departing again",
+          "link": "https://www.engadget.com/2206022/messy-subnautica-2-saga-ends-with-unknown-worlds-ceo-departing-again/",
+          "summary": "Thus ends the messy saga of Subnautica 2.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Krafton has reached a settlement with the developer's top brass."
+        },
+        {
           "title": "UN report says policymakers are struggling to keep up with pace of AI development",
           "link": "https://www.engadget.com/2205713/un-report-says-policymakers-are-struggling-to-keep-up-with-pace-of-ai-development/",
           "summary": "UN panel says 'AI is neither inherently good nor bad,' but better safeguards around it are needed.",
@@ -187,22 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A bill that aimed to stop (or at least dissuade) publishers from taking games offline and making them unplayable has run into a roadblock in the California State Senate. The Protect Our Games Actfailed to passthe Business, Professions and Economic Development committee, with four state senators voting in favor, three against and four abstaining."
-        },
-        {
-          "title": "All the Apple products avoiding the price hike (for now)",
-          "link": "https://www.engadget.com/2204455/all-the-apple-products-avoiding-the-price-hike-for-now/",
-          "summary": "All the Apple products avoiding the price hike (for now)",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The iPhone may have dodged last week's price bumps, but it might not last the year."
-        },
-        {
-          "title": "Google's Gmail Live AI feature is now available in beta",
-          "link": "https://www.engadget.com/2204880/google-gmail-live-ai-feature-is-now-available-in-beta/",
-          "summary": "You can use Gemini to quickly search your Gmail inbox with natural language.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "You can use Gemini to quickly search your inbox with natural language."
         }
       ]
     },
@@ -218,6 +210,13 @@
           "excerpt": null
         },
         {
+          "title": "NOW WHAT?!  Mystery scaffolding appears at White House...",
+          "link": "https://www.irishstar.com/news/politics/trump-sparks-new-renovation-fears-37374123",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
           "title": "President's Secret Emotional Bond With Blonde Aide Revealed...",
           "link": "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/natalie-harp-s-brother-says-trump-bond-tied-to-search-for-a-father-figure/ar-AA26YfLW",
           "summary": null,
@@ -225,15 +224,8 @@
           "excerpt": null
         },
         {
-          "title": "PAPER: Great American State Fair is sad state of affairs...",
-          "link": "https://www.telegraph.co.uk/us/news/2026/06/30/trumps-great-american-state-fair-is-a-sad-state-of-affairs/",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Cops: Woman denied owning cocaine that fell out of her butt...",
-          "link": "http://www.thesmokinggun.com/documents/stupid/coke-surprise-184590",
+          "title": "POLL: Control of Senate IS Up for Grabs...",
+          "link": "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html?unlocked_article_code=1.uVA.I4pK.eWwbDD6Yw3SJ&smid=url-share",
           "summary": null,
           "published": null,
           "excerpt": null
