@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T12:00:27.185197-07:00",
-  "generated_at_display": "Jul 01, 2026 12:00 PM PT",
+  "generated_at": "2026-07-01T13:00:20.477560-07:00",
+  "generated_at_display": "Jul 01, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Meta is reportedly building its own cloud business",
+          "link": "https://www.engadget.com/2206249/meta-is-reportedly-building-its-own-cloud-business/",
+          "summary": "Selling server infrastructure would put Meta in competition with Amazon and Google.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Selling server infrastructure would put Meta in competition with Amazon and Google."
+        },
+        {
           "title": "Future Hyundai and Kia cars might never need air fresheners thanks to UV tech",
           "link": "https://www.engadget.com/2205298/hyundai-kia-reveal-uv-car-system/",
           "summary": "Far-UVC could help rid future cars of odors.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Netflix has worked with ElevenLabs to develop a recreation of Gene Wilder's voice for use in an upcoming unscripted reality show inspired by Roald Dahl's novelCharlie and the Chocolate Factory. Wilder played chocolate factory owner Willy Wonka in the 1971 film adaptation of the book and the gen-AI version of his voice will be used in a competition program with challenges inspired by the both the book and the film."
-        },
-        {
-          "title": "The Supreme Court will hear an appeal in the long-running case between Apple and Epic Games",
-          "link": "https://www.engadget.com/2205396/the-supreme-court-will-hear-an-appeal-in-the-long-running-case-between-apple-and-epic-games/",
-          "summary": "Apple filed an appeal after being found in contempt of an order related to App Store fees.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The antitrust case between Apple and Epic Games is heading to the highest court in the US. The Supreme Court will hear an appeal from Apple over a contempt ruling in a legal battle that's been chugging alongfor nearly seven years. According toReuters, the justices are expected to consider the appeal in the court's next term, which commences in October. A ruling isexpectedby June next year."
         }
       ]
     },
@@ -219,6 +219,13 @@
         {
           "title": "President's Secret Emotional Bond With Blonde Aide Revealed...",
           "link": "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/natalie-harp-s-brother-says-trump-bond-tied-to-search-for-a-father-figure/ar-AA26YfLW",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Young Republican Activists Turn Against President...",
+          "link": "https://www.theatlantic.com/ideas/2026/07/young-republicans-trump-iran/687746/",
           "summary": null,
           "published": null,
           "excerpt": null
