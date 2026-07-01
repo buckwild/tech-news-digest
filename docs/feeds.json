@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T11:00:22.602227-07:00",
-  "generated_at_display": "Jul 01, 2026 11:00 AM PT",
+  "generated_at": "2026-07-01T12:00:27.185197-07:00",
+  "generated_at_display": "Jul 01, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Future Hyundai and Kia cars might never need air fresheners thanks to UV tech",
+          "link": "https://www.engadget.com/2205298/hyundai-kia-reveal-uv-car-system/",
+          "summary": "Far-UVC could help rid future cars of odors.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Hyundai and Kiarecently introduced a new UV technologyfor in-vehicle sanitation called Plasma Care UVC. The system reduces bacteria in the cabin and can even operate while passengers are present."
+        },
+        {
           "title": "Messy Subnautica 2 saga ends with Unknown Worlds CEO departing again",
           "link": "https://www.engadget.com/2206022/messy-subnautica-2-saga-ends-with-unknown-worlds-ceo-departing-again/",
           "summary": "Thus ends the messy saga of Subnautica 2.",
@@ -187,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The antitrust case between Apple and Epic Games is heading to the highest court in the US. The Supreme Court will hear an appeal from Apple over a contempt ruling in a legal battle that's been chugging alongfor nearly seven years. According toReuters, the justices are expected to consider the appeal in the court's next term, which commences in October. A ruling isexpectedby June next year."
-        },
-        {
-          "title": "California bill to preserve online games fails committee vote",
-          "link": "https://www.engadget.com/2205041/california-bill-to-preserve-online-games-fails-committee-vote/",
-          "summary": "At least for this session, the Stop Killing Games campaign has hit a wall in the California Senate.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A bill that aimed to stop (or at least dissuade) publishers from taking games offline and making them unplayable has run into a roadblock in the California State Senate. The Protect Our Games Actfailed to passthe Business, Professions and Economic Development committee, with four state senators voting in favor, three against and four abstaining."
         }
       ]
     },
@@ -226,6 +226,13 @@
         {
           "title": "POLL: Control of Senate IS Up for Grabs...",
           "link": "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html?unlocked_article_code=1.uVA.I4pK.eWwbDD6Yw3SJ&smid=url-share",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Kash Patel Late Stock Disclosure Raises STOCK Act Questions...",
+          "link": "https://www.notus.org/money/kash-patel-stock-act",
           "summary": null,
           "published": null,
           "excerpt": null
