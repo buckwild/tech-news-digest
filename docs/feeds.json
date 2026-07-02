@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T06:00:27.281500-07:00",
-  "generated_at_display": "Jul 02, 2026 06:00 AM PT",
+  "generated_at": "2026-07-02T07:00:20.212542-07:00",
+  "generated_at_display": "Jul 02, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Donald Trump bought a bunch of tech stock the same day he announced his AI Action Plan",
+          "link": "https://www.engadget.com/2206671/donald-trump-bought-a-bunch-of-tech-stock-the-same-day-he-announced-his-ai-action-plan/",
+          "summary": "Financial disclosures show how much Trump loves tech stocks.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Financial disclosures from 2025 show he purchased stocks in Apple, Amazon, NVIDIA and Meta."
+        },
+        {
           "title": "Amazon is ready to deploy the Leo satellite broadband service",
           "link": "https://www.engadget.com/2206582/amazon-leo-is-ready-to-go/",
           "summary": "There are now enough Amazon Leo satellites to launch the service, but its constellation is still tiny compared to Starlink's.",
@@ -203,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Krafton has reached a settlement with the developer's top brass."
-        },
-        {
-          "title": "UN report says policymakers are struggling to keep up with pace of AI development",
-          "link": "https://www.engadget.com/2205713/un-report-says-policymakers-are-struggling-to-keep-up-with-pace-of-ai-development/",
-          "summary": "UN panel says 'AI is neither inherently good nor bad,' but better safeguards around it are needed.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Artificial intelligence development has been progressing at such a rapid pace that current governance systems are unable to keep up, the UN's\u00a0Independent International Scientific Panel on Artificial Intelligencesays in its preliminary report. The panel, consisting of members from around the world,\u00a0will provide the information needed to stage the UN Global Dialogue on AI Governance. It will take place in Geneva, where member states will discuss how to manage the technology, and is scheduled to begin on July 6."
         }
       ]
     },
