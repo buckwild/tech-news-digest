@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T23:00:22.806517-07:00",
-  "generated_at_display": "Jul 01, 2026 11:00 PM PT",
+  "generated_at": "2026-07-02T00:00:23.485017-07:00",
+  "generated_at_display": "Jul 02, 2026 12:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The Commerce Department has lifted their export restrictions."
-        },
-        {
-          "title": "Amazon will pay $2.25 million to settle FTC identity theft case",
-          "link": "https://www.engadget.com/2205504/amazon-will-pay-2-25-million-to-settle-ftc-identity-theft-case/",
-          "summary": "The retailer allegedly failed to meet requirements under the Fair Credit Reporting Act.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The retailer allegedly failed to meet requirements under the Fair Credit Reporting Act."
         }
       ]
     },
