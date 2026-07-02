@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T10:00:25.674733-07:00",
-  "generated_at_display": "Jul 02, 2026 10:00 AM PT",
+  "generated_at": "2026-07-02T11:00:19.556119-07:00",
+  "generated_at_display": "Jul 02, 2026 11:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,14 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "Tesla Q2 vehicle deliveries are up 25 percent over last year",
+          "link": "https://www.engadget.com/2207032/tesla-q2-vehicle-deliveries-up-25-percent-over-last-year/",
+          "summary": "The company has been gaining traction in Europe.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Tesla has been in decline, sales-wise,for a couple of years now. However, that looks to be reversing a bit. The company just announced delivery statistics for thesecond quarter of 2026and the news is good for once. It delivered roughly 480,000 vehicles globally during this time period, which is a 25 percent increase from a year ago."
+        },
         {
           "title": "Donald Trump bought a bunch of tech stock the same day he announced his AI Action Plan",
           "link": "https://www.engadget.com/2206671/donald-trump-bought-a-bunch-of-tech-stock-the-same-day-he-announced-his-ai-action-plan/",
