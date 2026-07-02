@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T02:00:22.347978-07:00",
-  "generated_at_display": "Jul 02, 2026 02:00 AM PT",
+  "generated_at": "2026-07-02T03:00:22.668139-07:00",
+  "generated_at_display": "Jul 02, 2026 03:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -124,6 +124,22 @@
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
+        {
+          "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
+          "link": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
+          "summary": "According to the Financial Times, Sam Altman is floating the idea of having leading AI companies give US sovereign funds a five percent equity.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Sam Altman is in talks with the US government in a bid to clear political hurdles, says the Financial Times."
+        },
+        {
+          "title": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
+          "link": "https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/",
+          "summary": "Europe's highest court of appeal has upheld a record-setting $4.7 billion fine imposed on Google back in 2018.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "The decade-long saga is finally at an end, but Google faces further sanctions in the EU."
+        },
         {
           "title": "Apple is reportedly planning a visual refresh of the entry-level MacBook Pro next year",
           "link": "https://www.engadget.com/2206465/apple-is-reportedly-planning-a-visual-refresh-of-the-entry-level-macbook-pro-next-year/",
