@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T09:00:20.036997-07:00",
-  "generated_at_display": "Jul 03, 2026 09:00 AM PT",
+  "generated_at": "2026-07-03T10:00:20.934672-07:00",
+  "generated_at_display": "Jul 03, 2026 10:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -203,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Sam Altman is in talks with the US government in a bid to clear political hurdles, says the Financial Times."
-        },
-        {
-          "title": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
-          "link": "https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/",
-          "summary": "Europe's highest court of appeal has upheld a record-setting $4.7 billion fine imposed on Google back in 2018.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "The decade-long saga is finally at an end, but Google faces further sanctions in the EU."
         }
       ]
     },
