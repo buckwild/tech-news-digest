@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T04:00:20.434336-07:00",
-  "generated_at_display": "Jul 03, 2026 04:00 AM PT",
+  "generated_at": "2026-07-03T05:00:20.598128-07:00",
+  "generated_at_display": "Jul 03, 2026 05:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Microsoft filing shows how it shifts profits around to reduce its European tax bill",
+          "link": "https://www.engadget.com/2207542/microsoft-eu-tax-disclosure-report/",
+          "summary": "A new mandatory compliance report released by Microsoft shows how it declares profits in different European nations to reduce its tax bill.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "A new compliance report shows the disconnect between where it makes its money, and where it pays its taxes."
+        },
+        {
           "title": "Meta has released an app for making generative AI games",
           "link": "https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/",
           "summary": "Pocket is listed in app stores but seemingly unavailable in the US.",
@@ -211,14 +219,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "SpaceX, thenewly-publicsatellite internet company that also dabbles in rockets andCSAM-generating chatbots, might be building its own AI hardware.The Wall Street Journalreportsthat ahead of its initial public offering, SpaceX demoed a handheld AI device to investors that could put the company in the same rarified air asRabbit, or some day,OpenAI."
-        },
-        {
-          "title": "Meta is reportedly building its own cloud business",
-          "link": "https://www.engadget.com/2206249/meta-is-reportedly-building-its-own-cloud-business/",
-          "summary": "Selling server infrastructure would put Meta in competition with Amazon and Google.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Selling server infrastructure would put Meta in competition with Amazon and Google."
         }
       ]
     },
@@ -229,13 +229,6 @@
         {
           "title": "Data Centers Draining Power...",
           "link": "https://gizmodo.com/energy-department-wants-data-centers-to-stop-draining-the-grid-during-brutal-heat-wave-2000780886",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Proposal to ease rules on mailing guns could boost Don Jr. company...",
-          "link": "https://www.washingtonpost.com/national-security/2026/07/02/trump-jr-plays-key-role-grabagun-company-hoping-boost-internet-gun-sales/",
           "summary": null,
           "published": null,
           "excerpt": null
