@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T14:00:25.693506-07:00",
-  "generated_at_display": "Jul 03, 2026 02:00 PM PT",
+  "generated_at": "2026-07-03T15:00:22.344078-07:00",
+  "generated_at_display": "Jul 03, 2026 03:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -212,6 +212,13 @@
         {
           "title": "Great American State Fair closes...",
           "link": "https://www.nbcnews.com/politics/politics-news/live-blog/america-250-celebration-trump-speech-mt-rushmore-live-updates-rcna352190",
+          "summary": null,
+          "published": null,
+          "excerpt": null
+        },
+        {
+          "title": "Chris Christie: Republicans On Way to 'Monumental Defeat'...",
+          "link": "https://www.mediaite.com/media/news/chris-christie-says-republicans-are-on-their-way-to-monumental-defeat-in-the-midterms/",
           "summary": null,
           "published": null,
           "excerpt": null
