@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T12:00:24.034286-07:00",
-  "generated_at_display": "Jul 03, 2026 12:00 PM PT",
+  "generated_at": "2026-07-03T13:00:21.398617-07:00",
+  "generated_at_display": "Jul 03, 2026 01:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -195,14 +195,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Thanks to a recent ULA Atlas V launch, Leo now has enough satellites in space."
-        },
-        {
-          "title": "Opera's new security feature stops copy paste attacks from malicious websites",
-          "link": "https://www.engadget.com/2206574/opera-new-security-feature-stops-copy-paste-clickfix-attacks/",
-          "summary": "Opera has introduced a new safety feature that protects against malicious 'ClickFix' clipboard attacks.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Paste Protect offers the first native defense against 'ClickFix clipboard attacks."
         }
       ]
     },
