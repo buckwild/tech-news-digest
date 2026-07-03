@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T11:00:22.773648-07:00",
-  "generated_at_display": "Jul 03, 2026 11:00 AM PT",
+  "generated_at": "2026-07-03T12:00:24.034286-07:00",
+  "generated_at_display": "Jul 03, 2026 12:00 PM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "International Google Pixels are different than American models - here's how",
+          "link": "https://www.engadget.com/2205901/how-international-google-pixel-phones-different-american/",
+          "summary": "In case you were wondering in which country you should buy a Pixel phone, you world traveler you.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Google is one of the largest smartphone manufacturers in the world, so it probably shouldn't come as a surprise that Pixel handsets are sold in a number of regions outside the US. However, like all good device makers, Google tweaks its products based on where they are sold in order to conform to local regulations and customer preferences. Different countries have different languages, power sockets and networks, for instance. So for those curious about what's different between Pixels sold here in America and those available abroad, here is a quick rundown of some of the most notable tweaks and changes between US models and their international variants."
+        },
+        {
           "title": "Amazon's Fire HD 10 tablet just got a refresh with a bit more RAM",
           "link": "https://www.engadget.com/2207669/amazon-fire-hd-10-ram-refresh/",
           "summary": "A RAM upgrade? In this memory economy?!",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Paste Protect offers the first native defense against 'ClickFix clipboard attacks."
-        },
-        {
-          "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
-          "link": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
-          "summary": "According to the Financial Times, Sam Altman is floating the idea of having leading AI companies give US sovereign funds a five percent equity.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Sam Altman is in talks with the US government in a bid to clear political hurdles, says the Financial Times."
         }
       ]
     },
