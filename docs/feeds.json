@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T06:00:22.233980-07:00",
-  "generated_at_display": "Jul 03, 2026 06:00 AM PT",
+  "generated_at": "2026-07-03T07:00:21.071817-07:00",
+  "generated_at_display": "Jul 03, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "How to claim a WhatsApp username",
+          "link": "https://www.engadget.com/2207358/how-to-claim-whatsapp-username/",
+          "summary": "Get ready to navigate a free-for-all of social media handles.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Get ready to navigate a free-for-all of social media handles."
+        },
+        {
           "title": "Microsoft filing shows how it shifts profits around to reduce its European tax bill",
           "link": "https://www.engadget.com/2207542/microsoft-eu-tax-disclosure-report/",
           "summary": "A new mandatory compliance report released by Microsoft shows how it declares profits in different European nations to reduce its tax bill.",
@@ -195,22 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "The decade-long saga is finally at an end, but Google faces further sanctions in the EU."
-        },
-        {
-          "title": "Apple is reportedly planning a visual refresh of the entry-level MacBook Pro next year",
-          "link": "https://www.engadget.com/2206465/apple-is-reportedly-planning-a-visual-refresh-of-the-entry-level-macbook-pro-next-year/",
-          "summary": "Next spring could be a fiesta of new iPads, MacBooks and iPhones.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Next spring could be a fiesta of new iPads, MacBooks and iPhones."
-        },
-        {
-          "title": "Apple's Hide My Email may not be hiding anything",
-          "link": "https://www.engadget.com/2206382/apple-s-hide-my-email-may-not-be-hiding-anything/",
-          "summary": "A vulnerability can reportedly connect real email addresses to anonymous ones.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "A vulnerability can reportedly connect real email addresses to anonymous ones."
         }
       ]
     },
@@ -228,13 +220,6 @@
         {
           "title": "Air Force major arrested after calling for impeachment on Capitol steps...",
           "link": "https://thehill.com/policy/5951658",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Dancers Dodge Death as Trump State Fair Stage Falls Apart...",
-          "link": "https://www.tmz.com/2026/07/02/freedom-250-stage-piece-falls-during-rehearsal-nearly-lands-on-performers/",
           "summary": null,
           "published": null,
           "excerpt": null
