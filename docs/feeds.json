@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T05:00:20.598128-07:00",
-  "generated_at_display": "Jul 03, 2026 05:00 AM PT",
+  "generated_at": "2026-07-03T06:00:22.233980-07:00",
+  "generated_at_display": "Jul 03, 2026 06:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -211,14 +211,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "A vulnerability can reportedly connect real email addresses to anonymous ones."
-        },
-        {
-          "title": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
-          "link": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
-          "summary": "A rumored SpaceX device could offer a way to access xAI's models without having to use a smartphone.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "SpaceX, thenewly-publicsatellite internet company that also dabbles in rockets andCSAM-generating chatbots, might be building its own AI hardware.The Wall Street Journalreportsthat ahead of its initial public offering, SpaceX demoed a handheld AI device to investors that could put the company in the same rarified air asRabbit, or some day,OpenAI."
         }
       ]
     },
