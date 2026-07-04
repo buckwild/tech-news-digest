@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T07:00:20.465159-07:00",
-  "generated_at_display": "Jul 04, 2026 07:00 AM PT",
+  "generated_at": "2026-07-04T08:00:24.272008-07:00",
+  "generated_at_display": "Jul 04, 2026 08:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -209,15 +209,7 @@
     {
       "name": "Drudge Report",
       "url": "https://drudgereport.com/rss.xml",
-      "entries": [
-        {
-          "title": "Dems Seizing on President's Soaring Wealth as Campaign Opportunity...",
-          "link": "https://www.wsj.com/politics/elections/democrats-are-seizing-on-trumps-soaring-wealth-as-a-campaign-opportunity-66243558",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        }
-      ]
+      "entries": []
     }
   ]
 }
