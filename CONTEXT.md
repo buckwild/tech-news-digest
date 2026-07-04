@@ -1,6 +1,6 @@
 # Tech News Digest — Context & Operating Notes
 
-_Last updated: Apr 18, 2026_
+_Last updated: Jul 4, 2026_
 
 ## Purpose
 Static dashboard that aggregates tech headlines for Sur (interest: CNN, Engadget, Drudge Report). Output is generated locally and published through GitHub Pages (`docs/` folder symlinked as `site/`).
@@ -43,7 +43,11 @@ python src/fetch.py
   4. `git pull --rebase` (remote cron hourly updates the branch; pulls are required before pushing).
   5. `git push`.
 
-## Notable Customizations (Apr 2026)
+## Notable Customizations (Jul 2026)
+- Fixed timestamp bug: `format_pacific_datetime()` returns a dict, was being tuple-unpacked — resulted in literal "iso"/"display" strings.
+- Added pyyaml to requirements.txt (was an undeclared dependency used by `import yaml`).
+- Added fallback titles for CNN: video entries have empty `<title/>` in their RSS feed, so the first ~80 chars of the summary are used instead.
+- Intermittent GitHub Pages deploy failures ("Deployment failed, try again later") are a known GH infra issue — self-resolves on next hourly run.
 - CNN feed updated to `cnn_tech.rss` (previous feed out of date since 2016).
 - Added Pacific Time conversion pipeline (`ZoneInfo` + helper functions) and template display logic.
 - `feeds.json` now includes both ISO and display timestamps for reload clients.

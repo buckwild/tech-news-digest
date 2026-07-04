@@ -50,14 +50,21 @@ def fetch_feed(name: str, url: str):
         published_iso = None
         published_display = None
         if published:
-            published_iso, published_display = format_pacific_datetime(published)
+            result = format_pacific_datetime(published)
+            published_iso = result["iso"]
+            published_display = result["display"]
         summary_raw = entry.get("summary", "")
         summary_clean = clean_summary(summary_raw)
         link = entry.get("link", "")
         excerpt = extract_excerpt(link)
+        title = entry.get("title", "") or ""
+        if not title.strip() and summary_clean:
+            title = textwrap.shorten(summary_clean, width=80, placeholder="…")
+        elif not title.strip():
+            title = "Untitled"
         entries.append(
             {
-                "title": entry.get("title", "Untitled"),
+                "title": title,
                 "link": link,
                 "summary": textwrap.shorten(
                     summary_clean,
