@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T06:00:23.176923-07:00",
-  "generated_at_display": "Jul 04, 2026 06:00 AM PT",
+  "generated_at": "2026-07-04T07:00:20.465159-07:00",
+  "generated_at_display": "Jul 04, 2026 07:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Router brands could be misleading you with that Wi-Fi 7 label",
+          "link": "https://www.engadget.com/2206012/router-brands-could-be-misleading-you-with-that-wi-fi-7-label/",
+          "summary": "Wi-Fi standards remain as confusing as ever.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Wi-Fi standards remain as confusing as ever."
+        },
+        {
           "title": "Midjourney wants the Hollywood studios that sued it to show the court how they use AI",
           "link": "https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/",
           "summary": "Midjourney is asking the court to get Disney, Warner Bros. and Universal to submit information on their AI use.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Financial disclosures from 2025 show he purchased stocks in Apple, Amazon, NVIDIA and Meta."
-        },
-        {
-          "title": "Amazon is ready to deploy the Leo satellite broadband service",
-          "link": "https://www.engadget.com/2206582/amazon-leo-is-ready-to-go/",
-          "summary": "There are now enough Amazon Leo satellites to launch the service, but its constellation is still tiny compared to Starlink's.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Thanks to a recent ULA Atlas V launch, Leo now has enough satellites in space."
         }
       ]
     },
@@ -211,22 +211,8 @@
       "url": "https://drudgereport.com/rss.xml",
       "entries": [
         {
-          "title": "Data Centers Draining Power...",
-          "link": "https://gizmodo.com/energy-department-wants-data-centers-to-stop-draining-the-grid-during-brutal-heat-wave-2000780886",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Great American State Fair closes...",
-          "link": "https://www.nbcnews.com/politics/politics-news/live-blog/america-250-celebration-trump-speech-mt-rushmore-live-updates-rcna352190",
-          "summary": null,
-          "published": null,
-          "excerpt": null
-        },
-        {
-          "title": "Chris Christie: Republicans On Way to 'Monumental Defeat'...",
-          "link": "https://www.mediaite.com/media/news/chris-christie-says-republicans-are-on-their-way-to-monumental-defeat-in-the-midterms/",
+          "title": "Dems Seizing on President's Soaring Wealth as Campaign Opportunity...",
+          "link": "https://www.wsj.com/politics/elections/democrats-are-seizing-on-trumps-soaring-wealth-as-a-campaign-opportunity-66243558",
           "summary": null,
           "published": null,
           "excerpt": null
