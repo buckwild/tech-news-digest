@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T08:00:24.272008-07:00",
-  "generated_at_display": "Jul 04, 2026 08:00 AM PT",
+  "generated_at": "2026-07-04T09:00:21.654861-07:00",
+  "generated_at_display": "Jul 04, 2026 09:00 AM PT",
   "feeds": [
     {
       "name": "CNN",
@@ -125,6 +125,14 @@
       "url": "https://www.engadget.com/rss.xml",
       "entries": [
         {
+          "title": "Only these iPhone models are getting the new Siri AI this fall",
+          "link": "https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/",
+          "summary": "Some Apple devices are about to get much more intelligent, while others are getting left behind.",
+          "published": "iso",
+          "published_display": "display",
+          "excerpt": "Will your phone be getting the upgrade?"
+        },
+        {
           "title": "Router brands could be misleading you with that Wi-Fi 7 label",
           "link": "https://www.engadget.com/2206012/router-brands-could-be-misleading-you-with-that-wi-fi-7-label/",
           "summary": "Wi-Fi standards remain as confusing as ever.",
@@ -195,14 +203,6 @@
           "published": "iso",
           "published_display": "display",
           "excerpt": "Tesla has been in decline, sales-wise,for a couple of years now. However, that looks to be reversing a bit. The company just announced delivery statistics for thesecond quarter of 2026and the news is good for once. It delivered roughly 480,000 vehicles globally during this time period, which is a 25 percent increase from a year ago."
-        },
-        {
-          "title": "Donald Trump bought a bunch of tech stock the same day he announced his AI Action Plan",
-          "link": "https://www.engadget.com/2206671/donald-trump-bought-a-bunch-of-tech-stock-the-same-day-he-announced-his-ai-action-plan/",
-          "summary": "Financial disclosures show how much Trump loves tech stocks.",
-          "published": "iso",
-          "published_display": "display",
-          "excerpt": "Financial disclosures from 2025 show he purchased stocks in Apple, Amazon, NVIDIA and Meta."
         }
       ]
     },
